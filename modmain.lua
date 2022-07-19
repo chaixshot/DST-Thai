@@ -200,11 +200,6 @@ _G.getmetatable(TheSim).__index.UnregisterAllPrefabs = (function()
 	end
 end)()
 
-local OldStart = _G.Start
-function _G.Start() 
-	ApplyLocalizedFonts()
-	OldStart()
-end
 --------------------------
 
 --โหลดรูปภาพที่แปลภาษาแล้ว
@@ -320,17 +315,18 @@ if SMALL_TEXTURES and not ISPLAYINGNOW then
 	end)
 end
 
-function VerChecker()
+
+local OldStart = _G.Start
+function _G.Start() 
+	ApplyLocalizedFonts()
+	OldStart()
+	
 	TheSim:QueryServer("https://raw.githubusercontent.com/chaixshot/DST-Thai/main/version.txt", function (result, isSuccessful, resultCode)
 		if resultCode == 200 and isSuccessful then
 			local json = require("json")
 			local data = json.decode(result)
 			if modinfo.version ~= data.version then
 				local PopupDialogScreen = require "screens/redux/popupdialog"
-				local note = ""
-				for k,v in pairs(data.note) do
-					note = note..v
-				end
 				_G.TheFrontEnd:PushScreen(PopupDialogScreen("อัพเดท", "ส่วนเสริม \"ภาษาไทย\" มีอัพเดทใหม่\nกรุณาไปที่เมนู \"ส่วนเสริม\" เพื่ออัพเดท",
 				{{text="เข้าใจแล้ว!", cb = function() 
 					_G.TheFrontEnd:PopScreen() 
@@ -339,13 +335,7 @@ function VerChecker()
 		end
 	end, "GET")
 end
-VerChecker()
 
 -- แก้ข้อความบังคับอัตโนมัติ เช่น "Moon Shard"
 _G.setfenv(1, _G)
 TranslateStringTable(STRINGS)
-
--- AddGamePostInit(function()
-	-- _G.TheInput:AddKeyDownHandler(122, function() -- Press Z
-	-- end)
--- end)
