@@ -1,4 +1,4 @@
-_G = GLOBAL
+	_G = GLOBAL
 rawget = _G.rawget
 mods=_G.rawget(_G,"mods") or (function() local m={}_G.rawset (_G,"mods",m) return m end)()
 mods.ThaiLanguagePack = {}
@@ -179,6 +179,19 @@ AddClassPostConstruct("widgets/redux/craftingmenu_skinselector", function(self, 
 	self.spinner.text:SetFont(_G.BUTTONFONT)
 end)
 
+AddClassPostConstruct("widgets/redux/worldsettings/worldsettingsmenu", function(self, levelcategory, parent_widget) -- แก้ไขตัวเลือกการสร้างโลก
+	local Customize = require("customize")
+	local oldGetOptions = self.GetOptions
+	function self:GetOptions()
+		oldGetOptions(self)
+		if self.levelcategory == LEVELCATEGORY.SETTINGS then
+			return Customize.GetWorldSettingsOptionsWithLocationDefaults(self.parent_widget:GetCurrentLocation(), self.parent_widget:IsMasterLevel())
+		elseif self.levelcategory == LEVELCATEGORY.WORLDGEN then
+			return Customize.GetWorldGenOptionsWithLocationDefaults(self.parent_widget:GetCurrentLocation(), self.parent_widget:IsMasterLevel())
+		end
+	end
+end)
+
 _G.getmetatable(TheSim).__index.UnregisterAllPrefabs = (function()
 	local oldUnregisterAllPrefabs = _G.getmetatable(TheSim).__index.UnregisterAllPrefabs
 	return function(self, ...)
@@ -214,75 +227,79 @@ Assets = {
 --โหลดไฟล์ภาษา
 if Config.UI ~= "disable" or Config.CON ~= "disable" or Config.ITEM ~= "disable" then
 	LoadPOFile("scripts/languages/thai.po", t.SelectedLanguage)
-end
-t.PO = _G.LanguageTranslator.languages[t.SelectedLanguage]
 
--- ปิดการแปล UI
-if Config.UI == "disable" then
-	for i,v in pairs(t.PO) do
-		if string.find(i, "STRINGS.UI") then
-			t.PO[i]=""
-		end
-	end
-end
+	t.PO = _G.LanguageTranslator.languages[t.SelectedLanguage]
 
--- ปิดการแปลบทพูด
-if Config.CON == "disable" then
-	for i,v in pairs(t.PO) do
-		if string.find(i, "STRINGS.CHARACTERS.GENERIC") then
-			t.PO[i]=""
-		end
-	end
-end
-
--- ปิดการแปลชื่อไอเทม
-if Config.ITEM == "disable" then 
-	for i,v in pairs(t.PO) do
-		if string.find(i, "STRINGS.NAMES") then
-			t.PO[i]=""
-		end
-	end
-elseif Config.CFG_ITEM_TWO == "enable" then  -- ไอเทมสองภาษา
-	for i,v in pairs(t.PO) do
-		if string.find(i, "STRINGS.NAMES") or string.find(i, "STRINGS.BEEFALONAMING") or string.find(i, "STRINGS.BUNNYMANNAMES") or string.find(i, "STRINGS.CHARACTER_NAMES") or string.find(i, "STRINGS.CROWNAMES") or string.find(i, "STRINGS.KITCOON_NAMING.NAMES") or string.find(i, "STRINGS.MERMNAMES") or string.find(i, "STRINGS.PIGNAMES") or string.find(i, "STRINGS.SWAMPIGNAMES") then
-			local data = split(i, ".")
-			local text
-			if #data == 7 then
-				text = STRINGS[data[2]][data[3]][data[4]][data[5]][data[6]][data[7]]
-				if not text then
-					text = STRINGS[data[2]][data[3]][data[4]][data[5]][data[6]][_G.tonumber(data[7])]
-				end
-			elseif #data == 6 then
-				text = STRINGS[data[2]][data[3]][data[4]][data[5]][data[6]]
-				if not text then
-					text = STRINGS[data[2]][data[3]][data[4]][data[5]][_G.tonumber(data[6])]
-				end
-			elseif #data == 5 then
-				text = STRINGS[data[2]][data[3]][data[4]][data[5]]
-				if not text then
-					text = STRINGS[data[2]][data[3]][data[4]][_G.tonumber(data[5])]
-				end
-			elseif #data == 4 then
-				text = STRINGS[data[2]][data[3]][data[4]]
-				if not text then
-					text = STRINGS[data[2]][data[3]][_G.tonumber(data[4])]
-				end
-			elseif #data == 3 then
-				text = STRINGS[data[2]][data[3]]
-				if not text then
-					text = STRINGS[data[2]][_G.tonumber(data[3])]
-				end
-			elseif #data == 2 then
-				text = STRINGS[data[2]]
-				if not text then
-					text = STRINGS[_G.tonumber(data[2])]
-				end
+	-- ปิดการแปล UI
+	if Config.UI == "disable" then
+		for i,v in pairs(t.PO) do
+			if string.find(i, "STRINGS.UI") or string.find(i, "STRINGS.ACTIONS") or string.find(i, "STRINGS.RECIPE_DESC") or string.find(i, "STRINGS.ANTIADDICTION") or string.find(i, "STRINGS.CHARACTER_") then
+				t.PO[i]=""
 			end
-			t.PO[i]=v..(text and "\n("..text..")" or "")
 		end
 	end
+
+	-- ปิดการแปลบทพูด
+	if Config.CON == "disable" then
+		for i,v in pairs(t.PO) do
+			if string.find(i, "STRINGS.CHARACTERS.GENERIC") or string.find(i, "STRINGS.BOARLORD_") or string.find(i, "STRINGS.CARNIVAL_") or string.find(i, "STRINGS.GOATMUM_") or string.find(i, "STRINGS.HERMITCRAB_") then
+				t.PO[i]=""
+			end
+		end
+	end
+
+	-- ปิดการแปลชื่อไอเทม
+	if Config.ITEM == "disable" then 
+		for i,v in pairs(t.PO) do
+			if string.find(i, "STRINGS.NAMES") then
+				t.PO[i]=""
+			end
+		end
+	elseif Config.CFG_ITEM_TWO == "enable" then  -- ไอเทมสองภาษา
+		for i,v in pairs(t.PO) do
+			if string.find(i, "STRINGS.NAMES") or string.find(i, "STRINGS.BEEFALONAMING") or string.find(i, "STRINGS.BUNNYMANNAMES") or string.find(i, "STRINGS.CHARACTER_NAMES") or string.find(i, "STRINGS.CROWNAMES") or string.find(i, "STRINGS.KITCOON_NAMING.NAMES") or string.find(i, "STRINGS.MERMNAMES") or string.find(i, "STRINGS.PIGNAMES") or string.find(i, "STRINGS.SWAMPIGNAMES") then
+				local data = split(i, ".")
+				local text
+				if #data == 7 then
+					text = STRINGS[data[2]][data[3]][data[4]][data[5]][data[6]][data[7]]
+					if not text then
+						text = STRINGS[data[2]][data[3]][data[4]][data[5]][data[6]][_G.tonumber(data[7])]
+					end
+				elseif #data == 6 then
+					text = STRINGS[data[2]][data[3]][data[4]][data[5]][data[6]]
+					if not text then
+						text = STRINGS[data[2]][data[3]][data[4]][data[5]][_G.tonumber(data[6])]
+					end
+				elseif #data == 5 then
+					text = STRINGS[data[2]][data[3]][data[4]][data[5]]
+					if not text then
+						text = STRINGS[data[2]][data[3]][data[4]][_G.tonumber(data[5])]
+					end
+				elseif #data == 4 then
+					text = STRINGS[data[2]][data[3]][data[4]]
+					if not text then
+						text = STRINGS[data[2]][data[3]][_G.tonumber(data[4])]
+					end
+				elseif #data == 3 then
+					text = STRINGS[data[2]][data[3]]
+					if not text then
+						text = STRINGS[data[2]][_G.tonumber(data[3])]
+					end
+				elseif #data == 2 then
+					text = STRINGS[data[2]]
+					if not text then
+						text = STRINGS[_G.tonumber(data[2])]
+					end
+				end
+				t.PO[i]=v..(text and "\n("..text..")" or "")
+			end
+		end
+	end
+	
+	modimport("scripts/EMPTY.lua")
 end
 
+modimport("scripts/CHARACTER.lua")
 
 --ปิดผิวขนาดเล็ก
 local SMALL_TEXTURES = GetModConfigData("SMALL_TEXTURES")
@@ -302,9 +319,6 @@ if SMALL_TEXTURES and not ISPLAYINGNOW then
 		end
 	end)
 end
-
-modimport("scripts/EMPTY.lua")
-modimport("scripts/CHARACTER.lua")
 
 function VerChecker()
 	TheSim:QueryServer("https://raw.githubusercontent.com/chaixshot/DST-Thai/main/version.txt", function (result, isSuccessful, resultCode)
