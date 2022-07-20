@@ -1,4 +1,4 @@
-	_G = GLOBAL
+_G = GLOBAL
 rawget = _G.rawget
 mods=_G.rawget(_G,"mods") or (function() local m={}_G.rawset (_G,"mods",m) return m end)()
 mods.ThaiLanguagePack = {}
@@ -315,26 +315,51 @@ if SMALL_TEXTURES and not ISPLAYINGNOW then
 	end)
 end
 
-
 local OldStart = _G.Start
 function _G.Start() 
 	ApplyLocalizedFonts()
 	OldStart()
-	
+end
+
+-- Version Check
+AddClassPostConstruct("screens/redux/multiplayermainscreen", function(self, prev_screen, profile, offline, session_data)
 	TheSim:QueryServer("https://raw.githubusercontent.com/chaixshot/DST-Thai/main/version.txt", function (result, isSuccessful, resultCode)
 		if resultCode == 200 and isSuccessful then
 			local json = require("json")
 			local data = json.decode(result)
 			if modinfo.version ~= data.version then
 				local PopupDialogScreen = require "screens/redux/popupdialog"
+				local ModsScreen = require "screens/redux/modsscreen"
 				_G.TheFrontEnd:PushScreen(PopupDialogScreen("อัพเดท", "ส่วนเสริม \"ภาษาไทย\" มีอัพเดทใหม่\nกรุณาไปที่เมนู \"ส่วนเสริม\" เพื่ออัพเดท",
-				{{text="เข้าใจแล้ว!", cb = function() 
-					_G.TheFrontEnd:PopScreen() 
-				end}}))
+				{
+					{text="อัพเดทเลย!", cb = function() 
+						_G.TheFrontEnd:PopScreen() 
+						self:OnModsButton()
+					end},
+					{text="ปิด", cb = function() 
+						_G.TheFrontEnd:PopScreen() 
+					end}
+				}))
 			end
 		end
 	end, "GET")
+end)
+
+
+-- Version Check ทำให้ STRINGS.UI.SERVERCREATIONSCREEN.PRIVACY แปลไม่ติด ต้องแก้ด้วยโค้ดนี้
+local privacy_options = {}
+for i,v in pairs(STRINGS.UI.SERVERCREATIONSCREEN.PRIVACY) do
+	privacy_options[v] = i
 end
+AddClassPostConstruct("widgets/redux/serversettingstab", function(self)
+	if self.privacy_type and self.privacy_type.buttons and self.privacy_type.buttons.buttonwidgets then
+		for _,option in pairs(self.privacy_type.buttons.options) do
+			if privacy_options[option.text] then
+				option.text = STRINGS.UI.SERVERCREATIONSCREEN.PRIVACY[ privacy_options[option.text] ]
+			end
+		end
+	end
+end)
 
 -- แก้ข้อความบังคับอัตโนมัติ เช่น "Moon Shard"
 _G.setfenv(1, _G)
