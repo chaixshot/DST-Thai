@@ -1,6 +1,5 @@
-<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/322330/extras/dst_steam_gif_about.gif?t=1656607265/">
-
-[h1]นี่คืออะไร:[/h1]
+<h1>นี่คืออะไร:</h1>
+[link text itself]: http://www.reddit.com
 เปลี่ยนเกม [url=http://store.steampowered.com/app/322330/] Don't Starve Together[/url] เป็นภาษาไทย เพื่อให้คนไทยได้อ่านออกเข้าใจ
 และสามารถพิมพ์ไทยในเกมได้โดยไม่เป็นเครื่องหมาย [b]"???"[/b]
 [b]*หากปิดตัวเลือกแปลภาษาจะสามารถพิมพ์ไทยในแชทได้[/b]
