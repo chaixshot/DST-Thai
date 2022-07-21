@@ -150,8 +150,7 @@ function ApplyLocalizedFonts()
 end
 --------------------------
 
--- โหลดฟอนต์ในหน้าที่เกมไม่โหลดให้
-AddClassPostConstruct("screens/popupdialog", function(self, title, text, buttons, scale_bg, spacing_override, style)
+AddClassPostConstruct("screens/popupdialog", function(self, title, text, buttons, scale_bg, spacing_override, style) -- โหลดฟอนต์ในหน้าที่เกมไม่โหลดให้
 	if Config.UI ~= "disable" then
 		ApplyLocalizedFonts()
 		self.title:SetFont(_G.BUTTONFONT)
@@ -159,7 +158,7 @@ AddClassPostConstruct("screens/popupdialog", function(self, title, text, buttons
 	end
 end)
 
-AddClassPostConstruct("screens/worldgenscreen", function(self)
+AddClassPostConstruct("screens/worldgenscreen", function(self) -- โหลดฟอนต์ในหน้าที่เกมไม่โหลดให้
 	if Config.UI ~= "disable" then
 		ApplyLocalizedFonts()
 		self.worldgentext:SetFont(_G.TITLEFONT)
@@ -167,7 +166,7 @@ AddClassPostConstruct("screens/worldgenscreen", function(self)
 	end
 end)
 
-AddClassPostConstruct("widgets/spinner", function(self, options, width, height, textinfo, editable, atlas, textures, lean, textwidth, textheight)
+AddClassPostConstruct("widgets/spinner", function(self, options, width, height, textinfo, editable, atlas, textures, lean, textwidth, textheight) -- โหลดฟอนต์ในหน้าที่เกมไม่โหลดให้
 	if textinfo then return end
 	if Config.UI ~= "disable" then
 		ApplyLocalizedFonts()
@@ -175,12 +174,12 @@ AddClassPostConstruct("widgets/spinner", function(self, options, width, height, 
 	end
 end)
 
-AddClassPostConstruct("widgets/redux/craftingmenu_skinselector", function(self, recipe, owner, skin_name) -- เลือกสกินคราฟของ
+AddClassPostConstruct("widgets/redux/craftingmenu_skinselector", function(self, recipe, owner, skin_name) -- โหลดฟอนต์ในหน้าที่เกมไม่โหลดให้
 	self.spinner.text:SetFont(_G.BUTTONFONT)
 end)
 
-AddClassPostConstruct("widgets/redux/worldsettings/worldsettingsmenu", function(self, levelcategory, parent_widget) -- แก้ไขตัวเลือกการสร้างโลก
-	local Customize = require("customize")
+AddClassPostConstruct("widgets/redux/worldsettings/worldsettingsmenu", function(self, levelcategory, parent_widget) -- แปลตัวเลือกการสร้างโลก
+	local Customize = require("databundles/map/customize")
 	local oldGetOptions = self.GetOptions
 	function self:GetOptions()
 		oldGetOptions(self)
@@ -192,7 +191,94 @@ AddClassPostConstruct("widgets/redux/worldsettings/worldsettingsmenu", function(
 	end
 end)
 
-_G.getmetatable(TheSim).__index.UnregisterAllPrefabs = (function()
+AddClassPostConstruct("widgets/redux/worldsettings/worldsettingsmenu", function(self, levelcategory, parent_widget) -- แปลชื่อคำอธิบาย Preset
+	local Levels = require("map/levels")
+		local function GetPresetBox(self)
+		if self.mode == "combined" then
+			return self.combined.presetbox
+		elseif self.mode == "seperate" then
+			return self.seperate.presetbox
+		end
+	end
+	local oldUpdatePresetInfo = self.UpdatePresetInfo
+	function self:UpdatePresetInfo(option)
+		oldUpdatePresetInfo(self)
+		if not self.parent_widget:IsLevelEnabled() then return end
+		local presetbox = GetPresetBox(self)
+		if self.settings.custompreset then
+			presetbox:SetTextAndDesc(
+				self.settings.customname,
+				self.settings.customdesc
+			)
+		else
+			local TextName = {
+				["Default"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS["1"],
+				["Together Forever"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS["10"],
+				["No Giants Here"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS["11"],
+				["The Caves"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS["12"],
+				["Caves Plus"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS["13"],
+				["Together Plus"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS["2"],
+				["Lights Out"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS["3"],
+				["Soggy"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS["4"],
+				["Eternal Summer"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS["5"],
+				["Winter you'll do next?"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS["6"],
+				["Island you an axe"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS["7"],
+				["Crazy Eddie"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS["8"],
+				["Nighttime Antics"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS["9"],
+				["Lights Out"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS["COMPLETE_DARKNESS"],
+				["The Caves"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS["DST_CAVE"],
+				["Caves Plus"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS["DST_CAVE_PLUS"],
+				["Standard Caves"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS["DST_CAVE_PS4"],
+				["The Forge"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS["LAVAARENA"],
+				["<MOD MISSING>"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS["MOD_MISSING"],
+				["The Gorge"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS["QUAGMIRE"],
+				["Forest Plus"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS["SURVIVAL_DEFAULT_PLUS"],
+				["Standard Forest"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS["SURVIVAL_TOGETHER"],
+				["No Giants Here"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS["SURVIVAL_TOGETHER_CLASSIC"],
+				["Generic Forest"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS["SURVIVAL_TOGETHER_PS4"],
+				["Taste of Terraria"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS["TERRARIA"],
+				["Caves of Terraria"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS["TERRARIA_CAVE"],
+			}
+			local TextDec = {
+				["The standard Don't Starve experience."] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC["1"],
+				["The multiplayer Don't Starve experience."] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC["10"],
+				["Don't Starve Together with Reign of Giants turned off."] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC["11"],
+				["Delve into the caves... together!"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC["12"],
+				["A darker, more arachnid-y cave experience."] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC["13"],
+				["A quicker start in a harsher world."] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC["2"],
+				["A dark twist on the standard Don't Starve experience."] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC["3"],
+				["The standard Don't Starve Experience 4"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC["4"],
+				["The standard Don't Starve Experience 5"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC["5"],
+				["The standard Don't Starve Experience 6"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC["6"],
+				["The standard Don't Starve Experience 7"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC["7"],
+				["The standard Don't Starve Experience 8"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC["8"],
+				["The standard Don't Starve Experience 9"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC["9"],
+				["A dark twist on the standard Don't Starve experience."] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC["COMPLETE_DARKNESS"],
+				["Delve into the caves... together!"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC["DST_CAVE"],
+				["A darker, more arachnid-y cave experience."] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC["DST_CAVE_PLUS"],
+				["Dare you prove yourself in The Forge?"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC["LAVAARENA"],
+				["This preset came from a mod, but that mod isn't active right now!"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC["MOD_MISSING"],
+				["Can you stand the heat in The Gorge?"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC["QUAGMIRE"],
+				["A quicker start in a harsher world."] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC["SURVIVAL_DEFAULT_PLUS"],
+				["The standard Don't Starve experience."] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC["SURVIVAL_TOGETHER"],
+				["Don't Starve Together with Reign of Giants turned off."] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC["SURVIVAL_TOGETHER_CLASSIC"],
+				["Don't Starve Together, with a Terarria-inspired twist."] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC["TERRARIA"],
+				["Don't Starve Together, with a Terarria-inspired twist... in the caves!"] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC["TERRARIA_CAVE"],
+			}
+			local GetNameForID = Levels.GetNameForID(self.levelcategory, self.settings.preset)
+			local GetDescForID = Levels.GetDescForID(self.levelcategory, self.settings.preset)
+			presetbox:SetTextAndDesc(
+				(TextName[GetNameForID] and TextName[GetNameForID] or GetNameForID),
+				(TextDec[GetDescForID] and TextDec[GetDescForID] or GetDescForID)
+			)
+		end
+		presetbox:SetEditable(self:IsEditable())
+		presetbox:SetRevertable(self:GetNumberOfTweaks() > 0)
+		presetbox:SetPresetEditable(_G.CustomPresetManager:IsCustomPreset(self.levelcategory, self.settings.preset))
+	end
+end)
+
+_G.getmetatable(TheSim).__index.UnregisterAllPrefabs = (function() -- โหลดฟอนต์ในหน้าที่เกมไม่โหลดให้
 	local oldUnregisterAllPrefabs = _G.getmetatable(TheSim).__index.UnregisterAllPrefabs
 	return function(self, ...)
 		oldUnregisterAllPrefabs(self, ...)
@@ -217,7 +303,6 @@ Assets = {
 	Asset("IMAGE", MODROOT.."images/worldsettings_customization.tex"),
 	Asset("ATLAS", MODROOT.."images/worldsettings_customization.xml"),
 }
-
 
 --โหลดไฟล์ภาษา
 if Config.UI ~= "disable" or Config.CON ~= "disable" or Config.ITEM ~= "disable" then
@@ -316,7 +401,7 @@ if SMALL_TEXTURES and not ISPLAYINGNOW then
 end
 
 local OldStart = _G.Start
-function _G.Start() 
+function _G.Start() -- โหลดฟอนต์ในหน้าที่เกมไม่โหลดให้
 	ApplyLocalizedFonts()
 	OldStart()
 end
@@ -328,8 +413,8 @@ AddClassPostConstruct("screens/redux/multiplayermainscreen", function(self, prev
 			local json = require("json")
 			local data = json.decode(result)
 			if modinfo.version ~= data.version then
-				local PopupDialogScreen = require "screens/redux/popupdialog"
-				local ModsScreen = require "screens/redux/modsscreen"
+				local PopupDialogScreen = require("screens/redux/popupdialog")
+				local ModsScreen = require("screens/redux/modsscreen")
 				_G.TheFrontEnd:PushScreen(PopupDialogScreen("อัพเดท", "ส่วนเสริม \"ภาษาไทย\" มีอัพเดทใหม่\nกรุณาไปที่เมนู \"ส่วนเสริม\" เพื่ออัพเดท",
 				{
 					{text="อัพเดทเลย!", cb = function() 
@@ -343,23 +428,45 @@ AddClassPostConstruct("screens/redux/multiplayermainscreen", function(self, prev
 			end
 		end
 	end, "GET")
+	
+	-- screens/redux/multiplayermainscreen ทำให้ STRINGS.UI.OPTIONS หน้าตัวเลือกแปลไม่ติด ต้องแก้ด้วยโค้ดนี้
+	local OptionsScreen = require("databundles/screens/redux/optionsscreen")
+	local oldSettings = self.Settings
+	function self:Settings(default_section)
+		oldSettings(self)
+		self:_FadeToScreen(OptionsScreen, {default_section})
+	end
 end)
 
-
--- Version Check ทำให้ STRINGS.UI.SERVERCREATIONSCREEN.PRIVACY แปลไม่ติด ต้องแก้ด้วยโค้ดนี้
+-- screens/redux/multiplayermainscreen ทำให้ STRINGS.UI.SERVERCREATIONSCREEN.PRIVACY แปลไม่ติด ต้องแก้ด้วยโค้ดนี้
 local privacy_options = {}
 for i,v in pairs(STRINGS.UI.SERVERCREATIONSCREEN.PRIVACY) do
 	privacy_options[v] = i
 end
 AddClassPostConstruct("widgets/redux/serversettingstab", function(self)
+	ApplyLocalizedFonts()
 	if self.privacy_type and self.privacy_type.buttons and self.privacy_type.buttons.buttonwidgets then
 		for _,option in pairs(self.privacy_type.buttons.options) do
 			if privacy_options[option.text] then
-				option.text = STRINGS.UI.SERVERCREATIONSCREEN.PRIVACY[ privacy_options[option.text] ]
+				option.text = STRINGS.UI.SERVERCREATIONSCREEN.PRIVACY[ privacy_options[option.text] ] 
 			end
 		end
 	end
 end)
+
+-- screens/redux/multiplayermainscreen ทำให้ STRINGS.UI.INTENTION แปลไม่ติด ต้องแก้ด้วยโค้ดนี้
+local function postintentionpicker(self)
+	if self.headertext then -- แก้สระหายของ STRINGS.UI.SERVERCREATIONSCREEN.INTENTION_TITLE
+		local w,h = self.headertext:GetRegionSize()
+		self.headertext:SetRegionSize(w,h+10)
+	end
+	local intention_options={{text=STRINGS.UI.INTENTION.SOCIAL},{text=STRINGS.UI.INTENTION.COOPERATIVE},{text=STRINGS.UI.INTENTION.COMPETITIVE},{text=STRINGS.UI.INTENTION.MADNESS},}
+	for i, v in ipairs(intention_options) do
+		self.buttons[i]:SetText(intention_options[i].text)
+	end
+end
+AddClassPostConstruct("widgets/intentionpicker", postintentionpicker)
+AddClassPostConstruct("widgets/redux/intentionpicker", postintentionpicker)
 
 -- แก้ข้อความบังคับอัตโนมัติ เช่น "Moon Shard"
 _G.setfenv(1, _G)
