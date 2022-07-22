@@ -20,7 +20,7 @@ Config.CFG_ITEM_TWO = GetModConfigData("CFG_ITEM_TWO")
 
 --โหลดฟอนต์
 function ApplyLocalizedFonts()
-	local FontNames = {
+	--[[local FontNames = {
 		DEFAULTFONT = _G.DEFAULTFONT,
 		DIALOGFONT = _G.DIALOGFONT,
 		TITLEFONT = _G.TITLEFONT,
@@ -38,27 +38,7 @@ function ApplyLocalizedFonts()
 		TALKINGFONT_TRADEIN = _G.TALKINGFONT_TRADEIN,
 		TALKINGFONT_WORMWOOD = _G.TALKINGFONT_WORMWOOD,
 	}
-
-	local LocalizedFontList = {
-		["belisaplumilla50"] = true,
-		["belisaplumilla100"] = true,
-		["bellefair50"] = true,
-		["bellefair50_outline"] = true,
-		["buttonfont"] = true,
-		["hammerhead50"] = true,
-		["opensans50"] = true,
-		["spirequal"] = rawget(_G,"NEWFONT") and true or nil,
-		["spirequal_small"] = rawget(_G,"NEWFONT_SMALL") and true or nil,
-		["spirequal_outline"] = rawget(_G,"NEWFONT_OUTLINE") and true or nil,
-		["spirequal_outline_small"] = rawget(_G,"NEWFONT_OUTLINE_SMALL") and true or nil,
-		["stint-ucr50"] = true,
-		["stint-ucr20"] = true,
-		["talkingfont"] = true,
-		["talkingfont_hermit"] = true,
-		["talkingfont_tradein"] = true,
-		["talkingfont_wormwood"] = true,
-	}
-
+	
 	if Config.UI ~= "disable" or Config.CON ~= "disable" or Config.ITEM ~= "disable" then
 		_G.DEFAULTFONT = FontNames.DEFAULTFONT
 		_G.DIALOGFONT = FontNames.DIALOGFONT
@@ -87,7 +67,27 @@ function ApplyLocalizedFonts()
 	_G.TALKINGFONT = FontNames.TALKINGFONT
 	_G.TALKINGFONT_HERMIT = FontNames.TALKINGFONT_HERMIT
 	_G.TALKINGFONT_TRADEIN = FontNames.TALKINGFONT_TRADEIN
-	_G.TALKINGFONT_WORMWOOD = FontNames.TALKINGFONT_WORMWOOD
+	_G.TALKINGFONT_WORMWOOD = FontNames.TALKINGFONT_WORMWOOD]]
+
+	local LocalizedFontList = {
+		["belisaplumilla50"] = true,
+		["belisaplumilla100"] = true,
+		["bellefair50"] = true,
+		["bellefair50_outline"] = true,
+		["buttonfont"] = true,
+		["hammerhead50"] = true,
+		["opensans50"] = true,
+		["spirequal"] = rawget(_G,"NEWFONT") and true or nil,
+		["spirequal_small"] = rawget(_G,"NEWFONT_SMALL") and true or nil,
+		["spirequal_outline"] = rawget(_G,"NEWFONT_OUTLINE") and true or nil,
+		["spirequal_outline_small"] = rawget(_G,"NEWFONT_OUTLINE_SMALL") and true or nil,
+		["stint-ucr50"] = true,
+		["stint-ucr20"] = true,
+		["talkingfont"] = true,
+		["talkingfont_hermit"] = true,
+		["talkingfont_tradein"] = true,
+		["talkingfont_wormwood"] = true,
+	}
 	
 	for FontName in pairs(LocalizedFontList) do
 		TheSim:UnloadFont(t.SelectedLanguage.."_"..FontName)
@@ -107,7 +107,7 @@ function ApplyLocalizedFonts()
 		TheSim:LoadFont(MODROOT.."fonts/"..FontName.."__"..t.SelectedLanguage..".zip", t.SelectedLanguage.."_"..FontName)
 	end
 
-	local fallbacks = {}
+	--[[local fallbacks = {}
 	for _, v in pairs(_G.FONTS) do
 		local FontName = v.filename:sub(7, -5)
 		if LocalizedFontList[FontName] then
@@ -116,7 +116,7 @@ function ApplyLocalizedFonts()
 	end
 	for FontName in pairs(LocalizedFontList) do
 		TheSim:SetupFontFallbacks(t.SelectedLanguage.."_"..FontName, fallbacks[FontName])
-	end
+	end]]
 
 	if Config.UI ~= "disable" or Config.CON ~= "disable" or Config.ITEM ~= "disable" then
 		_G.DEFAULTFONT = t.SelectedLanguage.."_opensans50"
@@ -444,11 +444,10 @@ for i,v in pairs(STRINGS.UI.SERVERCREATIONSCREEN.PRIVACY) do
 	privacy_options[v] = i
 end
 AddClassPostConstruct("widgets/redux/serversettingstab", function(self)
-	ApplyLocalizedFonts()
 	if self.privacy_type and self.privacy_type.buttons and self.privacy_type.buttons.buttonwidgets then
 		for _,option in pairs(self.privacy_type.buttons.options) do
 			if privacy_options[option.text] then
-				option.text = STRINGS.UI.SERVERCREATIONSCREEN.PRIVACY[ privacy_options[option.text] ] 
+				option.text = STRINGS.UI.SERVERCREATIONSCREEN.PRIVACY[privacy_options[option.text]]
 			end
 		end
 	end

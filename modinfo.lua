@@ -1,5 +1,5 @@
 name = " ภาษาไทย"
-version = "5.3n"
+version = "5.4"
 author = "H@mer"
 description = [[Don't Starve Together:ภาษาไทย
 เวอร์ชั่น: ]]..version..
