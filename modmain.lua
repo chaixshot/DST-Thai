@@ -20,7 +20,7 @@ Config.CFG_ITEM_TWO = GetModConfigData("CFG_ITEM_TWO")
 
 --โหลดฟอนต์
 function ApplyLocalizedFonts()
-	--[[local FontNames = {
+	local FontNames = {
 		DEFAULTFONT = _G.DEFAULTFONT,
 		DIALOGFONT = _G.DIALOGFONT,
 		TITLEFONT = _G.TITLEFONT,
@@ -67,7 +67,7 @@ function ApplyLocalizedFonts()
 	_G.TALKINGFONT = FontNames.TALKINGFONT
 	_G.TALKINGFONT_HERMIT = FontNames.TALKINGFONT_HERMIT
 	_G.TALKINGFONT_TRADEIN = FontNames.TALKINGFONT_TRADEIN
-	_G.TALKINGFONT_WORMWOOD = FontNames.TALKINGFONT_WORMWOOD]]
+	_G.TALKINGFONT_WORMWOOD = FontNames.TALKINGFONT_WORMWOOD
 
 	local LocalizedFontList = {
 		["belisaplumilla50"] = true,
@@ -107,7 +107,7 @@ function ApplyLocalizedFonts()
 		TheSim:LoadFont(MODROOT.."fonts/"..FontName.."__"..t.SelectedLanguage..".zip", t.SelectedLanguage.."_"..FontName)
 	end
 
-	--[[local fallbacks = {}
+	local fallbacks = {}
 	for _, v in pairs(_G.FONTS) do
 		local FontName = v.filename:sub(7, -5)
 		if LocalizedFontList[FontName] then
@@ -116,7 +116,7 @@ function ApplyLocalizedFonts()
 	end
 	for FontName in pairs(LocalizedFontList) do
 		TheSim:SetupFontFallbacks(t.SelectedLanguage.."_"..FontName, fallbacks[FontName])
-	end]]
+	end
 
 	if Config.UI ~= "disable" or Config.CON ~= "disable" or Config.ITEM ~= "disable" then
 		_G.DEFAULTFONT = t.SelectedLanguage.."_opensans50"
