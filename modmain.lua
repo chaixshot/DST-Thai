@@ -444,6 +444,13 @@ for i,v in pairs(STRINGS.UI.SERVERCREATIONSCREEN.PRIVACY) do
 	privacy_options[v] = i
 end
 AddClassPostConstruct("widgets/redux/serversettingstab", function(self)
+	local oldRefreshPrivacyButtons = self.RefreshPrivacyButtons
+	function self:RefreshPrivacyButtons() -- แก้ฟอนต์เป็น ???
+		oldRefreshPrivacyButtons(self)
+		for i,v in ipairs(self.privacy_type.buttons.buttonwidgets) do
+			v.button.text:SetFont(_G.NEWFONT)
+		end  
+	end
 	if self.privacy_type and self.privacy_type.buttons and self.privacy_type.buttons.buttonwidgets then
 		for _,option in pairs(self.privacy_type.buttons.options) do
 			if privacy_options[option.text] then
