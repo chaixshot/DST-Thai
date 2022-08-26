@@ -150,6 +150,12 @@ function ApplyLocalizedFonts()
 end
 --------------------------
 
+AddClassPostConstruct("widgets/inventorybar", function(self, owner) -- แก้ฟ้อนช่องเก็บของไม่โหลด
+	if Config.UI ~= "disable" then
+		ApplyLocalizedFonts()
+	end
+end)
+
 AddClassPostConstruct("screens/popupdialog", function(self, title, text, buttons, scale_bg, spacing_override, style) -- โหลดฟอนต์ในหน้าที่เกมไม่โหลดให้
 	if Config.UI ~= "disable" then
 		ApplyLocalizedFonts()
