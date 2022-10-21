@@ -1,5 +1,5 @@
 name = " ภาษาไทย"
-version = "5.4c"
+version = "5.5"
 author = "H@mer"
 description = [[Don't Starve Together:ภาษาไทย
 เวอร์ชั่น: ]]..version..
@@ -14,7 +14,7 @@ description = [[Don't Starve Together:ภาษาไทย
 หรือข้อผิดพลาดอื่นๆกรุณาแจ้งผู้พัฒนาด้วย เพื่อจะได้ทำการแก้ไขปรับปรุงในการอัพเดท
 สามารถพูดคุยหรือติดต่อสอบถามและเป็นกำลังใจได้ที่โพสบน Workshop
 
-DST รุ่น.(v5101424)
+DST รุ่น.(v527664)
 ]]
 forumthread = ""
 api_version = 10
