@@ -197,7 +197,7 @@ AddClassPostConstruct("widgets/redux/worldsettings/worldsettingsmenu", function(
 	end
 end)
 
-AddClassPostConstruct("widgets/redux/worldsettings/worldsettingsmenu", function(self, levelcategory, parent_widget) -- แปลชื่อคำอธิบาย Preset
+--[[AddClassPostConstruct("widgets/redux/worldsettings/worldsettingsmenu", function(self, levelcategory, parent_widget) -- แปลชื่อคำอธิบาย Preset
 	local Levels = require("map/levels")
 		local function GetPresetBox(self)
 		if self.mode == "combined" then
@@ -282,7 +282,7 @@ AddClassPostConstruct("widgets/redux/worldsettings/worldsettingsmenu", function(
 		presetbox:SetRevertable(self:GetNumberOfTweaks() > 0)
 		presetbox:SetPresetEditable(_G.CustomPresetManager:IsCustomPreset(self.levelcategory, self.settings.preset))
 	end
-end)
+end)]]
 
 _G.getmetatable(TheSim).__index.UnregisterAllPrefabs = (function() -- โหลดฟอนต์ในหน้าที่เกมไม่โหลดให้
 	local oldUnregisterAllPrefabs = _G.getmetatable(TheSim).__index.UnregisterAllPrefabs

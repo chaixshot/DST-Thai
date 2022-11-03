@@ -1,5 +1,5 @@
 function split(str,sep)
-		local fields, first = {}, 1
+	local fields, first = {}, 1
 	str=str..sep
 	for i=1,#str do
 		if string.sub(str,i,i+#sep-1)==sep then
