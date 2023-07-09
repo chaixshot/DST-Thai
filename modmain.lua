@@ -328,7 +328,7 @@ if Config.UI ~= "disable" or Config.CON ~= "disable" or Config.ITEM ~= "disable"
 	-- ปิดการแปลบทพูด
 	if Config.CON == "disable" then
 		for i,v in pairs(t.PO) do
-			if string.find(i, "STRINGS.CHARACTERS.GENERIC") or string.find(i, "STRINGS.BOARLORD_") or string.find(i, "STRINGS.CARNIVAL_") or string.find(i, "STRINGS.GOATMUM_") or string.find(i, "STRINGS.HERMITCRAB_") then
+			if string.find(i, "STRINGS.CHARACTERS.GENERIC") or string.find(i, "STRINGS.BOARLORD_") or string.find(i, "STRINGS.CARNIVAL_") or string.find(i, "STRINGS.GOATMUM_") or string.find(i, "STRINGS.HERMITCRAB_") or string.find(i, "STRINGS.VOIDCLOTH_") or string.find(i, "STRINGS.YOTB_") or string.find(i, "STRINGS.LUCY") or string.find(i, "STRINGS.MERM_KING_TALK_") or string.find(i, "STRINGS.MERM_TALK") then
 				t.PO[i]=""
 			end
 		end
@@ -387,7 +387,7 @@ end
 
 modimport("scripts/CHARACTER.lua")
 
---ปิดผิวขนาดเล็ก
+--ปิดผิวขนาดเล็กป้องกันฟอนต์ไทยแตก
 local SMALL_TEXTURES = GetModConfigData("SMALL_TEXTURES")
 local ISPLAYINGNOW = (_G.TheNet:GetIsClient() or _G.TheNet:GetIsServer())
 if SMALL_TEXTURES and not ISPLAYINGNOW then
