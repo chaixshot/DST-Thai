@@ -184,19 +184,6 @@ AddClassPostConstruct("widgets/redux/craftingmenu_skinselector", function(self, 
 	self.spinner.text:SetFont(_G.BUTTONFONT)
 end)
 
-AddClassPostConstruct("widgets/redux/worldsettings/worldsettingsmenu", function(self, levelcategory, parent_widget) -- แปลตัวเลือกการสร้างโลก
-	local Customize = require("databundles/map/customize")
-	local oldGetOptions = self.GetOptions
-	function self:GetOptions()
-		oldGetOptions(self)
-		if self.levelcategory == LEVELCATEGORY.SETTINGS then
-			return Customize.GetWorldSettingsOptionsWithLocationDefaults(self.parent_widget:GetCurrentLocation(), self.parent_widget:IsMasterLevel())
-		elseif self.levelcategory == LEVELCATEGORY.WORLDGEN then
-			return Customize.GetWorldGenOptionsWithLocationDefaults(self.parent_widget:GetCurrentLocation(), self.parent_widget:IsMasterLevel())
-		end
-	end
-end)
-
 _G.getmetatable(TheSim).__index.UnregisterAllPrefabs = (function() -- โหลดฟอนต์ในหน้าที่เกมไม่โหลดให้
 	local oldUnregisterAllPrefabs = _G.getmetatable(TheSim).__index.UnregisterAllPrefabs
 	return function(self, ...)
