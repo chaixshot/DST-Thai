@@ -1,5 +1,5 @@
 name = " ภาษาไทย"
-version = "5.7.1"
+version = "5.8"
 author = "H@mer"
 description = [[Don't Starve Together:ภาษาไทย
 เวอร์ชั่น: ]]..version..
@@ -14,7 +14,7 @@ description = [[Don't Starve Together:ภาษาไทย
 หรือข้อผิดพลาดอื่นๆกรุณาแจ้งผู้พัฒนาด้วย เพื่อจะได้ทำการแก้ไขปรับปรุงในการอัพเดท
 สามารถพูดคุยหรือติดต่อสอบถามและเป็นกำลังใจได้ที่โพสบน Workshop
 
-DST รุ่น.(v561979)
+DST รุ่น.(v562556)
 ]]
 forumthread = ""
 api_version = 10
@@ -24,6 +24,8 @@ icon_atlas = "images/ModThai.xml"
 dont_starve_compatible = false
 reign_of_giants_compatible = false
 shipwrecked_compatible = false
+gorge_compatible = false
+forge_compatible = false
 dst_compatible = true
 client_only_mod = true
 server_only_mod = false
@@ -78,7 +80,7 @@ configuration_options =
 	{
         name = "CFG_ITEM_TWO",
 		label = "ไอเทมสองภาษา",
-		hover = "ชื่อไอเทม สัตว์ สิ่งของ จะแสดงทั้งสองภาษา)",
+		hover = "ชื่อไอเทม สัตว์ สิ่งของ จะแสดงทั้งสองภาษา",
         options =
         {
 			{description = "ปิด", data = "disable", hover = "ปิดการใช้งานไอเทมสองภาษา"},
@@ -109,7 +111,7 @@ configuration_options =
 	{
 		name = "SMALL_TEXTURES",
 		label = "ปิดกราฟฟิคพื้นผิวเล็กอัตโนมัติ",
-		hover = "การเปิดใช้งานพื้นผิวเล็กอาจทำให้ตัวหนังสือไม่ชัด ขอแนะนำให้ปิดพื้นผิวขนาดเล็ก",
+		hover = "การเปิดใช้งานพื้นผิวเล็กอาจทำให้ตัวหนังสือไม่ชัด เปิดใช้งานตัวเลือกนี้ไว้",
 		options =	{
 			{description = "เปิดใช้งาน", data = true, hover = "อนุญาตให้ส่วนเสริมปิดพื้นผิวเล็กโดยอัตโนมัติ (แนะนำ)"},
 			{description = "ปิดใช้งาน", data = false, hover = "ไม่ให้ส่วนเสริมปิดพื้นผิวเล็ก"},
