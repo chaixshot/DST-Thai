@@ -17,6 +17,7 @@ Config.UI = GetModConfigData("CFG_UI")
 Config.CON = GetModConfigData("CFG_CON")
 Config.ITEM = GetModConfigData("CFG_ITEM")
 Config.CFG_ITEM_TWO = GetModConfigData("CFG_ITEM_TWO")
+Config.CFG_OTHER_MOD = GetModConfigData("CFG_OTHER_MOD")
 
 --โหลดฟอนต์
 function ApplyLocalizedFonts()
@@ -202,13 +203,13 @@ AddClassPostConstruct("widgets/inventorybar", function(self, owner) -- แก้
 	end
 end)
 
-AddClassPostConstruct("screens/popupdialog", function(self, title, text, buttons, scale_bg, spacing_override, style) -- โหลดฟอนต์ในหน้าที่เกมไม่โหลดให้
-	if Config.UI ~= "disable" then
-		ApplyLocalizedFonts()
+-- AddClassPostConstruct("screens/popupdialog", function(self, title, text, buttons, scale_bg, spacing_override, style) -- โหลดฟอนต์ในหน้าที่เกมไม่โหลดให้
+	-- if Config.UI ~= "disable" then
+		-- ApplyLocalizedFonts()
 		-- self.title:SetFont(_G.BUTTONFONT)
 		-- self.text:SetFont(_G.NEWFONT)
-	end
-end)
+	-- end
+-- end)
 
 AddClassPostConstruct("screens/worldgenscreen", function(self) -- โหลดฟอนต์ในหน้าที่เกมไม่โหลดให้
 	if Config.UI ~= "disable" then

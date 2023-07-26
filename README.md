@@ -31,3 +31,7 @@
 
 <h1>ทรัพยากรภายนอก:</h1>
 <p><a href="https://github.com/chaixshot/DST-Thai">Source code on Github</a></p>
+
+<h1>ส่วนเสริมอื่นที่สนับสนุนการแปล:</h1>
+https://steamcommunity.com/sharedfiles/filedetails/?id=351325790
+https://steamcommunity.com/sharedfiles/filedetails/?id=842702425
