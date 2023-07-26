@@ -20,54 +20,54 @@ Config.CFG_ITEM_TWO = GetModConfigData("CFG_ITEM_TWO")
 
 --โหลดฟอนต์
 function ApplyLocalizedFonts()
-	local FontNames = {
-		DEFAULTFONT = _G.DEFAULTFONT,
-		DIALOGFONT = _G.DIALOGFONT,
-		TITLEFONT = _G.TITLEFONT,
-		UIFONT = _G.UIFONT,
-		BUTTONFONT = _G.BUTTONFONT,
-		NUMBERFONT = _G.NUMBERFONT,
-		SMALLNUMBERFONT = _G.SMALLNUMBERFONT,
-		BODYTEXTFONT = _G.BODYTEXTFONT,
-		NEWFONT = rawget(_G,"NEWFONT"),
-		NEWFONT_SMALL = rawget(_G,"NEWFONT_SMALL"),
-		NEWFONT_OUTLINE = rawget(_G,"NEWFONT_OUTLINE"),
-		NEWFONT_OUTLINE_SMALL = rawget(_G,"NEWFONT_OUTLINE_SMALL"),
-		TALKINGFONT = _G.TALKINGFONT,
-		TALKINGFONT_HERMIT = _G.TALKINGFONT_HERMIT,
-		TALKINGFONT_TRADEIN = _G.TALKINGFONT_TRADEIN,
-		TALKINGFONT_WORMWOOD = _G.TALKINGFONT_WORMWOOD,
-	}
+	-- local FontNames = {
+		-- DEFAULTFONT = _G.DEFAULTFONT,
+		-- DIALOGFONT = _G.DIALOGFONT,
+		-- TITLEFONT = _G.TITLEFONT,
+		-- UIFONT = _G.UIFONT,
+		-- BUTTONFONT = _G.BUTTONFONT,
+		-- NUMBERFONT = _G.NUMBERFONT,
+		-- SMALLNUMBERFONT = _G.SMALLNUMBERFONT,
+		-- BODYTEXTFONT = _G.BODYTEXTFONT,
+		-- NEWFONT = rawget(_G,"NEWFONT"),
+		-- NEWFONT_SMALL = rawget(_G,"NEWFONT_SMALL"),
+		-- NEWFONT_OUTLINE = rawget(_G,"NEWFONT_OUTLINE"),
+		-- NEWFONT_OUTLINE_SMALL = rawget(_G,"NEWFONT_OUTLINE_SMALL"),
+		-- TALKINGFONT = _G.TALKINGFONT,
+		-- TALKINGFONT_HERMIT = _G.TALKINGFONT_HERMIT,
+		-- TALKINGFONT_TRADEIN = _G.TALKINGFONT_TRADEIN,
+		-- TALKINGFONT_WORMWOOD = _G.TALKINGFONT_WORMWOOD,
+	-- }
 	
-	if Config.UI ~= "disable" or Config.CON ~= "disable" or Config.ITEM ~= "disable" then
-		_G.DEFAULTFONT = FontNames.DEFAULTFONT
-		_G.DIALOGFONT = FontNames.DIALOGFONT
-		_G.TITLEFONT = FontNames.TITLEFONT
-		_G.UIFONT = FontNames.UIFONT
-		_G.BUTTONFONT = FontNames.BUTTONFONT
-		_G.HEADERFONT = FontNames.HEADERFONT
-		_G.NUMBERFONT = FontNames.NUMBERFONT		
-		_G.SMALLNUMBERFONT = FontNames.SMALLNUMBERFONT
-		_G.BODYTEXTFONT = FontNames.BODYTEXTFONT
-		_G.CHATFONT_OUTLINE = FontNames.CHATFONT_OUTLINE
-		if rawget(_G,"NEWFONT") then
-			_G.NEWFONT = FontNames.NEWFONT
-		end
-		if rawget(_G,"NEWFONT_SMALL") then
-			_G.NEWFONT_SMALL = FontNames.NEWFONT_SMALL
-		end
-		if rawget(_G,"NEWFONT_OUTLINE") then
-			_G.NEWFONT_OUTLINE = FontNames.NEWFONT_OUTLINE
-		end
-		if rawget(_G,"NEWFONT_OUTLINE_SMALL") then
-			_G.NEWFONT_OUTLINE_SMALL = FontNames.NEWFONT_OUTLINE_SMALL
-		end
-	end
-	_G.CHATFONT = FontNames.CHATFONT
-	_G.TALKINGFONT = FontNames.TALKINGFONT
-	_G.TALKINGFONT_HERMIT = FontNames.TALKINGFONT_HERMIT
-	_G.TALKINGFONT_TRADEIN = FontNames.TALKINGFONT_TRADEIN
-	_G.TALKINGFONT_WORMWOOD = FontNames.TALKINGFONT_WORMWOOD
+	-- if Config.UI ~= "disable" or Config.CON ~= "disable" or Config.ITEM ~= "disable" then
+		-- _G.DEFAULTFONT = FontNames.DEFAULTFONT
+		-- _G.DIALOGFONT = FontNames.DIALOGFONT
+		-- _G.TITLEFONT = FontNames.TITLEFONT
+		-- _G.UIFONT = FontNames.UIFONT
+		-- _G.BUTTONFONT = FontNames.BUTTONFONT
+		-- _G.HEADERFONT = FontNames.HEADERFONT
+		-- _G.NUMBERFONT = FontNames.NUMBERFONT		
+		-- _G.SMALLNUMBERFONT = FontNames.SMALLNUMBERFONT
+		-- _G.BODYTEXTFONT = FontNames.BODYTEXTFONT
+		-- _G.CHATFONT_OUTLINE = FontNames.CHATFONT_OUTLINE
+		-- if rawget(_G,"NEWFONT") then
+			-- _G.NEWFONT = FontNames.NEWFONT
+		-- end
+		-- if rawget(_G,"NEWFONT_SMALL") then
+			-- _G.NEWFONT_SMALL = FontNames.NEWFONT_SMALL
+		-- end
+		-- if rawget(_G,"NEWFONT_OUTLINE") then
+			-- _G.NEWFONT_OUTLINE = FontNames.NEWFONT_OUTLINE
+		-- end
+		-- if rawget(_G,"NEWFONT_OUTLINE_SMALL") then
+			-- _G.NEWFONT_OUTLINE_SMALL = FontNames.NEWFONT_OUTLINE_SMALL
+		-- end
+	-- end
+	-- _G.CHATFONT = FontNames.CHATFONT
+	-- _G.TALKINGFONT = FontNames.TALKINGFONT
+	-- _G.TALKINGFONT_HERMIT = FontNames.TALKINGFONT_HERMIT
+	-- _G.TALKINGFONT_TRADEIN = FontNames.TALKINGFONT_TRADEIN
+	-- _G.TALKINGFONT_WORMWOOD = FontNames.TALKINGFONT_WORMWOOD
 
 	local LocalizedFontList = {
 		["belisaplumilla50"] = true,
@@ -148,6 +148,52 @@ function ApplyLocalizedFonts()
 	_G.TALKINGFONT_TRADEIN = t.SelectedLanguage.."_talkingfont_tradein"
 	_G.TALKINGFONT_WORMWOOD = t.SelectedLanguage.."_talkingfont_wormwood"
 end
+
+-- โหลดฟอนต์ในหน้าที่เกมไม่โหลดให้
+local oldSetFont = _G.TextWidget.SetFont
+_G.TextWidget.SetFont = function(guid, font)
+	if font == "opensans" then
+		oldSetFont(guid, _G.DEFAULTFONT)
+	elseif font == "opensans" then
+		oldSetFont(guid, _G.DIALOGFONT)
+	elseif font == "bp100" then
+		oldSetFont(guid, _G.TITLEFONT)
+	elseif font == "bp50" then
+		oldSetFont(guid, _G.UIFONT)
+	elseif font == "buttonfont" then
+		oldSetFont(guid, _G.BUTTONFONT)
+	elseif font == "hammerhead" then
+		oldSetFont(guid, _G.HEADERFONT)
+	elseif font == "stint-ucr" then
+		oldSetFont(guid, _G.NUMBERFONT)
+	elseif font == "stint-small" then
+		oldSetFont(guid, _G.SMALLNUMBERFONT)
+	elseif font == "stint-ucr" then
+		oldSetFont(guid, _G.BODYTEXTFONT)
+	elseif font == "bellefair_outline" then
+		oldSetFont(guid, _G.CHATFONT_OUTLINE)
+	elseif font == "spirequal" then
+		oldSetFont(guid, _G.NEWFONT)
+	elseif font == "spirequal_small" then
+		oldSetFont(guid, _G.NEWFONT_SMALL)
+	elseif font == "spirequal_outline" then
+		oldSetFont(guid, _G.NEWFONT_OUTLINE)
+	elseif font == "spirequal_outline_small" then
+		oldSetFont(guid, _G.NEWFONT_OUTLINE_SMALL)
+	elseif font == "bellefair" then
+		oldSetFont(guid, _G.CHATFONT)
+	elseif font == "talkingfont" then
+		oldSetFont(guid, _G.TALKINGFONT)
+	elseif font == "talkingfont_hermit" then
+		oldSetFont(guid, _G.TALKINGFONT_HERMIT)
+	elseif font == "talkingfont_tradein" then
+		oldSetFont(guid, _G.TALKINGFONT_TRADEIN)
+	elseif font == "talkingfont_wormwood" then
+		oldSetFont(guid, _G.TALKINGFONT_WORMWOOD)
+	else
+		oldSetFont(guid, font)
+	end
+end
 --------------------------
 
 AddClassPostConstruct("widgets/inventorybar", function(self, owner) -- แก้ฟ้อนช่องเก็บของไม่โหลด
@@ -159,16 +205,16 @@ end)
 AddClassPostConstruct("screens/popupdialog", function(self, title, text, buttons, scale_bg, spacing_override, style) -- โหลดฟอนต์ในหน้าที่เกมไม่โหลดให้
 	if Config.UI ~= "disable" then
 		ApplyLocalizedFonts()
-		self.title:SetFont(_G.BUTTONFONT)
-		self.text:SetFont(_G.NEWFONT)
+		-- self.title:SetFont(_G.BUTTONFONT)
+		-- self.text:SetFont(_G.NEWFONT)
 	end
 end)
 
 AddClassPostConstruct("screens/worldgenscreen", function(self) -- โหลดฟอนต์ในหน้าที่เกมไม่โหลดให้
 	if Config.UI ~= "disable" then
 		ApplyLocalizedFonts()
-		self.worldgentext:SetFont(_G.TITLEFONT)
-		self.flavourtext:SetFont(_G.UIFONT)
+		-- self.worldgentext:SetFont(_G.TITLEFONT)
+		-- self.flavourtext:SetFont(_G.UIFONT)
 	end
 end)
 
@@ -176,13 +222,13 @@ AddClassPostConstruct("widgets/spinner", function(self, options, width, height, 
 	if textinfo then return end
 	if Config.UI ~= "disable" then
 		ApplyLocalizedFonts()
-		self.text:SetFont(_G.NEWFONT)
+		-- self.text:SetFont(_G.NEWFONT)
 	end
 end)
 
-AddClassPostConstruct("widgets/redux/craftingmenu_skinselector", function(self, recipe, owner, skin_name) -- โหลดฟอนต์ในหน้าที่เกมไม่โหลดให้
-	self.spinner.text:SetFont(_G.BUTTONFONT)
-end)
+-- AddClassPostConstruct("widgets/redux/craftingmenu_skinselector", function(self, recipe, owner, skin_name) -- โหลดฟอนต์ในหน้าที่เกมไม่โหลดให้
+	-- self.spinner.text:SetFont(_G.BUTTONFONT)
+-- end)
 
 _G.getmetatable(TheSim).__index.UnregisterAllPrefabs = (function() -- โหลดฟอนต์ในหน้าที่เกมไม่โหลดให้
 	local oldUnregisterAllPrefabs = _G.getmetatable(TheSim).__index.UnregisterAllPrefabs
@@ -335,46 +381,38 @@ AddClassPostConstruct("screens/redux/multiplayermainscreen", function(self, prev
 	end, "GET")
 	
 	-- screens/redux/multiplayermainscreen ทำให้ STRINGS.UI.OPTIONS หน้าตัวเลือกแปลไม่ติด ต้องแก้ด้วยโค้ดนี้
-	local OptionsScreen = require("databundles/screens/redux/optionsscreen")
-	local oldSettings = self.Settings
-	function self:Settings(default_section)
-		oldSettings(self)
-		self:_FadeToScreen(OptionsScreen, {default_section})
-	end
+	-- local OptionsScreen = require("databundles/screens/redux/optionsscreen")
+	-- local oldSettings = self.Settings
+	-- function self:Settings(default_section)
+		-- oldSettings(self)
+		-- self:_FadeToScreen(OptionsScreen, {default_section})
+	-- end
 end)
 
--- screens/redux/multiplayermainscreen ทำให้ STRINGS.UI.SERVERCREATIONSCREEN.PRIVACY แปลไม่ติด ต้องแก้ด้วยโค้ดนี้
-local privacy_options = {}
-for i,v in pairs(STRINGS.UI.SERVERCREATIONSCREEN.PRIVACY) do
-	privacy_options[v] = i
-end
+-- แก้ฟอนต์หน้าเริ่มเกมเลือกออนไลน์โหมดเป็น ???
+--[[
 AddClassPostConstruct("widgets/redux/serversettingstab", function(self)
 	local oldRefreshPrivacyButtons = self.RefreshPrivacyButtons
-	function self:RefreshPrivacyButtons() -- แก้ฟอนต์เป็น ???
+	function self:RefreshPrivacyButtons()
 		oldRefreshPrivacyButtons(self)
 		for i,v in ipairs(self.privacy_type.buttons.buttonwidgets) do
 			v.button.text:SetFont(_G.NEWFONT)
 		end  
 	end
-	if self.privacy_type and self.privacy_type.buttons and self.privacy_type.buttons.buttonwidgets then
-		for _,option in pairs(self.privacy_type.buttons.options) do
-			if privacy_options[option.text] then
-				option.text = STRINGS.UI.SERVERCREATIONSCREEN.PRIVACY[privacy_options[option.text]]
-			end
-		end
-	end
 end)
+]]
 
--- screens/redux/multiplayermainscreen ทำให้ STRINGS.UI.INTENTION แปลไม่ติด ต้องแก้ด้วยโค้ดนี้
 local function postintentionpicker(self)
 	if self.headertext then -- แก้สระหายของ STRINGS.UI.SERVERCREATIONSCREEN.INTENTION_TITLE
 		local w,h = self.headertext:GetRegionSize()
 		self.headertext:SetRegionSize(w,h+10)
 	end
-	local intention_options={{text=STRINGS.UI.INTENTION.SOCIAL},{text=STRINGS.UI.INTENTION.COOPERATIVE},{text=STRINGS.UI.INTENTION.COMPETITIVE},{text=STRINGS.UI.INTENTION.MADNESS},}
-	for i, v in ipairs(intention_options) do
-		self.buttons[i]:SetText(intention_options[i].text)
-	end
+	
+	-- screens/redux/multiplayermainscreen ทำให้ STRINGS.UI.INTENTION แปลไม่ติด ต้องแก้ด้วยโค้ดนี้
+	-- local intention_options={{text=STRINGS.UI.INTENTION.SOCIAL},{text=STRINGS.UI.INTENTION.COOPERATIVE},{text=STRINGS.UI.INTENTION.COMPETITIVE},{text=STRINGS.UI.INTENTION.MADNESS},}
+	-- for i, v in ipairs(intention_options) do
+		-- self.buttons[i]:SetText(intention_options[i].text)
+	-- end
 end
 AddClassPostConstruct("widgets/intentionpicker", postintentionpicker)
 AddClassPostConstruct("widgets/redux/intentionpicker", postintentionpicker)
