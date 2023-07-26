@@ -289,39 +289,15 @@ if Config.UI ~= "disable" or Config.CON ~= "disable" or Config.ITEM ~= "disable"
 		for i,v in pairs(t.PO) do
 			if string.find(i, "STRINGS.NAMES") or string.find(i, "STRINGS.BEEFALONAMING") or string.find(i, "STRINGS.BUNNYMANNAMES") or string.find(i, "STRINGS.CHARACTER_NAMES") or string.find(i, "STRINGS.CROWNAMES") or string.find(i, "STRINGS.KITCOON_NAMING.NAMES") or string.find(i, "STRINGS.MERMNAMES") or string.find(i, "STRINGS.PIGNAMES") or string.find(i, "STRINGS.SWAMPIGNAMES") then
 				local data = split(i, ".")
-				local text
-				if #data == 7 then
-					text = STRINGS[data[2]][data[3]][data[4]][data[5]][data[6]][data[7]]
-					if not text then
-						text = STRINGS[data[2]][data[3]][data[4]][data[5]][data[6]][_G.tonumber(data[7])]
-					end
-				elseif #data == 6 then
-					text = STRINGS[data[2]][data[3]][data[4]][data[5]][data[6]]
-					if not text then
-						text = STRINGS[data[2]][data[3]][data[4]][data[5]][_G.tonumber(data[6])]
-					end
-				elseif #data == 5 then
-					text = STRINGS[data[2]][data[3]][data[4]][data[5]]
-					if not text then
-						text = STRINGS[data[2]][data[3]][data[4]][_G.tonumber(data[5])]
-					end
-				elseif #data == 4 then
-					text = STRINGS[data[2]][data[3]][data[4]]
-					if not text then
-						text = STRINGS[data[2]][data[3]][_G.tonumber(data[4])]
-					end
-				elseif #data == 3 then
-					text = STRINGS[data[2]][data[3]]
-					if not text then
-						text = STRINGS[data[2]][_G.tonumber(data[3])]
-					end
-				elseif #data == 2 then
-					text = STRINGS[data[2]]
-					if not text then
-						text = STRINGS[_G.tonumber(data[2])]
+				local String = STRINGS[data[2]]
+				for i=3, #data do
+					if _G.tonumber(data[i]) then
+						String = String[_G.tonumber(data[i])]
+					else
+						String = String[data[i]]
 					end
 				end
-				t.PO[i]=v..(text and "\n("..text..")" or "")
+				t.PO[i]=v..(String and "\n("..String..")" or "")
 			end
 		end
 	end
