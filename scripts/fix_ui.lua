@@ -23,6 +23,12 @@ if Config.UI ~= "disable" then
 	StringTable["Only Day"] = "ช่วงเช้าเท่านั้น"
 	StringTable["Only Dusk"] = "ช่วงเย็นเท่านั้น"
 	StringTable["Only Night"] = "กลางคืนเท่านั้น"
+	
+	-- โฆณาหน้าแรก
+	StringTable["New Update!"] = "อัพเดทใหม่!"
+	StringTable["The Moon vs. Shadow Chest!"] = "ดวงจันทร์ vs. หีบแห่งเงา!"
+	StringTable["From Beyond: Terrors Below is now live!"] = "จากบียอนด์: ความหวาดกลัวด้านล่าง\nมาแล้ว"
+	StringTable["Get Walter's Triumphant Set!"] = "รับชุดชัยชนะของวอลเตอร์!"
 
 	local oldSetString = _G.TextWidget.SetString
 	_G.TextWidget.SetString = function(guid, str)
