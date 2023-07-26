@@ -66,6 +66,7 @@ _G.StringUITable["Config Button Vert Pos"] = "ปุ่มกำหนดค่�
 _G.StringUITable["Save Button Show"] = "แสดงปุ่มบันทึก"
 _G.StringUITable["Save Button Horiz Pos"] = "ปุ่มบันทึกแนวนอน"
 _G.StringUITable["Save Button Vert Pos"] = "ปุ่มบันทึกแนวตั้ง"
+_G.StringUITable["Save Config"] = "บันทึก"
 _G.StringUITable["Toggle Minimap Key"] = "ปุ่มสลับ"
 _G.StringUITable["Center Character Key"] = "ปุ่มปรับศูนย์กลาง"
 _G.StringUITable["Config Shotcut Key"] = "ปุ่มตั้งค่า"
