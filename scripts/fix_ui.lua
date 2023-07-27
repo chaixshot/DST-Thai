@@ -65,6 +65,7 @@ local function LoadTranslateMod()
 	local mod_main_do = {}
 	mod_main_do["Minimap HUD Customizable"] = 842702425
 	mod_main_do["Geometric Placement"] = 351325790
+	mod_main_do["Item Info"] = 836583293
 	
 	for k,v in pairs(mod_main_do) do
 		-- if mod_enable[k] then
