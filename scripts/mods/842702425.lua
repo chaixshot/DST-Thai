@@ -1,4 +1,5 @@
 -- Mod info config
+_G.StringUITable["Map Size:"] = "ขนาดแผนที่:"
 _G.StringUITable["Position:"] = "ตำแหน่ง:"
 _G.StringUITable["Horizontal Margin:"] = "ขอบแนวนอน:"
 _G.StringUITable["Vertical Margin:"] = "ขอบแนวตั้ง:"
@@ -39,8 +40,9 @@ _G.StringUITable["Middle Center"] = "ศูนย์กลาง"
 _G.StringUITable["Middle Right"] = "กลางขวา"
 _G.StringUITable["Bottom Left"] = "ล่างซ้าย"
 _G.StringUITable["Bottom Center"] = "ล่างกลาง"
-_G.StringUITable["Bottom Left"] = "ล่างขวา"
+_G.StringUITable["Bottom Right"] = "ล่างขวา"
 
+_G.StringUITable["Custom Value"] = "กำหนดเอง"
 _G.StringUITable["Map Size"] = "ขนาดแผนที่"
 _G.StringUITable["Position"] = "ตำแหน่ง"
 _G.StringUITable["Horizontal Margin"] = "ขอบแนวนอน"

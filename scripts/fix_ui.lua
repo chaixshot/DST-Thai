@@ -38,6 +38,8 @@ if Config.UI ~= "disable" then
 	_G.StringUITable["Check out the new roadmap."] = "ตรวจสอบแผนงานใหม่"
 	_G.StringUITable["20 New T-Shirt Designs!"] = "แบบเสื้อยืด20 ใหม่ตัว!"
 	_G.StringUITable["Save Up to 20% on the Klei Shop!"] = "ประหยัดสูงสุดถึง 20% ที่ร้านค้า Klei!"
+    
+	_G.StringUITable["No previous recipe found"] = "ไม่พบสูตรล่าสุด"
 
 	local oldSetString = _G.TextWidget.SetString
 	_G.TextWidget.SetString = function(guid, str)
@@ -66,6 +68,7 @@ local function LoadTranslateMod()
 	mod_main_do["Minimap HUD Customizable"] = 842702425
 	mod_main_do["Geometric Placement"] = 351325790
 	mod_main_do["Item Info"] = 836583293
+	mod_main_do["Combined Status"] = 376333686
 	
 	for k,v in pairs(mod_main_do) do
 		-- if mod_enable[k] then
