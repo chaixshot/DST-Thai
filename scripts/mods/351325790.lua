@@ -145,6 +145,6 @@ _G.StringUITable["Whether to show the placer.\n(The ghost version of the thing y
 _G.StringUITable["Whether to show the item on the cursor,\njust the number, or nothing."] = "แสดงไอเทมบนเคอร์เซอร์\nแสดงเฉพาะตัวเลข หรือไม่แสดงอะไรเลย"
 _G.StringUITable["Whether to adjust the grid spacing based\non what you're trying to place."] = "ปรับระยะห่างกริดตาม\nในสิ่งที่คุณพยายามจะวาง"
 _G.StringUITable["Whether to snap to a grid when tilling farm soil."] = "ไม่ว่าจะยึดตะแกรงเมื่อไถพรวนดินในฟาร์ม"
-_G.StringUITable["Fine"] = "ลำเอียด"
+_G.StringUITable["Fine"] = "ละเอียด"
 _G.StringUITable["Wall"] = "กำแพง"
 _G.StringUITable["Turf"] = "สนามหญ้า"
