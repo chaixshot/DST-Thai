@@ -181,42 +181,6 @@ _G.TextWidget.SetFont = function(guid, font)
 end
 --------------------------
 
---[[
-AddClassPostConstruct("widgets/inventorybar", function(self, owner) -- แก้ฟ้อนช่องเก็บของไม่โหลด
-	if Config.UI ~= "disable" then
-		ApplyLocalizedFonts()
-	end
-end)
-
-AddClassPostConstruct("screens/popupdialog", function(self, title, text, buttons, scale_bg, spacing_override, style) -- โหลดฟอนต์ในหน้าที่เกมไม่โหลดให้
-	if Config.UI ~= "disable" then
-		ApplyLocalizedFonts()
-		self.title:SetFont(_G.BUTTONFONT)
-		self.text:SetFont(_G.NEWFONT)
-	end
-end)
-
-AddClassPostConstruct("screens/worldgenscreen", function(self) -- โหลดฟอนต์ในหน้าที่เกมไม่โหลดให้
-	if Config.UI ~= "disable" then
-		ApplyLocalizedFonts()
-		self.worldgentext:SetFont(_G.TITLEFONT)
-		self.flavourtext:SetFont(_G.UIFONT)
-	end
-end)
-
-AddClassPostConstruct("widgets/spinner", function(self, options, width, height, textinfo, editable, atlas, textures, lean, textwidth, textheight) -- โหลดฟอนต์ในหน้าที่เกมไม่โหลดให้
-	if textinfo then return end
-	if Config.UI ~= "disable" then
-		ApplyLocalizedFonts()
-		self.text:SetFont(_G.NEWFONT)
-	end
-end)
-
-AddClassPostConstruct("widgets/redux/craftingmenu_skinselector", function(self, recipe, owner, skin_name) -- โหลดฟอนต์ในหน้าที่เกมไม่โหลดให้
-	self.spinner.text:SetFont(_G.BUTTONFONT)
-end)
-]]
-
 _G.getmetatable(TheSim).__index.UnregisterAllPrefabs = (function() -- โหลดฟอนต์ในหน้าที่เกมไม่โหลดให้
 	local oldUnregisterAllPrefabs = _G.getmetatable(TheSim).__index.UnregisterAllPrefabs
 	return function(self, ...)
@@ -292,7 +256,6 @@ if Config.UI ~= "disable" or Config.CON ~= "disable" or Config.ITEM ~= "disable"
 	modimport("scripts/EMPTY.lua")
 end
 
-modimport("scripts/CHARACTER.lua")
 modimport("scripts/fix_ui.lua")
 
 --ปิดผิวขนาดเล็กป้องกันฟอนต์ไทยแตก
@@ -342,44 +305,13 @@ AddClassPostConstruct("screens/redux/multiplayermainscreen", function(self, prev
 			end
 		end
 	end, "GET")
-	
-	-- screens/redux/multiplayermainscreen ทำให้ STRINGS.UI.OPTIONS หน้าตัวเลือกแปลไม่ติด ต้องแก้ด้วยโค้ดนี้
-    --[[
-	local OptionsScreen = require("databundles/screens/redux/optionsscreen")
-	local oldSettings = self.Settings
-	function self:Settings(default_section)
-		oldSettings(self)
-		self:_FadeToScreen(OptionsScreen, {default_section})
-	end
-    ]]
 end)
-
--- แก้ฟอนต์หน้าเริ่มเกมเลือกออนไลน์โหมดเป็น ???
---[[
-AddClassPostConstruct("widgets/redux/serversettingstab", function(self)
-	local oldRefreshPrivacyButtons = self.RefreshPrivacyButtons
-	function self:RefreshPrivacyButtons()
-		oldRefreshPrivacyButtons(self)
-		for i,v in ipairs(self.privacy_type.buttons.buttonwidgets) do
-			v.button.text:SetFont(_G.NEWFONT)
-		end  
-	end
-end)
-]]
 
 local function postintentionpicker(self)
 	if self.headertext then -- แก้สระหายของ STRINGS.UI.SERVERCREATIONSCREEN.INTENTION_TITLE
 		local w,h = self.headertext:GetRegionSize()
 		self.headertext:SetRegionSize(w,h+10)
 	end
-	
-    --[[
-	-- screens/redux/multiplayermainscreen ทำให้ STRINGS.UI.INTENTION แปลไม่ติด ต้องแก้ด้วยโค้ดนี้
-	local intention_options={{text=STRINGS.UI.INTENTION.SOCIAL},{text=STRINGS.UI.INTENTION.COOPERATIVE},{text=STRINGS.UI.INTENTION.COMPETITIVE},{text=STRINGS.UI.INTENTION.MADNESS},}
-	for i, v in ipairs(intention_options) do
-		self.buttons[i]:SetText(intention_options[i].text)
-	end
-    ]]
 end
 AddClassPostConstruct("widgets/intentionpicker", postintentionpicker)
 AddClassPostConstruct("widgets/redux/intentionpicker", postintentionpicker)

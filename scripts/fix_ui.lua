@@ -1,17 +1,21 @@
 _G.StringUITable = {}
 
-if Config.UI ~= "disable" then
-	-- แปล UI ทั้งหมด
-	local function GetStringTable(text, data)
-		for a,b in pairs(data) do
-			if type(b) == "table" then
-				GetStringTable(text.."."..a, b)
-			else
-				_G.StringUITable[data[a]] = t.PO[text.."."..a]
-			end
-		end
-	end
-	GetStringTable("STRINGS.UI", STRINGS.UI)
+local function TranslateStringTable(text, data)
+    for a,b in pairs(data) do
+        if type(b) == "table" then
+            TranslateStringTable(text.."."..a, b)
+        else
+            _G.StringUITable[data[a]] = t.PO[text.."."..a]
+        end
+    end
+end
+
+if Config.CON ~= "disable" then -- แปลบทพูดตัวละครในเซิร์ฟเวอร์คนอื่น
+    TranslateStringTable("STRINGS.CHARACTERS", STRINGS.CHARACTERS)
+end
+
+if Config.UI ~= "disable" then -- แปล UI ทั้งหมด
+	TranslateStringTable("STRINGS.UI", STRINGS.UI)
 
 	-- แปลหน้าสร้างโลก > ป่า > รูปแบบวัน
 	_G.StringUITable["Long Day"] = "ช่วงเช้ายาวนาน"
@@ -50,33 +54,28 @@ if Config.UI ~= "disable" then
 	end
 end
 
--- แปลภาษามอดที่เปิดใช้งานอยู่
-local function LoadTranslateMod()
-	-- local mod_enable = {}
-	-- if not (_G.KnownModIndex and _G.KnownModIndex.savedata and _G.KnownModIndex.savedata.known_mods) then
+if Config.CFG_OTHER_MOD ~= "disable" then -- แปลภาษามอดที่เปิดใช้งานอยู่
+	local mod_enable = {}
+	if not (_G.KnownModIndex and _G.KnownModIndex.savedata and _G.KnownModIndex.savedata.known_mods) then
 
-	-- else
-		-- for folder, mod in pairs(_G.KnownModIndex.savedata.known_mods) do
-			-- local name = mod.modinfo.name
-			-- if name then
-				-- mod_enable[name] = ((mod.enabled or mod.temp_enabled or _G.KnownModIndex:IsModForceEnabled(folder) or _G.KnownModIndex:IsModEnabled(folder)) and not mod.temp_disabled) and true or false
-			-- end
-		-- end
-	-- end
+	else
+		for folder, mod in pairs(_G.KnownModIndex.savedata.known_mods) do
+			local name = mod.modinfo.name
+			if name then
+				mod_enable[name] = true
+			end
+		end
+	end
 	
 	local mod_main_do = {}
 	mod_main_do["Minimap HUD Customizable"] = 842702425
 	mod_main_do["Geometric Placement"] = 351325790
 	mod_main_do["Item Info"] = 836583293
 	mod_main_do["Combined Status"] = 376333686
-	
+    
 	for k,v in pairs(mod_main_do) do
-		-- if mod_enable[k] then
+		if mod_enable[k] then
 			modimport("scripts/mods/"..tostring(v))
-		-- end
+		end
 	end
-end
-
-if Config.CFG_OTHER_MOD ~= "disable" then
-	LoadTranslateMod()
 end

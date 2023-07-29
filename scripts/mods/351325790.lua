@@ -148,3 +148,4 @@ _G.StringUITable["Whether to snap to a grid when tilling farm soil."] = "ไม�
 _G.StringUITable["Fine"] = "ละเอียด"
 _G.StringUITable["Wall"] = "กำแพง"
 _G.StringUITable["Turf"] = "สนามหญ้า"
+_G.StringUITable["hide"] = "ซ่อน"
