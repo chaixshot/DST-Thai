@@ -29,25 +29,20 @@ if Config.UI ~= "disable" then -- แปล UI ทั้งหมด
 	_G.StringUITable["Only Night"] = "กลางคืนเท่านั้น"
 	
 	-- โฆณาหน้าแรก
-	_G.StringUITable["New Update!"] = "อัพเดทใหม่!"
-	_G.StringUITable["The Moon vs. Shadow Chest!"] = "ดวงจันทร์ vs หีบแห่งเงา!"
-	_G.StringUITable["From Beyond: Terrors Below is now live!"] = "จากบียอนด์: ความหวาดกลัวด้านล่าง\nมาแล้ว"
-	_G.StringUITable["Get Walter's Triumphant Set!"] = "รับเซ็ตชัยชนะของวอลเตอร์!"
-	_G.StringUITable["Get Warly's Triumphant Set!"] = "รับเซ็ตชัยชนะของวอล่า!"
-	_G.StringUITable["Get the Wortox Triumphant Set!"] = "รับเซ็ตชัยชนะของวอร์ทอกซ์!"
-	_G.StringUITable["Get Wigfrid's Moonbound Set!"] = "รับเซ็ตมูนบาวด์ของวิกฟริด!"
-	_G.StringUITable["Get Winona's Moonbound Set!"] = "รับเซ็ตมูนบาวด์ของวิโนน่า!"
-	_G.StringUITable["Get Wolfgang's Moonbound Set!"] = "รับเซ็ตมูนบาวด์ของโวล์ฟกัง!"
-	_G.StringUITable["Roadmap 2023"] = "โรดแม็ปปี 2566"
+    _G.StringUITable["New Update!"] = "อัพเดทใหม่!"
+	_G.StringUITable["The Archaic Attire Chest!"] = "หีบเครื่องแต่งกายโบราณ!"
+	_G.StringUITable["Archaic Artifacts Chest!"] = "หีบสิ่งประดิษฐ์โบราณ!"
+    _G.StringUITable["Roadmap 2023"] = "โรดแม็ปปี 2566"
 	_G.StringUITable["Check out the new roadmap."] = "ตรวจสอบแผนงานใหม่"
-	_G.StringUITable["20 New T-Shirt Designs!"] = "แบบเสื้อยืด20 ใหม่ตัว!"
-	_G.StringUITable["Save Up to 20% on the Klei Shop!"] = "ประหยัดสูงสุดถึง 20% ที่ร้านค้า Klei!"
+	_G.StringUITable["Official Discord"] = "Discord อย่างเป็นทางการ"
+	_G.StringUITable["Check out the official Klei Discord!"] = "ตรวจสอบ Klei Discord อย่างเป็นทางการ"
     
 	_G.StringUITable["No previous recipe found"] = "ไม่พบสูตรล่าสุด"
 
 	local oldSetString = _G.TextWidget.SetString
 	_G.TextWidget.SetString = function(guid, str)
 		if type(str)=="string" then
+            print(str)
 			str = _G.StringUITable[str] or str
 		end
 		oldSetString(guid, str)
