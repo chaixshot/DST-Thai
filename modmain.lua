@@ -291,7 +291,7 @@ if Config.UI == "enable" or Config.CON == "enable" or Config.ITEM == "enable" th
                             ItemEN = ItemEN[data[i]]
                         end
                     end
-                    t.PO[text.."."..k]=ItemTH..(ItemEN and "\n("..ItemEN..")" or "")
+                    t.PO[text.."."..k] = (ItemTH~="nil" and ItemTH..(ItemEN and "\n("..ItemEN..")" or "") or "")
                 end
             end
         end
@@ -341,6 +341,7 @@ if Config.UI == "enable" or Config.CON == "enable" or Config.ITEM == "enable" th
 	
 	modimport("scripts/EMPTY.lua")
 end
+modimport("scripts/CHARACTER.lua")
 modimport("scripts/fix_ui.lua")
 
 --ปิดผิวขนาดเล็กป้องกันฟอนต์ไทยแตก
