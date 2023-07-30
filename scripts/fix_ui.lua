@@ -1,20 +1,20 @@
 _G.StringUITable = {}
 
 local function TranslateStringTable(text, data)
-    for a,b in pairs(data) do
-        if type(b) == "table" then
-            TranslateStringTable(text.."."..a, b)
+    for k,v in pairs(data) do
+        if type(v) == "table" then
+            TranslateStringTable(text.."."..k, v)
         else
-            _G.StringUITable[data[a]] = t.PO[text.."."..a]
+            _G.StringUITable[data[k]] = t.PO[text.."."..k]
         end
     end
 end
 
-if Config.CON ~= "disable" then -- แปลบทพูดตัวละครในเซิร์ฟเวอร์คนอื่น
+if Config.CON == "enable" then -- แปลบทพูดตัวละครในเซิร์ฟเวอร์คนอื่น
     TranslateStringTable("STRINGS.CHARACTERS", STRINGS.CHARACTERS)
 end
 
-if Config.UI ~= "disable" then -- แปล UI ทั้งหมด
+if Config.UI == "enable" then -- แปล UI ทั้งหมด
 	TranslateStringTable("STRINGS.UI", STRINGS.UI)
 
 	-- แปลหน้าสร้างโลก > ป่า > รูปแบบวัน
@@ -42,18 +42,15 @@ if Config.UI ~= "disable" then -- แปล UI ทั้งหมด
 	local oldSetString = _G.TextWidget.SetString
 	_G.TextWidget.SetString = function(guid, str)
 		if type(str)=="string" then
-            print(str)
 			str = _G.StringUITable[str] or str
 		end
 		oldSetString(guid, str)
 	end
 end
 
-if Config.CFG_OTHER_MOD ~= "disable" then -- แปลภาษามอดที่เปิดใช้งานอยู่
+if Config.CFG_OTHER_MOD == "enable" then -- แปลภาษามอดที่เปิดใช้งานอยู่
 	local mod_enable = {}
-	if not (_G.KnownModIndex and _G.KnownModIndex.savedata and _G.KnownModIndex.savedata.known_mods) then
-
-	else
+	if _G.KnownModIndex and _G.KnownModIndex.savedata and _G.KnownModIndex.savedata.known_mods then
 		for folder, mod in pairs(_G.KnownModIndex.savedata.known_mods) do
 			local name = mod.modinfo.name
 			if name then
