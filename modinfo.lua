@@ -1,5 +1,5 @@
 name = " ภาษาไทย"
-version = "5.9.4"
+version = "6.0"
 author = "H@mer"
 description = [[Don't Starve Together: ภาษาไทย
 เวอร์ชั่น: ]]..version..
@@ -87,6 +87,17 @@ configuration_options =
         default = "enable",
     },
 	{
+        name = "CFG_CON_ITEM_TWO",
+		label = "บทพูดไอเทมสองภาษา",
+		hover = "ไอเทมสองภาษาในบทพูดตัวละคร, คำอธิบายสกิน, คำอธิบายทักษะ, คำอธิบายเมนูคราฟ\n(การเปิดใช้งานอาจจะทำให้โหลดเกมช้าขึ้นเล็กน้อย)",
+        options =
+        {
+			{description = "ปิด", data = "disable", hover = "ปิดการใช้งานบทพูดไอเทมสองภาษา"},
+            {description = "เปิด", data = "enable", hover = "เปิดการใช้งานบทพูดไอเทมสองภาษา"},
+        },
+        default = "disable",
+    },
+	{
         name = "CFG_OTHER_MOD",
 		label = "แปลส่วนเสริมอื่น",
 		hover = "แปลส่วนเสริมอื่นๆที่สนับสนุนและเปิดการใช้งานอยู่เป็นภาษาไทย",
@@ -103,7 +114,7 @@ configuration_options =
 		hover = "",
 		options =
 		{	
-			{description = "อื่นๆ", data = "nope", hover = "หมวดหมู่นการตั้งค่าตัวเลือกเพิ่มเติม"},
+			{description = "อื่นๆ", data = "nope", hover = "หมวดหมู่การตั้งค่าตัวเลือกเพิ่มเติม"},
 		},
 		default = "nope",
 	},

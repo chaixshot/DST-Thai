@@ -48,7 +48,7 @@ if Config.UI == "enable" then -- แปล UI ทั้งหมด
 	end
 end
 
-if Config.CFG_OTHER_MOD == "enable" then -- แปลภาษามอดที่เปิดใช้งานอยู่
+if Config.OTHER_MOD == "enable" then -- แปลภาษามอดที่เปิดใช้งานอยู่
 	local mod_enable = {}
 	if _G.KnownModIndex and _G.KnownModIndex.savedata and _G.KnownModIndex.savedata.known_mods then
 		for folder, mod in pairs(_G.KnownModIndex.savedata.known_mods) do
