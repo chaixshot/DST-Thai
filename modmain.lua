@@ -382,7 +382,8 @@ function _G.Start() -- โหลดฟอนต์ในหน้าที่เ
 end
 
 -- Version Check
-AddClassPostConstruct("screens/redux/multiplayermainscreen", function(self, prev_screen, profile, offline, session_data)
+-- Warning: SimLuaProxy::QueryServer() tried to access a URL not permitted by the game.
+--[[ AddClassPostConstruct("screens/redux/multiplayermainscreen", function(self, prev_screen, profile, offline, session_data)
     TheSim:QueryServer("https://raw.githubusercontent.com/chaixshot/DST-Thai/main/version.txt", function(result, isSuccessful, resultCode)
         if resultCode == 200 and isSuccessful then
             local json = require("json")
@@ -409,7 +410,7 @@ AddClassPostConstruct("screens/redux/multiplayermainscreen", function(self, prev
             end
         end
     end, "GET")
-end)
+end) ]]
 
 local function postintentionpicker(self)
     if self.headertext then -- แก้สระหายของ STRINGS.UI.SERVERCREATIONSCREEN.INTENTION_TITLE
