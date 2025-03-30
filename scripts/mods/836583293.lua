@@ -35,4 +35,3 @@ _G.StringUITable["Set the equip info bottom margin"] = "ตั้งค่าร
 
 _G.StringUITable["Right Margin"] = "ขอบขวา"
 _G.StringUITable["Set the equip info right margin"] = "ตั้งค่าระยะขอบด้านขวาของข้อมูลอุปกรณ์"
-
