@@ -220,60 +220,61 @@ if Config.UI == "enable" or Config.CON == "enable" or Config.ITEM == "enable" th
     LoadPOFile("scripts/languages/thai.po", t.SelectedLanguage)
     t.PO = _G.LanguageTranslator.languages[t.SelectedLanguage]
 
-    -- ไอเทมสองภาษาใน STRING.CHARACTERS, STRING.SKILLTREE, STRING.SKIN_DESCRIPTIONS, STRINGS.RECIPE_DESC
-    local ItemNameTH = {}
-    for k, v in pairs(STRINGS.NAMES) do
-        local nameTH = tostring(t.PO["STRINGS.NAMES."..k])
-        local nameEN = v
-        ItemNameTH[nameTH] = nameEN
-    end
-    local function ItemTwoConversation(text, data)
-        for k, v in pairs(data) do
-            if type(v) == "table" then
-                ItemTwoConversation(text.."."..k, v)
-            else
-                local data = split(text.."."..k, ".")
-                local ConversationTH = tostring(t.PO[text.."."..k])
-                local ConversationEN = STRINGS[data[2]]
-                for i = 3, #data do
-                    if tonumber(data[i]) then
-                        ConversationEN = ConversationEN[tonumber(data[i])]
-                    else
-                        ConversationEN = ConversationEN[data[i]]
+    if Config.CON == "enable" and Config.CON_ITEM_TWO == "enable" then
+        -- ไอเทมสองภาษาใน STRING.CHARACTERS, STRING.SKILLTREE, STRING.SKIN_DESCRIPTIONS, STRINGS.RECIPE_DESC
+        local ItemNameTH = {}
+        for k, v in pairs(STRINGS.NAMES) do
+            local nameTH = tostring(t.PO["STRINGS.NAMES."..k])
+            local nameEN = v
+            ItemNameTH[nameTH] = nameEN
+        end
+
+        local function ItemTwoConversation(text, dataToCheck)
+            local blackList = {
+                ["Nothing"] = true,
+                ["X"] = true,
+                ["Health"] = true,
+                ["Sanity"] = true,
+                ["Fire"] = true,
+                ["Plant"] = true,
+            }
+
+            for k, v in pairs(dataToCheck) do
+                if type(v) == "table" then
+                    ItemTwoConversation(text.."."..k, v)
+                else
+                    local data = string.split(text.."."..k, ".")
+                    local ConversationTH = tostring(t.PO[text.."."..k])
+                    local ConversationEN = STRINGS[data[2]]
+                    for i = 3, #data do
+                        if tonumber(data[i]) then
+                            ConversationEN = ConversationEN[tonumber(data[i])]
+                        else
+                            ConversationEN = ConversationEN[data[i]]
+                        end
                     end
-                end
-                ConversationEN = tostring(ConversationEN)
+                    ConversationEN = tostring(ConversationEN)
 
-                local BlackList = {
-                    ["Nothing"] = true,
-                    ["X"] = true,
-                    ["Health"] = true,
-                    ["Sanity"] = true,
-                    ["Fire"] = true,
-                    ["Plant"] = true,
-                }
-
-                for thainame, engname in pairs(ItemNameTH) do
-                    if not BlackList[engname] and thainame ~= "nil" then
-                        if string.find(ConversationEN, engname) then -- Fast check
-                            if string.find(ConversationEN, "%f[%a]"..engname.."%f[%A]") then -- Slow check
-                                local newcon = string.gsub(ConversationTH, "%f[%a]"..engname.."%f[%A]", thainame)
-                                if Config.ITEM == "disable" then -- ปิดแปลชื่อไอเทมในบทสนทนา
-                                    newcon = string.gsub(newcon, thainame, " "..engname.." ")
-                                else
-                                    newcon = string.gsub(newcon, thainame, thainame.."("..engname..")")
+                    for thainame, engname in pairs(ItemNameTH) do
+                        if not blackList[engname] and thainame ~= "nil" then
+                            if string.find(ConversationEN, engname) then -- Fast check
+                                if string.find(ConversationEN, "%f[%a]"..engname.."%f[%A]") then -- Slow check
+                                    local newcon = string.gsub(ConversationTH, "%f[%a]"..engname.."%f[%A]", thainame)
+                                    if Config.ITEM == "disable" then -- ปิดแปลชื่อไอเทมในบทสนทนา
+                                        newcon = string.gsub(newcon, thainame, " "..engname.." ")
+                                    else
+                                        newcon = string.gsub(newcon, thainame, thainame.."("..engname..")")
+                                    end
+                                    ConversationTH = string.gsub(newcon, "  ", " ")
+                                    t.PO[text.."."..k] = ConversationTH
                                 end
-                                ConversationTH = string.gsub(newcon, "  ", " ")
-                                t.PO[text.."."..k] = ConversationTH
                             end
                         end
                     end
                 end
             end
         end
-    end
 
-    if Config.CON_ITEM_TWO == "enable" then
         ItemTwoConversation("STRINGS.CHARACTERS", STRINGS.CHARACTERS)
         if Config.UI == "enable" then
             ItemTwoConversation("STRINGS.RECIPE_DESC", STRINGS.RECIPE_DESC)
@@ -286,12 +287,12 @@ if Config.UI == "enable" or Config.CON == "enable" or Config.ITEM == "enable" th
 
     -- ไอเทมสองภาษาในชื่อไอเทมเลย
     if Config.ITEM == "enable" and Config.ITEM_TWO == "enable" then
-        local function ItemTwoName(text, data)
-            for k, v in pairs(data) do
+        local function ItemTwoName(text, block)
+            for k, v in pairs(block) do
                 if type(v) == "table" then
                     ItemTwoName(text.."."..k, v)
                 else
-                    local data = split(text.."."..k, ".")
+                    local data = string.split(text.."."..k, ".")
                     local ItemTH = tostring(t.PO[text.."."..k])
                     local ItemEN = STRINGS[data[2]]
                     if ItemTH ~= "nil" then
@@ -309,11 +310,13 @@ if Config.UI == "enable" or Config.CON == "enable" or Config.ITEM == "enable" th
                 end
             end
         end
+
         ItemTwoName("STRINGS.NAMES", STRINGS.NAMES)
         ItemTwoName("STRINGS.BUNNYMANNAMES", STRINGS.BUNNYMANNAMES)
         ItemTwoName("STRINGS.CHARACTER_NAMES", STRINGS.CHARACTER_NAMES)
         ItemTwoName("STRINGS.MERMNAMES", STRINGS.MERMNAMES)
         ItemTwoName("STRINGS.PIGNAMES", STRINGS.PIGNAMES)
+
         if IsDST then
             ItemTwoName("STRINGS.BEEFALONAMING", STRINGS.BEEFALONAMING)
             ItemTwoName("STRINGS.CROWNAMES", STRINGS.CROWNAMES)
@@ -330,31 +333,83 @@ if Config.UI == "enable" or Config.CON == "enable" or Config.ITEM == "enable" th
         end
     end
 
-    for k, v in pairs(t.PO) do
+    for _string in pairs(t.PO) do
         -- ปิดการแปล UI
         if Config.UI == "disable" then
-            if string.find(k, "STRINGS.UI") or string.find(k, "STRINGS.ACTIONS") or string.find(k, "STRINGS.RECIPE_DESC") or string.find(k, "STRINGS.ANTIADDICTION") or string.find(k, "STRINGS.CHARACTER_") then
-                t.PO[k] = ""
+            for k, v in pairs({
+                "STRINGS.UI",
+                "STRINGS.ACTIONS",
+                "STRINGS.RECIPE_DESC",
+                "STRINGS.ANTIADDICTION",
+                "STRINGS.CHARACTER_",
+            }) do
+                if string.find(_string, v) then
+                    t.PO[k] = ""
+                end
             end
         end
 
         -- ปิดการแปลบทพูด
         if Config.CON == "disable" then
-            if string.find(k, "STRINGS.CHARACTERS.GENERIC") or string.find(k, "STRINGS.BOARLORD_") or string.find(k, "STRINGS.CARNIVAL_") or string.find(k, "STRINGS.GOATMUM_") or string.find(k, "STRINGS.HERMITCRAB_") or string.find(k, "STRINGS.VOIDCLOTH_") or string.find(k, "STRINGS.YOTB_") or string.find(k, "STRINGS.LUCY") or string.find(k, "STRINGS.MERM_KING_TALK_") or string.find(k, "STRINGS.MERM_TALK") then
-                t.PO[k] = ""
+            for k, v in pairs({
+                "STRINGS.CHARACTERS.GENERIC",
+                "STRINGS.BOARLORD_",
+                "STRINGS.CARNIVAL_",
+                "STRINGS.GOATMUM_",
+                "STRINGS.HERMITCRAB_",
+                "STRINGS.VOIDCLOTH_",
+                "STRINGS.YOTB_",
+                "STRINGS.LUCY",
+                "STRINGS.MERM_KING_TALK_",
+                "STRINGS.MERM_TALK",
+            }) do
+                if string.find(_string, v) then
+                    t.PO[k] = ""
+                end
             end
         end
 
         -- ปิดการแปลชื่อไอเทม
         if Config.ITEM == "disable" then
-            if string.find(k, "STRINGS.NAMES") then
-                t.PO[k] = ""
+            for k, v in pairs({
+                "STRINGS.NAMES",
+            }) do
+                if string.find(_string, v) then
+                    t.PO[k] = ""
+                end
             end
         end
     end
 end
-modimport("scripts/CHARACTER.lua")
+-- modimport("scripts/CHARACTER.lua")
 modimport("scripts/fix_ui.lua")
+
+-- แปลภาษามอดที่เปิดใช้งานอยู่
+if Config.OTHER_MOD == "enable" then
+    local modInfo = {
+        ["Minimap HUD Customizable"] = "842702425",
+        ["Geometric Placement"] = "351325790",
+        ["Item Info"] = "836583293",
+        ["Combined Status"] = "376333686",
+    }
+    local mod_enable = {}
+    
+    if _G.KnownModIndex and _G.KnownModIndex.savedata and _G.KnownModIndex.savedata.known_mods then
+        for folder, mod in pairs(_G.KnownModIndex.savedata.known_mods) do
+            local name = mod.modinfo.name
+            if name then
+                mod_enable[name] = true
+            end
+        end
+    end
+
+    for modeName, modeId in pairs(modInfo) do
+        if mod_enable[modeName] then
+            modimport("scripts/mods/"..modeId)
+        end
+    end
+end
+
 
 --ปิดผิวขนาดเล็กป้องกันฟอนต์ไทยแตก
 local SMALL_TEXTURES = GetModConfigData("SMALL_TEXTURES")
@@ -382,7 +437,7 @@ function _G.Start() -- โหลดฟอนต์ในหน้าที่เ
 end
 
 -- Version Check
--- Warning: SimLuaProxy::QueryServer() tried to access a URL not permitted by the game.
+-- ^^ SimLuaProxy::QueryServer() tried to access a URL not permitted by the game.
 --[[ AddClassPostConstruct("screens/redux/multiplayermainscreen", function(self, prev_screen, profile, offline, session_data)
     TheSim:QueryServer("https://raw.githubusercontent.com/chaixshot/DST-Thai/main/version.txt", function(result, isSuccessful, resultCode)
         if resultCode == 200 and isSuccessful then

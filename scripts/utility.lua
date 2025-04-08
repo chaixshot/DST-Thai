@@ -1,4 +1,4 @@
-function split(str, sep)
+function string.split(str, sep)
 	local fields, first = {}, 1
 	str = str..sep
 	for i = 1, #str do
