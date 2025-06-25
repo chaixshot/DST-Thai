@@ -30,9 +30,12 @@ if Config.UI == "enable" then -- แปล UI ทั้งหมด
 
 	-- โฆณาหน้าแรก
 	_G.StringUITable["New Update!"] = "อัพเดทใหม่!"
-	_G.StringUITable["The Archaic Attire Chest!"] = "หีบเครื่องแต่งกายโบราณ!"
-	_G.StringUITable["Archaic Artifacts Chest!"] = "หีบสิ่งประดิษฐ์โบราณ!"
-	_G.StringUITable["Check out the new roadmap."] = "ตรวจสอบแผนงานใหม่"
+	_G.StringUITable["The Moonbound and Stampeder Collections!"] = "คอลเลกชั่น Moonbound และ Stampeder!"
+	_G.StringUITable["The Hostile Takeover Update is live!"] = "การอัปเดตการเข้ายึดครองที่ไม่เป็นมิตรกำลังดำเนินการอยู่!"
+	
+	_G.StringUITable["New Twitch Drop!"] = "Twitch Drop ใหม่!"
+	_G.StringUITable["The Gathering Amulet"] = "เครื่องรางแห่งการรวบรวม"
+
 	_G.StringUITable["Official Discord"] = "Discord อย่างเป็นทางการ"
 	_G.StringUITable["Check out the official Klei Discord!"] = "ตรวจสอบ Klei Discord อย่างเป็นทางการ"
 
