@@ -1,37 +1,53 @@
-<h1>นี่คืออะไร:</h1>
-<p>เปลี่ยนเกม <a href="http://store.steampowered.com/app/322330/">Don&#39;t Starve Together</a> เป็นภาษาไทย เพื่อให้คนไทยได้อ่านออกเข้าใจ<br />
-และสามารถพิมพ์ไทยในเกมได้โดยไม่เป็นเครื่องหมาย <code>???</code><br />
-<code>*หากปิดตัวเลือกแปลภาษาจะสามารถพิมพ์ไทยในแชทได้</code></p>
+<div align="left">
+  <img src=".github/images/dst_steam_gif_about.gif" alt="" width="100%" />
+</div>
 
-<p>หากพบเห็นข้อผิดพลาดเช่น การแปลผิด ส่วนเสริมมีปัญหา กรุณาแจ้งผู้พัฒนาด้วย เพื่อจะได้ทำการแก้ไขในการอัพเดท<br />
-สามารถพูดคุยหรือติดต่อสอบถามและพิมพ์เป็นกำลังใจได้ที่ความคิดเห็นบนสตรีมเวิร์คชอปนี้</p>
+# นี่คืออะไร:
+เปลี่ยนเกม Don't Starve Together ทั้งหมดเป็นภาษาไทย
+และสามารถพิมพ์ไทยในเกมได้โดยไม่เป็นเครื่องหมาย "???"
 
-<h1>คำอธิบายเพิ่มเติม:</h1>
-<ul>
-	<li>เมื่อเข้าร่วมเซิร์ฟเวอร์ผู้อื่น จะสามารถแปลบทพูดตัวละครได้อยู่</li>
-	<li>เลือกการแปลในส่วนที่ต้องการได้เช่น เมนู บทพูด ชื่อไอเทม แสดงชื่อไอเทมทั้งสองภาษา</li>
-	<li>หากปิดการแปลไว้จะนำฟอนต์เกมกลับเดิมมา แต่ยังพิมพ์ไทยได้อยู่</li>
-	<li>การแปลขอองตัวเกมได้เสร็จสิ้นเป็นที่เรียบร้อยแล้ว</li>
-	<li>หลังจากนี้จะมีการอัพเดทตามแพทช์ของตัวเกมต่อไป</li>
-</ul>
+# คำอธิบายเพิ่มเติม:
+* หากปิดการแปลทั้งหมดไว้จะนำฟอนต์เกมเดิมกลับมา แต่ยังพิมพ์แชทไทยได้
+* หลังจากนี้จะมีการอัพเดทตามแพทช์ของตัวเกมต่อไป
 
-<h1>ปัญหาที่อาจเกิดขึ้น:</h1>
-<p><br />
-การแก้ปัญหาที่อยู่ในส่วนเสริมนี้จำเป็นต้องให้ผู้ใช้ทุกท่านช่วยกันรายงาน<br />
-สามารถร่วมพูดคุยแก้ไขปัญหาได้ที่โพสปักหมุดทางด้านล่าง<br />
-หรือสามารถอ่านคำแนะนำสำหรับปัญหาต่างๆได้เช่นกัน</p>
 
-<p><img alt="" src="https://cdn.cloudflare.steamstatic.com/steam/apps/322330/header_alt_assets_31.jpg?t=1656607265" style="height:215px; width:460px" /></p>
+# เปิด/ปิดการแปลแยกส่วนได้:
+<div align="left">
+  <img src=".github/images/modsetting.png" alt="" width="60%" />
+</div>
 
-<p><a href="https://www.facebook.com/groups/DONTSTARVE.THAI/">กลุ่ม Facebook</a><br />
-<a href="http://steamcommunity.com/sharedfiles/filedetails/?id=854549853">เวอร์ชั่นสำหรับ Don&#39;t Starve</a></p>
+# แปลส่วนเสริมอื่น:
+ตัวอย่างการแปลส่วนเสริม [Geometric Placement](https://steamcommunity.com/sharedfiles/filedetails/?id=351325790/)
+ต้องการให้แปลส่วนเสริมไหนแจ้งได้ที่คอมเม้น
+<div align="left">
+  <img src=".github/images/modothertr.png" alt="" width="60%" />
+</div>
 
-<p>หากชอบใจให้<strong>บอกต่อ</strong>เพื่อนและกด<strong>ถูกใจ</strong>เวิร์คชอปด้วย<br />
-<strong>ขอบคุณ</strong></p>
 
-<h1>ทรัพยากรภายนอก:</h1>
-<p><a href="https://github.com/chaixshot/DST-Thai">Source code on Github</a></p>
+# ไอเทมสองภาษา:
+ป้องกันการสับสนชื่อไอเทมเมื่อเล่นกับผู้ที่ไม่ได้ติดตั้งส่วนเสริมภาษาไทย
+รวมถึงชื่อตัวละคร หมู และอื่นๆ
+<div align="left">
+  <img src=".github/images/itemtowlang.png" alt="" width="60%" />
+</div>
 
-<h1>ส่วนเสริมอื่นที่สนับสนุนการแปล:</h1>
-https://steamcommunity.com/sharedfiles/filedetails/?id=351325790
-https://steamcommunity.com/sharedfiles/filedetails/?id=842702425
+# รองรับการแสดงผลปุ่ม Xbox Controller:
+<div align="left">
+  <img src=".github/images/xboxbutton.jpg" alt="" width="60%" />
+</div>
+
+
+# ปัญหาที่อาจเกิดขึ้น:
+หากพบเห็นข้อผิดพลาดเช่น การแปลผิด ส่วนเสริมมีปัญหา กรุณาแจ้งผู้พัฒนาด้วยที่โ[พสปักหมุด](https://steamcommunity.com/workshop/filedetails/discussion/807516498/152392549359097452/) เพื่อจะได้ทำการแก้ไขในการอัพเดท หรือสามารถอ่านคำแนะนำสำหรับปัญหาต่างๆได้เช่นกัน
+สามารถพูดคุยหรือติดต่อสอบถามและพิมพ์เป็นกำลังใจได้ที่ความคิดเห็นบน[สตรีมเวิร์คชอป](https://steamcommunity.com/sharedfiles/filedetails/?id=807516498)
+<div align="left">
+  <img src=".github/images/header_alt_assets_1.jpg" alt="" width="70%" />
+</div>
+
+----------------------
+
+กลุ่ม [Facebook](https://www.facebook.com/groups/DONTSTARVE.THAI/)
+เวอร์ชั่นสำหรับ [Don't Starve](https://steamcommunity.com/sharedfiles/filedetails/?id=854549853)
+
+หากชอบใจให้**บอกต่อ**เพื่อนและกด**ถูกใจ**[เวิร์คชอป](https://steamcommunity.com/sharedfiles/filedetails/?id=807516498)ด้วย
+ขอบคุณ
