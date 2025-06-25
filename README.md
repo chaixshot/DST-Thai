@@ -18,7 +18,7 @@
 
 # แปลส่วนเสริมอื่น:
 ตัวอย่างการแปลส่วนเสริม [Geometric Placement](https://steamcommunity.com/sharedfiles/filedetails/?id=351325790/)
-ต้องการให้แปลส่วนเสริมไหนแจ้งได้ที่คอมเม้น
+> ต้องการให้แปลส่วนเสริมไหนแจ้งได้ที่คอมเม้น
 <div align="left">
   <img src=".github/images/modothertr.png" alt="" width="60%" />
 </div>
@@ -46,8 +46,8 @@
 
 ----------------------
 
-กลุ่ม [Facebook](https://www.facebook.com/groups/DONTSTARVE.THAI/)
-เวอร์ชั่นสำหรับ [Don't Starve](https://steamcommunity.com/sharedfiles/filedetails/?id=854549853)
+* กลุ่ม [Facebook](https://www.facebook.com/groups/DONTSTARVE.THAI/)
+* เวอร์ชั่นสำหรับ [Don't Starve](https://steamcommunity.com/sharedfiles/filedetails/?id=854549853)
 
 หากชอบใจให้**บอกต่อ**เพื่อนและกด**ถูกใจ**[เวิร์คชอป](https://steamcommunity.com/sharedfiles/filedetails/?id=807516498)ด้วย
 ขอบคุณ
