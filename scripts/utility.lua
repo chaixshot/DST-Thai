@@ -1,11 +1,12 @@
-function string.split(str, sep)
-	local fields, first = {}, 1
-	str = str..sep
-	for i = 1, #str do
-		if string.sub(str, i, i + #sep - 1) == sep then
-			fields[#fields + 1] = (i <= first) and "" or string.sub(str, first, i - 1)
-			first = i + #sep
-		end
+--[[ function string.split(inputstr, sep) --INFO game crashed 
+	if sep == nil then
+		sep = "%s"
 	end
-	return fields
-end
+	local t = {}
+	local i = 1
+	for str in string.gmatch(inputstr or "", "([^"..sep.."]+)") do
+		t[i] = str
+		i += 1
+	end
+	return t
+end ]]
