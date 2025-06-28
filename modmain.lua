@@ -191,16 +191,6 @@ _G.TextWidget.SetFont = function(guid, font)
 end
 --------------------------
 
-_G.getmetatable(TheSim).__index.UnregisterAllPrefabs = (function() -- โหลดฟอนต์ในหน้าที่เกมไม่โหลดให้
-    local oldUnregisterAllPrefabs = _G.getmetatable(TheSim).__index.UnregisterAllPrefabs
-    return function(self, ...)
-        oldUnregisterAllPrefabs(self, ...)
-        ApplyLocalizedFonts()
-    end
-end)()
-
---------------------------
-
 --โหลดรูปภาพที่แปลภาษาแล้ว
 Assets = {
     Asset("IMAGE", MODROOT.."images/skinsscreen.tex"),
@@ -381,7 +371,7 @@ if Config.UI == "enable" or Config.CON == "enable" or Config.ITEM == "enable" th
         end
     end
 end
--- modimport("scripts/CHARACTER.lua")
+modimport("scripts/CHARACTER.lua")
 modimport("scripts/fix_ui.lua")
 
 -- แปลภาษามอดที่เปิดใช้งานอยู่
@@ -430,11 +420,21 @@ if SMALL_TEXTURES and not ISPLAYINGNOW then
     end)
 end
 
+-- โหลดฟอนต์ไทย
 local OldStart = _G.Start
-function _G.Start() -- โหลดฟอนต์ในหน้าที่เกมไม่โหลดให้
+function _G.Start() 
     ApplyLocalizedFonts()
     OldStart()
 end
+
+_G.getmetatable(TheSim).__index.UnregisterAllPrefabs = (function()
+    local oldUnregisterAllPrefabs = _G.getmetatable(TheSim).__index.UnregisterAllPrefabs
+    return function(self, ...)
+        oldUnregisterAllPrefabs(self, ...)
+        ApplyLocalizedFonts()
+    end
+end)()
+---------------------------
 
 -- Version Check
 -- ^^ SimLuaProxy::QueryServer() tried to access a URL not permitted by the game.

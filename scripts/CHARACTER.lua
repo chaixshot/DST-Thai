@@ -206,9 +206,9 @@ local function BuildCharacterHash(charname)
 
 	charname = charname:upper()
 
-	if character == "WILSON" then character = "GENERIC" end
-	if character == "MAXWELL" then character = "WAXWELL" end
-	if character == "WIGFRID" then character = "WATHGRITHR" end
+	if charname == "WILSON" then charname = "GENERIC" end
+	if charname == "MAXWELL" then charname = "WAXWELL" end
+	if charname == "WIGFRID" then charname = "WATHGRITHR" end
 
 	t.SpeechHashTbl[charname] = {}
 
