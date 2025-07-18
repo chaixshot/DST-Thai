@@ -10,3 +10,13 @@
 	end
 	return t
 end ]]
+
+function TranslateStringTable(text, data)
+	for k, v in pairs(data) do
+		if type(v) == "table" then
+			TranslateStringTable(text.."."..k, v)
+		else
+			Thai.StringUITable[data[k]] = Thai.PO[text.."."..k]
+		end
+	end
+end

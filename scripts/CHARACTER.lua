@@ -3,6 +3,8 @@ if not Config.CON then
 	return
 end
 
+-- TranslateStringTable("STRINGS.CHARACTERS", STRINGS.CHARACTERS)
+
 local function ParseTranslationTags(message, char, talker, optionaltags)
 	if not (message and string.find(message, "[", 1, true)) then return message end
 
@@ -49,7 +51,7 @@ local function ParseTranslationTags(message, char, talker, optionaltags)
 		end
 
 		str = tags and (tags[char]
-			or SelectByCustomTags(t.CharacterInherentTags[char])
+			or SelectByCustomTags(Thai.CharacterInherentTags[char])
 			or tags[gender]
 			or SelectByCustomTags(optionaltags)
 			or tags["default"]
@@ -119,9 +121,9 @@ end
 
 local function GetFromSpeechesHash(message, char)
 	local function GetMentioned(message, char)
-		if not (message and t.SpeechHashTbl[char] and t.SpeechHashTbl[char]["mentioned_class"] and type(t.SpeechHashTbl[char]["mentioned_class"]) == "table") then return nil end
+		if not (message and Thai.SpeechHashTbl[char] and Thai.SpeechHashTbl[char]["mentioned_class"] and type(Thai.SpeechHashTbl[char]["mentioned_class"]) == "table") then return nil end
 
-		for i, v in pairs(t.SpeechHashTbl[char]["mentioned_class"]) do
+		for i, v in pairs(Thai.SpeechHashTbl[char]["mentioned_class"]) do
 			local mentions = {string.match(message, "^"..(string.gsub(i, "%%s", "(.*)")).."$")}
 			if mentions and #mentions > 0 then
 				return v, mentions
@@ -133,7 +135,7 @@ local function GetFromSpeechesHash(message, char)
 
 	local mentions
 	if not char then char = "GENERIC" end
-	if message and t.SpeechHashTbl[char] then
+	if message and Thai.SpeechHashTbl[char] then
 		local umlautified = false
 
 		if char == "WATHGRITHR" then
@@ -142,9 +144,9 @@ local function GetFromSpeechesHash(message, char)
 			message = tmp
 		end
 
-		local msg = t.SpeechHashTbl[char][message] or t.SpeechHashTbl["GENERIC"][message]
+		local msg = Thai.SpeechHashTbl[char][message] or Thai.SpeechHashTbl["GENERIC"][message]
 		if not msg and char == "WX78" then
-			for i, v in pairs(t.SpeechHashTbl["GENERIC"]) do
+			for i, v in pairs(Thai.SpeechHashTbl["GENERIC"]) do
 				if message == i:upper() then
 					msg = v
 					break
@@ -172,7 +174,7 @@ local function GetFromSpeechesHash(message, char)
 end
 
 local function BuildCharacterHash(charname)
-	local source = source or t.PO
+	local source = source or Thai.PO
 	local function CreateThaiHashTable(hashtbl, tbl, str)
 		for i, v in pairs(tbl) do
 			if type(v) == "table" then
@@ -214,9 +216,9 @@ local function BuildCharacterHash(charname)
 	if charname == "MAXWELL" then charname = "WAXWELL" end
 	if charname == "WIGFRID" then charname = "WATHGRITHR" end
 
-	t.SpeechHashTbl[charname] = {}
+	Thai.SpeechHashTbl[charname] = {}
 
-	CreateThaiHashTable(t.SpeechHashTbl[charname], STRINGS.CHARACTERS[charname] or t.SpeechHashTbl[charname], "STRINGS.CHARACTERS."..charname)
+	CreateThaiHashTable(Thai.SpeechHashTbl[charname], STRINGS.CHARACTERS[charname] or Thai.SpeechHashTbl[charname], "STRINGS.CHARACTERS."..charname)
 end
 
 local function TranslateToThai(message, entity)
@@ -227,8 +229,8 @@ local function TranslateToThai(message, entity)
 		return message
 	end
 
-	if t.SpeechHashTbl.EPITAPHS[message] then
-		return t.SpeechHashTbl.EPITAPHS[message]
+	if Thai.SpeechHashTbl.EPITAPHS[message] then
+		return Thai.SpeechHashTbl.EPITAPHS[message]
 	end
 
 	local ent = entity
@@ -248,10 +250,10 @@ local function TranslateToThai(message, entity)
 		local killerkey
 		if mentions then
 			if #mentions > 1 then
-				killerkey = t.SpeechHashTbl.NAMES.Eng2Key[mentions[2]]
+				killerkey = Thai.SpeechHashTbl.NAMES.Eng2Key[mentions[2]]
 
 				if not killerkey and entity == "WX78" then
-					for eng, key in pairs(t.SpeechHashTbl.NAMES.Eng2Key) do
+					for eng, key in pairs(Thai.SpeechHashTbl.NAMES.Eng2Key) do
 						if eng:upper() == mentions[2] then
 							killerkey = key
 							break
@@ -315,17 +317,17 @@ local function TranslateToThai(message, entity)
 end
 
 
-t.SpeechHashTbl = {}
-t.SpeechHashTbl.EPITAPHS = {}
-t.SpeechHashTbl.NAMES = {Eng2Key = {}, Thai2Eng = {}}
-t.CharacterInherentTags = {}
+Thai.SpeechHashTbl = {}
+Thai.SpeechHashTbl.EPITAPHS = {}
+Thai.SpeechHashTbl.NAMES = {Eng2Key = {}, Thai2Eng = {}}
+Thai.CharacterInherentTags = {}
 
 for char in pairs(_G.GetActiveCharacterList()) do -- t.CharacterInherentTags
-	t.CharacterInherentTags[char] = {}
+	Thai.CharacterInherentTags[char] = {}
 end
 
 for key, val in pairs(STRINGS.NAMES) do -- t.SpeechHashTbl.NAMES.Eng2Key
-	t.SpeechHashTbl.NAMES.Eng2Key[val] = key
+	Thai.SpeechHashTbl.NAMES.Eng2Key[val] = key
 end
 
 for charname, v in pairs(STRINGS.CHARACTERS) do

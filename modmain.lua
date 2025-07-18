@@ -2,17 +2,13 @@ _G = GLOBAL
 rawget = _G.rawget
 tonumber = _G.tonumber
 tostring = _G.tostring
-mods = _G.rawget(_G, "mods") or (function()
-    local m = {}
-    _G.rawset(_G, "mods", m)
-    return m
-end)()
-mods.ThaiLanguagePack = {}
-t = mods.ThaiLanguagePack
-t.SelectedLanguage = "th"
 TheSim = _G.TheSim
 STRINGS = _G.STRINGS
 IsDST = _G.MOD_API_VERSION == 10
+Thai = {
+    SelectedLanguage = "th",
+    StringUITable = {},
+}
 
 modimport("scripts/utility.lua")
 
@@ -52,21 +48,21 @@ function ApplyLocalizedFonts()
     }
 
     for FontName in pairs(LocalizedFontList) do
-        TheSim:UnloadFont(t.SelectedLanguage.."_"..FontName)
+        TheSim:UnloadFont(Thai.SelectedLanguage.."_"..FontName)
     end
-    TheSim:UnloadPrefabs({t.SelectedLanguage.."_fonts_"..modname})
+    TheSim:UnloadPrefabs({Thai.SelectedLanguage.."_fonts_"..modname})
 
     local LocalizedFontAssets = {}
     for FontName in pairs(LocalizedFontList) do
-        table.insert(LocalizedFontAssets, _G.Asset("FONT", MODROOT.."fonts/"..FontName.."__"..t.SelectedLanguage..".zip"))
+        table.insert(LocalizedFontAssets, _G.Asset("FONT", MODROOT.."fonts/"..FontName.."__"..Thai.SelectedLanguage..".zip"))
     end
 
-    local LocalizedFontsPrefab = _G.Prefab("common/"..t.SelectedLanguage.."_fonts_"..modname, nil, LocalizedFontAssets)
+    local LocalizedFontsPrefab = _G.Prefab("common/"..Thai.SelectedLanguage.."_fonts_"..modname, nil, LocalizedFontAssets)
     _G.RegisterPrefabs(LocalizedFontsPrefab)
-    TheSim:LoadPrefabs({t.SelectedLanguage.."_fonts_"..modname})
+    TheSim:LoadPrefabs({Thai.SelectedLanguage.."_fonts_"..modname})
 
     for FontName in pairs(LocalizedFontList) do
-        TheSim:LoadFont(MODROOT.."fonts/"..FontName.."__"..t.SelectedLanguage..".zip", t.SelectedLanguage.."_"..FontName)
+        TheSim:LoadFont(MODROOT.."fonts/"..FontName.."__"..Thai.SelectedLanguage..".zip", Thai.SelectedLanguage.."_"..FontName)
     end
 
     local fallbacks = {}
@@ -77,70 +73,70 @@ function ApplyLocalizedFonts()
         end
     end
     for FontName in pairs(LocalizedFontList) do
-        TheSim:SetupFontFallbacks(t.SelectedLanguage.."_"..FontName, fallbacks[FontName])
+        TheSim:SetupFontFallbacks(Thai.SelectedLanguage.."_"..FontName, fallbacks[FontName])
     end
 
     if Config.UI or Config.CON or Config.ITEM then
         if rawget(_G, "DEFAULTFONT") then
-            _G.DEFAULTFONT = t.SelectedLanguage.."_opensans50"
+            _G.DEFAULTFONT = Thai.SelectedLanguage.."_opensans50"
         end
         if rawget(_G, "DIALOGFONT") then
-            _G.DIALOGFONT = t.SelectedLanguage.."_opensans50"
+            _G.DIALOGFONT = Thai.SelectedLanguage.."_opensans50"
         end
         if rawget(_G, "TITLEFONT") then
-            _G.TITLEFONT = t.SelectedLanguage.."_belisaplumilla100"
+            _G.TITLEFONT = Thai.SelectedLanguage.."_belisaplumilla100"
         end
         if rawget(_G, "UIFONT") then
-            _G.UIFONT = t.SelectedLanguage.."_belisaplumilla50"
+            _G.UIFONT = Thai.SelectedLanguage.."_belisaplumilla50"
         end
         if rawget(_G, "BUTTONFONT") then
-            _G.BUTTONFONT = t.SelectedLanguage.."_buttonfont"
+            _G.BUTTONFONT = Thai.SelectedLanguage.."_buttonfont"
         end
         if rawget(_G, "HEADERFONT") then
-            _G.HEADERFONT = t.SelectedLanguage.."_hammerhead50"
+            _G.HEADERFONT = Thai.SelectedLanguage.."_hammerhead50"
         end
         if rawget(_G, "CHATFONT_OUTLINE") then
-            _G.NUMBERFONT = t.SelectedLanguage.."_stint-ucr50"
+            _G.NUMBERFONT = Thai.SelectedLanguage.."_stint-ucr50"
         end
         if rawget(_G, "SMALLNUMBERFONT") then
-            _G.SMALLNUMBERFONT = t.SelectedLanguage.."_stint-ucr20"
+            _G.SMALLNUMBERFONT = Thai.SelectedLanguage.."_stint-ucr20"
         end
         if rawget(_G, "BODYTEXTFONT") then
-            _G.BODYTEXTFONT = t.SelectedLanguage.."_stint-ucr50"
+            _G.BODYTEXTFONT = Thai.SelectedLanguage.."_stint-ucr50"
         end
         if rawget(_G, "CHATFONT_OUTLINE") then
-            _G.CHATFONT_OUTLINE = t.SelectedLanguage.."_bellefair50_outline"
+            _G.CHATFONT_OUTLINE = Thai.SelectedLanguage.."_bellefair50_outline"
         end
         if rawget(_G, "NEWFONT") then
-            _G.NEWFONT = t.SelectedLanguage.."_spirequal"
+            _G.NEWFONT = Thai.SelectedLanguage.."_spirequal"
         end
         if rawget(_G, "NEWFONT_SMALL") then
-            _G.NEWFONT_SMALL = t.SelectedLanguage.."_spirequal_small"
+            _G.NEWFONT_SMALL = Thai.SelectedLanguage.."_spirequal_small"
         end
         if rawget(_G, "NEWFONT_OUTLINE") then
-            _G.NEWFONT_OUTLINE = t.SelectedLanguage.."_spirequal_outline"
+            _G.NEWFONT_OUTLINE = Thai.SelectedLanguage.."_spirequal_outline"
         end
         if rawget(_G, "NEWFONT_OUTLINE_SMALL") then
-            _G.NEWFONT_OUTLINE_SMALL = t.SelectedLanguage.."_spirequal_outline_small"
+            _G.NEWFONT_OUTLINE_SMALL = Thai.SelectedLanguage.."_spirequal_outline_small"
         end
     end
     if rawget(_G, "CHATFONT") then
-        _G.CHATFONT = t.SelectedLanguage.."_bellefair50"
+        _G.CHATFONT = Thai.SelectedLanguage.."_bellefair50"
     end
     if rawget(_G, "TALKINGFONT") then
-        _G.TALKINGFONT = t.SelectedLanguage.."_talkingfont"
+        _G.TALKINGFONT = Thai.SelectedLanguage.."_talkingfont"
     end
     if rawget(_G, "TALKINGFONT_HERMIT") then
-        _G.TALKINGFONT_HERMIT = t.SelectedLanguage.."_talkingfont"
+        _G.TALKINGFONT_HERMIT = Thai.SelectedLanguage.."_talkingfont"
     end
     if rawget(_G, "TALKINGFONT_TRADEIN") then
-        _G.TALKINGFONT_TRADEIN = t.SelectedLanguage.."_talkingfont_tradein"
+        _G.TALKINGFONT_TRADEIN = Thai.SelectedLanguage.."_talkingfont_tradein"
     end
     if rawget(_G, "TALKINGFONT_WORMWOOD") then
-        _G.TALKINGFONT_WORMWOOD = t.SelectedLanguage.."_talkingfont_wormwood"
+        _G.TALKINGFONT_WORMWOOD = Thai.SelectedLanguage.."_talkingfont_wormwood"
     end
     if _G.rawget(_G, "TALKINGFONT_WATHGRITHR") then
-        _G.TALKINGFONT_WATHGRITHR = t.SelectedLanguage.."_talkingfont_wathgrithr"
+        _G.TALKINGFONT_WATHGRITHR = Thai.SelectedLanguage.."_talkingfont_wathgrithr"
     end
 end
 
@@ -207,14 +203,14 @@ Assets = {
 
 --โหลดไฟล์ภาษา
 if Config.UI or Config.CON or Config.ITEM then
-    LoadPOFile("scripts/languages/thai.po", t.SelectedLanguage)
-    t.PO = _G.LanguageTranslator.languages[t.SelectedLanguage]
+    LoadPOFile("scripts/languages/thai.po", Thai.SelectedLanguage)
+    Thai.PO = _G.LanguageTranslator.languages[Thai.SelectedLanguage]
 
     if Config.CON and Config.CON_ITEM_TWO then
         -- ไอเทมสองภาษาใน STRING.CHARACTERS, STRING.SKILLTREE, STRING.SKIN_DESCRIPTIONS, STRINGS.RECIPE_DESC
         local ItemNameTH = {}
         for k, v in pairs(STRINGS.NAMES) do
-            local nameTH = tostring(t.PO["STRINGS.NAMES."..k])
+            local nameTH = tostring(Thai.PO["STRINGS.NAMES."..k])
             local nameEN = v
             ItemNameTH[nameTH] = nameEN
         end
@@ -234,7 +230,7 @@ if Config.UI or Config.CON or Config.ITEM then
                     ItemTwoConversation(text.."."..k, v)
                 else
                     local data = string.split(text.."."..k, ".")
-                    local ConversationTH = tostring(t.PO[text.."."..k])
+                    local ConversationTH = tostring(Thai.PO[text.."."..k])
                     local ConversationEN = STRINGS[data[2]]
                     for i = 3, #data do
                         if tonumber(data[i]) then
@@ -256,7 +252,7 @@ if Config.UI or Config.CON or Config.ITEM then
                                         newcon = string.gsub(newcon, thainame, " "..engname.." ")
                                     end
                                     ConversationTH = string.gsub(newcon, "  ", " ")
-                                    t.PO[text.."."..k] = ConversationTH
+                                    Thai.PO[text.."."..k] = ConversationTH
                                 end
                             end
                         end
@@ -283,7 +279,7 @@ if Config.UI or Config.CON or Config.ITEM then
                     ItemTwoName(text.."."..k, v)
                 else
                     local data = string.split(text.."."..k, ".")
-                    local ItemTH = tostring(t.PO[text.."."..k])
+                    local ItemTH = tostring(Thai.PO[text.."."..k])
                     local ItemEN = STRINGS[data[2]]
                     if ItemTH ~= "nil" then
                         for i = 3, #data do
@@ -294,7 +290,7 @@ if Config.UI or Config.CON or Config.ITEM then
                             end
                         end
                         if not string.find(ItemTH, "%s") then
-                            t.PO[text.."."..k] = ItemTH..(ItemEN and "\n("..ItemEN..")" or "")
+                            Thai.PO[text.."."..k] = ItemTH..(ItemEN and "\n("..ItemEN..")" or "")
                         end
                     end
                 end
@@ -323,7 +319,7 @@ if Config.UI or Config.CON or Config.ITEM then
         end
     end
 
-    for _string in pairs(t.PO) do
+    for _string in pairs(Thai.PO) do
         -- ปิดการแปล UI
         if not Config.UI then
             for _, v in ipairs({
@@ -334,7 +330,7 @@ if Config.UI or Config.CON or Config.ITEM then
                 "STRINGS.CHARACTER_",
             }) do
                 if string.find(_string, v) then
-                    t.PO[_string] = nil
+                    Thai.PO[_string] = nil
                 end
             end
         end
@@ -354,7 +350,7 @@ if Config.UI or Config.CON or Config.ITEM then
                 "STRINGS.MERM_TALK",
             }) do
                 if string.find(_string, v) then
-                    t.PO[_string] = nil
+                    Thai.PO[_string] = nil
                 end
             end
         end
@@ -365,7 +361,7 @@ if Config.UI or Config.CON or Config.ITEM then
                 "STRINGS.NAMES",
             }) do
                 if string.find(_string, v) then
-                    t.PO[_string] = nil
+                    Thai.PO[_string] = nil
                 end
             end
         end
