@@ -80,7 +80,7 @@ function ApplyLocalizedFonts()
         TheSim:SetupFontFallbacks(t.SelectedLanguage.."_"..FontName, fallbacks[FontName])
     end
 
-    if Config.UI == "enable" or Config.CON == "enable" or Config.ITEM == "enable" then
+    if Config.UI or Config.CON or Config.ITEM then
         if rawget(_G, "DEFAULTFONT") then
             _G.DEFAULTFONT = t.SelectedLanguage.."_opensans50"
         end
@@ -206,11 +206,11 @@ Assets = {
 }
 
 --โหลดไฟล์ภาษา
-if Config.UI == "enable" or Config.CON == "enable" or Config.ITEM == "enable" then
+if Config.UI or Config.CON or Config.ITEM then
     LoadPOFile("scripts/languages/thai.po", t.SelectedLanguage)
     t.PO = _G.LanguageTranslator.languages[t.SelectedLanguage]
 
-    if Config.CON == "enable" and Config.CON_ITEM_TWO == "enable" then
+    if Config.CON and Config.CON_ITEM_TWO then
         -- ไอเทมสองภาษาใน STRING.CHARACTERS, STRING.SKILLTREE, STRING.SKIN_DESCRIPTIONS, STRINGS.RECIPE_DESC
         local ItemNameTH = {}
         for k, v in pairs(STRINGS.NAMES) do
@@ -250,10 +250,10 @@ if Config.UI == "enable" or Config.CON == "enable" or Config.ITEM == "enable" th
                             if string.find(ConversationEN, engname) then -- Fast check
                                 if string.find(ConversationEN, "%f[%a]"..engname.."%f[%A]") then -- Slow check
                                     local newcon = string.gsub(ConversationTH, "%f[%a]"..engname.."%f[%A]", thainame)
-                                    if Config.ITEM == "disable" then -- ปิดแปลชื่อไอเทมในบทสนทนา
-                                        newcon = string.gsub(newcon, thainame, " "..engname.." ")
-                                    else
+                                    if Config.ITEM then
                                         newcon = string.gsub(newcon, thainame, thainame.."("..engname..")")
+                                    else -- ปิดแปลชื่อไอเทมในบทสนทนา
+                                        newcon = string.gsub(newcon, thainame, " "..engname.." ")
                                     end
                                     ConversationTH = string.gsub(newcon, "  ", " ")
                                     t.PO[text.."."..k] = ConversationTH
@@ -266,7 +266,7 @@ if Config.UI == "enable" or Config.CON == "enable" or Config.ITEM == "enable" th
         end
 
         ItemTwoConversation("STRINGS.CHARACTERS", STRINGS.CHARACTERS)
-        if Config.UI == "enable" then
+        if Config.UI then
             ItemTwoConversation("STRINGS.RECIPE_DESC", STRINGS.RECIPE_DESC)
             if IsDST then
                 ItemTwoConversation("STRINGS.SKILLTREE", STRINGS.SKILLTREE)
@@ -276,7 +276,7 @@ if Config.UI == "enable" or Config.CON == "enable" or Config.ITEM == "enable" th
     end
 
     -- ไอเทมสองภาษาในชื่อไอเทมเลย
-    if Config.ITEM == "enable" and Config.ITEM_TWO == "enable" then
+    if Config.ITEM and Config.ITEM_TWO then
         local function ItemTwoName(text, block)
             for k, v in pairs(block) do
                 if type(v) == "table" then
@@ -325,7 +325,7 @@ if Config.UI == "enable" or Config.CON == "enable" or Config.ITEM == "enable" th
 
     for _string in pairs(t.PO) do
         -- ปิดการแปล UI
-        if Config.UI == "disable" then
+        if not Config.UI then
             for k, v in pairs({
                 "STRINGS.UI",
                 "STRINGS.ACTIONS",
@@ -340,7 +340,7 @@ if Config.UI == "enable" or Config.CON == "enable" or Config.ITEM == "enable" th
         end
 
         -- ปิดการแปลบทพูด
-        if Config.CON == "disable" then
+        if not Config.CON then
             for k, v in pairs({
                 "STRINGS.CHARACTERS.GENERIC",
                 "STRINGS.BOARLORD_",
@@ -360,7 +360,7 @@ if Config.UI == "enable" or Config.CON == "enable" or Config.ITEM == "enable" th
         end
 
         -- ปิดการแปลชื่อไอเทม
-        if Config.ITEM == "disable" then
+        if not Config.ITEM then
             for k, v in pairs({
                 "STRINGS.NAMES",
             }) do
@@ -375,7 +375,7 @@ modimport("scripts/CHARACTER.lua")
 modimport("scripts/fix_ui.lua")
 
 -- แปลภาษามอดที่เปิดใช้งานอยู่
-if Config.OTHER_MOD == "enable" then
+if Config.OTHER_MOD then
     local modInfo = {
         ["Minimap HUD Customizable"] = "842702425",
         ["Geometric Placement"] = "351325790",
@@ -383,7 +383,7 @@ if Config.OTHER_MOD == "enable" then
         ["Combined Status"] = "376333686",
     }
     local mod_enable = {}
-    
+
     if _G.KnownModIndex and _G.KnownModIndex.savedata and _G.KnownModIndex.savedata.known_mods then
         for folder, mod in pairs(_G.KnownModIndex.savedata.known_mods) do
             local name = mod.modinfo.name
@@ -422,7 +422,7 @@ end
 
 -- โหลดฟอนต์ไทย
 local OldStart = _G.Start
-function _G.Start() 
+function _G.Start()
     ApplyLocalizedFonts()
     OldStart()
 end

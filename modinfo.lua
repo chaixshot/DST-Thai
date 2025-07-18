@@ -48,32 +48,32 @@ configuration_options =
 		hover = "การแปลส่วนพื้นฐาน ยูสเซอร์อินเตอร์เฟส, ข้อความอธิบาย",
 		options =
 		{
-			{description = "ปิด", data = "disable", hover = "ปิดการใช้งานการแปลพื้นฐาน"},
-			{description = "เปิด", data = "enable", hover = "เปิดการใช้งานการแปลพื้นฐาน"},
+			{description = "ปิด", data = false, hover = "ปิดการใช้งานการแปลพื้นฐาน"},
+			{description = "เปิด", data = true, hover = "เปิดการใช้งานการแปลพื้นฐาน"},
 		},
-		default = "enable",
+		default = true,
 	},
 	{
 		name = "CFG_CON",
 		label = "บทพูด",
-		hover = "การแปลบทพูดของตัวละคร\n(\"พื้นฐาน\" จะต้องไม่ถูกปิด)",
+		hover = "การแปลบทพูดของตัวละคร\n(\"พื้นฐาน\" ต้องปิดอยู่จึงจะเปลี่ยนแปลงได้)",
 		options =
 		{
-			{description = "ปิด", data = "disable", hover = "ปิดการใช้งานการแปลบทพูด"},
-			{description = "เปิด", data = "enable", hover = "เปิดการใช้งานการแปลบทพูด"},
+			{description = "ปิด", data = false, hover = "ปิดการใช้งานการแปลบทพูด"},
+			{description = "เปิด", data = true, hover = "เปิดการใช้งานการแปลบทพูด"},
 		},
-		default = "enable",
+		default = true,
 	},
 	{
 		name = "CFG_ITEM",
 		label = "ไอเทม",
-		hover = "การแปลชื่อไอเทม และชื่อสิ่งมีชีวิต\n(\"พื้นฐาน\" จะต้องไม่ถูกปิด)",
+		hover = "การแปลชื่อไอเทม และชื่อสิ่งมีชีวิต\n(\"พื้นฐาน\" ต้องปิดอยู่จึงจะเปลี่ยนแปลงได้)",
 		options =
 		{
-			{description = "ปิด", data = "disable", hover = "ปิดการใช้งานการแปลไอเทม"},
-			{description = "เปิด", data = "enable", hover = "เปิดการใช้งานการแปลไอเทม"},
+			{description = "ปิด", data = false, hover = "ปิดการใช้งานการแปลไอเทม"},
+			{description = "เปิด", data = true, hover = "เปิดการใช้งานการแปลไอเทม"},
 		},
-		default = "enable",
+		default = true,
 	},
 	{
 		name = "CFG_ITEM_TWO",
@@ -81,21 +81,21 @@ configuration_options =
 		hover = "ชื่อไอเทม สัตว์ สิ่งของ จะแสดงทั้งสองภาษา",
 		options =
 		{
-			{description = "ปิด", data = "disable", hover = "ปิดการใช้งานไอเทมสองภาษา"},
-			{description = "เปิด", data = "enable", hover = "เปิดการใช้งานไอเทมสองภาษา"},
+			{description = "ปิด", data = false, hover = "ปิดการใช้งานไอเทมสองภาษา"},
+			{description = "เปิด", data = true, hover = "เปิดการใช้งานไอเทมสองภาษา"},
 		},
-		default = "enable",
+		default = true,
 	},
 	{
 		name = "CFG_CON_ITEM_TWO",
 		label = "บทพูดไอเทมสองภาษา",
-		hover = "ไอเทมสองภาษาในบทพูดตัวละคร, คำอธิบายสกิน, คำอธิบายทักษะ, คำอธิบายเมนูคราฟ\n(การเปิดใช้งานอาจจะทำให้โหลดเกมช้าขึ้นเล็กน้อย)",
+		hover = "ไอเทมสองภาษาในบทพูดตัวละคร, คำอธิบายสกิน, คำอธิบายทักษะ, คำอธิบายเมนูคราฟ\n(การเปิดใช้งานอาจจะทำให้โหลดเกมนานขึ้นเล็กน้อย)",
 		options =
 		{
-			{description = "ปิด", data = "disable", hover = "ปิดการใช้งานบทพูดไอเทมสองภาษา"},
-			{description = "เปิด", data = "enable", hover = "เปิดการใช้งานบทพูดไอเทมสองภาษา"},
+			{description = "ปิด", data = false, hover = "ปิดการใช้งานบทพูดไอเทมสองภาษา"},
+			{description = "เปิด", data = true, hover = "เปิดการใช้งานบทพูดไอเทมสองภาษา"},
 		},
-		default = "disable",
+		default = false,
 	},
 	{
 		name = "CFG_OTHER_MOD",
@@ -103,10 +103,10 @@ configuration_options =
 		hover = "แปลส่วนเสริมอื่นๆที่สนับสนุนและเปิดการใช้งานอยู่เป็นภาษาไทย",
 		options =
 		{
-			{description = "ปิด", data = "disable", hover = "ปิดการแปลส่วนเสริมอื่น"},
-			{description = "เปิด", data = "enable", hover = "เปิดการแปลส่วนเสริมอื่น"},
+			{description = "ปิด", data = false, hover = "ปิดการแปลส่วนเสริมอื่น"},
+			{description = "เปิด", data = true, hover = "เปิดการแปลส่วนเสริมอื่น"},
 		},
-		default = "enable",
+		default = true,
 	},
 	{
 		name = "--2--",

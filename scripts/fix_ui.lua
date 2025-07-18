@@ -10,11 +10,11 @@ local function TranslateStringTable(text, data)
 	end
 end
 
-if Config.CON == "enable" then -- แปลบทพูดตัวละครในเซิร์ฟเวอร์คนอื่น
+if Config.CON then -- แปลบทพูดตัวละครในเซิร์ฟเวอร์คนอื่น
 	TranslateStringTable("STRINGS.CHARACTERS", STRINGS.CHARACTERS)
 end
 
-if Config.UI == "enable" then -- แปล UI ทั้งหมด
+if Config.UI then -- แปล UI ทั้งหมด
 	TranslateStringTable("STRINGS.UI", STRINGS.UI)
 
 	-- แปลหน้าสร้างโลก > ป่า > รูปแบบวัน

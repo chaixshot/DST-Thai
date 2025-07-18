@@ -311,7 +311,7 @@ local function TranslateToThai(message, entity)
 end
 
 -- แปลบทพูดตัวละครในเซิร์ฟเวอร์คนอื่น
-if Config.CON == "enable" then
+if Config.CON then
 	t.SpeechHashTbl = {}
 	t.SpeechHashTbl.EPITAPHS = {}
 	t.SpeechHashTbl.NAMES = {Eng2Key = {}, Thai2Eng = {}}
