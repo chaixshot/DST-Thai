@@ -1,5 +1,5 @@
 if Config.UI then -- แปล UI ทั้งหมด
-	-- TranslateStringTable("STRINGS.UI", STRINGS.UI)
+	TranslateStringTable("STRINGS.UI", STRINGS.UI)
 
 	-- แปลหน้าสร้างโลก > ป่า > รูปแบบวัน
 	Thai.StringUITable["Long Day"] = "ช่วงเช้ายาวนาน"

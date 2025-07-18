@@ -3,7 +3,7 @@ if not Config.CON then
 	return
 end
 
--- TranslateStringTable("STRINGS.CHARACTERS", STRINGS.CHARACTERS)
+TranslateStringTable("STRINGS.CHARACTERS", STRINGS.CHARACTERS)
 
 local function ParseTranslationTags(message, char, talker, optionaltags)
 	if not (message and string.find(message, "[", 1, true)) then return message end
