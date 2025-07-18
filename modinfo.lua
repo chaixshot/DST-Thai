@@ -56,7 +56,7 @@ configuration_options =
 	{
 		name = "CFG_CON",
 		label = "บทพูด",
-		hover = "การแปลบทพูดของตัวละคร\n(\"พื้นฐาน\" ต้องปิดอยู่จึงจะเปลี่ยนแปลงได้)",
+		hover = "การแปลบทพูดของตัวละคร",
 		options =
 		{
 			{description = "ปิด", data = false, hover = "ปิดการใช้งานการแปลบทพูด"},
@@ -67,7 +67,7 @@ configuration_options =
 	{
 		name = "CFG_ITEM",
 		label = "ไอเทม",
-		hover = "การแปลชื่อไอเทม และชื่อสิ่งมีชีวิต\n(\"พื้นฐาน\" ต้องปิดอยู่จึงจะเปลี่ยนแปลงได้)",
+		hover = "การแปลชื่อไอเทม และชื่อสิ่งมีชีวิต",
 		options =
 		{
 			{description = "ปิด", data = false, hover = "ปิดการใช้งานการแปลไอเทม"},

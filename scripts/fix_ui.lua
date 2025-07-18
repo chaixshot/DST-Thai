@@ -31,8 +31,8 @@ if Config.UI then -- แปล UI ทั้งหมด
 	-- โฆณาหน้าแรก
 	_G.StringUITable["New Update!"] = "อัพเดทใหม่!"
 	_G.StringUITable["The Moonbound and Stampeder Collections!"] = "คอลเลกชั่น Moonbound และ Stampeder!"
-	_G.StringUITable["The Hostile Takeover Update is live!"] = "การอัปเดตการเข้ายึดครองที่ไม่เป็นมิตรกำลังดำเนินการอยู่!"
-	
+	_G.StringUITable["The Hostile Takeover Update is live!"] = "การอัปเดต Hostile Takeover เริ่มแล้ว"
+
 	_G.StringUITable["New Twitch Drop!"] = "Twitch Drop ใหม่!"
 	_G.StringUITable["The Gathering Amulet"] = "เครื่องรางแห่งการรวบรวม"
 

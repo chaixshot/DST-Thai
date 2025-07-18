@@ -1,3 +1,8 @@
+-- แปลบทพูดตัวละครในเซิร์ฟเวอร์คนอื่น
+if not Config.CON then
+	return
+end
+
 local function ParseTranslationTags(message, char, talker, optionaltags)
 	if not (message and string.find(message, "[", 1, true)) then return message end
 
@@ -5,6 +10,7 @@ local function ParseTranslationTags(message, char, talker, optionaltags)
 	local function parse(str)
 		local vars = string.split(str, "|")
 		local tags = {}
+		local counter = 0
 
 		local function SelectByCustomTags(CustomTags)
 			if not CustomTags then return false end
@@ -15,9 +21,7 @@ local function ParseTranslationTags(message, char, talker, optionaltags)
 			return false
 		end
 
-		local counter = 0
-
-		for i, v in pairs(vars) do
+		for _, v in ipairs(vars) do
 			local vars2 = string.split(v, "=")
 			if #vars2 == 1 then counter = counter + 1 end
 			local path = (#vars2 == 2) and vars2[1] or
@@ -310,56 +314,54 @@ local function TranslateToThai(message, entity)
 	return message
 end
 
--- แปลบทพูดตัวละครในเซิร์ฟเวอร์คนอื่น
-if Config.CON then
-	t.SpeechHashTbl = {}
-	t.SpeechHashTbl.EPITAPHS = {}
-	t.SpeechHashTbl.NAMES = {Eng2Key = {}, Thai2Eng = {}}
-	t.CharacterInherentTags = {}
 
-	for char in pairs(_G.GetActiveCharacterList()) do -- t.CharacterInherentTags
-		t.CharacterInherentTags[char] = {}
+t.SpeechHashTbl = {}
+t.SpeechHashTbl.EPITAPHS = {}
+t.SpeechHashTbl.NAMES = {Eng2Key = {}, Thai2Eng = {}}
+t.CharacterInherentTags = {}
+
+for char in pairs(_G.GetActiveCharacterList()) do -- t.CharacterInherentTags
+	t.CharacterInherentTags[char] = {}
+end
+
+for key, val in pairs(STRINGS.NAMES) do -- t.SpeechHashTbl.NAMES.Eng2Key
+	t.SpeechHashTbl.NAMES.Eng2Key[val] = key
+end
+
+for charname, v in pairs(STRINGS.CHARACTERS) do
+	BuildCharacterHash(charname)
+end
+
+if rawget(GLOBAL, "Networking_Talk") then
+	local OldNetworking_Talk = _G.Networking_Talk
+
+	function Networking_Talk(guid, message, ...)
+		local entity = _G.Ents[guid]
+		message = TranslateToThai(message, entity) or message
+		if OldNetworking_Talk then OldNetworking_Talk(guid, message, ...) end
 	end
 
-	for key, val in pairs(STRINGS.NAMES) do -- t.SpeechHashTbl.NAMES.Eng2Key
-		t.SpeechHashTbl.NAMES.Eng2Key[val] = key
-	end
+	_G.Networking_Talk = Networking_Talk
+end
 
-	for charname, v in pairs(STRINGS.CHARACTERS) do
-		BuildCharacterHash(charname)
-	end
+if _G.TheNet.Talker then
+	_G.getmetatable(_G.TheNet).__index.Talker = (function()
+		local oldTalker = _G.getmetatable(_G.TheNet).__index.Talker
+		return function(self, message, entity, ...)
+			oldTalker(self, message, entity, ...)
 
-	if rawget(GLOBAL, "Networking_Talk") then
-		local OldNetworking_Talk = _G.Networking_Talk
-
-		function Networking_Talk(guid, message, ...)
-			local entity = _G.Ents[guid]
-			message = TranslateToThai(message, entity) or message
-			if OldNetworking_Talk then OldNetworking_Talk(guid, message, ...) end
-		end
-
-		_G.Networking_Talk = Networking_Talk
-	end
-
-	if _G.TheNet.Talker then
-		_G.getmetatable(_G.TheNet).__index.Talker = (function()
-			local oldTalker = _G.getmetatable(_G.TheNet).__index.Talker
-			return function(self, message, entity, ...)
-				oldTalker(self, message, entity, ...)
-
-				local inst = entity and entity:GetGUID() or nil
-				inst = inst and _G.Ents[inst] or nil
-				if inst and inst.components.talker.widget then
-					if message and type(message) == "string" then
-						local OldSetString = inst.components.talker.widget.text.SetString
-						function inst.components.talker.widget.text:SetString(str, ...)
-							str = TranslateToThai(str, inst) or str
-							OldSetString(self, str, ...)
-							self.SetString = OldSetString
-						end
+			local inst = entity and entity:GetGUID() or nil
+			inst = inst and _G.Ents[inst] or nil
+			if inst and inst.components.talker.widget then
+				if message and type(message) == "string" then
+					local OldSetString = inst.components.talker.widget.text.SetString
+					function inst.components.talker.widget.text:SetString(str, ...)
+						str = TranslateToThai(str, inst) or str
+						OldSetString(self, str, ...)
+						self.SetString = OldSetString
 					end
 				end
 			end
-		end)()
-	end
+		end
+	end)()
 end

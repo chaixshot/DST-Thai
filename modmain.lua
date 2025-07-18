@@ -326,7 +326,7 @@ if Config.UI or Config.CON or Config.ITEM then
     for _string in pairs(t.PO) do
         -- ปิดการแปล UI
         if not Config.UI then
-            for k, v in pairs({
+            for _, v in ipairs({
                 "STRINGS.UI",
                 "STRINGS.ACTIONS",
                 "STRINGS.RECIPE_DESC",
@@ -334,15 +334,15 @@ if Config.UI or Config.CON or Config.ITEM then
                 "STRINGS.CHARACTER_",
             }) do
                 if string.find(_string, v) then
-                    t.PO[k] = ""
+                    t.PO[_string] = nil
                 end
             end
         end
 
         -- ปิดการแปลบทพูด
         if not Config.CON then
-            for k, v in pairs({
-                "STRINGS.CHARACTERS.GENERIC",
+            for _, v in ipairs({
+                "STRINGS.CHARACTERS",
                 "STRINGS.BOARLORD_",
                 "STRINGS.CARNIVAL_",
                 "STRINGS.GOATMUM_",
@@ -354,18 +354,18 @@ if Config.UI or Config.CON or Config.ITEM then
                 "STRINGS.MERM_TALK",
             }) do
                 if string.find(_string, v) then
-                    t.PO[k] = ""
+                    t.PO[_string] = nil
                 end
             end
         end
 
         -- ปิดการแปลชื่อไอเทม
         if not Config.ITEM then
-            for k, v in pairs({
+            for _, v in ipairs({
                 "STRINGS.NAMES",
             }) do
                 if string.find(_string, v) then
-                    t.PO[k] = ""
+                    t.PO[_string] = nil
                 end
             end
         end
