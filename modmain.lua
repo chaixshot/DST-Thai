@@ -367,35 +367,11 @@ if Config.UI or Config.CON or Config.ITEM then
         end
     end
 end
+
 modimport("scripts/CHARACTER.lua")
 modimport("scripts/fix_ui.lua")
-
--- แปลภาษามอดที่เปิดใช้งานอยู่
-if Config.OTHER_MOD then
-    local modInfo = {
-        ["Minimap HUD Customizable"] = "842702425",
-        ["Geometric Placement"] = "351325790",
-        ["Item Info"] = "836583293",
-        ["Combined Status"] = "376333686",
-    }
-    local mod_enable = {}
-
-    if _G.KnownModIndex and _G.KnownModIndex.savedata and _G.KnownModIndex.savedata.known_mods then
-        for folder, mod in pairs(_G.KnownModIndex.savedata.known_mods) do
-            local name = mod.modinfo.name
-            if name then
-                mod_enable[name] = true
-            end
-        end
-    end
-
-    for modeName, modeId in pairs(modInfo) do
-        if mod_enable[modeName] then
-            modimport("scripts/mods/"..modeId)
-        end
-    end
-end
-
+modimport("scripts/mods/main.lua")
+modimport("scripts/string.lua")
 
 --ปิดผิวขนาดเล็กป้องกันฟอนต์ไทยแตก
 local SMALL_TEXTURES = GetModConfigData("SMALL_TEXTURES")
