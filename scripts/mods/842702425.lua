@@ -40,6 +40,8 @@ Thai.StringUITable["Bottom Center"] = "ล่างกลาง"
 Thai.StringUITable["Bottom Right"] = "ล่างขวา"
 
 Thai.StringUITable["Custom Value"] = "กำหนดเอง"
+Thai.StringUITable["Horizontal Margin:"] = "ระยะขอบแนวนอน:"
+Thai.StringUITable["Vertical Margin:"] = "ระยะขอบแนวตั้ง:"
 Thai.StringUITable["Horizontal Scale:"] = "อัตราส่วนแนวนอน:"
 Thai.StringUITable["Vertical Scale:"] = "อัตราส่วนแนวตั้ง:"
 Thai.StringUITable["Show BG Image:"] = "แสดงพื้นหลัง:"
