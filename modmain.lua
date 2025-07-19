@@ -26,7 +26,7 @@ Config = {
 }
 
 --โหลดฟอนต์
-function ApplyLocalizedFonts()
+local function applyLocalizedFonts()
     local LocalizedFontList = {
         ["belisaplumilla50"] = true,
         ["belisaplumilla100"] = true,
@@ -76,7 +76,7 @@ function ApplyLocalizedFonts()
         TheSim:SetupFontFallbacks(Thai.SelectedLanguage.."_"..FontName, fallbacks[FontName])
     end
 
-    if Config.UI or Config.CON or Config.ITEM then
+    if IsTranslateEnabled() then
         if rawget(_G, "DEFAULTFONT") then
             _G.DEFAULTFONT = Thai.SelectedLanguage.."_opensans50"
         end
@@ -140,6 +140,21 @@ function ApplyLocalizedFonts()
     end
 end
 
+-- โหลดฟอนต์ไทย
+local OldStart = _G.Start
+function _G.Start()
+    applyLocalizedFonts()
+    OldStart()
+end
+
+_G.getmetatable(TheSim).__index.UnregisterAllPrefabs = (function()
+    local oldUnregisterAllPrefabs = _G.getmetatable(TheSim).__index.UnregisterAllPrefabs
+    return function(self, ...)
+        oldUnregisterAllPrefabs(self, ...)
+        applyLocalizedFonts()
+    end
+end)()
+
 -- โหลดฟอนต์ในหน้าที่เกมไม่โหลดให้
 local oldSetFont = _G.TextWidget.SetFont
 _G.TextWidget.SetFont = function(guid, font)
@@ -202,57 +217,49 @@ Assets = {
 }
 
 --โหลดไฟล์ภาษา
-if Config.UI or Config.CON or Config.ITEM then
+if IsTranslateEnabled() then
     LoadPOFile("scripts/languages/thai.po", Thai.SelectedLanguage)
     Thai.PO = _G.LanguageTranslator.languages[Thai.SelectedLanguage]
 
+    -- ไอเทมสองภาษาใน STRING.CHARACTERS, STRING.SKILLTREE, STRING.SKIN_DESCRIPTIONS, STRINGS.RECIPE_DESC
     if Config.CON and Config.CON_ITEM_TWO then
-        -- ไอเทมสองภาษาใน STRING.CHARACTERS, STRING.SKILLTREE, STRING.SKIN_DESCRIPTIONS, STRINGS.RECIPE_DESC
-        local ItemNameTH = {}
+        local itemNameTH = {}
         for k, v in pairs(STRINGS.NAMES) do
             local nameTH = tostring(Thai.PO["STRINGS.NAMES."..k])
             local nameEN = v
-            ItemNameTH[nameTH] = nameEN
+            itemNameTH[nameTH] = nameEN
         end
 
-        local function ItemTwoConversation(text, dataToCheck)
-            local blackList = {
-                ["Nothing"] = true,
-                ["X"] = true,
-                ["Health"] = true,
-                ["Sanity"] = true,
-                ["Fire"] = true,
-                ["Plant"] = true,
-            }
-
+        local function itemTwoConversation(text, dataToCheck)
+            local blackList = {["Nothing"] = true, ["X"] = true, ["Health"] = true, ["Sanity"] = true, ["Fire"] = true, ["Plant"] = true}
             for k, v in pairs(dataToCheck) do
                 if type(v) == "table" then
-                    ItemTwoConversation(text.."."..k, v)
+                    itemTwoConversation(text.."."..k, v)
                 else
                     local data = string.split(text.."."..k, ".")
-                    local ConversationTH = tostring(Thai.PO[text.."."..k])
-                    local ConversationEN = STRINGS[data[2]]
+                    local conversationTH = tostring(Thai.PO[text.."."..k])
+                    local conversationEN = STRINGS[data[2]]
                     for i = 3, #data do
                         if tonumber(data[i]) then
-                            ConversationEN = ConversationEN[tonumber(data[i])]
+                            conversationEN = conversationEN[tonumber(data[i])]
                         else
-                            ConversationEN = ConversationEN[data[i]]
+                            conversationEN = conversationEN[data[i]]
                         end
                     end
-                    ConversationEN = tostring(ConversationEN)
+                    conversationEN = tostring(conversationEN)
 
-                    for thainame, engname in pairs(ItemNameTH) do
+                    for thainame, engname in pairs(itemNameTH) do
                         if not blackList[engname] and thainame ~= "nil" then
-                            if string.find(ConversationEN, engname) then -- Fast check
-                                if string.find(ConversationEN, "%f[%a]"..engname.."%f[%A]") then -- Slow check
-                                    local newcon = string.gsub(ConversationTH, "%f[%a]"..engname.."%f[%A]", thainame)
+                            if string.find(conversationEN, engname) then -- Fast check
+                                if string.find(conversationEN, "%f[%a]"..engname.."%f[%A]") then -- Slow check
+                                    local newcon = string.gsub(conversationTH, "%f[%a]"..engname.."%f[%A]", thainame)
                                     if Config.ITEM then
                                         newcon = string.gsub(newcon, thainame, thainame.."("..engname..")")
                                     else -- ปิดแปลชื่อไอเทมในบทสนทนา
                                         newcon = string.gsub(newcon, thainame, " "..engname.." ")
                                     end
-                                    ConversationTH = string.gsub(newcon, "  ", " ")
-                                    Thai.PO[text.."."..k] = ConversationTH
+                                    conversationTH = string.gsub(newcon, "  ", " ")
+                                    Thai.PO[text.."."..k] = conversationTH
                                 end
                             end
                         end
@@ -261,22 +268,22 @@ if Config.UI or Config.CON or Config.ITEM then
             end
         end
 
-        ItemTwoConversation("STRINGS.CHARACTERS", STRINGS.CHARACTERS)
+        itemTwoConversation("STRINGS.CHARACTERS", STRINGS.CHARACTERS)
         if Config.UI then
-            ItemTwoConversation("STRINGS.RECIPE_DESC", STRINGS.RECIPE_DESC)
+            itemTwoConversation("STRINGS.RECIPE_DESC", STRINGS.RECIPE_DESC)
             if IsDST then
-                ItemTwoConversation("STRINGS.SKILLTREE", STRINGS.SKILLTREE)
-                ItemTwoConversation("STRINGS.SKIN_DESCRIPTIONS", STRINGS.SKIN_DESCRIPTIONS)
+                itemTwoConversation("STRINGS.SKILLTREE", STRINGS.SKILLTREE)
+                itemTwoConversation("STRINGS.SKIN_DESCRIPTIONS", STRINGS.SKIN_DESCRIPTIONS)
             end
         end
     end
 
     -- ไอเทมสองภาษาในชื่อไอเทมเลย
     if Config.ITEM and Config.ITEM_TWO then
-        local function ItemTwoName(text, block)
+        local function itemTwoName(text, block)
             for k, v in pairs(block) do
                 if type(v) == "table" then
-                    ItemTwoName(text.."."..k, v)
+                    itemTwoName(text.."."..k, v)
                 else
                     local data = string.split(text.."."..k, ".")
                     local ItemTH = tostring(Thai.PO[text.."."..k])
@@ -297,71 +304,73 @@ if Config.UI or Config.CON or Config.ITEM then
             end
         end
 
-        ItemTwoName("STRINGS.NAMES", STRINGS.NAMES)
-        ItemTwoName("STRINGS.BUNNYMANNAMES", STRINGS.BUNNYMANNAMES)
-        ItemTwoName("STRINGS.CHARACTER_NAMES", STRINGS.CHARACTER_NAMES)
-        ItemTwoName("STRINGS.MERMNAMES", STRINGS.MERMNAMES)
-        ItemTwoName("STRINGS.PIGNAMES", STRINGS.PIGNAMES)
+        itemTwoName("STRINGS.NAMES", STRINGS.NAMES)
+        itemTwoName("STRINGS.BUNNYMANNAMES", STRINGS.BUNNYMANNAMES)
+        itemTwoName("STRINGS.CHARACTER_NAMES", STRINGS.CHARACTER_NAMES)
+        itemTwoName("STRINGS.MERMNAMES", STRINGS.MERMNAMES)
+        itemTwoName("STRINGS.PIGNAMES", STRINGS.PIGNAMES)
 
         if IsDST then
-            ItemTwoName("STRINGS.BEEFALONAMING", STRINGS.BEEFALONAMING)
-            ItemTwoName("STRINGS.CROWNAMES", STRINGS.CROWNAMES)
-            ItemTwoName("STRINGS.KITCOON_NAMING", STRINGS.KITCOON_NAMING)
-            ItemTwoName("STRINGS.SWAMPIGNAMES", STRINGS.SWAMPIGNAMES)
+            itemTwoName("STRINGS.BEEFALONAMING", STRINGS.BEEFALONAMING)
+            itemTwoName("STRINGS.CROWNAMES", STRINGS.CROWNAMES)
+            itemTwoName("STRINGS.KITCOON_NAMING", STRINGS.KITCOON_NAMING)
+            itemTwoName("STRINGS.SWAMPIGNAMES", STRINGS.SWAMPIGNAMES)
         else
-            ItemTwoName("STRINGS.CITYPIGNAMES", STRINGS.CITYPIGNAMES)
-            ItemTwoName("STRINGS.ANTNAMES", STRINGS.ANTNAMES)
-            ItemTwoName("STRINGS.ANTWARRIORNAMES", STRINGS.ANTWARRIORNAMES)
-            ItemTwoName("STRINGS.BALLPHINNAMES", STRINGS.BALLPHINNAMES)
-            ItemTwoName("STRINGS.MANDRAKEMANNAMES", STRINGS.MANDRAKEMANNAMES)
-            ItemTwoName("STRINGS.PARROTNAMES", STRINGS.PARROTNAMES)
-            ItemTwoName("STRINGS.SHIPNAMES", STRINGS.SHIPNAMES)
+            itemTwoName("STRINGS.CITYPIGNAMES", STRINGS.CITYPIGNAMES)
+            itemTwoName("STRINGS.ANTNAMES", STRINGS.ANTNAMES)
+            itemTwoName("STRINGS.ANTWARRIORNAMES", STRINGS.ANTWARRIORNAMES)
+            itemTwoName("STRINGS.BALLPHINNAMES", STRINGS.BALLPHINNAMES)
+            itemTwoName("STRINGS.MANDRAKEMANNAMES", STRINGS.MANDRAKEMANNAMES)
+            itemTwoName("STRINGS.PARROTNAMES", STRINGS.PARROTNAMES)
+            itemTwoName("STRINGS.SHIPNAMES", STRINGS.SHIPNAMES)
         end
     end
 
-    for _string in pairs(Thai.PO) do
-        -- ปิดการแปล UI
-        if not Config.UI then
-            for _, v in ipairs({
-                "STRINGS.UI",
-                "STRINGS.ACTIONS",
-                "STRINGS.RECIPE_DESC",
-                "STRINGS.ANTIADDICTION",
-                "STRINGS.CHARACTER_",
-            }) do
-                if string.find(_string, v) then
-                    Thai.PO[_string] = nil
+    if not Config.UI or not Config.CON or not Config.ITEM then
+        for _string in pairs(Thai.PO) do
+            -- ปิดการแปล UI
+            if not Config.UI then
+                for _, v in ipairs({
+                    "STRINGS.UI",
+                    "STRINGS.ACTIONS",
+                    "STRINGS.RECIPE_DESC",
+                    "STRINGS.ANTIADDICTION",
+                    "STRINGS.CHARACTER_",
+                }) do
+                    if string.find(_string, v) then
+                        Thai.PO[_string] = nil
+                    end
                 end
             end
-        end
 
-        -- ปิดการแปลบทพูด
-        if not Config.CON then
-            for _, v in ipairs({
-                "STRINGS.CHARACTERS",
-                "STRINGS.BOARLORD_",
-                "STRINGS.CARNIVAL_",
-                "STRINGS.GOATMUM_",
-                "STRINGS.HERMITCRAB_",
-                "STRINGS.VOIDCLOTH_",
-                "STRINGS.YOTB_",
-                "STRINGS.LUCY",
-                "STRINGS.MERM_KING_TALK_",
-                "STRINGS.MERM_TALK",
-            }) do
-                if string.find(_string, v) then
-                    Thai.PO[_string] = nil
+            -- ปิดการแปลบทพูด
+            if not Config.CON then
+                for _, v in ipairs({
+                    "STRINGS.CHARACTERS",
+                    "STRINGS.BOARLORD_",
+                    "STRINGS.CARNIVAL_",
+                    "STRINGS.GOATMUM_",
+                    "STRINGS.HERMITCRAB_",
+                    "STRINGS.VOIDCLOTH_",
+                    "STRINGS.YOTB_",
+                    "STRINGS.LUCY",
+                    "STRINGS.MERM_KING_TALK_",
+                    "STRINGS.MERM_TALK",
+                }) do
+                    if string.find(_string, v) then
+                        Thai.PO[_string] = nil
+                    end
                 end
             end
-        end
 
-        -- ปิดการแปลชื่อไอเทม
-        if not Config.ITEM then
-            for _, v in ipairs({
-                "STRINGS.NAMES",
-            }) do
-                if string.find(_string, v) then
-                    Thai.PO[_string] = nil
+            -- ปิดการแปลชื่อไอเทม
+            if not Config.ITEM then
+                for _, v in ipairs({
+                    "STRINGS.NAMES",
+                }) do
+                    if string.find(_string, v) then
+                        Thai.PO[_string] = nil
+                    end
                 end
             end
         end
@@ -391,21 +400,6 @@ if SMALL_TEXTURES and not ISPLAYINGNOW then
         end
     end)
 end
-
--- โหลดฟอนต์ไทย
-local OldStart = _G.Start
-function _G.Start()
-    ApplyLocalizedFonts()
-    OldStart()
-end
-
-_G.getmetatable(TheSim).__index.UnregisterAllPrefabs = (function()
-    local oldUnregisterAllPrefabs = _G.getmetatable(TheSim).__index.UnregisterAllPrefabs
-    return function(self, ...)
-        oldUnregisterAllPrefabs(self, ...)
-        ApplyLocalizedFonts()
-    end
-end)()
 ---------------------------
 
 -- Version Check

@@ -20,3 +20,7 @@ function TranslateStringTable(text, data)
 		end
 	end
 end
+
+function IsTranslateEnabled()
+	return Config.UI or Config.CON or Config.ITEM
+end
