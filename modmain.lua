@@ -233,32 +233,27 @@ if IsTranslateEnabled() then
         end
 
         for _, text in ipairs(conStrings) do
-            local data = string.split(text, ".")
-            local strings = STRINGS[data[2]]
             local blackList = {["Nothing"] = true, ["X"] = true, ["Health"] = true, ["Sanity"] = true, ["Fire"] = true, ["Plant"] = true}
-
-            for i = 3, #data do
-                if tonumber(data[i]) then
-                    strings = strings[tonumber(data[i])]
-                else
-                    strings = strings[data[i]]
-                end
-            end
+            local strings = GetOriginalStringFromTextIndex(text)
 
             for conIndex, conEng in pairs(strings) do
                 local conThai = Thai.PO[text.."."..conIndex]
+
                 if conThai then
                     for nameIndex, nameEng in pairs(STRINGS.NAMES) do
                         local nameThai = tostring(Thai.PO["STRINGS.NAMES."..nameIndex])
+
                         if not blackList[nameEng] and nameThai then
                             if string.find(conEng, nameEng) then -- Fast check
                                 if string.find(conEng, "%f[%a]"..nameEng.."%f[%A]") then -- Slow check
                                     local conNew = string.gsub(conThai, "%f[%a]"..nameEng.."%f[%A]", nameThai)
+
                                     if Config.ITEM then
                                         conNew = string.gsub(conNew, nameThai, nameThai.."("..nameEng..")")
                                     else -- ปิดแปลชื่อไอเทมในบทสนทนา
                                         conNew = string.gsub(conNew, nameThai, " "..nameEng.." ")
                                     end
+                                    
                                     conThai = string.gsub(conNew, "  ", " ")
                                     Thai.PO[text.."."..conIndex] = conThai
                                 end
@@ -317,19 +312,11 @@ if IsTranslateEnabled() then
     -- ไอเทมสองภาษาในชื่อไอเทมเลย
     if Config.ITEM and Config.ITEM_TWO then
         for _, text in ipairs(itemStrings) do
-            local data = string.split(text, ".")
-            local strings = STRINGS[data[2]]
-
-            for i = 3, #data do
-                if tonumber(data[i]) then
-                    strings = strings[tonumber(data[i])]
-                else
-                    strings = strings[data[i]]
-                end
-            end
+            local strings = GetOriginalStringFromTextIndex(text)
 
             for itemIndex, itemEN in pairs(strings) do
                 local itemTH = Thai.PO[text.."."..itemIndex]
+
                 if itemTH then
                     if not string.find(itemTH, "%s") then
                         Thai.PO[text.."."..itemIndex] = itemTH..(itemEN and "\n("..itemEN..")" or "")

@@ -1,4 +1,4 @@
---[[ function string.split(inputstr, sep) --INFO game crashed 
+--[[ function string.split(inputstr, sep) --INFO game crashed
 	if sep == nil then
 		sep = "%s"
 	end
@@ -23,4 +23,19 @@ end
 
 function IsTranslateEnabled()
 	return Config.UI or Config.CON or Config.ITEM
+end
+
+function GetOriginalStringFromTextIndex(text)
+	local data = text:gsub("STRINGS.", ""):split(".")
+	local strings = STRINGS[data[1]]
+
+	for i = 2, #data do
+		if tonumber(data[i]) then
+			strings = strings[tonumber(data[i])]
+		else
+			strings = strings[data[i]]
+		end
+	end
+
+	return strings
 end
