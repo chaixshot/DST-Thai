@@ -326,6 +326,29 @@ if IsTranslateEnabled() then
         end
     end
 
+    local itemStrings = {
+        "STRINGS.NAMES",
+        "STRINGS.BUNNYMANNAMES",
+        "STRINGS.CHARACTER_NAMES",
+        "STRINGS.MERMNAMES",
+        "STRINGS.PIGNAMES",
+    }
+
+    if IsDST then
+        table.insert(itemStrings, "STRINGS.BEEFALONAMING")
+        table.insert(itemStrings, "STRINGS.CROWNAMES")
+        table.insert(itemStrings, "STRINGS.KITCOON_NAMING")
+        table.insert(itemStrings, "STRINGS.SWAMPIGNAMES")
+    else
+        table.insert(itemStrings, "STRINGS.CITYPIGNAMES")
+        table.insert(itemStrings, "STRINGS.ANTNAMES")
+        table.insert(itemStrings, "STRINGS.ANTWARRIORNAMES")
+        table.insert(itemStrings, "STRINGS.BALLPHINNAMES")
+        table.insert(itemStrings, "STRINGS.MANDRAKEMANNAMES")
+        table.insert(itemStrings, "STRINGS.PARROTNAMES")
+        table.insert(itemStrings, "STRINGS.SHIPNAMES")
+    end
+    
     if not Config.UI or not Config.CON or not Config.ITEM then
         for _string in pairs(Thai.PO) do
             -- ปิดการแปล UI
@@ -336,6 +359,8 @@ if IsTranslateEnabled() then
                     "STRINGS.RECIPE_DESC",
                     "STRINGS.ANTIADDICTION",
                     "STRINGS.CHARACTER_",
+                    "STRINGS.SKIN_DESCRIPTIONS",
+                    "STRINGS.SKILLTREE",
                 }) do
                     if string.find(_string, v) then
                         Thai.PO[_string] = nil
@@ -365,9 +390,7 @@ if IsTranslateEnabled() then
 
             -- ปิดการแปลชื่อไอเทม
             if not Config.ITEM then
-                for _, v in ipairs({
-                    "STRINGS.NAMES",
-                }) do
+                for _, v in ipairs(itemStrings) do
                     if string.find(_string, v) then
                         Thai.PO[_string] = nil
                     end
