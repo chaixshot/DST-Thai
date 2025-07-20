@@ -223,7 +223,16 @@ if IsTranslateEnabled() then
 
     -- ไอเทมสองภาษาใน STRING.CHARACTERS, STRING.SKILLTREE, STRING.SKIN_DESCRIPTIONS, STRINGS.RECIPE_DESC
     if Config.CON and Config.CON_ITEM_TWO then
-        local function itemTwoConversation(text)
+        local conStrings = {"STRINGS.CHARACTERS"}
+        if Config.UI then
+            table.insert(conStrings, "STRINGS.RECIPE_DESC")
+            if IsDST then
+                table.insert(conStrings, "STRINGS.SKILLTREE")
+                table.insert(conStrings, "STRINGS.SKIN_DESCRIPTIONS")
+            end
+        end
+
+        for _, text in ipairs(conStrings) do
             local data = string.split(text, ".")
             local strings = STRINGS[data[2]]
             local blackList = {["Nothing"] = true, ["X"] = true, ["Health"] = true, ["Sanity"] = true, ["Fire"] = true, ["Plant"] = true}
@@ -257,15 +266,6 @@ if IsTranslateEnabled() then
                         end
                     end
                 end
-            end
-        end
-
-        itemTwoConversation("STRINGS.CHARACTERS")
-        if Config.UI then
-            itemTwoConversation("STRINGS.RECIPE_DESC")
-            if IsDST then
-                itemTwoConversation("STRINGS.SKILLTREE")
-                itemTwoConversation("STRINGS.SKIN_DESCRIPTIONS")
             end
         end
     end
@@ -316,7 +316,7 @@ if IsTranslateEnabled() then
 
     -- ไอเทมสองภาษาในชื่อไอเทมเลย
     if Config.ITEM and Config.ITEM_TWO then
-        local function itemTwoName(text)
+        for _, text in ipairs(itemStrings) do
             local data = string.split(text, ".")
             local strings = STRINGS[data[2]]
 
@@ -336,10 +336,6 @@ if IsTranslateEnabled() then
                     end
                 end
             end
-        end
-
-        for _, v in pairs(itemStrings) do
-            itemTwoName(v)
         end
     end
 
