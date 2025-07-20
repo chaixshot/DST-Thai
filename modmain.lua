@@ -278,54 +278,27 @@ if IsTranslateEnabled() then
         end
     end
 
-    -- ไอเทมสองภาษาในชื่อไอเทมเลย
-    if Config.ITEM and Config.ITEM_TWO then
-        local function itemTwoName(text, block)
-            for k, v in pairs(block) do
-                if type(v) == "table" then
-                    itemTwoName(text.."."..k, v)
-                else
-                    local data = string.split(text.."."..k, ".")
-                    local ItemTH = tostring(Thai.PO[text.."."..k])
-                    local ItemEN = STRINGS[data[2]]
-                    if ItemTH ~= "nil" then
-                        for i = 3, #data do
-                            if tonumber(data[i]) then
-                                ItemEN = ItemEN[tonumber(data[i])]
-                            else
-                                ItemEN = ItemEN[data[i]]
-                            end
-                        end
-                        if not string.find(ItemTH, "%s") then
-                            Thai.PO[text.."."..k] = ItemTH..(ItemEN and "\n("..ItemEN..")" or "")
-                        end
-                    end
-                end
-            end
-        end
-
-        itemTwoName("STRINGS.NAMES", STRINGS.NAMES)
-        itemTwoName("STRINGS.BUNNYMANNAMES", STRINGS.BUNNYMANNAMES)
-        itemTwoName("STRINGS.CHARACTER_NAMES", STRINGS.CHARACTER_NAMES)
-        itemTwoName("STRINGS.MERMNAMES", STRINGS.MERMNAMES)
-        itemTwoName("STRINGS.PIGNAMES", STRINGS.PIGNAMES)
-
-        if IsDST then
-            itemTwoName("STRINGS.BEEFALONAMING", STRINGS.BEEFALONAMING)
-            itemTwoName("STRINGS.CROWNAMES", STRINGS.CROWNAMES)
-            itemTwoName("STRINGS.KITCOON_NAMING", STRINGS.KITCOON_NAMING)
-            itemTwoName("STRINGS.SWAMPIGNAMES", STRINGS.SWAMPIGNAMES)
-        else
-            itemTwoName("STRINGS.CITYPIGNAMES", STRINGS.CITYPIGNAMES)
-            itemTwoName("STRINGS.ANTNAMES", STRINGS.ANTNAMES)
-            itemTwoName("STRINGS.ANTWARRIORNAMES", STRINGS.ANTWARRIORNAMES)
-            itemTwoName("STRINGS.BALLPHINNAMES", STRINGS.BALLPHINNAMES)
-            itemTwoName("STRINGS.MANDRAKEMANNAMES", STRINGS.MANDRAKEMANNAMES)
-            itemTwoName("STRINGS.PARROTNAMES", STRINGS.PARROTNAMES)
-            itemTwoName("STRINGS.SHIPNAMES", STRINGS.SHIPNAMES)
-        end
-    end
-
+    local uiStrings = {
+        "STRINGS.UI",
+        "STRINGS.ACTIONS",
+        "STRINGS.RECIPE_DESC",
+        "STRINGS.ANTIADDICTION",
+        "STRINGS.CHARACTER_",
+        "STRINGS.SKILLTREE",
+        "STRINGS.SKIN_DESCRIPTIONS",
+    }
+    local conStrings = {
+        "STRINGS.CHARACTERS",
+        "STRINGS.BOARLORD_",
+        "STRINGS.CARNIVAL_",
+        "STRINGS.GOATMUM_",
+        "STRINGS.HERMITCRAB_",
+        "STRINGS.VOIDCLOTH_",
+        "STRINGS.YOTB_",
+        "STRINGS.LUCY",
+        "STRINGS.MERM_KING_TALK_",
+        "STRINGS.MERM_TALK",
+    }
     local itemStrings = {
         "STRINGS.NAMES",
         "STRINGS.BUNNYMANNAMES",
@@ -348,20 +321,41 @@ if IsTranslateEnabled() then
         table.insert(itemStrings, "STRINGS.PARROTNAMES")
         table.insert(itemStrings, "STRINGS.SHIPNAMES")
     end
-    
+
+    -- ไอเทมสองภาษาในชื่อไอเทมเลย
+    if Config.ITEM and Config.ITEM_TWO then
+        local function itemTwoName(text)
+            local data = string.split(text, ".")
+            local strings = STRINGS[data[2]]
+
+            for i = 3, #data do
+                if tonumber(data[i]) then
+                    strings = strings[tonumber(data[i])]
+                else
+                    strings = strings[data[i]]
+                end
+            end
+
+            for k, itemEN in pairs(strings) do
+                local itemTH = Thai.PO[text.."."..k]
+                if itemTH then
+                    if not string.find(itemTH, "%s") then
+                        Thai.PO[text.."."..k] = itemTH..(itemEN and "\n("..itemEN..")" or "")
+                    end
+                end
+            end
+        end
+
+        for _, v in pairs(itemStrings) do
+            itemTwoName(v)
+        end
+    end
+
     if not Config.UI or not Config.CON or not Config.ITEM then
         for _string in pairs(Thai.PO) do
             -- ปิดการแปล UI
             if not Config.UI then
-                for _, v in ipairs({
-                    "STRINGS.UI",
-                    "STRINGS.ACTIONS",
-                    "STRINGS.RECIPE_DESC",
-                    "STRINGS.ANTIADDICTION",
-                    "STRINGS.CHARACTER_",
-                    "STRINGS.SKIN_DESCRIPTIONS",
-                    "STRINGS.SKILLTREE",
-                }) do
+                for _, v in ipairs(uiStrings) do
                     if string.find(_string, v) then
                         Thai.PO[_string] = nil
                     end
@@ -370,18 +364,7 @@ if IsTranslateEnabled() then
 
             -- ปิดการแปลบทพูด
             if not Config.CON then
-                for _, v in ipairs({
-                    "STRINGS.CHARACTERS",
-                    "STRINGS.BOARLORD_",
-                    "STRINGS.CARNIVAL_",
-                    "STRINGS.GOATMUM_",
-                    "STRINGS.HERMITCRAB_",
-                    "STRINGS.VOIDCLOTH_",
-                    "STRINGS.YOTB_",
-                    "STRINGS.LUCY",
-                    "STRINGS.MERM_KING_TALK_",
-                    "STRINGS.MERM_TALK",
-                }) do
+                for _, v in ipairs(conStrings) do
                     if string.find(_string, v) then
                         Thai.PO[_string] = nil
                     end
