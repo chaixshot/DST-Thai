@@ -244,17 +244,17 @@ if IsTranslateEnabled() then
                         local nameThai = tostring(Thai.PO["STRINGS.NAMES."..nameIndex])
 
                         if not blackList[nameEng] and nameThai then
-                            if string.find(conEng, nameEng) then -- Fast check
-                                if string.find(conEng, "%f[%a]"..nameEng.."%f[%A]") then -- Slow check
-                                    local conNew = string.gsub(conThai, "%f[%a]"..nameEng.."%f[%A]", nameThai)
+                            if conEng:find(nameEng) then -- Fast check
+                                if conEng:find("%f[%a]"..nameEng.."%f[%A]") then -- Slow check
+                                    conThai = conThai:gsub("%f[%a]"..nameEng.."%f[%A]", nameThai)
 
                                     if Config.ITEM then
-                                        conNew = string.gsub(conNew, nameThai, nameThai.."("..nameEng..")")
+                                        conThai = conThai:gsub(nameThai, nameThai.."("..nameEng..")")
                                     else -- ปิดแปลชื่อไอเทมในบทสนทนา
-                                        conNew = string.gsub(conNew, nameThai, " "..nameEng.." ")
+                                        conThai = conThai:gsub(nameThai, " "..nameEng.." ")
                                     end
-                                    
-                                    conThai = string.gsub(conNew, "  ", " ")
+
+                                    conThai = conThai:gsub("  ", " ")
                                     Thai.PO[text.."."..conIndex] = conThai
                                 end
                             end
@@ -318,7 +318,7 @@ if IsTranslateEnabled() then
                 local itemTH = Thai.PO[text.."."..itemIndex]
 
                 if itemTH then
-                    if not string.find(itemTH, "%s") then
+                    if not itemTH:find("%s") then
                         Thai.PO[text.."."..itemIndex] = itemTH..(itemEN and "\n("..itemEN..")" or "")
                     end
                 end
@@ -331,7 +331,7 @@ if IsTranslateEnabled() then
             -- ปิดการแปล UI
             if not Config.UI then
                 for _, v in ipairs(uiStrings) do
-                    if string.find(stringIndex, v) then
+                    if stringIndex:find(v) then
                         Thai.PO[stringIndex] = nil
                     end
                 end
@@ -340,7 +340,7 @@ if IsTranslateEnabled() then
             -- ปิดการแปลบทพูด
             if not Config.CON then
                 for _, v in ipairs(conStrings) do
-                    if string.find(stringIndex, v) then
+                    if stringIndex:find(v) then
                         Thai.PO[stringIndex] = nil
                     end
                 end
@@ -349,7 +349,7 @@ if IsTranslateEnabled() then
             -- ปิดการแปลชื่อไอเทม
             if not Config.ITEM then
                 for _, v in ipairs(itemStrings) do
-                    if string.find(stringIndex, v) then
+                    if stringIndex:find(v) then
                         Thai.PO[stringIndex] = nil
                     end
                 end

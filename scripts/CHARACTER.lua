@@ -6,11 +6,11 @@ end
 TranslateStringTable("STRINGS.CHARACTERS", STRINGS.CHARACTERS)
 
 local function ParseTranslationTags(message, char, talker, optionaltags)
-	if not (message and string.find(message, "[", 1, true)) then return message end
+	if not (message and message:find("[", 1, true)) then return message end
 
 	local gender = "neutral"
 	local function parse(str)
-		local vars = string.split(str, "|")
+		local vars = str:split("|")
 		local tags = {}
 		local counter = 0
 
@@ -24,7 +24,7 @@ local function ParseTranslationTags(message, char, talker, optionaltags)
 		end
 
 		for _, v in ipairs(vars) do
-			local vars2 = string.split(v, "=")
+			local vars2 = v:split("=")
 			if #vars2 == 1 then counter = counter + 1 end
 			local path = (#vars2 == 2) and vars2[1] or
 				 (((counter == 1) and "he")
@@ -34,7 +34,7 @@ local function ParseTranslationTags(message, char, talker, optionaltags)
 					 or ((counter == 5) and "neutral")
 					 or ((counter > 5) and nil))
 			if path then
-				local vars3 = string.split(path, ",")
+				local vars3 = path:split(",")
 				for _, vv in ipairs(vars3) do
 					local c = vv and vv:match("^%s*(.*%S)")
 					c = c and c:lower()
@@ -63,9 +63,9 @@ local function ParseTranslationTags(message, char, talker, optionaltags)
 	end
 
 	local function search(part)
-		part = string.sub(part, 2, -2)
+		part = part:sub(2, -2)
 
-		if not string.find(part, "[", 1, true) then
+		if not part:find("[", 1, true) then
 			part = parse(part)
 		else
 			part = parse(part:gsub("%b[]", search))
@@ -124,7 +124,7 @@ local function GetFromSpeechesHash(message, char)
 		if not (message and Thai.SpeechHashTbl[char] and Thai.SpeechHashTbl[char]["mentioned_class"] and type(Thai.SpeechHashTbl[char]["mentioned_class"]) == "table") then return nil end
 
 		for i, v in pairs(Thai.SpeechHashTbl[char]["mentioned_class"]) do
-			local mentions = {string.match(message, "^"..(string.gsub(i, "%%s", "(.*)")).."$")}
+			local mentions = {message:match("^"..(i:gsub("%%s", "(.*)")).."$")}
 			if mentions and #mentions > 0 then
 				return v, mentions
 			end
@@ -182,7 +182,7 @@ local function BuildCharacterHash(charname)
 			else
 				local val = source[str.."."..i] or v
 
-				if v and string.find(v, "%s", 1, true) then
+				if v and v:find("%s", 1, true) then
 					hashtbl["mentioned_class"] = hashtbl["mentioned_class"] or {}
 					hashtbl["mentioned_class"][v] = val
 				end
@@ -225,7 +225,7 @@ local function TranslateToThai(message, entity)
 	if not (entity and entity.prefab and entity.components.talker and type(message) == "string") then return message end
 
 	if entity:HasTag("playerghost") then
-		message = string.gsub(message, "h", "у")
+		message = message:gsub("h", "у")
 		return message
 	end
 
@@ -275,12 +275,12 @@ local function TranslateToThai(message, entity)
 		end
 
 		message = (ParseTranslationTags(message, ent.prefab, nil, killerkey)) or message
-		message = string.format(message, _G.unpack(mentions or {"", "", "", ""}))
+		message = message:format(_G.unpack(mentions or {"", "", "", ""}))
 
 		return message
 	end
 
-	local messages = string.split(message, "\n") or {message}
+	local messages = message:split("\n") or {message}
 	message = ""
 	local i = 1
 

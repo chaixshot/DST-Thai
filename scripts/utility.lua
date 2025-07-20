@@ -1,10 +1,10 @@
---[[ function string.split(inputstr, sep) --INFO game crashed
+--[[ function inputstr:split(sep) --INFO game crashed
 	if sep == nil then
 		sep = "%s"
 	end
 	local t = {}
 	local i = 1
-	for str in string.gmatch(inputstr or "", "([^"..sep.."]+)") do
+	for str in inputstr:gmatch(r "", "([^"..sep.."]+)") do
 		t[i] = str
 		i += 1
 	end
