@@ -364822,7 +364822,7 @@ msgstr "Cursed Sabre"
 #. STRINGS.SKIN_NAMES.none
 msgctxt "STRINGS.SKIN_NAMES.none"
 msgid "Default"
-msgstr "Default"
+msgstr "ค่าเริ่มต้น"
 
 #. STRINGS.SKIN_NAMES.oar_driftwood_invisible
 msgctxt "STRINGS.SKIN_NAMES.oar_driftwood_invisible"
@@ -390222,7 +390222,7 @@ msgstr "ทำอาหารอร่อยๆเพื่อเอาใจเ
 #. STRINGS.UI.GAMEMODES.SURVIVAL
 msgctxt "STRINGS.UI.GAMEMODES.SURVIVAL"
 msgid "Default"
-msgstr "Default"
+msgstr "ค่าเริ่มต้น"
 
 #. STRINGS.UI.GAMEMODES.SURVIVAL_DESCRIPTION
 msgctxt "STRINGS.UI.GAMEMODES.SURVIVAL_DESCRIPTION"
