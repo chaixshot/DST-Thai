@@ -104,7 +104,7 @@ msgstr "เด็ดดอกไม้"
 #. STRINGS.ACTIONS.ACTIVATE.PLAY_WITH
 msgctxt "STRINGS.ACTIONS.ACTIVATE.PLAY_WITH"
 msgid "Play with"
-msgstr "เล่นกับ"
+msgstr "เล่นด้วย"
 
 #. STRINGS.ACTIONS.ACTIVATE.RANSACK
 msgctxt "STRINGS.ACTIONS.ACTIVATE.RANSACK"
