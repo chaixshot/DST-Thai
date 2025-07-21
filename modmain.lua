@@ -253,10 +253,10 @@ if IsTranslateEnabled() then
 
         for _, text in ipairs(conStrings) do
             local blackList = {["Nothing"] = true, ["X"] = true, ["Health"] = true, ["Sanity"] = true, ["Fire"] = true, ["Plant"] = true}
-            local strings = GetOriginalStringFromTextIndex(text)
+            local strings = GetOriginalStringFromIndex(text)
 
             for conIndex, conEng in pairs(strings) do
-                local conThai = Thai.PO[text.."."..conIndex]
+                local conThai = Thai.PO[conIndex]
 
                 if conThai then
                     for nameIndex, nameEng in pairs(STRINGS.NAMES) do
@@ -274,7 +274,7 @@ if IsTranslateEnabled() then
                                     end
 
                                     conThai = conThai:gsub("  ", " ")
-                                    Thai.PO[text.."."..conIndex] = conThai
+                                    Thai.PO[conIndex] = conThai
                                 end
                             end
                         end
@@ -331,14 +331,14 @@ if IsTranslateEnabled() then
     -- ไอเทมสองภาษาในชื่อไอเทมเลย
     if Config.ITEM and Config.ITEM_TWO then
         for _, text in ipairs(itemStrings) do
-            local strings = GetOriginalStringFromTextIndex(text)
+            local strings = GetOriginalStringFromIndex(text)
 
             for itemIndex, itemEN in pairs(strings) do
-                local itemTH = Thai.PO[text.."."..itemIndex]
+                local itemTH = Thai.PO[itemIndex]
 
                 if itemTH then
                     if not itemTH:find("%s") then
-                        Thai.PO[text.."."..itemIndex] = itemTH..(itemEN and "\n("..itemEN..")" or "")
+                        Thai.PO[itemIndex] = itemTH..(itemEN and "\n("..itemEN..")" or "")
                     end
                 end
             end
@@ -444,4 +444,3 @@ AddClassPostConstruct("widgets/redux/intentionpicker", postintentionpicker)
 
 -- แก้ข้อความบังคับอัตโนมัติ เช่น "Moon Shard"
 _G.setfenv(1, _G)
-TranslateStringTable(STRINGS)

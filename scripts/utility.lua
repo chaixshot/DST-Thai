@@ -21,21 +21,41 @@ function TranslateStringTable(text, data)
 	end
 end
 
+
+
 function IsTranslateEnabled()
 	return Config.UI or Config.CON or Config.ITEM
 end
 
-function GetOriginalStringFromTextIndex(text)
-	local data = text:gsub("STRINGS.", ""):split(".")
-	local strings = STRINGS[data[1]]
+---comment
+---@param text string
+---@return table<string, string>
+function GetOriginalStringFromIndex(text)
+	local block = text:gsub("STRINGS.", ""):split(".")
+	local strings = STRINGS[block[1]]
+	local result = {}
 
-	for i = 2, #data do
-		if tonumber(data[i]) then
-			strings = strings[tonumber(data[i])]
+	for i = 2, #block do
+		if tonumber(block[i]) then
+			strings = strings[tonumber(block[i])]
 		else
-			strings = strings[data[i]]
+			strings = strings[block[i]]
 		end
 	end
 
-	return strings
+	if strings then
+		for index, data in pairs(strings) do
+			if type(data) == "table" then
+				local _strings = GetOriginalStringFromIndex(text.."."..index)
+
+				for _index, _data in pairs(_strings) do
+					result[_index] = _data
+				end
+			else
+				result[text.."."..index] = data
+			end
+		end
+	end
+
+	return result
 end
