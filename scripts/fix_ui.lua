@@ -31,3 +31,20 @@ Thai.StringUITable["Official Discord"] = "Discord อย่างเป็นท
 Thai.StringUITable["Check out the official Klei Discord!"] = "Klei Discord อย่างเป็นทางการ"
 
 Thai.StringUITable["No previous recipe found"] = "ไม่พบสูตรล่าสุด"
+
+-- Remove new line of item two language from crafting menu
+AddClassPostConstruct("widgets/redux/craftingmenu_details", function(self, ...)
+	self.UpdateNameString = function()
+		local recipe = self.data.recipe
+		local meta = self.data.meta
+
+		local namestr = STRINGS.NAMES[string.upper(recipe.nameoverride or recipe.name)] or STRINGS.NAMES[string.upper(recipe.product)]
+		if meta.limitedamount then
+			namestr = subfmt(STRINGS.UI.CRAFTING.LIMITEDAMOUNTFMT, {name = namestr, number = meta.limitedamount})
+		end
+		namestr = namestr:gsub("\n", " ")
+
+		local title_width = self.panel_width / 2 - 30
+		self.namestring:SetMultilineTruncatedString(namestr, 1, title_width, nil, nil, true)
+	end
+end)
