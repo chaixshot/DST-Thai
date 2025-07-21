@@ -11,18 +11,16 @@
 	return t
 end ]]
 
-function TranslateStringTable(text, data)
-	for k, v in pairs(data) do
-		if type(v) == "table" then
-			TranslateStringTable(text.."."..k, v)
-		else
-			Thai.StringUITable[data[k]] = Thai.PO[text.."."..k]
-		end
+function TranslateStringTable(text)
+	local strings = GetOriginalStringFromIndex(text)
+
+	for stringIndex, stringEng in pairs(strings) do
+		Thai.StringUITable[stringEng] = Thai.PO[stringIndex]
 	end
 end
 
-
-
+---Check if any translate config enable
+---@return boolean
 function IsTranslateEnabled()
 	return Config.UI or Config.CON or Config.ITEM
 end

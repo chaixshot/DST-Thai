@@ -3,7 +3,7 @@ if not Config.UI then
 	return
 end
 
-TranslateStringTable("STRINGS.UI", STRINGS.UI)
+TranslateStringTable("STRINGS.UI")
 
 Thai.StringUITable[" Thai Language Pack"] = "ภาษาไทย"
 
