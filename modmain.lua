@@ -29,22 +29,13 @@ Config = {
 local function applyLocalizedFonts()
     local LocalizedFontList = {
         ["belisaplumilla50"] = true,
-        ["belisaplumilla100"] = true,
-        ["bellefair50"] = true,
-        ["bellefair50_outline"] = true,
-        ["buttonfont"] = true,
-        ["hammerhead50"] = true,
         ["opensans50"] = true,
-        ["spirequal"] = rawget(_G, "NEWFONT") and true or nil,
-        ["spirequal_small"] = rawget(_G, "NEWFONT_SMALL") and true or nil,
-        ["spirequal_outline"] = rawget(_G, "NEWFONT_OUTLINE") and true or nil,
-        ["spirequal_outline_small"] = rawget(_G, "NEWFONT_OUTLINE_SMALL") and true or nil,
+        ["spirequal"] = true,
+        ["spirequal_small"] = true,
+        ["spirequal_outline"] = true,
+        ["spirequal_outline_small"] = true,
         ["stint-ucr50"] = true,
         ["stint-ucr20"] = true,
-        ["talkingfont"] = true,
-        ["talkingfont_hermit"] = true,
-        ["talkingfont_tradein"] = true,
-        ["talkingfont_wormwood"] = true,
     }
 
     for FontName in pairs(LocalizedFontList) do
@@ -84,18 +75,18 @@ local function applyLocalizedFonts()
             _G.DIALOGFONT = Thai.SelectedLanguage.."_opensans50"
         end
         if rawget(_G, "TITLEFONT") then
-            _G.TITLEFONT = Thai.SelectedLanguage.."_belisaplumilla100"
+            _G.TITLEFONT = Thai.SelectedLanguage.."_belisaplumilla50"
         end
         if rawget(_G, "UIFONT") then
             _G.UIFONT = Thai.SelectedLanguage.."_belisaplumilla50"
         end
         if rawget(_G, "BUTTONFONT") then
-            _G.BUTTONFONT = Thai.SelectedLanguage.."_buttonfont"
+            _G.BUTTONFONT = Thai.SelectedLanguage.."_belisaplumilla50"
         end
         if rawget(_G, "HEADERFONT") then
-            _G.HEADERFONT = Thai.SelectedLanguage.."_hammerhead50"
+            _G.HEADERFONT = Thai.SelectedLanguage.."_spirequal"
         end
-        if rawget(_G, "CHATFONT_OUTLINE") then
+        if rawget(_G, "NUMBERFONT") then
             _G.NUMBERFONT = Thai.SelectedLanguage.."_stint-ucr50"
         end
         if rawget(_G, "SMALLNUMBERFONT") then
@@ -105,7 +96,7 @@ local function applyLocalizedFonts()
             _G.BODYTEXTFONT = Thai.SelectedLanguage.."_stint-ucr50"
         end
         if rawget(_G, "CHATFONT_OUTLINE") then
-            _G.CHATFONT_OUTLINE = Thai.SelectedLanguage.."_bellefair50_outline"
+            _G.CHATFONT_OUTLINE = Thai.SelectedLanguage.."_spirequal_outline"
         end
         if rawget(_G, "NEWFONT") then
             _G.NEWFONT = Thai.SelectedLanguage.."_spirequal"
@@ -121,22 +112,22 @@ local function applyLocalizedFonts()
         end
     end
     if rawget(_G, "CHATFONT") then
-        _G.CHATFONT = Thai.SelectedLanguage.."_bellefair50"
+        _G.CHATFONT = Thai.SelectedLanguage.."_spirequal"
     end
     if rawget(_G, "TALKINGFONT") then
-        _G.TALKINGFONT = Thai.SelectedLanguage.."_talkingfont"
+        _G.TALKINGFONT = Thai.SelectedLanguage.."_opensans50"
     end
     if rawget(_G, "TALKINGFONT_HERMIT") then
-        _G.TALKINGFONT_HERMIT = Thai.SelectedLanguage.."_talkingfont"
+        _G.TALKINGFONT_HERMIT = Thai.SelectedLanguage.."_opensans50"
     end
     if rawget(_G, "TALKINGFONT_TRADEIN") then
-        _G.TALKINGFONT_TRADEIN = Thai.SelectedLanguage.."_talkingfont_tradein"
+        _G.TALKINGFONT_TRADEIN = Thai.SelectedLanguage.."_opensans50"
     end
     if rawget(_G, "TALKINGFONT_WORMWOOD") then
-        _G.TALKINGFONT_WORMWOOD = Thai.SelectedLanguage.."_talkingfont_wormwood"
+        _G.TALKINGFONT_WORMWOOD = Thai.SelectedLanguage.."_opensans50"
     end
-    if _G.rawget(_G, "TALKINGFONT_WATHGRITHR") then
-        _G.TALKINGFONT_WATHGRITHR = Thai.SelectedLanguage.."_talkingfont_wathgrithr"
+    if rawget(_G, "TALKINGFONT_WATHGRITHR") then
+        _G.TALKINGFONT_WATHGRITHR = Thai.SelectedLanguage.."_opensans50"
     end
 end
 
