@@ -27,107 +27,135 @@ Config = {
 
 --โหลดฟอนต์
 local function applyLocalizedFonts()
-    local LocalizedFontList = {
-        ["belisaplumilla50"] = true,
-        ["opensans50"] = true,
-        ["spirequal"] = true,
-        ["spirequal_small"] = true,
-        ["spirequal_outline"] = true,
-        ["spirequal_outline_small"] = true,
-        ["stint-ucr50"] = true,
-        ["stint-ucr20"] = true,
+    -- List of font assets file
+    local fontAssetsList = {
+        ["kodchasan50"] = true,
+        ["leelawadeeui50"] = true,
+        ["leelawadeeui_small"] = true,
+        ["leelawadeeui50_outline"] = true,
+        ["leelawadeeui_outline_small"] = true,
+        ["dilleniaupc50"] = true,
+        ["dilleniaupc50_outline"] = true,
     }
 
-    for FontName in pairs(LocalizedFontList) do
-        TheSim:UnloadFont(Thai.SelectedLanguage.."_"..FontName)
+    -- Index of game original font to thai custom font
+    local fontIndex = {
+        ["belisaplumilla100"] = "kodchasan50",
+        ["belisaplumilla50"] = "kodchasan50",
+        ["bellefair50"] = "leelawadeeui50",
+        ["bellefair50_outline"] = "leelawadeeui50_outline",
+        ["buttonfont"] = "kodchasan50",
+        ["hammerhead50"] = "leelawadeeui50",
+        ["opensans50"] = "leelawadeeui50_outline",
+        ["spirequal"] = "leelawadeeui50",
+        ["spirequal_outline"] = "leelawadeeui50_outline",
+        ["spirequal_outline_small"] = "leelawadeeui_outline_small",
+        ["spirequal_small"] = "leelawadeeui_small",
+        ["stint-ucr20"] = "dilleniaupc50_outline",
+        ["stint-ucr50"] = "dilleniaupc50",
+        ["talkingfont"] = "leelawadeeui50_outline",
+        ["talkingfont_hermit"] = "leelawadeeui50_outline",
+        ["talkingfont_tradein"] = "leelawadeeui50_outline",
+        ["talkingfont_wathgrithr"] = "leelawadeeui50_outline",
+        ["talkingfont_wormwood"] = "leelawadeeui50_outline",
+    }
+    local forntPrefab = Thai.SelectedLanguage.."_fonts_"..modname
+
+    -- Unload thai font and prefab on reloading mod
+    for fontName, fontUseName in pairs(fontIndex) do
+        local fontID = Thai.SelectedLanguage.."_"..fontName
+        TheSim:UnloadFont(fontID)
     end
-    TheSim:UnloadPrefabs({Thai.SelectedLanguage.."_fonts_"..modname})
+    TheSim:UnloadPrefabs({forntPrefab})
 
-    local LocalizedFontAssets = {}
-    for FontName in pairs(LocalizedFontList) do
-        table.insert(LocalizedFontAssets, _G.Asset("FONT", MODROOT.."fonts/"..FontName.."__"..Thai.SelectedLanguage..".zip"))
+    -- Loading font file assets
+    local localFontAssets = {}
+    for fontName in pairs(fontAssetsList) do
+        local fontPath = MODROOT.."fonts/"..fontName.."__"..Thai.SelectedLanguage..".zip"
+        table.insert(localFontAssets, _G.Asset("FONT", fontPath))
     end
 
-    local LocalizedFontsPrefab = _G.Prefab("common/"..Thai.SelectedLanguage.."_fonts_"..modname, nil, LocalizedFontAssets)
-    _G.RegisterPrefabs(LocalizedFontsPrefab)
-    TheSim:LoadPrefabs({Thai.SelectedLanguage.."_fonts_"..modname})
-
-    for FontName in pairs(LocalizedFontList) do
-        TheSim:LoadFont(MODROOT.."fonts/"..FontName.."__"..Thai.SelectedLanguage..".zip", Thai.SelectedLanguage.."_"..FontName)
+    -- Load thai fonts to engine
+    local localizedFontsPrefab = _G.Prefab("common/"..forntPrefab, nil, localFontAssets)
+    _G.RegisterPrefabs(localizedFontsPrefab)
+    TheSim:LoadPrefabs({forntPrefab})
+    for fontName, fontUseName in pairs(fontIndex) do
+        local fontID = Thai.SelectedLanguage.."_"..fontName
+        local fontPath = MODROOT.."fonts/"..fontUseName.."__"..Thai.SelectedLanguage..".zip"
+        TheSim:LoadFont(fontPath, fontID)
     end
 
-    local fallbacks = {}
+    -- Set fallback font for misssing charactor to game original
     for _, v in pairs(_G.FONTS) do
-        local FontName = v.filename:sub(7, -5)
-        if LocalizedFontList[FontName] then
-            fallbacks[FontName] = {v.alias, _G.unpack(type(v.fallback) == "table" and v.fallback or {})}
+        local fontName = v.filename:sub(7, -5)
+        if fontIndex[fontName] then
+            local fontID = Thai.SelectedLanguage.."_"..fontName
+            TheSim:SetupFontFallbacks(fontID, {v.alias, _G.unpack(type(v.fallback) == "table" and v.fallback or {})})
         end
     end
-    for FontName in pairs(LocalizedFontList) do
-        TheSim:SetupFontFallbacks(Thai.SelectedLanguage.."_"..FontName, fallbacks[FontName])
-    end
 
+    -- Apple font to the engine
     if IsTranslateEnabled() then
         if rawget(_G, "DEFAULTFONT") then
-            _G.DEFAULTFONT = Thai.SelectedLanguage.."_opensans50"
+            _G.DEFAULTFONT = Thai.SelectedLanguage.."_".."opensans50"
         end
         if rawget(_G, "DIALOGFONT") then
-            _G.DIALOGFONT = Thai.SelectedLanguage.."_opensans50"
+            _G.DIALOGFONT = Thai.SelectedLanguage.."_".."opensans50"
         end
         if rawget(_G, "TITLEFONT") then
-            _G.TITLEFONT = Thai.SelectedLanguage.."_belisaplumilla50"
+            _G.TITLEFONT = Thai.SelectedLanguage.."_".."belisaplumilla100"
         end
         if rawget(_G, "UIFONT") then
-            _G.UIFONT = Thai.SelectedLanguage.."_belisaplumilla50"
+            _G.UIFONT = Thai.SelectedLanguage.."_".."belisaplumilla50"
         end
         if rawget(_G, "BUTTONFONT") then
-            _G.BUTTONFONT = Thai.SelectedLanguage.."_belisaplumilla50"
+            _G.BUTTONFONT = Thai.SelectedLanguage.."_".."buttonfont"
         end
         if rawget(_G, "HEADERFONT") then
-            _G.HEADERFONT = Thai.SelectedLanguage.."_spirequal"
+            _G.HEADERFONT = Thai.SelectedLanguage.."_".."hammerhead50"
         end
         if rawget(_G, "NUMBERFONT") then
-            _G.NUMBERFONT = Thai.SelectedLanguage.."_stint-ucr50"
+            _G.NUMBERFONT = Thai.SelectedLanguage.."_".."stint-ucr50"
         end
         if rawget(_G, "SMALLNUMBERFONT") then
-            _G.SMALLNUMBERFONT = Thai.SelectedLanguage.."_stint-ucr20"
+            _G.SMALLNUMBERFONT = Thai.SelectedLanguage.."_".."stint-ucr20"
         end
         if rawget(_G, "BODYTEXTFONT") then
-            _G.BODYTEXTFONT = Thai.SelectedLanguage.."_stint-ucr50"
+            _G.BODYTEXTFONT = Thai.SelectedLanguage.."_".."stint-ucr50"
         end
         if rawget(_G, "CHATFONT_OUTLINE") then
-            _G.CHATFONT_OUTLINE = Thai.SelectedLanguage.."_spirequal_outline"
+            _G.CHATFONT_OUTLINE = Thai.SelectedLanguage.."_".."bellefair50_outline"
         end
         if rawget(_G, "NEWFONT") then
-            _G.NEWFONT = Thai.SelectedLanguage.."_spirequal"
+            _G.NEWFONT = Thai.SelectedLanguage.."_".."spirequal"
         end
         if rawget(_G, "NEWFONT_SMALL") then
-            _G.NEWFONT_SMALL = Thai.SelectedLanguage.."_spirequal_small"
+            _G.NEWFONT_SMALL = Thai.SelectedLanguage.."_".."spirequal_small"
         end
         if rawget(_G, "NEWFONT_OUTLINE") then
-            _G.NEWFONT_OUTLINE = Thai.SelectedLanguage.."_spirequal_outline"
+            _G.NEWFONT_OUTLINE = Thai.SelectedLanguage.."_".."spirequal_outline"
         end
         if rawget(_G, "NEWFONT_OUTLINE_SMALL") then
-            _G.NEWFONT_OUTLINE_SMALL = Thai.SelectedLanguage.."_spirequal_outline_small"
+            _G.NEWFONT_OUTLINE_SMALL = Thai.SelectedLanguage.."_".."spirequal_outline_small"
         end
     end
     if rawget(_G, "CHATFONT") then
-        _G.CHATFONT = Thai.SelectedLanguage.."_spirequal"
+        _G.CHATFONT = Thai.SelectedLanguage.."_".."bellefair50"
     end
     if rawget(_G, "TALKINGFONT") then
-        _G.TALKINGFONT = Thai.SelectedLanguage.."_opensans50"
+        _G.TALKINGFONT = Thai.SelectedLanguage.."_".."talkingfont"
     end
     if rawget(_G, "TALKINGFONT_HERMIT") then
-        _G.TALKINGFONT_HERMIT = Thai.SelectedLanguage.."_opensans50"
+        _G.TALKINGFONT_HERMIT = Thai.SelectedLanguage.."_".."talkingfont_hermit"
     end
     if rawget(_G, "TALKINGFONT_TRADEIN") then
-        _G.TALKINGFONT_TRADEIN = Thai.SelectedLanguage.."_opensans50"
+        _G.TALKINGFONT_TRADEIN = Thai.SelectedLanguage.."_".."talkingfont_tradein"
     end
     if rawget(_G, "TALKINGFONT_WORMWOOD") then
-        _G.TALKINGFONT_WORMWOOD = Thai.SelectedLanguage.."_opensans50"
+        _G.TALKINGFONT_WORMWOOD = Thai.SelectedLanguage.."_".."talkingfont_wormwood"
     end
     if rawget(_G, "TALKINGFONT_WATHGRITHR") then
-        _G.TALKINGFONT_WATHGRITHR = Thai.SelectedLanguage.."_opensans50"
+        _G.TALKINGFONT_WATHGRITHR = Thai.SelectedLanguage.."_".."talkingfont_wathgrithr"
     end
 end
 
