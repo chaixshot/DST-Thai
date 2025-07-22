@@ -36,7 +36,7 @@ function GetOriginalStringsFromIndex(text)
 	local result = {}
 
 	for i = 2, #block do
-		strings = strings[tonumber(block[i]) or strings[block[i]]]
+		strings = strings[tonumber(block[i]) or block[i]]
 	end
 
 	if strings then
