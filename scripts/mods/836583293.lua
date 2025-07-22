@@ -1,4 +1,4 @@
-Thai.StringUITable["Displays items' values & more! v0.52"] = "แสดงค่าของไอเทมและอื่น ๆ ! v0.52"
+Thai.StringUITable["Displays items' values & more! v0.52"] = "แสดงค่าของไอเทมและอื่นๆ ! v0.52"
 
 Thai.StringUITable["Info scale"] = "ขนาดข้อมูล"
 Thai.StringUITable["Sets the tooltips' info scale"] = "ตั้งค่าขนาดข้อมูลของคำแนะนำเครื่องมือ"

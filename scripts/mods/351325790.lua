@@ -62,7 +62,7 @@ Thai.StringUITable["Fine Grid Size:"] = "ระยะกริดละเอี
 Thai.StringUITable["How big to make the grid for things that use a fine grid (structures, plants, etc)."] = "ขนาดกริดสิ่งที่ใช้กริดละเอียด (โครงสร้าง ต้นไม้ ฯลฯ)"
 
 Thai.StringUITable["Medium Grid Size:"] = "ระยะกริดกลาง:"
-Thai.StringUITable["How big to make the grid for things that use a medium grid (such as walls, DST crops)."] = "ขนาดกริดสำหรับสิ่งต่าง ๆ ที่ใช้กริดขนาดกลาง (เช่น กำแพง การครอบตัด DST)"
+Thai.StringUITable["How big to make the grid for things that use a medium grid (such as walls, DST crops)."] = "ขนาดกริดสำหรับสิ่งต่างๆ ที่ใช้กริดขนาดกลาง (เช่น กำแพง การครอบตัด DST)"
 
 Thai.StringUITable["Large Grid Size:"] = "ระยะกริดใหญ่:"
 Thai.StringUITable["How big to make the grid for things that use a large grid (such as turf and pitchforks)."] = "ขนาดกริดสำหรับสิ่งที่ใช้กริดขนาดใหญ่ (เช่น พื้นหญ้าและส้อมโกย)"
