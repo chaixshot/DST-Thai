@@ -344409,7 +344409,7 @@ msgstr "ไม่มีคำอธิบาย"
 #. STRINGS.SKIN_DESCRIPTIONS.kitten_winter
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.kitten_winter"
 msgid "Did this Kittykit just get cuter? (How's that even possible?!)"
-msgstr "คุณคิดว่าแมวนี่น่ารักไหม?"
+msgstr "คุณคิดว่าคิดตี้แคทนี่น่ารักไหม?"
 
 #. STRINGS.SKIN_DESCRIPTIONS.kitten_winter_builder
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.kitten_winter_builder"
