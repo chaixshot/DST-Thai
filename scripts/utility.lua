@@ -11,8 +11,10 @@
 	return t
 end ]]
 
+---comment
+---@param text string
 function TranslateStringTable(text)
-	local strings = GetOriginalStringFromIndex(text)
+	local strings = GetOriginalStringsFromIndex(text)
 
 	for stringIndex, stringEng in pairs(strings) do
 		Thai.StringUITable[stringEng] = Thai.PO[stringIndex]
@@ -28,23 +30,19 @@ end
 ---comment
 ---@param text string
 ---@return table<string, string>
-function GetOriginalStringFromIndex(text)
+function GetOriginalStringsFromIndex(text)
 	local block = text:gsub("STRINGS.", ""):split(".")
 	local strings = STRINGS[block[1]]
 	local result = {}
 
 	for i = 2, #block do
-		if tonumber(block[i]) then
-			strings = strings[tonumber(block[i])]
-		else
-			strings = strings[block[i]]
-		end
+		strings = strings[tonumber(block[i]) or strings[block[i]]]
 	end
 
 	if strings then
 		for index, data in pairs(strings) do
 			if type(data) == "table" then
-				local _strings = GetOriginalStringFromIndex(text.."."..index)
+				local _strings = GetOriginalStringsFromIndex(text.."."..index)
 
 				for _index, _data in pairs(_strings) do
 					result[_index] = _data

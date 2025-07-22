@@ -59,14 +59,14 @@ local function applyLocalizedFonts()
         ["talkingfont_wathgrithr"] = "leelawadeeui50_outline",
         ["talkingfont_wormwood"] = "leelawadeeui50_outline",
     }
-    local forntPrefab = Thai.SelectedLanguage.."_fonts_"..modname
+    local fontPrefab = Thai.SelectedLanguage.."_fonts_"..modname
 
     -- Unload thai font and prefab on reloading mod
     for fontName, fontUseName in pairs(fontIndex) do
         local fontID = Thai.SelectedLanguage.."_"..fontName
         TheSim:UnloadFont(fontID)
     end
-    TheSim:UnloadPrefabs({forntPrefab})
+    TheSim:UnloadPrefabs({fontPrefab})
 
     -- Loading font file assets
     local localFontAssets = {}
@@ -76,9 +76,9 @@ local function applyLocalizedFonts()
     end
 
     -- Load thai fonts to engine
-    local localizedFontsPrefab = _G.Prefab("common/"..forntPrefab, nil, localFontAssets)
+    local localizedFontsPrefab = _G.Prefab("common/"..fontPrefab, nil, localFontAssets)
     _G.RegisterPrefabs(localizedFontsPrefab)
-    TheSim:LoadPrefabs({forntPrefab})
+    TheSim:LoadPrefabs({fontPrefab})
     for fontName, fontUseName in pairs(fontIndex) do
         local fontID = Thai.SelectedLanguage.."_"..fontName
         local fontPath = MODROOT.."fonts/"..fontUseName.."__"..Thai.SelectedLanguage..".zip"
@@ -253,7 +253,7 @@ if IsTranslateEnabled() then
 
         for _, text in ipairs(conStrings) do
             local blackList = {["Nothing"] = true, ["X"] = true, ["Health"] = true, ["Sanity"] = true, ["Fire"] = true, ["Plant"] = true}
-            local strings = GetOriginalStringFromIndex(text)
+            local strings = GetOriginalStringsFromIndex(text)
 
             for conIndex, conEng in pairs(strings) do
                 local conThai = Thai.PO[conIndex]
@@ -331,7 +331,7 @@ if IsTranslateEnabled() then
     -- ไอเทมสองภาษาในชื่อไอเทมเลย
     if Config.ITEM and Config.ITEM_TWO then
         for _, text in ipairs(itemStrings) do
-            local strings = GetOriginalStringFromIndex(text)
+            local strings = GetOriginalStringsFromIndex(text)
 
             for itemIndex, itemEN in pairs(strings) do
                 local itemTH = Thai.PO[itemIndex]
