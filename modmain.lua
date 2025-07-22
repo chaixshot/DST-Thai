@@ -240,51 +240,7 @@ if IsTranslateEnabled() then
     LoadPOFile("scripts/languages/thai.po", Thai.SelectedLanguage)
     Thai.PO = _G.LanguageTranslator.languages[Thai.SelectedLanguage]
 
-    -- ไอเทมสองภาษาใน STRING.CHARACTERS, STRING.SKILLTREE, STRING.SKIN_DESCRIPTIONS, STRINGS.RECIPE_DESC
-    if (Config.CON and Config.CON_ITEM) and (not Config.ITEM or (Config.ITEM and Config.ITEM_TWO)) then
-        local conStrings = {"STRINGS.CHARACTERS"}
-        if Config.UI then
-            table.insert(conStrings, "STRINGS.RECIPE_DESC")
-            if IsDST then
-                table.insert(conStrings, "STRINGS.SKILLTREE")
-                table.insert(conStrings, "STRINGS.SKIN_DESCRIPTIONS")
-            end
-        end
-
-        -- Anti duplicate names (STRINGS.NAMES.TICOON)
-        local itemsName = {}
-        for nameIndex, nameEng in pairs(GetOriginalStringsFromIndex("STRINGS.NAMES")) do
-            itemsName[nameEng] = tostring(Thai.PO[nameIndex])
-        end
-
-        for _, text in ipairs(conStrings) do
-            local blackList = {["Nothing"] = true, ["X"] = true, ["Health"] = true, ["Sanity"] = true, ["Fire"] = true, ["Plant"] = true}
-            for conIndex, conEng in pairs(GetOriginalStringsFromIndex(text)) do
-                local conThai = Thai.PO[conIndex]
-
-                if conThai then
-                    for nameEng, nameThai in pairs(itemsName) do
-                        if not blackList[nameEng] then
-                            if conEng:find(nameEng) then -- Fast check
-                                if conEng:find("%f[%a]"..nameEng.."%f[%A]") then -- Slow check
-                                    conThai = conThai:gsub("%f[%a]"..nameEng.."%f[%A]", nameThai)
-
-                                    if not Config.ITEM then -- ปิดการแปลชื่อไอเทม
-                                        conThai = conThai:gsub(nameThai, " "..nameEng.." ")
-                                    elseif Config.ITEM_TWO then
-                                        conThai = conThai:gsub(nameThai, nameThai.."("..nameEng..")")
-                                    end
-
-                                    conThai = conThai:gsub("  ", " ")
-                                    Thai.PO[conIndex] = conThai
-                                end
-                            end
-                        end
-                    end
-                end
-            end
-        end
-    end
+    modimport("scripts/conItem/conItem.lua")
 
     local uiStrings = {
         "STRINGS.UI",

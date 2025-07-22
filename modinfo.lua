@@ -1,5 +1,5 @@
 name = " Thai Language Pack"
-version = "6.26.4"
+version = "6.26.5"
 author = "H@mer"
 description = [[Don't Starve Together: ภาษาไทย
 เวอร์ชั่น: ]]..version..
@@ -89,13 +89,13 @@ configuration_options =
 	{
 		name = "CFG_CON_ITEM",
 		label = "ไอเทมในประโยค",
-		hover = "นำการตั้งค่า \"ไอเทม\" และ \"ไอเทมสองภาษา\" ไปใช้กับประโยคข้อความยาวๆเช่น บทพูด, คำอธิบายสกิน, คำอธิบายเมนูคราฟ (การเปิดใช้งานอาจจะทำให้โหลดเกมนานขึ้น)",
+		hover = "นำการตั้งค่า \"ไอเทม\" และ \"ไอเทมสองภาษา\" ไปใช้กับประโยคข้อความยาวๆเช่น บทพูด, คำอธิบายสกิน, คำอธิบายเมนูคราฟ",
 		options =
 		{
 			{description = "ปิด", data = false, hover = "ปิดการใช้งานไอเทมประโยค"},
 			{description = "เปิด", data = true, hover = "เปิดการใช้งานไอเทมประโยค"},
 		},
-		default = false,
+		default = true,
 	},
 	{
 		name = "CFG_OTHER_MOD",
