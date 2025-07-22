@@ -21,7 +21,7 @@ Config = {
     CON = GetModConfigData("CFG_CON"),
     ITEM = GetModConfigData("CFG_ITEM"),
     ITEM_TWO = GetModConfigData("CFG_ITEM_TWO"),
-    CON_ITEM_TWO = GetModConfigData("CFG_CON_ITEM_TWO"),
+    CON_ITEM = GetModConfigData("CFG_CON_ITEM"),
     OTHER_MOD = GetModConfigData("CFG_OTHER_MOD"),
 }
 
@@ -241,7 +241,7 @@ if IsTranslateEnabled() then
     Thai.PO = _G.LanguageTranslator.languages[Thai.SelectedLanguage]
 
     -- ไอเทมสองภาษาใน STRING.CHARACTERS, STRING.SKILLTREE, STRING.SKIN_DESCRIPTIONS, STRINGS.RECIPE_DESC
-    if Config.CON and Config.CON_ITEM_TWO then
+    if (Config.CON and Config.CON_ITEM) and (not Config.ITEM or (Config.ITEM and Config.ITEM_TWO)) then
         local conStrings = {"STRINGS.CHARACTERS"}
         if Config.UI then
             table.insert(conStrings, "STRINGS.RECIPE_DESC")
@@ -251,26 +251,28 @@ if IsTranslateEnabled() then
             end
         end
 
+        -- Anti duplicate names (STRINGS.NAMES.TICOON)
+        local itemsName = {}
+        for nameIndex, nameEng in pairs(GetOriginalStringsFromIndex("STRINGS.NAMES")) do
+            itemsName[nameEng] = tostring(Thai.PO[nameIndex])
+        end
+
         for _, text in ipairs(conStrings) do
             local blackList = {["Nothing"] = true, ["X"] = true, ["Health"] = true, ["Sanity"] = true, ["Fire"] = true, ["Plant"] = true}
-            local strings = GetOriginalStringsFromIndex(text)
-
-            for conIndex, conEng in pairs(strings) do
+            for conIndex, conEng in pairs(GetOriginalStringsFromIndex(text)) do
                 local conThai = Thai.PO[conIndex]
 
                 if conThai then
-                    for nameIndex, nameEng in pairs(STRINGS.NAMES) do
-                        local nameThai = tostring(Thai.PO["STRINGS.NAMES."..nameIndex])
-
-                        if not blackList[nameEng] and nameThai then
+                    for nameEng, nameThai in pairs(itemsName) do
+                        if not blackList[nameEng] then
                             if conEng:find(nameEng) then -- Fast check
                                 if conEng:find("%f[%a]"..nameEng.."%f[%A]") then -- Slow check
                                     conThai = conThai:gsub("%f[%a]"..nameEng.."%f[%A]", nameThai)
 
-                                    if Config.ITEM then
-                                        conThai = conThai:gsub(nameThai, nameThai.."("..nameEng..")")
-                                    else -- ปิดแปลชื่อไอเทมในบทสนทนา
+                                    if not Config.ITEM then -- ปิดการแปลชื่อไอเทม
                                         conThai = conThai:gsub(nameThai, " "..nameEng.." ")
+                                    elseif Config.ITEM_TWO then
+                                        conThai = conThai:gsub(nameThai, nameThai.."("..nameEng..")")
                                     end
 
                                     conThai = conThai:gsub("  ", " ")
@@ -331,9 +333,7 @@ if IsTranslateEnabled() then
     -- ไอเทมสองภาษาในชื่อไอเทมเลย
     if Config.ITEM and Config.ITEM_TWO then
         for _, text in ipairs(itemStrings) do
-            local strings = GetOriginalStringsFromIndex(text)
-
-            for itemIndex, itemEN in pairs(strings) do
+            for itemIndex, itemEN in pairs(GetOriginalStringsFromIndex(text)) do
                 local itemTH = Thai.PO[itemIndex]
 
                 if itemTH then
