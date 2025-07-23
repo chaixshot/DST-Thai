@@ -39,7 +39,7 @@ function GetOriginalStringsFromIndex(text)
 		strings = strings[tonumber(block[i]) or block[i]]
 	end
 
-	if strings then
+	if type(strings) == "table" then
 		for index, data in pairs(strings) do
 			if type(data) == "table" then
 				local _strings = GetOriginalStringsFromIndex(text.."."..index)

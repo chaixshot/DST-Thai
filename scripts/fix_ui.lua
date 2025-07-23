@@ -9,7 +9,6 @@ Thai.StringUITable[" Thai Language Pack"] = "ภาษาไทย"
 
 -- แปลหน้าสร้างโลก > ป่า > รูปแบบวัน
 Thai.StringUITable["Long Day"] = "ช่วงเช้ายาวนาน"
-
 Thai.StringUITable["Long Dusk"] = "ช่วงเย็นยาวนาน"
 Thai.StringUITable["Long Night"] = "กลางคืนยาวนาน"
 Thai.StringUITable["No Day"] = "ไม่มีช่วงเช้า"

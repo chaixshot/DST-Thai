@@ -15,7 +15,7 @@ if _G.KnownModIndex and _G.KnownModIndex.savedata and _G.KnownModIndex.savedata.
       local name = modData.modinfo.name
       if name then
          if modInfo[name] then
-            modimport("scripts/mods/"..modInfo[name])
+            modimport("scripts/mods/"..modInfo[name]..".lua")
          end
       end
    end
