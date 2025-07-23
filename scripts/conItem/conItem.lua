@@ -6,7 +6,7 @@ end
 -- Anti duplicate names (STRINGS.NAMES.TICOON)
 local itemsName = {}
 for nameIndex, nameEng in pairs(GetOriginalStringsFromIndex("STRINGS.NAMES")) do
-   itemsName[nameEng:gsub("?", "")] = tostring(Thai.PO[nameIndex])
+   itemsName[nameEng:gsub("?", "")] = Thai.PO[nameIndex]
 end
 
 -- INFO: Tool to generate conItemIndex
@@ -19,21 +19,31 @@ if Config.UI then
    end
 end
 
+local missingName = {}
 for _, text in ipairs(conStrings) do
    local blackList = {["Nothing"] = true, ["X"] = true, ["Health"] = true, ["Sanity"] = true, ["Fire"] = true, ["Plant"] = true}
    for conIndex, conEng in pairs(GetOriginalStringsFromIndex(text)) do
       local conThai = Thai.PO[conIndex]
+      local found = {}
+      local countEng = {}
+      local countThai = {}
 
       if conThai then
-         local found = {}
-
+         -- conEng = conEng:lower()
+         -- conThai = conThai:lower()
          for nameEng, nameThai in pairs(itemsName) do
+            -- nameEng = nameEng:lower()
             if not blackList[nameEng] then
                if conEng:find(nameEng) then -- Fast check
                   if conEng:find("%f[%a]"..nameEng.."%f[%A]") then -- Slow check
+                     conThai = conThai:gsub("%f[%a]"..nameEng.."%f[%A]", nameThai)
+                     table.insert(countEng, nameEng)
                      table.insert(found, nameEng)
                   end
                end
+            end
+            if conThai:find(nameThai) then -- Fast check
+               table.insert(countThai, nameThai)
             end
          end
 
@@ -44,8 +54,19 @@ for _, text in ipairs(conStrings) do
             end
             print("[\""..conIndex.."\"] = {"..index.."},")
          end
+
+         if #countEng > #countThai then
+            missingName[conIndex] = countEng
+         end
       end
    end
+end
+for k, v in pairs(missingName) do
+   local missing = ""
+   for i, j in pairs(v) do
+      missing = missing.."\""..j.."\", "
+   end
+   print("\""..k.."\"\t\t"..missing) -- print missing thai name from converation
 end ]]
 
 local conItemIndex = require("conItem/conItemIndex")
