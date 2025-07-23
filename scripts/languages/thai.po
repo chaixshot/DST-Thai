@@ -69,7 +69,7 @@ msgstr "หยิบ"
 #. STRINGS.ACTIONS.ACTIVATE.GATHER_MERM
 msgctxt "STRINGS.ACTIONS.ACTIVATE.GATHER_MERM"
 msgid "Gather Merm"
-msgstr "รวบรวมเงือก"
+msgstr "รวบรวมเมิร์ม"
 
 #. STRINGS.ACTIONS.ACTIVATE.GENERIC
 msgctxt "STRINGS.ACTIONS.ACTIVATE.GENERIC"
@@ -4904,7 +4904,7 @@ msgstr "only_used_by_webber"
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.PICKUP.NOTMINE_YOTC.1
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.PICKUP.NOTMINE_YOTC.1"
 msgid "You're not my carrat."
-msgstr "คุณไม่ใช่กะรัตของฉัน"
+msgstr "คุณไม่ใช่หนูแครอทของฉัน"
 
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.PICKUP.NOTMINE_YOTC.2
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.PICKUP.NOTMINE_YOTC.2"
@@ -4929,7 +4929,7 @@ msgstr "ฉันไม่ต้องการรู้อะไรมากก
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.PLANTREGISTRY_RESEARCH_FAIL.GENERIC
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.PLANTREGISTRY_RESEARCH_FAIL.GENERIC"
 msgid "I have nothing left to learn."
-msgstr "ฉันไม่เหลืออะไรให้เรียนรู้แล้ว"
+msgstr "ฉันไม่มีอะไรให้เรียนรู้แล้ว"
 
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.POUNCECAPTURE.MISSED
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.POUNCECAPTURE.MISSED"
@@ -4944,7 +4944,7 @@ msgstr "แดร็ก ไม่มีน้ำ"
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.POUR_WATER_GROUNDTILE.OUT_OF_WATER
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.POUR_WATER_GROUNDTILE.OUT_OF_WATER"
 msgid "My watering can ran dry."
-msgstr "การรดน้ำของฉันก็แห้ง"
+msgstr "บัวรดน้ำของฉันก็แห้ง"
 
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.READ.ALREADYFULLMOON
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.READ.ALREADYFULLMOON"
@@ -5249,7 +5249,7 @@ msgstr "ฉันยุ่งนิดหน่อย!!"
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY"
 msgid "I'll just have to find another key."
-msgstr "ฉันจะต้องหาคีย์อื่น"
+msgstr "ฉันจะต้องหากุญแจอื่น"
 
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY"
@@ -5429,7 +5429,7 @@ msgstr "ฉันรู้สึกมีพลังบวก!"
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_ATTACH_BUFF_MOISTUREIMMUNITY
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_ATTACH_BUFF_MOISTUREIMMUNITY"
 msgid "I feel as dry as one of Wickerbottom's lectures!"
-msgstr "ฉันรู้สึกแห้งราวกับการบรรยายของวิกเกอร์บัตท่อม!"
+msgstr "ฉันรู้สึกแห้งราวกับการบรรยายของวิกเกอร์บอตทอม!"
 
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_ATTACH_BUFF_PLAYERABSORPTION
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_ATTACH_BUFF_PLAYERABSORPTION"
@@ -6019,7 +6019,7 @@ msgstr "ฉันว่าง! ในที่สุดฉันก็เป็�
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GATHER_MERM
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GATHER_MERM"
 msgid "Must be a Merm thing."
-msgstr "ต้องเป็นพวกเงือกแน่ๆ"
+msgstr "ต้องเป็นพวกเมิร์มแน่ๆ"
 
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GHOSTDRAIN
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GHOSTDRAIN"
@@ -9169,7 +9169,7 @@ msgstr "ฟังดูไม่ค่อยเป็นวิทยาศาส
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_RESEARCH_STATION
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_RESEARCH_STATION"
 msgid "Wickerbottom likes to do everything by the book."
-msgstr "วิกเกอร์บัตท่อมชอบทำทุกอย่างด้วยหนังสือ"
+msgstr "วิกเกอร์บอตทอมชอบทำทุกอย่างด้วยหนังสือ"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_SILVICULTURE
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_SILVICULTURE"
@@ -9699,7 +9699,7 @@ msgstr "ฉันหวังว่าจะไม่มีข้อบกพร
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARPENTRY_BLADE_MOONGLASS
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARPENTRY_BLADE_MOONGLASS"
 msgid "Razor-sharp, like my mind!"
-msgstr "คมกริบ เหมือนกับจิตใจของฉัน!"
+msgstr "มีดโกนคมกริบ เหมือนกับจิตใจของฉัน!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARPENTRY_STATION.BURNT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARPENTRY_STATION.BURNT"
@@ -9769,7 +9769,7 @@ msgstr "มากสำหรับเรื่องนั้น"
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARTOGRAPHYDESK.BURNT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARTOGRAPHYDESK.BURNT"
 msgid "Nothing but ash now."
-msgstr "ตอนนี้ไม่มีอะไรนอกจากเถ้าถ่าน"
+msgstr "ตอนนี้ไม่มีอะไรนอกจากขี้เถ้า"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARTOGRAPHYDESK.GENERIC
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARTOGRAPHYDESK.GENERIC"
@@ -10904,7 +10904,7 @@ msgstr "ฉันสงสัยว่ามันทำอะไร"
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.DIVININGRODBASE.READY
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.DIVININGRODBASE.READY"
 msgid "It looks like it needs a large key."
-msgstr "ดูเหมือนว่ามันต้องการคีย์ขนาดใหญ่"
+msgstr "ดูเหมือนว่ามันต้องการกุญแจขนาดใหญ่"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.DIVININGRODBASE.UNLOCKED
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.DIVININGRODBASE.UNLOCKED"
@@ -11299,7 +11299,7 @@ msgstr "เอาไปเถอะ ธรรมชาติ!"
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.EVERGREEN_SPARSE.GENERIC
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.EVERGREEN_SPARSE.GENERIC"
 msgid "This sad tree has no cones."
-msgstr "ต้นไม้ที่น่าเศร้านี้ไม่มีโคน"
+msgstr "ต้นไม้ที่น่าเศร้านี้ไม่มีผล"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.EYEBRELLAHAT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.EYEBRELLAHAT"
@@ -12099,7 +12099,7 @@ msgstr "สิ่งเหล่านี้จะดูน่าทึ่งม
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GLOWBERRYMOUSSE
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GLOWBERRYMOUSSE"
 msgid "Warly sure can cook."
-msgstr "แน่ใจนะว่าทำอาหารได้"
+msgstr "วอร์ลี่แน่ใจว่าทำอาหารได้"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GNARWAIL.BROKENHORN
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GNARWAIL.BROKENHORN"
@@ -12149,7 +12149,7 @@ msgstr "เฮ้ ทองไม่อ่อนจริงๆเหรอ?"
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GOLDENPITCHFORK
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GOLDENPITCHFORK"
 msgid "Why did I even make a pitchfork this fancy?"
-msgstr "ทำไมฉันถึงทำโกยแบบนี้ล่ะ?"
+msgstr "ทำไมฉันถึงทำส้อมโกยแบบนี้ล่ะ?"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GOLDENSHOVEL
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GOLDENSHOVEL"
@@ -13044,7 +13044,7 @@ msgstr "เขากำลังตามของของฉัน!"
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRAMPUS_SACK
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRAMPUS_SACK"
 msgid "Ew. It has Krampus slime all over it."
-msgstr "อ๊ะ มันมีเมือกอยู่เต็มไปหมด"
+msgstr "อ๊ะ มันมีเมือกครัมปัสอยู่เต็มไปหมด"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.LANTERN
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.LANTERN"
@@ -13964,7 +13964,7 @@ msgstr "ฉันรู้สึกปลอดภัยเมื่ออยู
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MERMGUARD_LUNAR
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MERMGUARD_LUNAR"
 msgid "The next phase of merm evolution."
-msgstr "ขั้นต่อไปของวิวัฒนาการของเงือก"
+msgstr "ขั้นต่อไปของวิวัฒนาการของเมิร์ม"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MERMGUARD_SHADOW
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MERMGUARD_SHADOW"
@@ -14054,7 +14054,7 @@ msgstr "มันเขียนว่า \"Mermfolk Ownlee\""
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MERM_LUNAR
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MERM_LUNAR"
 msgid "The next phase of merm evolution."
-msgstr "ขั้นต่อไปของวิวัฒนาการของเงือก"
+msgstr "ขั้นต่อไปของวิวัฒนาการของเมิร์ม"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MERM_PRINCE
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MERM_PRINCE"
@@ -15159,7 +15159,7 @@ msgstr "นั่นคือ McKoi ตัวจริง!"
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.OCEANFISH_MEDIUM_8
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.OCEANFISH_MEDIUM_8"
 msgid "Ice bream, youse bream."
-msgstr "ไอซ์บีม ยัสบีม."
+msgstr "พลังน้ำแข็ง ยัสบีม"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.OCEANFISH_MEDIUM_9
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.OCEANFISH_MEDIUM_9"
@@ -16649,7 +16649,7 @@ msgstr "มันปลอดภัย สำหรับการรักษ�
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.QUAGMIRE_SAFE.LOCKED
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.QUAGMIRE_SAFE.LOCKED"
 msgid "It won't open without the key."
-msgstr "ไม่สามารถเปิดได้หากไม่มีคีย์"
+msgstr "ไม่สามารถเปิดได้หากไม่มีกุญแจ"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.QUAGMIRE_SALMON
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.QUAGMIRE_SALMON"
@@ -19294,7 +19294,7 @@ msgstr "ฉันสามารถใส่รองเท้าได้โด
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.TRINKET_24
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.TRINKET_24"
 msgid "I think Wickerbottom had a cat."
-msgstr "ฉันคิดว่าวิกเกอร์บัตท่อมมีแมว"
+msgstr "ฉันคิดว่าวิกเกอร์บอตทอมมีแมว"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.TRINKET_25
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.TRINKET_25"
@@ -20494,7 +20494,7 @@ msgstr "หมวกแฟนซีสวยจัง"
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WATHGRITHR_IMPROVEDHAT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WATHGRITHR_IMPROVEDHAT"
 msgid "Does Wigfrid have any leadership experience? Or is she just winging it?"
-msgstr "วิกฟรีด มีประสบการณ์ความเป็นผู้นำบ้างไหม? หรือเธอแค่กำลังทำอยู่?"
+msgstr "วิกฟริด มีประสบการณ์ความเป็นผู้นำบ้างไหม? หรือเธอแค่กำลังทำอยู่?"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WATHGRITHR_SHIELD
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WATHGRITHR_SHIELD"
@@ -20989,12 +20989,12 @@ msgstr "นี่เป็นความคิดที่ชาญฉลาด
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_STORAGE_ROBOT.CHARGED
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_STORAGE_ROBOT.CHARGED"
 msgid "Taking a break? Winona must be going easy on you."
-msgstr "พักสักหน่อยไหม? วินโอน่าคงจะไม่ซีเรียสกับคุณเท่าไหร่"
+msgstr "พักสักหน่อยไหม? วิโนน่าคงจะไม่ซีเรียสกับคุณเท่าไหร่"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_STORAGE_ROBOT.CHARGING
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_STORAGE_ROBOT.CHARGING"
 msgid "Taking a break? Winona must be going easy on you."
-msgstr "พักสักหน่อยไหม? วินโอน่าคงจะไม่ซีเรียสกับคุณเท่าไหร่"
+msgstr "พักสักหน่อยไหม? วิโนน่าคงจะไม่ซีเรียสกับคุณเท่าไหร่"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_STORAGE_ROBOT.GENERIC
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_STORAGE_ROBOT.GENERIC"
@@ -21004,7 +21004,7 @@ msgstr "คุณเป็นถังน็อตน้อยที่น่า
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_STORAGE_ROBOT.OFF
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_STORAGE_ROBOT.OFF"
 msgid "Taking a break? Winona must be going easy on you."
-msgstr "พักสักหน่อยไหม? วินโอน่าคงจะไม่ซีเรียสกับคุณเท่าไหร่"
+msgstr "พักสักหน่อยไหม? วิโนน่าคงจะไม่ซีเรียสกับคุณเท่าไหร่"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_STORAGE_ROBOT.SLEEP
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_STORAGE_ROBOT.SLEEP"
@@ -21209,12 +21209,12 @@ msgstr "เป็นหินที่มี Wobsters อยู่ในนั�
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WOBSTER_MOONGLASS
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WOBSTER_MOONGLASS"
 msgid "What a wascally Lunar Wobster."
-msgstr "ช่างเป็น Lunar Wobster ที่มันช่างไร้สาระ"
+msgstr "ช่างเป็นเนินกุ้งจันทราที่มันช่างไร้สาระ"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WOBSTER_SHELLER
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WOBSTER_SHELLER"
 msgid "What a wascally Wobster."
-msgstr "ช่างเป็นอะไรที่ช่างวิเศษเหลือเกิน"
+msgstr "กุ้งดำนี่มันบ้าจริงๆ"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WOBSTER_SHELLER_DEAD
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WOBSTER_SHELLER_DEAD"
@@ -21564,7 +21564,7 @@ msgstr "ขอบคุณที่ยืมกรงเล็บช่วย %s
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WORTOX_NABBAG
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WORTOX_NABBAG"
 msgid "He's a chip off the ol' Krampus."
-msgstr "เขาเป็นชิปจากครัมปัสผู้แก่"
+msgstr "เขาเป็นชิปจากครัมปัสแก่"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WORTOX_REVIVER
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WORTOX_REVIVER"
@@ -22799,7 +22799,7 @@ msgstr "อืม ขอโทษ ขอพูดซ้ำได้ไหม?"
 #. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.GIVE.NOTATRIUMKEY
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.GIVE.NOTATRIUMKEY"
 msgid "I'll have to keep looking for the right key."
-msgstr "ฉันจะต้องหาคีย์ที่ถูกต้องต่อไป"
+msgstr "ฉันจะต้องหากุญแจที่ถูกต้องต่อไป"
 
 #. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.GIVE.NOTDISH
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.GIVE.NOTDISH"
@@ -23314,7 +23314,7 @@ msgstr "เดี๋ยวก่อน ฉันต้องการดูส�
 #. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY"
 msgid "I guess I need another key."
-msgstr "ฉันเดาว่าฉันต้องการคีย์อื่น"
+msgstr "ฉันเดาว่าฉันต้องการกุญแจอื่น"
 
 #. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY"
@@ -24134,7 +24134,7 @@ msgstr "อีกหน่อย..."
 #. STRINGS.CHARACTERS.WALTER.ANNOUNCE_MOONALTAR_MINE.GLASS_MED
 msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_MOONALTAR_MINE.GLASS_MED"
 msgid "Woby look! There's something in there!"
-msgstr "ดูโวยวาย!"
+msgstr "โวบี้ดูสิ! มีอะไรอยู่ในนั้น!"
 
 #. STRINGS.CHARACTERS.WALTER.ANNOUNCE_MOONALTAR_MINE.GLASS_REVEAL
 msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_MOONALTAR_MINE.GLASS_REVEAL"
@@ -24149,7 +24149,7 @@ msgstr "อีกหน่อย..."
 #. STRINGS.CHARACTERS.WALTER.ANNOUNCE_MOONALTAR_MINE.IDOL_MED
 msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_MOONALTAR_MINE.IDOL_MED"
 msgid "Woby look! There's something in there!"
-msgstr "ดูโวยวาย!"
+msgstr "โวบี้ดูสิ! มีอะไรอยู่ในนั้น!"
 
 #. STRINGS.CHARACTERS.WALTER.ANNOUNCE_MOONALTAR_MINE.IDOL_REVEAL
 msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_MOONALTAR_MINE.IDOL_REVEAL"
@@ -24164,7 +24164,7 @@ msgstr "อีกหน่อย..."
 #. STRINGS.CHARACTERS.WALTER.ANNOUNCE_MOONALTAR_MINE.SEED_MED
 msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_MOONALTAR_MINE.SEED_MED"
 msgid "Woby look! There's something in there!"
-msgstr "ดูโวยวาย!"
+msgstr "โวบี้ดูโวยวาย!"
 
 #. STRINGS.CHARACTERS.WALTER.ANNOUNCE_MOONALTAR_MINE.SEED_REVEAL
 msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_MOONALTAR_MINE.SEED_REVEAL"
@@ -24364,7 +24364,7 @@ msgstr "ดูพวกเราสิ Woby! เราเป็นนักท�
 #. STRINGS.CHARACTERS.WALTER.ANNOUNCE_PREFALLINVOID
 msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_PREFALLINVOID"
 msgid "Woby, run!"
-msgstr "วอบบี้ วิ่ง!"
+msgstr "โวบี้ วิ่ง!"
 
 #. STRINGS.CHARACTERS.WALTER.ANNOUNCE_QUAKE
 msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_QUAKE"
@@ -26844,7 +26844,7 @@ msgstr "อร่อย!"
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.BOOKSTATION.BURNT
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.BOOKSTATION.BURNT"
 msgid "Poor Ms. Wickerbottom..."
-msgstr "วิกเกอร์บัตท่อมที่น่าสงสาร..."
+msgstr "วิกเกอร์บอตทอมที่น่าสงสาร..."
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.BOOKSTATION.GENERIC
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.BOOKSTATION.GENERIC"
@@ -27149,7 +27149,7 @@ msgstr "นั่นอยู่ในปืนใหญ่"
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALCANNON.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALCANNON.COOLDOWN"
 msgid "Don't worry Ms. Wickerbottom, I'll clean this all up later!"
-msgstr "ไม่ต้องห่วง คุณวิคเคอร์บอตทอม ฉันจะทำความสะอาดให้ทีหลัง!"
+msgstr "ไม่ต้องห่วง คุณวิกเกอร์บอตทอม ฉันจะทำความสะอาดให้ทีหลัง!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALCANNON.GENERIC
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALCANNON.GENERIC"
@@ -28409,7 +28409,7 @@ msgstr "สิ่งนี้จะไม่เก็บไว้นาน"
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CUTREEDS
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CUTREEDS"
 msgid "Ms. Wickerbottom might need some more... reed-ing material."
-msgstr "คุณนายวิกเกอร์บัตท่อมอาจต้องการข้อมูลเพิ่มเติม..."
+msgstr "คุณนายวิกเกอร์บอตทอมอาจต้องการข้อมูลเพิ่มเติม..."
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CUTSTONE
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CUTSTONE"
@@ -28489,7 +28489,7 @@ msgstr "ว้าว! ฉันไม่เคยเห็นต้นไม้�
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.DECK_OF_CARDS
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.DECK_OF_CARDS"
 msgid "Woby! Pick a card, any card!"
-msgstr "โอ้โห! เลือกไพ่ใบไหนก็ได้!"
+msgstr "โวบี้! เลือกไพ่ใบไหนก็ได้!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.DECOR_CENTERPIECE
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.DECOR_CENTERPIECE"
@@ -30284,7 +30284,7 @@ msgstr "บางทีเขาอาจจะแค่มีหนามติ
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.HEDGEHOUND_BUSH
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.HEDGEHOUND_BUSH"
 msgid "Woby, what's wrong? It's just a rose bush!"
-msgstr "วอบี้ มีอะไรเหรอ? มันเป็นแค่พุ่มกุหลาบ!"
+msgstr "โวบี้ มีอะไรเหรอ? มันเป็นแค่พุ่มกุหลาบ!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.HERMITCRAB
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.HERMITCRAB"
@@ -31024,7 +31024,7 @@ msgstr "อาจไม่ใช่หลุมว่ายน้ำที่ด
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.LAVA_POND_ROCK
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.LAVA_POND_ROCK"
 msgid "Sedimentary, my dear Woby! Well, igneous actually... never mind."
-msgstr "ตะกอน ที่รักของฉัน!"
+msgstr "ตะกอนนะโวบี้ที่รัก! จริงๆ แล้วเป็นหินอัคนีนะ... ช่างเถอะ"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.LEAFLOAF
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.LEAFLOAF"
@@ -32224,7 +32224,7 @@ msgstr "ไม่ต้องกังวล ฉันจะช่วยให�
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.MOON_ALTAR_ICON
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MOON_ALTAR_ICON"
 msgid "Woby and I will get you back together!"
-msgstr "ฉันจะพาเธอกลับคืนมา!"
+msgstr "โวบี้และฉันจะทำให้คุณกลับมาเป็นเหมือนเดิม!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.MOON_ALTAR_IDOL
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MOON_ALTAR_IDOL"
@@ -32614,12 +32614,12 @@ msgstr "ฉันคิดว่ามันกำลังหลับอยู
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.MUTATOR_DROPPER
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MUTATOR_DROPPER"
 msgid "Neat! There aren't any actual spider bits in these though, right?"
-msgstr "เรียบร้อย! ไม่มีสไปเดอร์บิตจริงๆในพวกนี้ใช่มั๊ย?"
+msgstr "เรียบร้อย! แต่ไม่มีชิ้นส่วนแมงมุมจริงๆอยู่ในนี้เลยใช่ไหม??"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.MUTATOR_HEALER
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MUTATOR_HEALER"
 msgid "Neat! There aren't any actual spider bits in these though, right?"
-msgstr "เรียบร้อย! ไม่มีสไปเดอร์บิตจริงๆในพวกนี้ใช่มั๊ย?"
+msgstr "เรียบร้อย! แต่ไม่มีชิ้นส่วนแมงมุมจริงๆอยู่ในนี้เลยใช่ไหม?"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.MUTATOR_HIDER
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MUTATOR_HIDER"
@@ -32634,7 +32634,7 @@ msgstr "เฮ้ คุกกี้! อืม... พวกนี้ทำม�
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.MUTATOR_SPITTER
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MUTATOR_SPITTER"
 msgid "Neat! There aren't any actual spider bits in these though, right?"
-msgstr "เรียบร้อย! ไม่มีสไปเดอร์บิตจริงๆในพวกนี้ใช่มั๊ย?"
+msgstr "เรียบร้อย! แต่ไม่มีชิ้นส่วนแมงมุมจริงๆอยู่ในนี้เลยใช่ไหม?"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.MUTATOR_WARRIOR
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MUTATOR_WARRIOR"
@@ -34364,7 +34364,7 @@ msgstr "มันปลอดภัย สำหรับการรักษ�
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.QUAGMIRE_SAFE.LOCKED
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.QUAGMIRE_SAFE.LOCKED"
 msgid "It won't open without the key."
-msgstr "ไม่สามารถเปิดได้หากไม่มีคีย์"
+msgstr "ไม่สามารถเปิดได้หากไม่มีกุญแจ"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.QUAGMIRE_SALMON
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.QUAGMIRE_SALMON"
@@ -35129,7 +35129,7 @@ msgstr "มันมาแค่ชิปเดียวเหรอ!"
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.SALTBOX
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SALTBOX"
 msgid "Salt is great for preserving your supplies."
-msgstr "เกลือเป็นส่วนประกอบที่ดีในการถนอมวัสดุสิ้นเปลืองของคุณ"
+msgstr "หินโป่งเป็นส่วนประกอบที่ดีในการถนอมวัสดุสิ้นเปลืองของคุณ"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.SALTLICK
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SALTLICK"
@@ -35144,7 +35144,7 @@ msgstr "คุณไม่ใช่บีฟฟาโลนะ โวบี้"
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.SALTROCK
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SALTROCK"
 msgid "Hey, I think that's salt!"
-msgstr "นี่ ฉันคิดว่านั่นมันเกลือ!"
+msgstr "นี่ ฉันคิดว่านั่นมันหินโป่ง!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.SALTSTACK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SALTSTACK.GENERIC"
@@ -35364,7 +35364,7 @@ msgstr "อัดแน่นด้วยรสชาติ!"
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.SEASTACK
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SEASTACK"
 msgid "Rocks off the port bow!"
-msgstr "โยกตัวออกจากพอร์ตโค้งคำนับ!"
+msgstr "หินจากหัวเรือด้านท่าเรือ!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.SECURITY_PULSE_CAGE
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SECURITY_PULSE_CAGE"
@@ -35829,12 +35829,12 @@ msgstr "ฉันต้องดูว่ามีอะไรอยู่ใน
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.SLURTLESLIME
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SLURTLESLIME"
 msgid "Slurtle snot!"
-msgstr "น้ำลายไหล!"
+msgstr "น้ำมูกหอยทากครีบ!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.SLURTLE_SHELLPIECES
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SLURTLE_SHELLPIECES"
 msgid "Sorry slurtle."
-msgstr "ขอโทษที่พูดเหลวไหล"
+msgstr "ขอโทษนะหอยทากครีบ"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.SMALLBIRD.GENERIC
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SMALLBIRD.GENERIC"
@@ -35884,7 +35884,7 @@ msgstr "เฮ้อ"
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.SNOWMAN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SNOWMAN.GENERIC"
 msgid "Ice to meet ya!"
-msgstr "ยินดีที่ได้รู้จัก!"
+msgstr "ยินดีที่ได้รู้จักนะเจ้าน้ำแข็ง!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.SNOWMAN.SNOWBALL
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SNOWMAN.SNOWBALL"
@@ -39339,7 +39339,7 @@ msgstr "ดูสิ คุณมีจิตวิญญาณแล้ว ต�
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78.MURDERER
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78.MURDERER"
 msgid "You're a killer robot? Amazing! Wait, no Walter, not amazing!"
-msgstr "คุณเป็นหุ่นยนต์นักฆ่าเหรอ น่าทึ่ง!"
+msgstr "คุณเป็นหุ่นยนต์นักฆ่าเหรอ? น่าทึ่ง! เดี๋ยวนะ วอลเตอร์ ไม่น่าทึ่งเลย!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78.REVIVER
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WX78.REVIVER"
@@ -40649,7 +40649,7 @@ msgstr "ดี เก็บความลับไว้กับตัว!"
 #. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.HEAL.NOT_MERM
 msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.HEAL.NOT_MERM"
 msgid "This should buy those merms a little more time."
-msgstr "นี่น่าจะซื้อเวลาให้พวกเงือกได้เพิ่มขึ้นอีกนิดหน่อย"
+msgstr "นี่น่าจะซื้อเวลาให้พวกเมิร์มได้เพิ่มขึ้นอีกนิดหน่อย"
 
 #. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY
 msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.HERD_FOLLOWERS.WEBBERONLY"
@@ -41054,7 +41054,7 @@ msgstr "ฉันจะกลับมาเมื่อฉันไม่ได
 #. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY
 msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY"
 msgid "Wait a tick... this isn't even the right key!"
-msgstr "เดี๋ยวก่อน...นี่ไม่ใช่คีย์ที่ถูกต้อง!"
+msgstr "เดี๋ยวก่อน...นี่ไม่ใช่กุญแจที่ถูกต้อง!"
 
 #. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY
 msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY"
@@ -44474,7 +44474,7 @@ msgstr "ฉันอยากจะรู้ว่าเวอร์ชั่น
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.BOOK_HORTICULTURE
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.BOOK_HORTICULTURE"
 msgid "Say Wickerbottom, do you dabble in temporal magic as well?"
-msgstr "พูดว่าวิกเกอร์บัตท่อมคุณเล่นเวทมนต์ชั่วขณะด้วยหรือเปล่า"
+msgstr "พูดว่าวิกเกอร์บอตทอมคุณเล่นเวทมนต์ชั่วขณะด้วยหรือเปล่า"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.BOOK_HORTICULTURE_UPGRADED
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.BOOK_HORTICULTURE_UPGRADED"
@@ -44509,7 +44509,7 @@ msgstr "ฉันยอมรับว่าการมีทุกอย่า
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.BOOK_SILVICULTURE
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.BOOK_SILVICULTURE"
 msgid "Say Wickerbottom, do you dabble in temporal magic as well?"
-msgstr "พูดว่าวิกเกอร์บัตท่อมคุณเล่นเวทมนต์ชั่วขณะด้วยหรือเปล่า"
+msgstr "พูดว่าวิกเกอร์บอตทอมคุณเล่นเวทมนต์ชั่วขณะด้วยหรือเปล่า"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.BOOK_SLEEP
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.BOOK_SLEEP"
@@ -46229,7 +46229,7 @@ msgstr "ฉันสงสัยว่ามันทำอะไร"
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.DIVININGRODBASE.READY
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.DIVININGRODBASE.READY"
 msgid "It looks like it needs a large key."
-msgstr "ดูเหมือนว่ามันต้องการคีย์ขนาดใหญ่"
+msgstr "ดูเหมือนว่ามันต้องการกุญแจขนาดใหญ่"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.DIVININGRODBASE.UNLOCKED
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.DIVININGRODBASE.UNLOCKED"
@@ -49259,12 +49259,12 @@ msgstr "คุณไปได้แล้ว ไม่ต้องสนใจ"
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.MERMARMORHAT"
 msgid "It's for a merm."
-msgstr "มันสำหรับนางเงือก"
+msgstr "มันสำหรับเมิร์ม"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.MERMARMORUPGRADEDHAT"
 msgid "It's for a merm."
-msgstr "มันสำหรับนางเงือก"
+msgstr "มันสำหรับเมิร์ม"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.MERMGUARD
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.MERMGUARD"
@@ -49279,7 +49279,7 @@ msgstr "พวกมันดูเหมือนแบบนั้นเสม
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.MERMGUARD_SHADOW
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.MERMGUARD_SHADOW"
 msgid "It was a merm once. Not anymore."
-msgstr "เคยเป็นนางเงือกมาก่อน ไม่ใช่แล้ว"
+msgstr "เคยเป็นเมิร์มมาก่อน ไม่ใช่แล้ว"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.MERMHAT
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.MERMHAT"
@@ -49374,7 +49374,7 @@ msgstr "เป็นวิธีที่แปลกมากในการเ
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.MERM_SHADOW
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.MERM_SHADOW"
 msgid "It was a merm once. Not anymore."
-msgstr "เคยเป็นนางเงือกมาก่อน ไม่ใช่แล้ว"
+msgstr "เคยเป็นเมิร์มมาก่อน ไม่ใช่แล้ว"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.MERM_TOOL
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.MERM_TOOL"
@@ -51949,7 +51949,7 @@ msgstr "มันปลอดภัย สำหรับการรักษ�
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.QUAGMIRE_SAFE.LOCKED
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.QUAGMIRE_SAFE.LOCKED"
 msgid "It won't open without the key."
-msgstr "ไม่สามารถเปิดได้หากไม่มีคีย์"
+msgstr "ไม่สามารถเปิดได้หากไม่มีกุญแจ"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.QUAGMIRE_SALMON
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.QUAGMIRE_SALMON"
@@ -56229,17 +56229,17 @@ msgstr "only_used_by_winona"
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WINONA_REMOTE.CHARGED
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WINONA_REMOTE.CHARGED"
 msgid "Winona's living in the future."
-msgstr "วินโอน่ากำลังใช้ชีวิตอยู่ในอนาคต"
+msgstr "วิโนน่ากำลังใช้ชีวิตอยู่ในอนาคต"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WINONA_REMOTE.CHARGING
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WINONA_REMOTE.CHARGING"
 msgid "Winona's living in the future."
-msgstr "วินโอน่ากำลังใช้ชีวิตอยู่ในอนาคต"
+msgstr "วิโนน่ากำลังใช้ชีวิตอยู่ในอนาคต"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WINONA_REMOTE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WINONA_REMOTE.GENERIC"
 msgid "Winona's living in the future."
-msgstr "วินโอน่ากำลังใช้ชีวิตอยู่ในอนาคต"
+msgstr "วิโนน่ากำลังใช้ชีวิตอยู่ในอนาคต"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WINONA_REMOTE.OFF
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WINONA_REMOTE.OFF"
@@ -56884,12 +56884,12 @@ msgstr "ฉันคิดว่าคุณกับฉันคงจะเข
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WURT_SWAMPITEM_LUNAR
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WURT_SWAMPITEM_LUNAR"
 msgid "Ah, the \"enlightened\" merm kingdom timeline. We're doomed."
-msgstr "โอ้ ไทม์ไลน์อาณาจักรนางเงือกที่ \"รู้แจ้ง\" พวกเราถึงคราวล่มสลายแล้ว"
+msgstr "โอ้ ไทม์ไลน์อาณาจักรเมิร์มที่ \"รู้แจ้ง\" พวกเราถึงคราวล่มสลายแล้ว"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WURT_SWAMPITEM_SHADOW
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WURT_SWAMPITEM_SHADOW"
 msgid "The dark merm kingdom timeline? Again?"
-msgstr "ไทม์ไลน์อาณาจักรนางเงือกแห่งความมืด? อีกแล้วเหรอ?"
+msgstr "ไทม์ไลน์อาณาจักรเมิร์มแห่งความมืด? อีกแล้วเหรอ?"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78.ATTACKER
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WX78.ATTACKER"
@@ -57719,7 +57719,7 @@ msgstr "มีเพียงมาดมัวแซล เวิร์ทเ�
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.ACTIVATE.NOTMYBERNIE
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.ACTIVATE.NOTMYBERNIE"
 msgid "Continue, monsieur Bernie!"
-msgstr "ดำเนินการต่อ คุณเบอร์นี!"
+msgstr "ดำเนินการต่อ คุณเบอร์นี่!"
 
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
@@ -58564,12 +58564,12 @@ msgstr "ฉันต้องการความปลอดภัยก่อ
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY"
 msgid "There must be another key somewhere."
-msgstr "ต้องมีคีย์อื่นอยู่ที่ไหนสักแห่ง"
+msgstr "ต้องมีกุญแจอื่นอยู่ที่ไหนสักแห่ง"
 
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY"
 msgid "This key doesn't fit here."
-msgstr "คีย์นี้ไม่พอดีกับที่นี่"
+msgstr "กุญแจนี้ไม่พอดีกับที่นี่"
 
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.WRAPBUNDLE.EMPTY
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.WRAPBUNDLE.EMPTY"
@@ -60694,7 +60694,7 @@ msgstr "กระดูกตาถูกสังเวยในการเด
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.ASH.REMAINS_GLOMMERFLOWER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ASH.REMAINS_GLOMMERFLOWER"
 msgid "The unusual flower is but ash now."
-msgstr "ดอกไม้ที่ไม่ธรรมดาตอนนี้เป็นเถ้าถ่าน"
+msgstr "ดอกไม้ที่ไม่ธรรมดาตอนนี้เป็นขี้เถ้า"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.ASH.REMAINS_THINGIE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ASH.REMAINS_THINGIE"
@@ -61039,7 +61039,7 @@ msgstr "โอ้ ฉันไม่ชอบคุณเลยสักนิ�
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.BEARGERCORPSE.BURNING
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BEARGERCORPSE.BURNING"
 msgid "Bearger, en flambé."
-msgstr "แบร์เกอร์ กำลังลุกฮือ"
+msgstr "หมียักษ์ กำลังลุกฮือ"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.BEARGERCORPSE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BEARGERCORPSE.GENERIC"
@@ -61869,7 +61869,7 @@ msgstr "แย่มาก!"
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.BOOKSTATION.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BOOKSTATION.GENERIC"
 msgid "Mme. Wickerbottom looks so happy organizing her books."
-msgstr "อืม วิกเกอร์บัตท่อมดูมีความสุขมากกับการจัดระเบียบหนังสือของเธอ"
+msgstr "อืม วิกเกอร์บอตทอมดูมีความสุขมากกับการจัดระเบียบหนังสือของเธอ"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.BOOK_BEES
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BOOK_BEES"
@@ -61909,12 +61909,12 @@ msgstr "ฉันไม่คิดว่านั่นคือมือขว
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.BOOK_GARDENING
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BOOK_GARDENING"
 msgid "Maybe Mme. Wickerbottom would be interested in starting a herb garden."
-msgstr "บางที คุณวิกเกอร์บัตท่อมอาจจะสนใจที่จะเริ่มต้นสวนสมุนไพร"
+msgstr "บางที คุณวิกเกอร์บอตทอมอาจจะสนใจที่จะเริ่มต้นสวนสมุนไพร"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.BOOK_HORTICULTURE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BOOK_HORTICULTURE"
 msgid "Maybe Mme. Wickerbottom would be interested in starting a herb garden."
-msgstr "บางที คุณวิกเกอร์บัตท่อมอาจจะสนใจที่จะเริ่มต้นสวนสมุนไพร"
+msgstr "บางที คุณวิกเกอร์บอตทอมอาจจะสนใจที่จะเริ่มต้นสวนสมุนไพร"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.BOOK_HORTICULTURE_UPGRADED
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BOOK_HORTICULTURE_UPGRADED"
@@ -61944,7 +61944,7 @@ msgstr "วันที่ฝนตกเหมาะสำหรับการ
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.BOOK_RESEARCH_STATION
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BOOK_RESEARCH_STATION"
 msgid "Mme. Wickerbottom could cook up just about anything with that."
-msgstr "อืม. วิกเกอร์บัตท่อมสามารถปรุงอะไรก็ได้ด้วยสิ่งนั้น"
+msgstr "อืม. วิกเกอร์บอตทอมสามารถปรุงอะไรก็ได้ด้วยสิ่งนั้น"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.BOOK_SILVICULTURE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BOOK_SILVICULTURE"
@@ -62834,7 +62834,7 @@ msgstr "ใครๆก็ฝันได้"
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_KITCOON
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_KITCOON"
 msgid "I think Mme. Wickerbottom is particularly fond of this one."
-msgstr "ฉันคิดว่า Mme.วิกเกอร์บัตท่อมชอบอันนี้เป็นพิเศษ"
+msgstr "ฉันคิดว่า Mme.วิกเกอร์บอตทอมชอบอันนี้เป็นพิเศษ"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_KLAUS
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_KLAUS"
@@ -64879,7 +64879,7 @@ msgstr "สูตรพิเศษของฉันเอง!"
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.GNARWAIL.BROKENHORN
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GNARWAIL.BROKENHORN"
 msgid "Ha! You've no shish left to kabob with!"
-msgstr "ฮ่า! คุณไม่เหลืออะไรให้เคบับด้วย!"
+msgstr "ฮ่า! คุณไม่มีอะไรให้เคบับด้วย!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.GNARWAIL.BROKENHORN_FOLLOWER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GNARWAIL.BROKENHORN_FOLLOWER"
@@ -65314,7 +65314,7 @@ msgstr "เธออยู่คนเดียว..."
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.HERMITCRAB_RELOCATION_KIT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HERMITCRAB_RELOCATION_KIT"
 msgid "I hope Madame Pearl will like her new home."
-msgstr "ฉันหวังว่ามาดามเพิร์ลจะชอบบ้านใหม่ของเธอ"
+msgstr "ฉันหวังว่ามาดามไข่มุกจะชอบบ้านใหม่ของเธอ"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.HERMITHOUSE.BUILTUP
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HERMITHOUSE.BUILTUP"
@@ -65344,7 +65344,7 @@ msgstr "โอ้...โอ้ ที่รัก..."
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.HERMIT_PEARL
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HERMIT_PEARL"
 msgid "Madame Pearl entrusted it to me."
-msgstr "มาดามเพิร์ลฝากมาให้ฉัน"
+msgstr "มาดามไข่มุกฝากมาให้ฉัน"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.HIVEHAT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HIVEHAT"
@@ -65954,7 +65954,7 @@ msgstr "สูตรพื้นฐาน ยกระดับด้วยก�
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.LEAFYMEATBURGER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.LEAFYMEATBURGER"
 msgid "Perhaps this is how we'll convince Mademoiselle Wigfrid to eat her vegetables?"
-msgstr "บางทีนี่อาจเป็นวิธีที่เราจะเกลี้ยกล่อมให้วิกฟรีดกินผักของเธอ"
+msgstr "บางทีนี่อาจเป็นวิธีที่เราจะเกลี้ยกล่อมให้วิกฟริดกินผักของเธอ"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.LEAFYMEATSOUFFLE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.LEAFYMEATSOUFFLE"
@@ -66329,7 +66329,7 @@ msgstr "มันไหม้เหมือนพุ่มไม้อื่น
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.MARSH_BUSH.BURNT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MARSH_BUSH.BURNT"
 msgid "Burned to ash."
-msgstr "เผาเป็นเถ้าถ่าน"
+msgstr "เผาเป็นขี้เถ้า"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.MARSH_BUSH.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MARSH_BUSH.GENERIC"
@@ -69014,7 +69014,7 @@ msgstr "ยากที่จะเก็บเกี่ยวแบบนั้
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.RED_MUSHROOM.PICKED
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.RED_MUSHROOM.PICKED"
 msgid "There's nothing left."
-msgstr "ไม่เหลืออะไรแล้ว"
+msgstr "ไม่มีอะไรแล้ว"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.REEDS.BURNING
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.REEDS.BURNING"
@@ -69409,7 +69409,7 @@ msgstr "ทะเลสามารถทำสิ่งที่น่าอั
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.SALTSTACK.MINED_OUT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SALTSTACK.MINED_OUT"
 msgid "Nothing left, I'm afraid."
-msgstr "ไม่เหลืออะไรแล้ว ฉันเกรงใจ"
+msgstr "ไม่มีอะไรแล้ว ฉันเกรงใจ"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.SANDBLOCK
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SANDBLOCK"
@@ -70209,7 +70209,7 @@ msgstr "ถ้าไม่มีผงกระเทียม ชีวิต�
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.SPICE_SALT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SPICE_SALT"
 msgid "Salt, at last! I could weep!"
-msgstr "เกลือ ในที่สุด! ฉันร้องไห้ได้!"
+msgstr "หินโป่ง ในที่สุด! ฉันอาจจะร้องไห้ได้!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.SPICE_SUGAR
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SPICE_SUGAR"
@@ -71254,7 +71254,7 @@ msgstr "นี่ดูเหมือนมีเขาเสียบรอง
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_24
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_24"
 msgid "I think Mme. Wickerbottom had a cat."
-msgstr "ฉันคิดว่า Mme.วิกเกอร์บัตท่อมมีแมว"
+msgstr "ฉันคิดว่า Mme.วิกเกอร์บอตทอมมีแมว"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_25
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_25"
@@ -73254,7 +73254,7 @@ msgstr "Mon dieu! The monkey is on a rampage!"
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WONKEY.REVIVER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WONKEY.REVIVER"
 msgid "Thank you for your help, mon... key."
-msgstr "ขอบคุณสำหรับความช่วยเหลือ จันทร์... คีย์"
+msgstr "ขอบคุณสำหรับความช่วยเหลือ จันทร์... กุญแจ"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WOODCARVEDHAT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WOODCARVEDHAT"
@@ -78754,7 +78754,7 @@ msgstr "ไฟนั้นใกล้ตายแล้ว"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAMPFIRE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAMPFIRE.GENERIC"
 msgid "Warm fire, warm Wigfrid."
-msgstr "ไฟอุ่น อุ่นวิกฟรีด"
+msgstr "ไฟอุ่น อุ่นวิกฟริด"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAMPFIRE.HIGH
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAMPFIRE.HIGH"
@@ -78769,7 +78769,7 @@ msgstr "ไฟค่อยๆดับ"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAMPFIRE.NORMAL
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAMPFIRE.NORMAL"
 msgid "Warm fire, warm Wigfrid."
-msgstr "ไฟอุ่น อุ่นวิกฟรีด"
+msgstr "ไฟอุ่น อุ่นวิกฟริด"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAMPFIRE.OUT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAMPFIRE.OUT"
@@ -80989,7 +80989,7 @@ msgstr "ไฟนั้นใกล้ตายแล้ว"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.FIREPIT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.FIREPIT.GENERIC"
 msgid "Warm fire, warm Wigfrid."
-msgstr "ไฟอุ่น อุ่นวิกฟรีด"
+msgstr "ไฟอุ่น อุ่นวิกฟริด"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.FIREPIT.HIGH
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.FIREPIT.HIGH"
@@ -81004,7 +81004,7 @@ msgstr "ไฟค่อยๆดับ"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.FIREPIT.NORMAL
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.FIREPIT.NORMAL"
 msgid "Warm fire, warm Wigfrid."
-msgstr "ไฟอุ่น อุ่นวิกฟรีด"
+msgstr "ไฟอุ่น อุ่นวิกฟริด"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.FIREPIT.OUT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.FIREPIT.OUT"
@@ -88799,7 +88799,7 @@ msgstr "โดยพระเจ้า ตู้ปลานั้นลุก�
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TROPHYSCALE_FISH.BURNT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TROPHYSCALE_FISH.BURNT"
 msgid "Tis naught but cinders."
-msgstr "ไม่มีอะไรนอกจากเถ้าถ่าน"
+msgstr "ไม่มีอะไรนอกจากขี้เถ้า"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TROPHYSCALE_FISH.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TROPHYSCALE_FISH.GENERIC"
@@ -91269,7 +91269,7 @@ msgstr "ฉันรู้สึกหงุดหงิดที่ต้อง
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTC_CARRAT_GYM_DIRECTION.BURNT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTC_CARRAT_GYM_DIRECTION.BURNT"
 msgid "Reduced to cinders."
-msgstr "ลดเป็นเถ้าถ่าน"
+msgstr "ลดเป็นขี้เถ้า"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTC_CARRAT_GYM_DIRECTION.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTC_CARRAT_GYM_DIRECTION.GENERIC"
@@ -91289,7 +91289,7 @@ msgstr "การทดลองใช้ปัญญา"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTC_CARRAT_GYM_REACTION.BURNT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTC_CARRAT_GYM_REACTION.BURNT"
 msgid "Reduced to cinders."
-msgstr "ลดเป็นเถ้าถ่าน"
+msgstr "ลดเป็นขี้เถ้า"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTC_CARRAT_GYM_REACTION.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTC_CARRAT_GYM_REACTION.GENERIC"
@@ -91309,7 +91309,7 @@ msgstr "การทดลองปฏิกิริยาตอบสนอง
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTC_CARRAT_GYM_SPEED.BURNT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTC_CARRAT_GYM_SPEED.BURNT"
 msgid "Reduced to cinders."
-msgstr "ลดเป็นเถ้าถ่าน"
+msgstr "ลดเป็นขี้เถ้า"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTC_CARRAT_GYM_SPEED.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTC_CARRAT_GYM_SPEED.GENERIC"
@@ -91329,7 +91329,7 @@ msgstr "การทดลองความเร็ว"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTC_CARRAT_GYM_STAMINA.BURNT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTC_CARRAT_GYM_STAMINA.BURNT"
 msgid "Reduced to cinders."
-msgstr "ลดเป็นเถ้าถ่าน"
+msgstr "ลดเป็นขี้เถ้า"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTC_CARRAT_GYM_STAMINA.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YOTC_CARRAT_GYM_STAMINA.GENERIC"
@@ -92689,17 +92689,17 @@ msgstr "ขยะของใครบางคน"
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.USEKLAUSSACKKEY.KLAUS
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.USEKLAUSSACKKEY.KLAUS"
 msgid "I'll not be done in by an overgrown Krampus."
-msgstr "ฉันจะไม่ถูกฆ่าโดยแครมปัสที่รัก"
+msgstr "ฉันจะไม่ถูกฆ่าโดยครัมปัสที่รัก"
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY"
 msgid "It appears there's another key around here."
-msgstr "ปรากฏว่ามีคีย์อื่นอยู่แถวนี้"
+msgstr "ปรากฏว่ามีกุญแจอื่นอยู่แถวนี้"
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY"
 msgid "Blast! Wrong key."
-msgstr "ระเบิด! คีย์ผิด"
+msgstr "ระเบิด! กุญแจผิด"
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.WRAPBUNDLE.EMPTY
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.WRAPBUNDLE.EMPTY"
@@ -100809,12 +100809,12 @@ msgstr "พวกมันอยู่ที่นี่แล้วตอนท
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MERMARMORHAT"
 msgid "Does it look I have the bulbous head of a merm?"
-msgstr "ดูเหมือนหัวของฉันจะโป่งพองเหมือนเงือกรึเปล่า?"
+msgstr "ดูเหมือนหัวของฉันจะโป่งพองเหมือนเมิร์มรึเปล่า?"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MERMARMORUPGRADEDHAT"
 msgid "Does it look I have the bulbous head of a merm?"
-msgstr "ดูเหมือนหัวของฉันจะโป่งพองเหมือนเงือกรึเปล่า?"
+msgstr "ดูเหมือนหัวของฉันจะโป่งพองเหมือนเมิร์มรึเปล่า?"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MERMGUARD
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MERMGUARD"
@@ -101054,7 +101054,7 @@ msgstr "ไม่น่าแปลกใจเลยที่พวกมัน
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOLEHILL
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOLEHILL"
 msgid "Burrow deep, I'm coming for you."
-msgstr "ขุดลึกลงไป ฉันจะไปหาเธอ"
+msgstr "โพรงลึก ฉันจะไปหาเธอ"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MONKEY
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MONKEY"
@@ -101549,7 +101549,7 @@ msgstr "ฉันไม่ชอบเวทมนตร์ที่สะสม
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MUSHROOM_FARM.BURNT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MUSHROOM_FARM.BURNT"
 msgid "Only ash and ruin remain here."
-msgstr "เหลือเพียงเถ้าถ่านและซากปรักหักพังเท่านั้น"
+msgstr "เหลือเพียงขี้เถ้าและซากปรักหักพังเท่านั้น"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MUSHROOM_FARM.EMPTY
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MUSHROOM_FARM.EMPTY"
@@ -104984,7 +104984,7 @@ msgstr "ไม่เป็นไร"
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SNOWMAN.SNOWBALL
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SNOWMAN.SNOWBALL"
 msgid "Nice snowball."
-msgstr "ก้อนหิมะสวยดี"
+msgstr "บอลหิมะสวยดี"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SNURTLE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SNURTLE"
@@ -107129,7 +107129,7 @@ msgstr "มันเล็กกว่าที่ฉันจำได้... �
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WARGSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WARGSHRINE.BURNT"
 msgid "Burnt to cinders."
-msgstr "เผาเป็นเถ้าถ่าน"
+msgstr "เผาเป็นขี้เถ้า"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WARGSHRINE.EMPTY
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WARGSHRINE.EMPTY"
@@ -109514,7 +109514,7 @@ msgstr "แต่เราควรวาดอะไรดี!"
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.FILL_OCEAN.UNSUITABLE_FOR_PLANTS
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.FILL_OCEAN.UNSUITABLE_FOR_PLANTS"
 msgid "Ms. Wickerbottom says that salt water is bad for plants."
-msgstr "คุณนายวิกเกอร์บัตท่อมกล่าวว่าน้ำเกลือไม่ดีต่อพืช"
+msgstr "คุณนายวิกเกอร์บอตทอมกล่าวว่าน้ำเกลือไม่ดีต่อพืช"
 
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.FISH_OCEAN.TOODEEP
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.FISH_OCEAN.TOODEEP"
@@ -110044,7 +110044,7 @@ msgstr "เราไม่ได้รับอนุญาต"
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.TEACH.CANTLEARN
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.TEACH.CANTLEARN"
 msgid "Ms. Wickerbottom will have to explain this one."
-msgstr "คุณนายวิกเกอร์บัตท่อมจะต้องอธิบายเรื่องนี้"
+msgstr "คุณนายวิกเกอร์บอตทอมจะต้องอธิบายเรื่องนี้"
 
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.TEACH.KNOWN
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.TEACH.KNOWN"
@@ -112249,7 +112249,7 @@ msgstr "นี่หมายความว่าเราจะกลับบ
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ATRIUM_KEY
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ATRIUM_KEY"
 msgid "This key is REALLY old."
-msgstr "คีย์นี้เก่ามาก"
+msgstr "กุญแจนี้เก่ามาก"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ATRIUM_LIGHT.OFF
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ATRIUM_LIGHT.OFF"
@@ -112329,7 +112329,7 @@ msgstr "รางวัล!"
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BALLOON
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BALLOON"
 msgid "Balloon animals! Balloon animals!!"
-msgstr "สัตว์บอลลูน! สัตว์บอลลูน!!"
+msgstr "ลูกโป่งสัตว์! ลูกโป่งสัตว์!!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BALLOONHAT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BALLOONHAT"
@@ -112479,7 +112479,7 @@ msgstr "เราชอบร้องเพลง!"
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BATTLESONG_INSTANT_PANIC
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BATTLESONG_INSTANT_PANIC"
 msgid "The characters talk just like Wigfrid!"
-msgstr "ตัวละครพูดเหมือนวิกฟรีด!"
+msgstr "ตัวละครพูดเหมือนวิกฟริด!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BATTLESONG_INSTANT_REVIVE
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BATTLESONG_INSTANT_REVIVE"
@@ -113249,7 +113249,7 @@ msgstr "เรารู้ว่าเราไม่ควรเล่นกั
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOAT_CANNON.GENERIC
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOAT_CANNON.GENERIC"
 msgid "Ms. Wickerbottom said we could play with it as long as there's no cannonballs inside."
-msgstr "คุณนายวิกเกอร์บัตท่อมกล่าวว่าเราสามารถเล่นกับมันได้ตราบใดที่ไม่มีลูกกระสุนปืนใหญ่อยู่ข้างใน"
+msgstr "คุณนายวิกเกอร์บอตทอมกล่าวว่าเราสามารถเล่นกับมันได้ตราบใดที่ไม่มีลูกกระสุนปืนใหญ่อยู่ข้างใน"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOAT_CANNON.NOAMMO
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOAT_CANNON.NOAMMO"
@@ -113419,7 +113419,7 @@ msgstr "เราจะใช้เวลาอ่านเรื่องนี
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOOK_LIGHT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOOK_LIGHT"
 msgid "Ms. Wickerbottom, could you make a nightlight for us?"
-msgstr "คุณนายวิกเกอร์บัตท่อม คุณช่วยทำไฟกลางคืนให้เราได้ไหม?"
+msgstr "คุณนายวิกเกอร์บอตทอม คุณช่วยทำไฟกลางคืนให้เราได้ไหม?"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOOK_LIGHT_UPGRADED
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOOK_LIGHT_UPGRADED"
@@ -113569,7 +113569,7 @@ msgstr "คุณจะไม่พบซากศพที่นี่ เร�
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CABBAGEROLLS
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CABBAGEROLLS"
 msgid "We hope Ms. Wickerbottom doesn't find out we didn't eat the cabbage..."
-msgstr "เราหวังว่าคุณวิกเกอร์บัตท่อมจะไม่รู้ว่าเราไม่ได้กินกะหล่ำปลี..."
+msgstr "เราหวังว่าคุณวิกเกอร์บอตทอมจะไม่รู้ว่าเราไม่ได้กินกะหล่ำปลี..."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CACTUS.GENERIC
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CACTUS.GENERIC"
@@ -113744,7 +113744,7 @@ msgstr "เราสามารถรวมเข้าด้วยกันไ
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALFOOD_CORNTEA
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALFOOD_CORNTEA"
 msgid "Is Ms. Wickerbottom trying to trick us into eating our vegetables again?"
-msgstr "คุณวิคเคอร์บอตทอมพยายามหลอกให้เรากินผักอีกแล้วเหรอ"
+msgstr "คุณวิกเกอร์บอตทอมพยายามหลอกให้เรากินผักอีกแล้วเหรอ"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_FEEDCHICKS_FOOD
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_FEEDCHICKS_FOOD"
@@ -114924,7 +114924,7 @@ msgstr "ฉันชอบฉันไลเคน"
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CUTREEDS
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CUTREEDS"
 msgid "Reeds, web, what's the difference."
-msgstr "กก เว็บ ต่างกันยังไง"
+msgstr "ต้นกกกับใยแมงมุม ต่างกันยังไง"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CUTSTONE
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CUTSTONE"
@@ -115884,7 +115884,7 @@ msgstr "ปิดแล้ว"
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.FIRESUPPRESSOR.ON
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.FIRESUPPRESSOR.ON"
 msgid "This would come in handy in a snowball fight."
-msgstr "สิ่งนี้จะมีประโยชน์ในการต่อสู้ก้อนหิมะ"
+msgstr "สิ่งนี้จะมีประโยชน์ในการต่อสู้บอลหิมะ"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.FISH
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.FISH"
@@ -116589,7 +116589,7 @@ msgstr "โอ้ เวนดี้! เราจะแลกเปลี่ย
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENCANDY_10
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENCANDY_10"
 msgid "Candy candy candy!"
-msgstr "แคนดี้ แคนดี้ แคนดี้ แคนดี้ แคนดี้!"
+msgstr "ลูกอม ลูกอม ลูกอม!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENCANDY_11
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENCANDY_11"
@@ -116644,7 +116644,7 @@ msgstr "โอ้ คุณวิคเกอร์! เราบันทึก
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENCANDY_8
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENCANDY_8"
 msgid "Candy candy candy!"
-msgstr "แคนดี้ แคนดี้ แคนดี้ แคนดี้ แคนดี้!"
+msgstr "ลูกอม ลูกอม ลูกอม!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENCANDY_9
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENCANDY_9"
@@ -116809,7 +116809,7 @@ msgstr "เธอทำให้ฉันนึกถึงยาย...แต่
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HERMITCRAB_RELOCATION_KIT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HERMITCRAB_RELOCATION_KIT"
 msgid "We get to help Ms. Pearl find a new home!"
-msgstr "เราได้ช่วยคุณเพิร์ลหาบ้านใหม่!"
+msgstr "เราได้ช่วยคุณไข่มุกหาบ้านใหม่!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HERMITHOUSE.BUILTUP
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HERMITHOUSE.BUILTUP"
@@ -116834,7 +116834,7 @@ msgstr "เรามีกระสุนให้เล่นมากมาย
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HERMIT_CRACKED_PEARL
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HERMIT_CRACKED_PEARL"
 msgid "We hope Ms. Pearl isn't too mad at us..."
-msgstr "เราหวังว่าคุณเพิร์ลจะไม่โกรธเราจนเกินไป..."
+msgstr "เราหวังว่าคุณไข่มุกจะไม่โกรธเราจนเกินไป..."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HERMIT_PEARL
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HERMIT_PEARL"
@@ -117354,7 +117354,7 @@ msgstr "เราควรใส่เกราะเพื่อความป
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAARENA_BATTLESTANDARD
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAARENA_BATTLESTANDARD"
 msgid "Hey, help me break this Battle Standard!"
-msgstr "เฮ้ ช่วยฉันทำลายมาตรฐานการต่อสู้นี้ด้วย!"
+msgstr "เฮ้ ช่วยฉันทำลายฐานธงใบไม้นี้ด้วย!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAARENA_BERNIE
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAARENA_BERNIE"
@@ -117409,7 +117409,7 @@ msgstr "ดาบเล่มนั้นใหญ่เกินกว่าท
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAARENA_KEYHOLE
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAARENA_KEYHOLE"
 msgid "It doesn't have its key."
-msgstr "ไม่มีคีย์ของมัน"
+msgstr "ไม่มีกุญแจของมัน"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAARENA_KEYHOLE_FULL
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAARENA_KEYHOLE_FULL"
@@ -118194,7 +118194,7 @@ msgstr "ได้ผลดีเกินคาด"
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MEGAFLARE
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MEGAFLARE"
 msgid "Ms. Wickerbottom says we shouldn't pick fights..."
-msgstr "คุณนายวิกเกอร์บัตท่อมกล่าวว่าเราไม่ควรทะเลาะกัน..."
+msgstr "คุณนายวิกเกอร์บอตทอมกล่าวว่าเราไม่ควรทะเลาะกัน..."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MERM
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MERM"
@@ -119769,7 +119769,7 @@ msgstr "เราสามารถฟังสิ่งนั้นได้ต
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.PICKAXE
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.PICKAXE"
 msgid "Rocks will be ours!"
-msgstr "ร็อคจะเป็นของเรา!"
+msgstr "หินจะเป็นของเรา!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.PICKAXE_LUNARPLANT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.PICKAXE_LUNARPLANT"
@@ -120294,7 +120294,7 @@ msgstr "แม่ไม่ให้ฉันมีสิ่งเหล่าน
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.POWDER_MONKEY
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.POWDER_MONKEY"
 msgid "Hey, Ms. Wickerbottom says we shouldn't take things that don't belong to us!"
-msgstr "เฮ้ คุณวิคเคอร์บอตทอมบอกว่าเราไม่ควรเอาของที่ไม่ใช่ของเราไป!"
+msgstr "เฮ้ คุณวิกเกอร์บอตทอมบอกว่าเราไม่ควรเอาของที่ไม่ใช่ของเราไป!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.PREMIUMWATERINGCAN.EMPTY
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.PREMIUMWATERINGCAN.EMPTY"
@@ -120304,7 +120304,7 @@ msgstr "เราต้องเติมที่ไหนสักแห่ง
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.PREMIUMWATERINGCAN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.PREMIUMWATERINGCAN.GENERIC"
 msgid "Our watering can back home didn't look anything like that."
-msgstr "การรดน้ำของเราเมื่อกลับบ้านไม่ได้มีลักษณะแบบนั้น"
+msgstr "บัวรดน้ำของเราเมื่อกลับบ้านไม่ได้มีลักษณะแบบนั้น"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.PRIME_MATE
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.PRIME_MATE"
@@ -120889,7 +120889,7 @@ msgstr "เราต้องรอเกลือเพิ่ม"
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.QUAGMIRE_SALT_RACK.READY
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.QUAGMIRE_SALT_RACK.READY"
 msgid "Salt's ready."
-msgstr "เกลือพร้อมแล้ว"
+msgstr "หินโป่งพร้อมแล้ว"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.QUAGMIRE_SALT_RACK_ITEM
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.QUAGMIRE_SALT_RACK_ITEM"
@@ -121539,7 +121539,7 @@ msgstr "เราช่วยได้!"
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROSEGLASSESHAT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROSEGLASSESHAT.GENERIC"
 msgid "Winona wouldn't let us play with them. We've never seen her so stern..."
-msgstr "วินโอน่าไม่ยอมให้เราเล่นกับพวกมัน เราไม่เคยเห็นเธอเข้มงวดขนาดนี้มาก่อน..."
+msgstr "วิโนน่าไม่ยอมให้เราเล่นกับพวกมัน เราไม่เคยเห็นเธอเข้มงวดขนาดนี้มาก่อน..."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROSEGLASSESHAT.MISSINGSKILL
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROSEGLASSESHAT.MISSINGSKILL"
@@ -121914,7 +121914,7 @@ msgstr "เหนียวเหมือนเว็บ"
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHADOWDANCER
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHADOWDANCER"
 msgid "We'll dance with you, Mr. Shadow!"
-msgstr "เราจะเต้นรำกับคุณ คุณชาโดว์!"
+msgstr "เราจะเต้นรำกับคุณ คุณเงา!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHADOWDIGGER
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHADOWDIGGER"
@@ -121964,7 +121964,7 @@ msgstr "เราจะระวัง สัญญา!"
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHADOW_BEEF_BELL
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHADOW_BEEF_BELL"
 msgid "We can save our beefalo!"
-msgstr "เราสามารถช่วยชีวิตเนื้อควายของเราได้!"
+msgstr "เราสามารถช่วยชีวิตเนื้อบีฟาโล่ของเราได้!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHADOW_FORGE
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHADOW_FORGE"
@@ -121999,7 +121999,7 @@ msgstr "มีเปลือกหอยสวยๆอยู่ในนั้
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHIELDOFTERROR
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHIELDOFTERROR"
 msgid "Ms. Wickerbottom says we shouldn't bite."
-msgstr "คุณนายวิกเกอร์บัตท่อมกล่าวว่าเราไม่ควรกัด"
+msgstr "คุณนายวิกเกอร์บอตทอมกล่าวว่าเราไม่ควรกัด"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHOVEL
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHOVEL"
@@ -122369,7 +122369,7 @@ msgstr "อย่ากัดพวกเรา!"
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SNOWBALL_ITEM
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SNOWBALL_ITEM"
 msgid "Snowball fight!"
-msgstr "การต่อสู้ด้วยก้อนหิมะ!"
+msgstr "การต่อสู้ด้วยบอลหิมะ!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SNOWMAN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SNOWMAN.GENERIC"
@@ -122554,7 +122554,7 @@ msgstr "กลางคืน-กลางคืน เพื่อนที่�
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_REPELLENT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_REPELLENT"
 msgid "Ms. Wickerbottom said our friends need to go home if they don't behave."
-msgstr "คุณนายวิกเกอร์บัตท่อมกล่าวว่าเพื่อนของเราจำเป็นต้องกลับบ้านหากพวกเขาไม่ประพฤติตัว"
+msgstr "คุณนายวิกเกอร์บอตทอมกล่าวว่าเพื่อนของเราจำเป็นต้องกลับบ้านหากพวกเขาไม่ประพฤติตัว"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_SPITTER
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_SPITTER"
@@ -122949,7 +122949,7 @@ msgstr "พ่อเคยพาฉันไปตกปลาในบางค
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.TAFFY
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.TAFFY"
 msgid "Candy!"
-msgstr "แคนดี้!"
+msgstr "ลูกอม!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.TALLBIRD
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.TALLBIRD"
@@ -124834,7 +124834,7 @@ msgstr "ดูเหมือนคุณเลย คุณ Woodie!"
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WEREITEM_GOOSE
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WEREITEM_GOOSE"
 msgid "Mr. Woodie, are you alright?"
-msgstr "คุณวูดดี้ สบายดีไหม?"
+msgstr "คุณวู้ดดี้ สบายดีไหม?"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WEREITEM_MOOSE
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WEREITEM_MOOSE"
@@ -125224,7 +125224,7 @@ msgstr "เราไม่คิดว่ามันจะทำงานได
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINONA_TELEBRELLA.OFF
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINONA_TELEBRELLA.OFF"
 msgid "Hey Winona! How do we fix it?"
-msgstr "เฮ้ วินโอน่า! เราจะแก้ไขมันได้อย่างไร?"
+msgstr "เฮ้ วิโนน่า! เราจะแก้ไขมันได้อย่างไร?"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINONA_TELEPORT_PAD_ITEM.BURNING
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINONA_TELEPORT_PAD_ITEM.BURNING"
@@ -125254,7 +125254,7 @@ msgstr "แม่บอกเสมอว่าฉันควรเอาหม
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTEROMETER.BURNT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTEROMETER.BURNT"
 msgid "How come everything turns to ashes? It's sad."
-msgstr "ทำไมทุกอย่างกลับกลายเป็นเถ้าถ่าน? มันน่าเศร้า"
+msgstr "ทำไมทุกอย่างกลับกลายเป็นขี้เถ้า? มันน่าเศร้า"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTEROMETER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTEROMETER.GENERIC"
@@ -126604,7 +126604,7 @@ msgstr "ถ้าเราเล่นมากกว่านี้ Abigail จ
 #. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.LOCKED_GATE
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.LOCKED_GATE"
 msgid "I can't open it without a key."
-msgstr "ฉันไม่สามารถเปิดได้โดยไม่มีคีย์"
+msgstr "ฉันไม่สามารถเปิดได้โดยไม่มีกุญแจ"
 
 #. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.MANNEQUIN_EQUIPSWAPFAILED
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.ACTIVATE.MANNEQUIN_EQUIPSWAPFAILED"
@@ -127259,7 +127259,7 @@ msgstr "ล้มเหลว"
 #. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.POUR_WATER.OUT_OF_WATER
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.POUR_WATER.OUT_OF_WATER"
 msgid "There's nothing left."
-msgstr "ไม่เหลืออะไรแล้ว"
+msgstr "ไม่มีอะไรแล้ว"
 
 #. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.POUR_WATER_GROUNDTILE.OUT_OF_WATER
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.POUR_WATER_GROUNDTILE.OUT_OF_WATER"
@@ -127469,7 +127469,7 @@ msgstr "ความตายจะพบฉันแน่ถ้าฉันพ
 #. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY"
 msgid "Should I give up, or find another key?"
-msgstr "ฉันควรจะยอมแพ้หรือหาคีย์อื่น?"
+msgstr "ฉันควรจะยอมแพ้หรือหากุญแจอื่น?"
 
 #. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY"
@@ -127864,7 +127864,7 @@ msgstr "นั่นอาจจะแย่"
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_DESPAWN
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_DESPAWN"
 msgid "Abigail?"
-msgstr "อบิเกล?"
+msgstr "อาบิเกล?"
 
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_DETACH_BUFF_ATTACK
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_DETACH_BUFF_ATTACK"
@@ -129074,7 +129074,7 @@ msgstr "มันเหงามากเมื่อไม่มีคุณอ
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL.LEVEL1.2
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL.LEVEL1.2"
 msgid "That's my twin sister, Abigail."
-msgstr "นั่นคือพี่สาวฝาแฝดของฉัน อบิเกล"
+msgstr "นั่นคือพี่สาวฝาแฝดของฉัน อาบิเกล"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL.LEVEL2.1
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL.LEVEL2.1"
@@ -129084,7 +129084,7 @@ msgstr "เราจะไม่มีวันพรากจากกันอ
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL.LEVEL2.2
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL.LEVEL2.2"
 msgid "That's my twin sister, Abigail."
-msgstr "นั่นคือพี่สาวฝาแฝดของฉัน อบิเกล"
+msgstr "นั่นคือพี่สาวฝาแฝดของฉัน อาบิเกล"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL.LEVEL3.1
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL.LEVEL3.1"
@@ -129094,7 +129094,7 @@ msgstr "มาเล่นกันเถอะ Abigail!"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL.LEVEL3.2
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL.LEVEL3.2"
 msgid "That's my twin sister, Abigail."
-msgstr "นั่นคือพี่สาวฝาแฝดของฉัน อบิเกล"
+msgstr "นั่นคือพี่สาวฝาแฝดของฉัน อาบิเกล"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL_FLOWER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL_FLOWER.GENERIC"
@@ -129139,7 +129139,7 @@ msgstr "ฉันสัมผัสได้ว่าการปรากฏต
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL_FLOWER.SOON
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL_FLOWER.SOON"
 msgid "Abigail is almost here!"
-msgstr "อบิเกลใกล้จะถึงแล้ว!"
+msgstr "อาบิเกลใกล้จะถึงแล้ว!"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.ACCOMPLISHMENT_SHRINE
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ACCOMPLISHMENT_SHRINE"
@@ -130159,7 +130159,7 @@ msgstr "ที่ไหนสักแห่ง เนื้อวัวเป�
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEFALO_GROOMER.BURNT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEFALO_GROOMER.BURNT"
 msgid "Burned to ashes."
-msgstr "เผาเป็นเถ้าถ่าน"
+msgstr "เผาเป็นขี้เถ้า"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEFALO_GROOMER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEFALO_GROOMER.GENERIC"
@@ -130824,7 +130824,7 @@ msgstr "ฉันไม่อยากได้พลังแบบนั้น
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.BOOK_FIRE
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BOOK_FIRE"
 msgid "What if we let this world fall to ash?"
-msgstr "จะเกิดอะไรขึ้นถ้าเราปล่อยให้โลกนี้กลายเป็นเถ้าถ่าน?"
+msgstr "จะเกิดอะไรขึ้นถ้าเราปล่อยให้โลกนี้กลายเป็นขี้เถ้า?"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.BOOK_FISH
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BOOK_FISH"
@@ -132509,7 +132509,7 @@ msgstr "อวตารของความตาย!"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.DEERCLOPSCORPSE.BURNING
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.DEERCLOPSCORPSE.BURNING"
 msgid "Ashes to ashes."
-msgstr "จากเถ้าถ่านสู่ขี้เถ้า"
+msgstr "จากขี้เถ้าสู่ขี้เถ้า"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.DEERCLOPSCORPSE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.DEERCLOPSCORPSE.GENERIC"
@@ -132599,7 +132599,7 @@ msgstr "สิ่งใหม่นี้ทำอะไร?"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.DIVININGRODBASE.READY
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.DIVININGRODBASE.READY"
 msgid "It still needs a large key."
-msgstr "มันยังต้องการคีย์ขนาดใหญ่อยู่"
+msgstr "มันยังต้องการกุญแจขนาดใหญ่อยู่"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.DIVININGRODBASE.UNLOCKED
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.DIVININGRODBASE.UNLOCKED"
@@ -134494,7 +134494,7 @@ msgstr "only_used_by_winona"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.INSPECTSELF
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.INSPECTSELF"
 msgid "When I look in the mirror, it's like Abigail's here."
-msgstr "เมื่อฉันส่องกระจก มันเหมือนกับว่าอบิเกลอยู่ที่นี่"
+msgstr "เมื่อฉันส่องกระจก มันเหมือนกับว่าอาบิเกลอยู่ที่นี่"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.IPECACSYRUP
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.IPECACSYRUP"
@@ -135629,12 +135629,12 @@ msgstr "สิ่งหนองน้ำที่น่ากลัว!"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MERMARMORHAT"
 msgid "I'm not a merm."
-msgstr "ฉันไม่ใช่นางเงือก"
+msgstr "ฉันไม่ใช่เมิร์ม"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MERMARMORUPGRADEDHAT"
 msgid "I'm not a merm."
-msgstr "ฉันไม่ใช่นางเงือก"
+msgstr "ฉันไม่ใช่เมิร์ม"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MERMGUARD
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MERMGUARD"
@@ -135914,7 +135914,7 @@ msgstr "อาณาจักรของเธอสร้างขึ้นบ
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MONKEYQUEEN
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MONKEYQUEEN"
 msgid "Queens don't usually scratch their backsides in public, do they Abigail?"
-msgstr "ปกติแล้วราชินีจะไม่เกาหลังในที่สาธารณะ พวกเขาคืออบิเกลใช่มั๊ย?"
+msgstr "ปกติแล้วราชินีจะไม่เกาหลังในที่สาธารณะ พวกเขาคืออาบิเกลใช่มั๊ย?"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MONKEYTAIL
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MONKEYTAIL"
@@ -136074,7 +136074,7 @@ msgstr "เดินทางมาไกลแล้ว..."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONROCKSEED
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONROCKSEED"
 msgid "Its pallor reminds me of Abigail."
-msgstr "สีซีดทำให้ผมนึกถึงอบิเกล"
+msgstr "สีซีดทำให้ผมนึกถึงอาบิเกล"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONROCK_PIECES
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONROCK_PIECES"
@@ -136914,7 +136914,7 @@ msgstr "สิ่งชั่วร้ายแฝงตัวอยู่เห
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.OCEANVINE_COCOON_BURNT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.OCEANVINE_COCOON_BURNT"
 msgid "Nothing but ash remains."
-msgstr "เหลือแต่เถ้าถ่าน"
+msgstr "เหลือแต่ขี้เถ้า"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.OCEANWHIRLPORTAL
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.OCEANWHIRLPORTAL"
@@ -136959,7 +136959,7 @@ msgstr "ว่างเปล่า"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.OFFERING_POT.LOTS_OF_KELP
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.OFFERING_POT.LOTS_OF_KELP"
 msgid "So even the merms have their limits."
-msgstr "แม้แต่พวกเงือกก็ยังมีขีดจำกัด"
+msgstr "แม้แต่พวกเมิร์มก็ยังมีขีดจำกัด"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.OFFERING_POT.SOME_KELP
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.OFFERING_POT.SOME_KELP"
@@ -136974,7 +136974,7 @@ msgstr "ว่างเปล่า"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.OFFERING_POT_UPGRADED.LOTS_OF_KELP
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.OFFERING_POT_UPGRADED.LOTS_OF_KELP"
 msgid "So, even the merms have their limits."
-msgstr "ดังนั้น แม้แต่พวกเงือกก็ยังมีขีดจำกัด"
+msgstr "ดังนั้น แม้แต่พวกเมิร์มก็ยังมีขีดจำกัด"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.OFFERING_POT_UPGRADED.SOME_KELP
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.OFFERING_POT_UPGRADED.SOME_KELP"
@@ -137529,7 +137529,7 @@ msgstr "พลังของมันถูกใช้ไป"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.POCKETWATCH_REVIVE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.POCKETWATCH_REVIVE.GENERIC"
 msgid "Abigail... do you think...?"
-msgstr "อบิเกล...คุณคิดว่า...?"
+msgstr "อาบิเกล...คุณคิดว่า...?"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.POCKETWATCH_REVIVE.RECHARGING
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.POCKETWATCH_REVIVE.RECHARGING"
@@ -137669,7 +137669,7 @@ msgstr "ไม่แตกต่างไปจากที่ที่ฉัน
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.PORTABLETENT_ITEM
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.PORTABLETENT_ITEM"
 msgid "Abigail and I set up a tent in our backyard once. It was... fun."
-msgstr "ฉันกับอบิเกลเคยตั้งเต๊นท์ในสนามหลังบ้านครั้งหนึ่ง มัน... สนุก"
+msgstr "ฉันกับอาบิเกลเคยตั้งเต๊นท์ในสนามหลังบ้านครั้งหนึ่ง มัน... สนุก"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.POTATO
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.POTATO"
@@ -138029,7 +138029,7 @@ msgstr "มันทำให้กระจ่างในเรื่องท
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.QUAGMIRE_LAMP_SHORT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.QUAGMIRE_LAMP_SHORT"
 msgid "The only light in my life is Abigail."
-msgstr "แสงสว่างเดียวในชีวิตฉันคืออบิเกล"
+msgstr "แสงสว่างเดียวในชีวิตฉันคืออาบิเกล"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.QUAGMIRE_MEALINGSTONE
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.QUAGMIRE_MEALINGSTONE"
@@ -138429,7 +138429,7 @@ msgstr "ไม่ใช่บ้านหรือบ้าน"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.QUAGMIRE_SYRUP
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.QUAGMIRE_SYRUP"
 msgid "Not as sweet as Abigail."
-msgstr "ไม่หวานเท่าอบิเกล"
+msgstr "ไม่หวานเท่าอาบิเกล"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.QUAGMIRE_TOMATO
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.QUAGMIRE_TOMATO"
@@ -139499,7 +139499,7 @@ msgstr "ฉันเกือบจะได้ยินเสียงคุณ
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SISTURN.LOTS_OF_FLOWERS_EVIL
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SISTURN.LOTS_OF_FLOWERS_EVIL"
 msgid "These don't make me feel good, but they help Abigail."
-msgstr "สิ่งเหล่านี้ทำให้ฉันไม่รู้สึกดีเลย แต่มันช่วยเอบิเกลได้"
+msgstr "สิ่งเหล่านี้ทำให้ฉันไม่รู้สึกดีเลย แต่มันช่วยเอาบิเกลได้"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SISTURN.SOME_FLOWERS
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SISTURN.SOME_FLOWERS"
@@ -139559,7 +139559,7 @@ msgstr "สปอร์ขี้โรคทำให้หลับสนิท
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SLINGSHOT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SLINGSHOT.GENERIC"
 msgid "Abigail used to play with one of these."
-msgstr "แอบิเกลเคยเล่นสิ่งเหล่านี้มาก่อน"
+msgstr "แอาบิเกลเคยเล่นสิ่งเหล่านี้มาก่อน"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SLINGSHOTAMMO_CONTAINER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SLINGSHOTAMMO_CONTAINER"
@@ -139884,7 +139884,7 @@ msgstr "สำหรับถูบาดแผล"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SPICE_SUGAR
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SPICE_SUGAR"
 msgid "Not as sweet as Abigail."
-msgstr "ไม่หวานเท่าอบิเกล"
+msgstr "ไม่หวานเท่าอาบิเกล"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER.DEAD
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER.DEAD"
@@ -140884,7 +140884,7 @@ msgstr "การชนะเพียงชิ้นเดียวนั้น
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.TRINKET_17
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.TRINKET_17"
 msgid "Two utensils that are one. It reminds me of myself and Abigail."
-msgstr "เครื่องใช้สองอย่างที่เป็นอันหนึ่งอันเดียวกัน มันทำให้ฉันนึกถึงตัวเองกับอบิเกล"
+msgstr "เครื่องใช้สองอย่างที่เป็นอันหนึ่งอันเดียวกัน มันทำให้ฉันนึกถึงตัวเองกับอาบิเกล"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.TRINKET_18
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.TRINKET_18"
@@ -141884,7 +141884,7 @@ msgstr "ทำอย่างไร %s?"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WANDA.GHOST
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WANDA.GHOST"
 msgid "Have you and Abigail become aquainted yet?"
-msgstr "คุณกับอบิเกลรู้จักกันแล้วหรือยัง"
+msgstr "คุณกับอาบิเกลรู้จักกันแล้วหรือยัง"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WANDA.MURDERER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WANDA.MURDERER"
@@ -141919,7 +141919,7 @@ msgstr "ตอนนี้มันไม่เตือนอะไรฉัน
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WARDROBE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WARDROBE.GENERIC"
 msgid "It reminds me of a story I used to read with Abigail."
-msgstr "มันทำให้ฉันนึกถึงเรื่องที่ฉันเคยอ่านกับอบิเกล"
+msgstr "มันทำให้ฉันนึกถึงเรื่องที่ฉันเคยอ่านกับอาบิเกล"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WARG
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WARG"
@@ -142169,7 +142169,7 @@ msgstr "เขาจาก Sisyphus ไปยัง Lazarus แล้ว"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WAXWELLJOURNAL.GENERIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WAXWELLJOURNAL.GENERIC"
 msgid "Do you want me to read you a story, Abigail?"
-msgstr "คุณต้องการให้ฉันอ่านเรื่องราวของคุณไหม อบิเกล"
+msgstr "คุณต้องการให้ฉันอ่านเรื่องราวของคุณไหม อาบิเกล"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WEBBER.ATTACKER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WEBBER.ATTACKER"
@@ -142464,7 +142464,7 @@ msgstr "โอ้ ไม่..."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_BATTERY_HIGH.BURNT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_BATTERY_HIGH.BURNT"
 msgid "It all crumbles to ash, in the end."
-msgstr "ในที่สุดมันก็พังทลายเป็นเถ้าถ่าน"
+msgstr "ในที่สุดมันก็พังทลายเป็นขี้เถ้า"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_BATTERY_HIGH.GENERIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_BATTERY_HIGH.GENERIC"
@@ -142494,7 +142494,7 @@ msgstr "โอ้ ไม่..."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_BATTERY_LOW.BURNT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_BATTERY_LOW.BURNT"
 msgid "It all crumbles to ash, in the end."
-msgstr "ในที่สุดมันก็พังทลายเป็นเถ้าถ่าน"
+msgstr "ในที่สุดมันก็พังทลายเป็นขี้เถ้า"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_BATTERY_LOW.GENERIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_BATTERY_LOW.GENERIC"
@@ -142519,7 +142519,7 @@ msgstr "โอ้ ไม่..."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_CATAPULT.BURNT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_CATAPULT.BURNT"
 msgid "It all crumbles to ash, in the end."
-msgstr "ในที่สุดมันก็พังทลายเป็นเถ้าถ่าน"
+msgstr "ในที่สุดมันก็พังทลายเป็นขี้เถ้า"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_CATAPULT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_CATAPULT.GENERIC"
@@ -142589,7 +142589,7 @@ msgstr "โอ้ ไม่..."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_SPOTLIGHT.BURNT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_SPOTLIGHT.BURNT"
 msgid "It all crumbles to ash, in the end."
-msgstr "ในที่สุดมันก็พังทลายเป็นเถ้าถ่าน"
+msgstr "ในที่สุดมันก็พังทลายเป็นขี้เถ้า"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_SPOTLIGHT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_SPOTLIGHT.GENERIC"
@@ -142659,7 +142659,7 @@ msgstr "โอ้ ไม่นะ..."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_TELEPORT_PAD_ITEM.BURNT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_TELEPORT_PAD_ITEM.BURNT"
 msgid "It all crumbles to ash, in the end."
-msgstr "ในที่สุดทุกอย่างก็สลายเป็นเถ้าถ่าน"
+msgstr "ในที่สุดทุกอย่างก็สลายเป็นขี้เถ้า"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_TELEPORT_PAD_ITEM.GENERIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_TELEPORT_PAD_ITEM.GENERIC"
@@ -142894,7 +142894,7 @@ msgstr "ไม่ต้องกลัว %s Abigail แค่ต้องกา
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WOLFGANG_WHISTLE
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WOLFGANG_WHISTLE"
 msgid "Abigail, I saw you whispering at Wolfgang to make us do pushups!"
-msgstr "อบิเกล ฉันเห็นเธอกระซิบบอกวูล์ฟกังให้เราวิดพื้น!"
+msgstr "อาบิเกล ฉันเห็นเธอกระซิบบอกวูล์ฟกังให้เราวิดพื้น!"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WONKEY.ATTACKER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WONKEY.ATTACKER"
@@ -142914,7 +142914,7 @@ msgstr "สวัสดี ลิงตัวอื่นๆรังเกี�
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WONKEY.GHOST
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WONKEY.GHOST"
 msgid "Now you and Abigail can play together."
-msgstr "ตอนนี้คุณกับอบิเกลสามารถเล่นด้วยกันได้"
+msgstr "ตอนนี้คุณกับอาบิเกลสามารถเล่นด้วยกันได้"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WONKEY.MURDERER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WONKEY.MURDERER"
@@ -143384,7 +143384,7 @@ msgstr "ไม้เรียวบิดเหมือนจิตวิญญ
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTB_BEEFALOSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTB_BEEFALOSHRINE.BURNT"
 msgid "There's nothing left of it."
-msgstr "ไม่เหลืออะไรแล้ว"
+msgstr "ไม่มีอะไรแล้ว"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTB_BEEFALOSHRINE.EMPTY
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTB_BEEFALOSHRINE.EMPTY"
@@ -143819,7 +143819,7 @@ msgstr "ตอนนี้ ริมฝีปากของฉันเปล�
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_FOOD3
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_FOOD3"
 msgid "I'm sorry Abigail, I'd share if I could."
-msgstr "ฉันขอโทษ อบิเกล ฉันจะแบ่งปันถ้าทำได้"
+msgstr "ฉันขอโทษ อาบิเกล ฉันจะแบ่งปันถ้าทำได้"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_FOOD4
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTR_FOOD4"
@@ -144964,7 +144964,7 @@ msgstr "ต้องปราบสัตว์เดรัจฉานเสี
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY"
 msgid "I'll have to find the right key."
-msgstr "ฉันจะต้องหาคีย์ที่ถูกต้อง"
+msgstr "ฉันจะต้องหากุญแจที่ถูกต้อง"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY"
@@ -147564,7 +147564,7 @@ msgstr "มันกำลังหลับอยู่"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALOFEED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALOFEED"
 msgid "Beefalo seem to be quite adept at digesting sticks."
-msgstr "ดูเหมือนควายจะค่อนข้างเชี่ยวชาญในการย่อยกิ่งไม้"
+msgstr "ดูเหมือนบีฟาโล่จะค่อนข้างเชี่ยวชาญในการย่อยกิ่งไม้"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALOHAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALOHAT"
@@ -152259,7 +152259,7 @@ msgstr "ความดี ฉันไม่เคยยกสิ่งนั�
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVAARENA_KEYHOLE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVAARENA_KEYHOLE"
 msgid "It requires a key."
-msgstr "ต้องใช้คีย์"
+msgstr "ต้องใช้กุญแจ"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVAARENA_KEYHOLE_FULL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVAARENA_KEYHOLE_FULL"
@@ -153054,12 +153054,12 @@ msgstr "A piscean biped!"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERMARMORHAT"
 msgid "This helmet was specifically made to fit the merm cranium."
-msgstr "หมวกกันน็อคใบนี้ได้รับการออกแบบมาโดยเฉพาะเพื่อให้พอดีกับกะโหลกศีรษะของนางเงือก"
+msgstr "หมวกกันน็อคใบนี้ได้รับการออกแบบมาโดยเฉพาะเพื่อให้พอดีกับกะโหลกศีรษะของเมิร์ม"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERMARMORUPGRADEDHAT"
 msgid "This helmet was specifically made to fit the merm cranium."
-msgstr "หมวกกันน็อคใบนี้ได้รับการออกแบบมาโดยเฉพาะเพื่อให้พอดีกับกะโหลกศีรษะของนางเงือก"
+msgstr "หมวกกันน็อคใบนี้ได้รับการออกแบบมาโดยเฉพาะเพื่อให้พอดีกับกะโหลกศีรษะของเมิร์ม"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERMGUARD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERMGUARD"
@@ -155594,7 +155594,7 @@ msgstr "ความสงสัยของฉันถูกต้อง ม�
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_PORTAL_KEY
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_PORTAL_KEY"
 msgid "Quite an elaborate key."
-msgstr "คีย์ค่อนข้างซับซ้อน"
+msgstr "กุญแจค่อนข้างซับซ้อน"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_POT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_POT"
@@ -155709,7 +155709,7 @@ msgstr "อดีตผู้อาศัยในเมืองนี้มี
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_SAFE.LOCKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_SAFE.LOCKED"
 msgid "Surely there's an accompanying key."
-msgstr "แน่นอนว่ามีคีย์อยู่ด้วย"
+msgstr "แน่นอนว่ามีกุญแจอยู่ด้วย"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_SALMON
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_SALMON"
@@ -156454,7 +156454,7 @@ msgstr "เสาอากาศที่ประดับตกแต่งส
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SADDLE_SHADOW
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SADDLE_SHADOW"
 msgid "A beefalo saddle fitted for combat."
-msgstr "อานควายที่เหมาะสำหรับการต่อสู้"
+msgstr "อานบีฟาโล่ที่เหมาะสำหรับการต่อสู้"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SADDLE_WAR
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SADDLE_WAR"
@@ -156814,7 +156814,7 @@ msgstr "การใช้เครื่องมือดังกล่าว
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SHADOW_BEEF_BELL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SHADOW_BEEF_BELL"
 msgid "It revives one's dead beefalo by a simple mechanism: magic."
-msgstr "มันช่วยชุบชีวิตเนื้อควายที่ตายแล้วได้ด้วยกลไกง่ายๆ: เวทมนตร์"
+msgstr "มันช่วยชุบชีวิตเนื้อบีฟาโล่ที่ตายแล้วได้ด้วยกลไกง่ายๆ: เวทมนตร์"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SHADOW_FORGE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SHADOW_FORGE"
@@ -157689,7 +157689,7 @@ msgstr "หอยที่มีขนาดและฟังก์ชันพ
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SUNKENCHEST.LOCKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SUNKENCHEST.LOCKED"
 msgid "Oh dear. I believe this will require a key."
-msgstr "โอ้ ที่รัก ฉันเชื่อว่าสิ่งนี้จะต้องใช้คีย์"
+msgstr "โอ้ ที่รัก ฉันเชื่อว่าสิ่งนี้จะต้องใช้กุญแจ"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SUPERTACKLECONTAINER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SUPERTACKLECONTAINER"
@@ -161479,7 +161479,7 @@ msgstr "อะไรก็ได้ Wurt จัดการได้"
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.ACTIVATE.NOTMYBERNIE
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.ACTIVATE.NOTMYBERNIE"
 msgid "Sorry. Wrong Bernie. As you were."
-msgstr "ขออภัย ผิดเบอร์นี เหมือนอย่างที่คุณเป็น"
+msgstr "ขออภัย ผิดเบอร์นี่ เหมือนอย่างที่คุณเป็น"
 
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.ACTIVATE.PILLOWFIGHT_NO_HANDPILLOW"
@@ -162319,7 +162319,7 @@ msgstr "แต่สิ่งที่น่าเกลียดขนาดใ
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY"
 msgid "You mean there's another key?!"
-msgstr "คุณหมายถึงมีคีย์อื่นเหรอ!"
+msgstr "คุณหมายถึงมีกุญแจอื่นเหรอ!"
 
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY"
@@ -164964,7 +164964,7 @@ msgstr "ขนของสัตว์ร้ายทับขนคน!"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEEFALOTREAT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEEFALOTREAT"
 msgid "Beefalo are pretty easy to please."
-msgstr "ควายนั้นค่อนข้างง่ายที่จะโปรด"
+msgstr "บีฟาโล่นั้นค่อนข้างง่ายที่จะโปรด"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEEFALOWOOL
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEEFALOWOOL"
@@ -169649,7 +169649,7 @@ msgstr "ไม่มีทางที่ฉันจะใช้มันได
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.LAVAARENA_KEYHOLE
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.LAVAARENA_KEYHOLE"
 msgid "There's no key in it."
-msgstr "ไม่มีคีย์ในนั้น"
+msgstr "ไม่มีกุญแจในนั้น"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.LAVAARENA_KEYHOLE_FULL
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.LAVAARENA_KEYHOLE_FULL"
@@ -170444,12 +170444,12 @@ msgstr "Eww เป็นแอ่งน้ำทั้งหมด"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MERMARMORHAT"
 msgid "Who wants to wear a stupid merm hat anyway?"
-msgstr "ใครอยากสวมหมวกเงือกโง่ๆ กันล่ะ?"
+msgstr "ใครอยากสวมหมวกเมิร์มโง่ๆ กันล่ะ?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MERMARMORUPGRADEDHAT"
 msgid "Who wants to wear a stupid merm hat anyway?"
-msgstr "ใครอยากสวมหมวกเงือกโง่ๆ กันล่ะ?"
+msgstr "ใครอยากสวมหมวกเมิร์มโง่ๆ กันล่ะ?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MERMGUARD
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MERMGUARD"
@@ -171114,7 +171114,7 @@ msgstr "สิ่งนี้ทำให้ฉันนึกถึงฝัน
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOSQUITOMUSK
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOSQUITOMUSK"
 msgid "It's no Bernie."
-msgstr "มันไม่ใช่เบอร์นี"
+msgstr "มันไม่ใช่เบอร์นี่"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOSQUITOSACK
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOSQUITOSACK"
@@ -172984,7 +172984,7 @@ msgstr "ฉันจะกระโดดข้ามพอร์ทัลไป
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.QUAGMIRE_PORTAL_KEY
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.QUAGMIRE_PORTAL_KEY"
 msgid "Fancy key."
-msgstr "คีย์แฟนซี"
+msgstr "กุญแจแฟนซี"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.QUAGMIRE_POT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.QUAGMIRE_POT"
@@ -173059,7 +173059,7 @@ msgstr "อ๊ะ! มันไม่ไหม้ด้วยซ้ำ"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.QUAGMIRE_RUBBLE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.QUAGMIRE_RUBBLE_CLOCK"
 msgid "I'd love to burn that to ashes."
-msgstr "ฉันอยากจะเผามันให้เป็นเถ้าถ่าน"
+msgstr "ฉันอยากจะเผามันให้เป็นขี้เถ้า"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.QUAGMIRE_RUBBLE_CLOCKTOWER
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.QUAGMIRE_RUBBLE_CLOCKTOWER"
@@ -174609,7 +174609,7 @@ msgstr "Jeez จระเข้ของเขาคืออะไร"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SNOWBALL_ITEM
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SNOWBALL_ITEM"
 msgid "Who needs a snowball to the face?"
-msgstr "ใครต้องการก้อนหิมะมาปาดหน้า?"
+msgstr "ใครต้องการบอลหิมะมาปาดหน้า?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SNOWMAN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SNOWMAN.GENERIC"
@@ -175704,7 +175704,7 @@ msgstr "โลหะจะโค้งงอเมื่อร้อนและ
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRINKET_18
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRINKET_18"
 msgid "I bet Wigfrid would be into this."
-msgstr "ฉันพนันได้เลยว่าวิกฟรีดจะต้องชอบสิ่งนี้"
+msgstr "ฉันพนันได้เลยว่าวิกฟริดจะต้องชอบสิ่งนี้"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRINKET_19
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRINKET_19"
@@ -175739,7 +175739,7 @@ msgstr "ดูเหมือนว่ามันจะละลายในก
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRINKET_24
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRINKET_24"
 msgid "I don't want Ms. Wickerbottom to be sad. Let's burn it!"
-msgstr "ฉันไม่ต้องการให้นางวิกเกอร์บัตท่อมเสียใจ มาเผามันกันเถอะ!"
+msgstr "ฉันไม่ต้องการให้นางวิกเกอร์บอตทอมเสียใจ มาเผามันกันเถอะ!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRINKET_25
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRINKET_25"
@@ -178754,7 +178754,7 @@ msgstr "ดูดีและกรุบกรอบ!"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE_PLANTSTRESSORNUTRIENTS
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE_PLANTSTRESSORNUTRIENTS"
 msgid "Ms. Wickerbottom's always going on about nutrients in the soil. Maybe it needs that."
-msgstr "คุณนายวิกเกอร์บัตท่อมมักจะพูดถึงสารอาหารในดินอยู่เสมอ บางทีมันอาจต้องการสิ่งนั้น"
+msgstr "คุณนายวิกเกอร์บอตทอมมักจะพูดถึงสารอาหารในดินอยู่เสมอ บางทีมันอาจต้องการสิ่งนั้น"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE_PLANTSTRESSOROVERCROWDING
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE_PLANTSTRESSOROVERCROWDING"
@@ -179739,7 +179739,7 @@ msgstr "สำเร็จ!"
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY"
 msgid "There's another key around here somewhere."
-msgstr "มีคีย์อื่นอยู่แถวๆนี้"
+msgstr "มีกุญแจอื่นอยู่แถวๆนี้"
 
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY"
@@ -181844,7 +181844,7 @@ msgstr "ดูขาดๆหายๆมันจะปกป้องฉัน
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.ARROWSIGN_PANEL.BURNT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ARROWSIGN_PANEL.BURNT"
 msgid "Burnt to cinders."
-msgstr "เผาเป็นเถ้าถ่าน"
+msgstr "เผาเป็นขี้เถ้า"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.ARROWSIGN_PANEL.GENERIC
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ARROWSIGN_PANEL.GENERIC"
@@ -181859,7 +181859,7 @@ msgstr "แค่รอการขีดเขียน"
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.ARROWSIGN_POST.BURNT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ARROWSIGN_POST.BURNT"
 msgid "Burnt to cinders."
-msgstr "เผาเป็นเถ้าถ่าน"
+msgstr "เผาเป็นขี้เถ้า"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.ARROWSIGN_POST.GENERIC
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ARROWSIGN_POST.GENERIC"
@@ -186549,7 +186549,7 @@ msgstr "พวกเขาบอกว่าคุณไม่สามารถ
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.HOMESIGN.BURNT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HOMESIGN.BURNT"
 msgid "Burnt to cinders."
-msgstr "เผาเป็นเถ้าถ่าน"
+msgstr "เผาเป็นขี้เถ้า"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.HOMESIGN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HOMESIGN.GENERIC"
@@ -186964,7 +186964,7 @@ msgstr "ออกไปจากที่นี่ ยัยตัวโต"
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.KLAUSSACKKEY
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.KLAUSSACKKEY"
 msgid "This must be the actual key."
-msgstr "นี่ต้องเป็นคีย์จริง"
+msgstr "นี่ต้องเป็นกุญแจจริง"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.KLAUS_SACK
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.KLAUS_SACK"
@@ -188009,12 +188009,12 @@ msgstr "ตอนนี้เป็นป้อมต้นไม้แล้ว
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.MERM_ARMORY
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MERM_ARMORY"
 msgid "Get your merm hats here!"
-msgstr "รับหมวกเงือกของคุณที่นี่!"
+msgstr "รับหมวกเมิร์มของคุณที่นี่!"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.MERM_ARMORY_UPGRADED
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MERM_ARMORY_UPGRADED"
 msgid "Get your merm hats here!"
-msgstr "รับหมวกเงือกของคุณที่นี่!"
+msgstr "รับหมวกเมิร์มของคุณที่นี่!"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.MERM_LUNAR
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MERM_LUNAR"
@@ -190399,12 +190399,12 @@ msgstr "ใช้น้อยเกินไป 'n รก"
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.QUAGMIRE_PARK_GATE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.QUAGMIRE_PARK_GATE.GENERIC"
 msgid "Can't keep me outta nothing."
-msgstr "ไม่สามารถทำให้ฉันไม่เหลืออะไรได้"
+msgstr "ไม่สามารถทำให้ฉันไม่มีอะไรได้"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.QUAGMIRE_PARK_GATE.LOCKED
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.QUAGMIRE_PARK_GATE.LOCKED"
 msgid "Needs a key."
-msgstr "ต้องการคีย์"
+msgstr "ต้องการกุญแจ"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.QUAGMIRE_PARK_OBELISK
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.QUAGMIRE_PARK_OBELISK"
@@ -191364,7 +191364,7 @@ msgstr "ห๊ะ ฉันสงสัยว่าทำไมพวกเข�
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.SALTSTACK.MINED_OUT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SALTSTACK.MINED_OUT"
 msgid "Ain't nothin left of that one."
-msgstr "ไม่เหลืออะไรแล้ว"
+msgstr "ไม่มีอะไรแล้ว"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.SANDBLOCK
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SANDBLOCK"
@@ -191419,7 +191419,7 @@ msgstr "ความร้อนทำตัวเลขบนอันนี้
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.SCANDATA
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SCANDATA"
 msgid "Yeesh, this stuff would make ol' Wickerbottom's writing seem flowery."
-msgstr "ใช่ สิ่งนี้จะทำให้งานเขียนของวิกเกอร์บัตท่อมดูเหมือนดอกไม้"
+msgstr "ใช่ สิ่งนี้จะทำให้งานเขียนของวิกเกอร์บอตทอมดูเหมือนดอกไม้"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SCARECROW.BURNING"
@@ -195154,7 +195154,7 @@ msgstr "ไม่หวานเหรอ!"
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.WOBY_TREAT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WOBY_TREAT"
 msgid "Aww, Miss Woby wanna biscuit?"
-msgstr "อ้าว คุณหนูวอบบี้ อยากกินบิสกิตมั้ย?"
+msgstr "อ้าว คุณหนูโวบี้ อยากกินบิสกิตมั้ย?"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.WOLFGANG.ATTACKER
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WOLFGANG.ATTACKER"
@@ -197219,12 +197219,12 @@ msgstr "ทีหลัง! ตอนนี้เราสู้!"
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY"
 msgid "Is wrong key."
-msgstr "คีย์ผิด"
+msgstr "กุญแจผิด"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY"
 msgid "Is not right key!"
-msgstr "ไม่ใช่คีย์ที่ถูกต้อง!"
+msgstr "ไม่ใช่กุญแจที่ถูกต้อง!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.WRAPBUNDLE.EMPTY
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.WRAPBUNDLE.EMPTY"
@@ -198454,7 +198454,7 @@ msgstr "ที่นี่มีหิมะไม่เพียงพอ"
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_SNOWBALL_TOO_BIG
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_SNOWBALL_TOO_BIG"
 msgid "Snowball will not grow bigger."
-msgstr "ก้อนหิมะจะไม่โตใหญ่ขึ้น"
+msgstr "บอลหิมะจะไม่โตใหญ่ขึ้น"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_SOAKED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_SOAKED"
@@ -203559,7 +203559,7 @@ msgstr "เสียมแฟนซีทุบดีกว่า"
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GOLDENPITCHFORK
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GOLDENPITCHFORK"
 msgid "Fancy pitchfork good for stab ground."
-msgstr "โกยแฟนซี เหมาะสำหรับการแทง"
+msgstr "ส้อมโกยแฟนซี เหมาะสำหรับการแทง"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GOLDENSHOVEL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GOLDENSHOVEL"
@@ -207834,7 +207834,7 @@ msgstr "สิ่งที่ดีในสวนสีชมพูคืออ
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.QUAGMIRE_PARK_GATE.LOCKED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.QUAGMIRE_PARK_GATE.LOCKED"
 msgid "Is needing key."
-msgstr "จำเป็นต้องมีคีย์"
+msgstr "จำเป็นต้องมีกุญแจ"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.QUAGMIRE_PARK_OBELISK
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.QUAGMIRE_PARK_OBELISK"
@@ -209509,7 +209509,7 @@ msgstr "ฉันจะทุบคนจิ้งจก!"
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SNOWBALL_ITEM
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SNOWBALL_ITEM"
 msgid "Wolfgang is snowball fight champion."
-msgstr "วูล์ฟกังคือแชมป์การต่อสู้ด้วยก้อนหิมะ"
+msgstr "วูล์ฟกังคือแชมป์การต่อสู้ด้วยบอลหิมะ"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SNOWMAN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SNOWMAN.GENERIC"
@@ -209519,7 +209519,7 @@ msgstr "สวยจัง!"
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SNOWMAN.SNOWBALL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SNOWMAN.SNOWBALL"
 msgid "What a cute snowball."
-msgstr "ก้อนหิมะน่ารักจริงๆ"
+msgstr "บอลหิมะน่ารักจริงๆ"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SNURTLE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SNURTLE"
@@ -210784,7 +210784,7 @@ msgstr "แข็งเหมือนวูล์ฟกัง"
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TRINKET_9
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TRINKET_9"
 msgid "Strong brainlady Wickerbottom maybe need for repair cardigans."
-msgstr "ผู้หญิงฉลาดแกมโกงวิกเกอร์บัตท่อมอาจต้องซ่อมเสื้อคาร์ดิแกน"
+msgstr "ผู้หญิงฉลาดแกมโกงวิกเกอร์บอตทอมอาจต้องซ่อมเสื้อคาร์ดิแกน"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TROPHYSCALE_FISH.BURNING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TROPHYSCALE_FISH.BURNING"
@@ -213764,7 +213764,7 @@ msgstr "only_used_by_wurt"
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.ACTIVATE.NOTMERM
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.ACTIVATE.NOTMERM"
 msgid "Must be a merm thing."
-msgstr "ต้องเป็นพวกเงือกแน่ๆ"
+msgstr "ต้องเป็นพวกเมิร์มแน่ๆ"
 
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.ACTIVATE.NOTMYBERNIE
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.ACTIVATE.NOTMYBERNIE"
@@ -214614,12 +214614,12 @@ msgstr "ตอนนี้ไม่ใช่เวลาใช่มั๊ย?"
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY"
 msgid "You see another key around here, Lucy?"
-msgstr "คุณเห็นคีย์อื่นแถวนี้ไหม ลูซี่"
+msgstr "คุณเห็นกุญแจอื่นแถวนี้ไหม ลูซี่"
 
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY"
 msgid "That was the wrong key, eh?"
-msgstr "นั่นคือคีย์ผิดใช่มั้ย"
+msgstr "นั่นคือกุญแจผิดใช่มั้ย"
 
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.WRAPBUNDLE.EMPTY
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.WRAPBUNDLE.EMPTY"
@@ -216434,7 +216434,7 @@ msgstr "ดูเหมือนเห็นด้วย"
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ANTLIONHAT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ANTLIONHAT"
 msgid "It sure beats using a pitchfork, eh?"
-msgstr "มันเต้นโดยใช้โกยใช่ไหม?"
+msgstr "มันเต้นโดยใช้ส้อมโกยใช่ไหม?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ANTLIONTRINKET
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ANTLIONTRINKET"
@@ -226889,7 +226889,7 @@ msgstr "ฉันเคยเห็นตุ๊กตาหิมะมาเย
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SNOWMAN.SNOWBALL
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SNOWMAN.SNOWBALL"
 msgid "Yup. That's a big ol' snowball."
-msgstr "ใช่แล้ว นั่นเป็นก้อนหิมะก้อนใหญ่มาก"
+msgstr "ใช่แล้ว นั่นเป็นบอลหิมะก้อนใหญ่มาก"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SNURTLE
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SNURTLE"
@@ -231949,7 +231949,7 @@ msgstr "only_used_by_walter"
 #. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.UNLOCK.WRONGKEY
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.UNLOCK.WRONGKEY"
 msgid "Wrong key. Oops"
-msgstr "คีย์ผิด อ๊ะ"
+msgstr "กุญแจผิด อ๊ะ"
 
 #. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.USEITEMON.BEEF_BELL_ALREADY_USED
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.USEITEMON.BEEF_BELL_ALREADY_USED"
@@ -231984,12 +231984,12 @@ msgstr "ตอนนี้อันตรายเกินไปแล้ว!"
 #. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY"
 msgid "Wrong key. Oops"
-msgstr "คีย์ผิด อ๊ะ"
+msgstr "กุญแจผิด อ๊ะ"
 
 #. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY"
 msgid "Wrong key. Oops"
-msgstr "คีย์ผิด อ๊ะ"
+msgstr "กุญแจผิด อ๊ะ"
 
 #. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.WRAPBUNDLE.EMPTY
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.WRAPBUNDLE.EMPTY"
@@ -237084,7 +237084,7 @@ msgstr "อืม..."
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DIVININGRODBASE.READY
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DIVININGRODBASE.READY"
 msgid "Needs key"
-msgstr "ต้องการคีย์"
+msgstr "ต้องการกุญแจ"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DIVININGRODBASE.UNLOCKED
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DIVININGRODBASE.UNLOCKED"
@@ -240004,7 +240004,7 @@ msgstr "หินสว่าง"
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MAXWELLLOCK
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MAXWELLLOCK"
 msgid "Needs key"
-msgstr "ต้องการคีย์"
+msgstr "ต้องการกุญแจ"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MAXWELLPHONOGRAPH
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MAXWELLPHONOGRAPH"
@@ -245014,7 +245014,7 @@ msgstr "ไม้พุ่ม"
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TENT.BURNT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TENT.BURNT"
 msgid "Turned to ash"
-msgstr "กลายเป็นเถ้าถ่าน"
+msgstr "กลายเป็นขี้เถ้า"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TENT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TENT.GENERIC"
@@ -254794,7 +254794,7 @@ msgstr "แผดเผา แผดเผา แผดเผา"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DRIFTWOOD_TREE.BURNT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DRIFTWOOD_TREE.BURNT"
 msgid "So much tinder, burnt to cinder."
-msgstr "มีเชื้อไฟมาก ถูกเผาเป็นเถ้าถ่าน"
+msgstr "มีเชื้อไฟมาก ถูกเผาเป็นขี้เถ้า"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DRIFTWOOD_TREE.CHOPPED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DRIFTWOOD_TREE.CHOPPED"
@@ -257674,12 +257674,12 @@ msgstr "เธอไม่กลัวเขาใหญ่โตของฉั
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MERMARMORHAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MERMARMORHAT"
 msgid "It will find its home on a merm's fishy dome."
-msgstr "มันจะหาบ้านของมันบนโดมปลาของนางเงือก"
+msgstr "มันจะหาบ้านของมันบนโดมปลาของเมิร์ม"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MERMARMORUPGRADEDHAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MERMARMORUPGRADEDHAT"
 msgid "It will find its home on a merm's fishy dome."
-msgstr "มันจะหาบ้านของมันบนโดมปลาของนางเงือก"
+msgstr "มันจะหาบ้านของมันบนโดมปลาของเมิร์ม"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MERMGUARD
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MERMGUARD"
@@ -258279,7 +258279,7 @@ msgstr "แผดเผา แผดเผา แผดเผา"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_TREE.BURNT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_TREE.BURNT"
 msgid "So much tinder, burnt to cinder."
-msgstr "มีเชื้อไฟมาก ถูกเผาเป็นเถ้าถ่าน"
+msgstr "มีเชื้อไฟมาก ถูกเผาเป็นขี้เถ้า"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_TREE.CHOPPED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_TREE.CHOPPED"
@@ -261849,7 +261849,7 @@ msgstr "โอ้โห มนุษย์หิมะ!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SNOWMAN.SNOWBALL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SNOWMAN.SNOWBALL"
 msgid "Of all the snowballs..."
-msgstr "จากก้อนหิมะทั้งหมด..."
+msgstr "จากบอลหิมะทั้งหมด..."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SNURTLE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SNURTLE"
@@ -262884,7 +262884,7 @@ msgstr "มันจะติดซี่โครงของคุณจริ
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRIDENT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRIDENT"
 msgid "Holding a pitchfork feels disturbingly natural."
-msgstr "การถือโกยให้ความรู้สึกเป็นธรรมชาติมาก"
+msgstr "การถือส้อมโกยให้ความรู้สึกเป็นธรรมชาติมาก"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_1
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_1"
@@ -266954,12 +266954,12 @@ msgstr "ไม่ใช่เวลาที่ดี!"
 #. STRINGS.CHARACTERS.WURT.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY
 msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY"
 msgid "Grrr, key not work!"
-msgstr "แย่จัง คีย์ไม่ทำงาน!"
+msgstr "แย่จัง กุญแจไม่ทำงาน!"
 
 #. STRINGS.CHARACTERS.WURT.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY
 msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY"
 msgid "Grrr, key not work!"
-msgstr "แย่จัง คีย์ไม่ทำงาน!"
+msgstr "แย่จัง กุญแจไม่ทำงาน!"
 
 #. STRINGS.CHARACTERS.WURT.ACTIONFAIL.WRAPBUNDLE.EMPTY
 msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.WRAPBUNDLE.EMPTY"
@@ -275054,7 +275054,7 @@ msgstr "ไม่ชอบมัน..."
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.MAXWELLLOCK
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MAXWELLLOCK"
 msgid "Needs key, florpt?"
-msgstr "ต้องการคีย์t?"
+msgstr "ต้องการกุญแจt?"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.MAXWELLPHONOGRAPH
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MAXWELLPHONOGRAPH"
@@ -275284,7 +275284,7 @@ msgstr "หมวกต่อสู้สไตล์เมอร์มโฟล
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.MERM_LUNAR
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MERM_LUNAR"
 msgid "Spiky Mermfolk!"
-msgstr "พวกเงือกมีหนาม!"
+msgstr "พวกเมิร์มมีหนาม!"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.MERM_PRINCE
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MERM_PRINCE"
@@ -288834,7 +288834,7 @@ msgstr "ดูเหมือนว่าหน่วยเก็บข้อม
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESTER_EYEBONE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESTER_EYEBONE.GENERIC"
 msgid "IT IS THE DRM KEY FOR THE STORAGE UNIT"
-msgstr "เป็นคีย์ drm สำหรับหน่วยเก็บข้อมูล"
+msgstr "เป็นกุญแจ drm สำหรับหน่วยเก็บข้อมูล"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESTER_EYEBONE.WAITING
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESTER_EYEBONE.WAITING"
@@ -289554,7 +289554,7 @@ msgstr "วัตถุประสงค์ไม่ชัดเจน"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.DIVININGRODBASE.READY
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.DIVININGRODBASE.READY"
 msgid "INPUT OF LARGE KEY WILL BRING ROD ONLINE"
-msgstr "การป้อนคีย์ขนาดใหญ่จะทำให้ร็อดออนไลน์"
+msgstr "การป้อนกุญแจขนาดใหญ่จะทำให้ร็อดออนไลน์"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.DIVININGRODBASE.UNLOCKED
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.DIVININGRODBASE.UNLOCKED"
@@ -300969,7 +300969,7 @@ msgstr "สำหรับวอรี่การทำอาหารเป็
 #. STRINGS.CHARACTER_ABOUTME.wathgrithr
 msgctxt "STRINGS.CHARACTER_ABOUTME.wathgrithr"
 msgid "Whoever Wigfrid was before her titular role has been lost to time, and the power of method acting."
-msgstr "ใครก็ตามที่อยู่ก่อนบทบาทของวิกฟรีด\nจะสูญหายไปตามกาลเวลาและพลัง\nของวิธีการที่แสดง"
+msgstr "ใครก็ตามที่อยู่ก่อนบทบาทของวิกฟริด\nจะสูญหายไปตามกาลเวลาและพลัง\nของวิธีการที่แสดง"
 
 #. STRINGS.CHARACTER_ABOUTME.waxwell
 msgctxt "STRINGS.CHARACTER_ABOUTME.waxwell"
@@ -300994,7 +300994,7 @@ msgstr "เวสเป็นคนเมาแห่งความคิดท
 #. STRINGS.CHARACTER_ABOUTME.wickerbottom
 msgctxt "STRINGS.CHARACTER_ABOUTME.wickerbottom"
 msgid "A woman of curious mind and stern air, Wickerbottom thrives on the lifelong pursuit of knowledge."
-msgstr "ผู้หญิงที่มีจิตใจที่อยากรู้อยากเห็นวิกเกอร์บัตท่อม\nเติบโตขึ้นมาในการแสวงหาความรู้ตลอดชีวิต"
+msgstr "ผู้หญิงที่มีจิตใจที่อยากรู้อยากเห็นวิกเกอร์บอตทอม\nเติบโตขึ้นมาในการแสวงหาความรู้ตลอดชีวิต"
 
 #. STRINGS.CHARACTER_ABOUTME.willow
 msgctxt "STRINGS.CHARACTER_ABOUTME.willow"
@@ -301019,12 +301019,12 @@ msgstr "วูล์ฟกังเป็นยักษ์ที่มีกล
 #. STRINGS.CHARACTER_ABOUTME.wonkey
 msgctxt "STRINGS.CHARACTER_ABOUTME.wonkey"
 msgid "This poor soul has fallen victim to the curse of the dreaded Moon Quay pirates."
-msgstr "วิญญาณที่น่าสงสารนี้ตกเป็นเหยื่อคำสาปของโจรสลัดมูนคีย์ที่น่าสะพรึงกลัว"
+msgstr "วิญญาณที่น่าสงสารนี้ตกเป็นเหยื่อคำสาปของโจรสลัดมูนกุญแจที่น่าสะพรึงกลัว"
 
 #. STRINGS.CHARACTER_ABOUTME.woodie
 msgctxt "STRINGS.CHARACTER_ABOUTME.woodie"
 msgid "A gruff, bearded woodsman, Woodie has a soft spot for nature, plaid, and his trusty axe, Lucy."
-msgstr "วูดดี้เป็นคนป่าที่หยาบกระด้าง\nมีจุดอ่อนโดยธรรมชาติหลังผ้าตาหมากรุก\nและขวานที่น่าเชื่อถือของเขา ลูซี่"
+msgstr "วู้ดดี้เป็นคนป่าที่หยาบกระด้าง\nมีจุดอ่อนโดยธรรมชาติหลังผ้าตาหมากรุก\nและขวานที่น่าเชื่อถือของเขา ลูซี่"
 
 #. STRINGS.CHARACTER_ABOUTME.wormwood
 msgctxt "STRINGS.CHARACTER_ABOUTME.wormwood"
@@ -301119,7 +301119,7 @@ msgstr "วันเกิด"
 #. STRINGS.CHARACTER_BIOS.warly.2.desc
 msgctxt "STRINGS.CHARACTER_BIOS.warly.2.desc"
 msgid "Warly could never pick a favorite, a connoisseur of great food must always be expanding his palate."
-msgstr "วอล่าไม่สามารถเลือกอาหารจานโปรดได้ นักเลงอาหารชั้นยอดจะต้องอ้าปากค้างอยู่เสมอ"
+msgstr "วอร์ลี่ไม่สามารถเลือกอาหารจานโปรดได้ นักเลงอาหารชั้นยอดจะต้องอ้าปากค้างอยู่เสมอ"
 
 #. STRINGS.CHARACTER_BIOS.warly.2.title
 msgctxt "STRINGS.CHARACTER_BIOS.warly.2.title"
@@ -301129,7 +301129,7 @@ msgstr "อาหารโปรด"
 #. STRINGS.CHARACTER_BIOS.warly.3.desc
 msgctxt "STRINGS.CHARACTER_BIOS.warly.3.desc"
 msgid "Warly left a promising career as a sous chef in Paris to return home and care for his aging mother Angeline, whose memory had begun to deteriorate. His world soon revolved around telling her stories about her life, playing her favorite music, cooking the recipes she had taught him when he was young... all in the hopes of catching that spark of recognition in her eyes. As time went on and Angeline's moments of clarity became fewer and farther in-between, Warly became more desperate, willing to try anything to bring back his beloved Maman...\nThat was when he first started hearing the voice on the radio."
-msgstr "วอล่าออกจากอาชีพที่มีแนวโน้มจะเป็นซูซเชฟในปารีสเพื่อกลับบ้านและดูแลแอนเจลีนแม่ที่แก่ชราซึ่งความทรงจำเริ่มเสื่อมลง ในไม่ช้า โลกของเขาหมุนรอบตัวเธอด้วยการเล่าเรื่องราวเกี่ยวกับชีวิตของเธอ เล่นเพลงโปรดของเธอ ทำอาหารตามสูตรที่เธอสอนเขาเมื่อตอนที่เขายังเด็ก... ทั้งหมดนี้โดยหวังว่าจะได้รับความสนใจจากดวงตาของเธอ เมื่อเวลาผ่านไปและช่วงเวลาที่ชัดเจนของแองเจลีนก็น้อยลงเรื่อยๆระหว่างนั้นวอล่าก็หมดหวังมากขึ้น เต็มใจที่จะพยายามทำทุกอย่างเพื่อนำ Maman อันเป็นที่รักของเขากลับมา...\nนั่นคือครั้งแรกที่เขาเริ่มได้ยินเสียงทางวิทยุ"
+msgstr "วอร์ลี่ออกจากอาชีพที่มีแนวโน้มจะเป็นซูซเชฟในปารีสเพื่อกลับบ้านและดูแลแอนเจลีนแม่ที่แก่ชราซึ่งความทรงจำเริ่มเสื่อมลง ในไม่ช้า โลกของเขาหมุนรอบตัวเธอด้วยการเล่าเรื่องราวเกี่ยวกับชีวิตของเธอ เล่นเพลงโปรดของเธอ ทำอาหารตามสูตรที่เธอสอนเขาเมื่อตอนที่เขายังเด็ก... ทั้งหมดนี้โดยหวังว่าจะได้รับความสนใจจากดวงตาของเธอ เมื่อเวลาผ่านไปและช่วงเวลาที่ชัดเจนของแองเจลีนก็น้อยลงเรื่อยๆระหว่างนั้นวอร์ลี่ก็หมดหวังมากขึ้น เต็มใจที่จะพยายามทำทุกอย่างเพื่อนำ Maman อันเป็นที่รักของเขากลับมา...\nนั่นคือครั้งแรกที่เขาเริ่มได้ยินเสียงทางวิทยุ"
 
 #. STRINGS.CHARACTER_BIOS.warly.3.title
 msgctxt "STRINGS.CHARACTER_BIOS.warly.3.title"
@@ -301159,7 +301159,7 @@ msgstr "อาหารโปรด"
 #. STRINGS.CHARACTER_BIOS.wathgrithr.3.desc
 msgctxt "STRINGS.CHARACTER_BIOS.wathgrithr.3.desc"
 msgid "Wigfrid always knew she was meant for the stage. Her debut performance was an instant sensation, launching her from obscurity to overnight stardom. Fans delighted in her portrayal of a noble and fearsome Valkyrie warrior, and she in turn took great pains to fully embody the role. She was perfect for it... perhaps too perfect. Every part she played afterward seemed to fall flat, never again achieving that magical quality that had once drawn audiences to her performances like bees to honey. As Wigfrid's stardom slowly began to fade, she retreated to the memories of her glory days, losing herself in her fantasies...\nUntil one day, she was lost entirely."
-msgstr "วิกฟรีดรู้เสมอว่าเธอมีความหมายสำหรับเวที การแสดงเดบิวต์ของเธอนั้นสัมผัสได้ทันที ทำให้เธอเปลี่ยนจากความมืดมิดไปสู่การเป็นดาราในชั่วข้ามคืน แฟนๆต่างยินดีกับการแสดงของเธอเป็นนักรบวาลคิรีผู้สูงศักดิ์และน่าเกรงขาม และเธอก็ใช้ความเจ็บปวดอย่างมากในการแสดงบทบาทนี้อย่างเต็มที่ เธอสมบูรณ์แบบสำหรับมัน...บางทีก็สมบูรณ์แบบเกินไป ทุกส่วนที่เธอเล่นหลังจากนั้นดูเหมือนจะไม่ราบรื่น และไม่เคยบรรลุคุณสมบัติมหัศจรรย์ที่ครั้งหนึ่งเคยดึงดูดผู้ชมให้มาที่การแสดงของเธอเหมือนการผึ้งต่อน้ำผึ้งอีกเลย ขณะที่ดาราของวิกฟริดค่อยๆจางหายไป เธอถอยกลับไปสู่ความทรงจำในสมัยที่รุ่งเรืองของเธอ สูญเสียตัวเองในจินตนาการของเธอ...\nจนวันนึงเธอหลงทาง"
+msgstr "วิกฟริดรู้เสมอว่าเธอมีความหมายสำหรับเวที การแสดงเดบิวต์ของเธอนั้นสัมผัสได้ทันที ทำให้เธอเปลี่ยนจากความมืดมิดไปสู่การเป็นดาราในชั่วข้ามคืน แฟนๆต่างยินดีกับการแสดงของเธอเป็นนักรบวาลคิรีผู้สูงศักดิ์และน่าเกรงขาม และเธอก็ใช้ความเจ็บปวดอย่างมากในการแสดงบทบาทนี้อย่างเต็มที่ เธอสมบูรณ์แบบสำหรับมัน...บางทีก็สมบูรณ์แบบเกินไป ทุกส่วนที่เธอเล่นหลังจากนั้นดูเหมือนจะไม่ราบรื่น และไม่เคยบรรลุคุณสมบัติมหัศจรรย์ที่ครั้งหนึ่งเคยดึงดูดผู้ชมให้มาที่การแสดงของเธอเหมือนการผึ้งต่อน้ำผึ้งอีกเลย ขณะที่ดาราของวิกฟริดค่อยๆจางหายไป เธอถอยกลับไปสู่ความทรงจำในสมัยที่รุ่งเรืองของเธอ สูญเสียตัวเองในจินตนาการของเธอ...\nจนวันนึงเธอหลงทาง"
 
 #. STRINGS.CHARACTER_BIOS.wathgrithr.3.title
 msgctxt "STRINGS.CHARACTER_BIOS.wathgrithr.3.title"
@@ -301309,7 +301309,7 @@ msgstr "อาหารโปรด"
 #. STRINGS.CHARACTER_BIOS.wickerbottom.3.desc
 msgctxt "STRINGS.CHARACTER_BIOS.wickerbottom.3.desc"
 msgid "When people meet Ms. Wickerbottom, most assume that what you see is what you get. She certainly looks every bit the typical librarian that she claims to be, as at home amongst the bookstacks as any creature in their native habitat. Nobody would raise an eyebrow at such a person being well-versed in a wide range of subjects. Who would spare a second thought if, upon further inquiry, her knowledge rivaled that of experts? And obviously, no one would think of questioning what a librarian might be involved in after hours, when the library doors are closed to the public..."
-msgstr "เมื่อมีคนมาพบกับวิกเกอร์บัตท่อมคนส่วนใหญ่คิดว่าสิ่งที่คุณเห็นคือสิ่งที่คุณได้รับ แน่นอนว่าเธอดูเหมือนบรรณารักษ์ทั่วๆไปที่เธออ้างว่าเป็น เหมือนอยู่ที่บ้านท่ามกลางกองหนังสือเหมือนสิ่งมีชีวิตใดๆในถิ่นที่อยู่ของมัน ไม่มีใครจะทำได้ เลิกคิ้วมองบุคคลผู้รอบรู้ในสาขาวิชาต่างๆดังกล่าว ใครจะงดความคิดที่สองหากความรู้ของเธอเทียบได้กับผู้เชี่ยวชาญ และแน่นอนว่าไม่มีใครคิดว่าจะตั้งคำถามว่าบรรณารักษ์จะว่าอย่างไร เข้ามาเกี่ยวข้องในเวลาต่อมา เมื่อประตูห้องสมุดปิดไม่ให้คนทั่วไปเข้า..."
+msgstr "เมื่อมีคนมาพบกับวิกเกอร์บอตทอมคนส่วนใหญ่คิดว่าสิ่งที่คุณเห็นคือสิ่งที่คุณได้รับ แน่นอนว่าเธอดูเหมือนบรรณารักษ์ทั่วๆไปที่เธออ้างว่าเป็น เหมือนอยู่ที่บ้านท่ามกลางกองหนังสือเหมือนสิ่งมีชีวิตใดๆในถิ่นที่อยู่ของมัน ไม่มีใครจะทำได้ เลิกคิ้วมองบุคคลผู้รอบรู้ในสาขาวิชาต่างๆดังกล่าว ใครจะงดความคิดที่สองหากความรู้ของเธอเทียบได้กับผู้เชี่ยวชาญ และแน่นอนว่าไม่มีใครคิดว่าจะตั้งคำถามว่าบรรณารักษ์จะว่าอย่างไร เข้ามาเกี่ยวข้องในเวลาต่อมา เมื่อประตูห้องสมุดปิดไม่ให้คนทั่วไปเข้า..."
 
 #. STRINGS.CHARACTER_BIOS.wickerbottom.3.title
 msgctxt "STRINGS.CHARACTER_BIOS.wickerbottom.3.title"
@@ -301339,7 +301339,7 @@ msgstr "อาหารโปรด"
 #. STRINGS.CHARACTER_BIOS.willow.3.desc
 msgctxt "STRINGS.CHARACTER_BIOS.willow.3.desc"
 msgid "Willow always regarded being brought to the Constant as a new beginning. It allowed her to leave everything behind, after all. Orphaned at a young age and forced to live in a children's home with cruel caregivers, she found her nights plagued by shadowy visions of terrible creatures... creatures that could only be held at bay by her faithful teddy bear Bernie. But when Bernie was taken away as punishment for what her caregivers saw as unfit behavior, Willow was left to fend for herself when the shadows came for her. That's when she learned that nothing holds back the darkness like a roaring flame. Nothing is more comforting than watching your troubles light up and crumble to ash...\nIt wouldn't be the last time Willow burned it all down to start anew."
-msgstr "วิลโลว์มองว่าการถูกพามายังคอนสแตนท์เป็นจุดเริ่มต้นใหม่เสมอ ซึ่งทำให้เธอสามารถทิ้งทุกอย่างไว้เบื้องหลังได้ เธอกลายเป็นเด็กกำพร้าตั้งแต่ยังเด็กและถูกบังคับให้ไปอยู่บ้านพักเด็กที่มีผู้ดูแลที่โหดร้าย เธอพบว่าคืนของเธอเต็มไปด้วยภาพหลอนอันเลือนลางของสิ่งมีชีวิตที่น่ากลัว... สิ่งมีชีวิตที่เบอร์นี ตุ๊กตาหมีที่ซื่อสัตย์ของเธอเท่านั้นที่จะควบคุมได้ แต่เมื่อเบอร์นีถูกพาตัวไปเพื่อเป็นการลงโทษสำหรับสิ่งที่ผู้ดูแลมองว่าเป็นพฤติกรรมที่ไม่เหมาะสม วิลโลว์จึงถูกทิ้งให้ดูแลตัวเองเมื่อเงาเข้ามาหาเธอ นั่นคือตอนที่เธอได้เรียนรู้ว่าไม่มีสิ่งใดหยุดยั้งความมืดมิดได้เท่ากับเปลวไฟที่แผดเผา ไม่มีอะไรจะปลอบโยนใจได้มากไปกว่าการเห็นปัญหาของคุณสว่างขึ้นและสลายเป็นเถ้าถ่าน...\nนี่คงไม่ใช่ครั้งสุดท้ายที่วิลโลว์เผาทุกสิ่งลงเพื่อเริ่มต้นใหม่"
+msgstr "วิลโลว์มองว่าการถูกพามายังคอนสแตนท์เป็นจุดเริ่มต้นใหม่เสมอ ซึ่งทำให้เธอสามารถทิ้งทุกอย่างไว้เบื้องหลังได้ เธอกลายเป็นเด็กกำพร้าตั้งแต่ยังเด็กและถูกบังคับให้ไปอยู่บ้านพักเด็กที่มีผู้ดูแลที่โหดร้าย เธอพบว่าคืนของเธอเต็มไปด้วยภาพหลอนอันเลือนลางของสิ่งมีชีวิตที่น่ากลัว... สิ่งมีชีวิตที่เบอร์นี่ ตุ๊กตาหมีที่ซื่อสัตย์ของเธอเท่านั้นที่จะควบคุมได้ แต่เมื่อเบอร์นี่ถูกพาตัวไปเพื่อเป็นการลงโทษสำหรับสิ่งที่ผู้ดูแลมองว่าเป็นพฤติกรรมที่ไม่เหมาะสม วิลโลว์จึงถูกทิ้งให้ดูแลตัวเองเมื่อเงาเข้ามาหาเธอ นั่นคือตอนที่เธอได้เรียนรู้ว่าไม่มีสิ่งใดหยุดยั้งความมืดมิดได้เท่ากับเปลวไฟที่แผดเผา ไม่มีอะไรจะปลอบโยนใจได้มากไปกว่าการเห็นปัญหาของคุณสว่างขึ้นและสลายเป็นขี้เถ้า...\nนี่คงไม่ใช่ครั้งสุดท้ายที่วิลโลว์เผาทุกสิ่งลงเพื่อเริ่มต้นใหม่"
 
 #. STRINGS.CHARACTER_BIOS.willow.3.title
 msgctxt "STRINGS.CHARACTER_BIOS.willow.3.title"
@@ -301469,7 +301469,7 @@ msgstr "อาหารโปรด"
 #. STRINGS.CHARACTER_BIOS.woodie.3.desc
 msgctxt "STRINGS.CHARACTER_BIOS.woodie.3.desc"
 msgid "Hailing from the pine-covered mountains of the great white north, Woodie is an unassuming yet strangely mysterious man who keeps his past close to the vest (or in his case, the flannel). He is never seen without his signature bushy beard or trusty axe Lucy, who herself is a bit of an enigma. The other Survivors are not quite sure whether Woodie is simply mad, or if there might be something else to the seemingly inanimate object. Sometimes they swear they can hear a jovial female voice speaking to Woodie when no one else is around..."
-msgstr "วูดดี้มาจากภูเขาที่ปกคลุมไปด้วยต้นสนทางตอนเหนือที่ขาวโพลน วูดดี้เป็นชายลึกลับที่ถ่อมตัวแต่ลึกลับ ผู้ซึ่งเก็บอดีตของเขาไว้ใกล้เสื้อกั๊ก (หรือในกรณีของเขาคือผ้าสักหลาด) เขาไม่เคยเห็นเขาเลยหากไม่มีหนวดเคราดกหรือขวานที่ชื่อลูซี่ ผู้ซึ่งตัวเธอเองก็เป็นปริศนา ผู้รอดชีวิตคนอื่นๆไม่ค่อยแน่ใจว่าวูดดี้โกรธง่าย หรืออาจมีอย่างอื่นกับวัตถุที่ดูเหมือนไม่มีชีวิต บางครั้งพวกเขาสาบานว่าจะได้ยินเสียงผู้หญิงที่ร่าเริงพูดกับวู้ดดี้เมื่อไม่มีใครอยู่ใกล้.."
+msgstr "วู้ดดี้มาจากภูเขาที่ปกคลุมไปด้วยต้นสนทางตอนเหนือที่ขาวโพลน วู้ดดี้เป็นชายลึกลับที่ถ่อมตัวแต่ลึกลับ ผู้ซึ่งเก็บอดีตของเขาไว้ใกล้เสื้อกั๊ก (หรือในกรณีของเขาคือผ้าสักหลาด) เขาไม่เคยเห็นเขาเลยหากไม่มีหนวดเคราดกหรือขวานที่ชื่อลูซี่ ผู้ซึ่งตัวเธอเองก็เป็นปริศนา ผู้รอดชีวิตคนอื่นๆไม่ค่อยแน่ใจว่าวู้ดดี้โกรธง่าย หรืออาจมีอย่างอื่นกับวัตถุที่ดูเหมือนไม่มีชีวิต บางครั้งพวกเขาสาบานว่าจะได้ยินเสียงผู้หญิงที่ร่าเริงพูดกับวู้ดดี้เมื่อไม่มีใครอยู่ใกล้.."
 
 #. STRINGS.CHARACTER_BIOS.woodie.3.title
 msgctxt "STRINGS.CHARACTER_BIOS.woodie.3.title"
@@ -301479,7 +301479,7 @@ msgstr "อดีตลึกลับ"
 #. STRINGS.CHARACTER_BIOS.woodie.4.desc
 msgctxt "STRINGS.CHARACTER_BIOS.woodie.4.desc"
 msgid "As the power of the moon has grown, so too have the effects of Woodie's curse. Woodie soon found that his form would shift into not only the Werebeaver, but a Weremoose and Weregoose as well. As his changing forms became more unpredictable, Woodie resolved to find a way to have more control over his curse. Using every bit of knowledge he'd gained from his time in the Constant (and some additional tips from Ms. Wickerbottom) he soon discovered that his transformations could in fact be controlled. By fashioning representations of each of the three beasts and consuming them only when he wanted to invoke that form, Woodie now feels more comfortable in his own skin than he has in quite a while."
-msgstr "เมื่อพลังของดวงจันทร์เติบโตขึ้น ผลของคำสาปของวู้ดดี้ก็เช่นกัน ในไม่ช้าวู้ดดี้ก็พบว่ารูปร่างของเขาไม่เพียงเปลี่ยนไปเป็นมนุษย์หมาป่าแต่ยังเป็นเวอร์มูสและมนุษย์หมาป่าด้วย เมื่อรูปแบบที่เปลี่ยนไปของเขาคาดเดาไม่ได้มากขึ้น วูดดี้ตัดสินใจหาวิธีที่จะควบคุมคำสาปของเขาได้มากขึ้น ใช้ความรู้ทุกรายละเอียดที่เขาได้รับจากช่วงเวลาที่อยู่ในคอนสแตนท์ (และคำแนะนำเพิ่มเติมจากคุณวิคเกอร์บ็อตทอม) ในไม่ช้าเขาก็พบว่าการเปลี่ยนแปลงของเขาสามารถควบคุมได้จริง ด้วยการสร้างภาพจำลองของสัตว์ร้ายทั้งสามตัวและบริโภคเฉพาะเมื่อเขาต้องการเรียกร่างนั้น วู๊ดดี้จึงรู้สึกสบายผิวของตัวเองมากกว่าในช่วงเวลาหนึ่ง"
+msgstr "เมื่อพลังของดวงจันทร์เติบโตขึ้น ผลของคำสาปของวู้ดดี้ก็เช่นกัน ในไม่ช้าวู้ดดี้ก็พบว่ารูปร่างของเขาไม่เพียงเปลี่ยนไปเป็นมนุษย์หมาป่าแต่ยังเป็นเวอร์มูสและมนุษย์หมาป่าด้วย เมื่อรูปแบบที่เปลี่ยนไปของเขาคาดเดาไม่ได้มากขึ้น วู้ดดี้ตัดสินใจหาวิธีที่จะควบคุมคำสาปของเขาได้มากขึ้น ใช้ความรู้ทุกรายละเอียดที่เขาได้รับจากช่วงเวลาที่อยู่ในคอนสแตนท์ (และคำแนะนำเพิ่มเติมจากคุณวิคเกอร์บ็อตทอม) ในไม่ช้าเขาก็พบว่าการเปลี่ยนแปลงของเขาสามารถควบคุมได้จริง ด้วยการสร้างภาพจำลองของสัตว์ร้ายทั้งสามตัวและบริโภคเฉพาะเมื่อเขาต้องการเรียกร่างนั้น วู๊ดดี้จึงรู้สึกสบายผิวของตัวเองมากกว่าในช่วงเวลาหนึ่ง"
 
 #. STRINGS.CHARACTER_BIOS.woodie.4.title
 msgctxt "STRINGS.CHARACTER_BIOS.woodie.4.title"
@@ -301539,7 +301539,7 @@ msgstr "อาหารโปรด"
 #. STRINGS.CHARACTER_BIOS.wortox.3.desc
 msgctxt "STRINGS.CHARACTER_BIOS.wortox.3.desc"
 msgid "Wortox learned the hard way that one should always be mindful of the company they keep. Once a playful imp without a care in the world, Wortox spent his days helping a Krampus make mischief throughout the Constant. While the pair of rascals revelled in their roguery for a time, Wortox slowly began to see a darkness in the Krampus' heart, and the malice in his pranks. Not wishing for any real harm to come to anyone, the little imp finally put his cloven foot down, but in trying to stop his fiendish friend he unwittingly awakened a terrible power in himself..."
-msgstr "วอทอกซ์ได้เรียนรู้วิธีที่ยากที่เราควรคำนึงถึง บริษัท ที่พวกเขาเก็บไว้เสมอ ครั้งหนึ่งวอทอกซ์เคยเป็นเด็กซนขี้เล่นโดยไม่สนใจโลก เขาใช้เวลาทั้งวันช่วยแครมปัสสร้างความเสียหายทั่วทั้งคอนสแตนท์ ในขณะที่คนพาลทั้งสองสนุกสนานกับการโกงกันชั่วขณะหนึ่งวอทอกซ์ก็เริ่มมองเห็นความมืดมิดในหัวใจของแครมปัสและความอาฆาตพยาบาทในการแกล้งของเขาอย่างช้าๆโดยไม่ต้องการให้เกิดอันตรายใดๆแก่ใครเลย ในที่สุดอิมพ์ตัวน้อยก็วางเท้าแยกของเขาลง แต่ในการพยายามหยุดเพื่อนที่ชั่วร้ายของเขา เขาได้ปลุกพลังอันน่าสะพรึงกลัวในตัวเองโดยไม่รู้ตัว.."
+msgstr "วอทอกซ์ได้เรียนรู้วิธีที่ยากที่เราควรคำนึงถึง บริษัท ที่พวกเขาเก็บไว้เสมอ ครั้งหนึ่งวอทอกซ์เคยเป็นเด็กซนขี้เล่นโดยไม่สนใจโลก เขาใช้เวลาทั้งวันช่วยครัมปัสสร้างความเสียหายทั่วทั้งคอนสแตนท์ ในขณะที่คนพาลทั้งสองสนุกสนานกับการโกงกันชั่วขณะหนึ่งวอทอกซ์ก็เริ่มมองเห็นความมืดมิดในหัวใจของครัมปัสและความอาฆาตพยาบาทในการแกล้งของเขาอย่างช้าๆโดยไม่ต้องการให้เกิดอันตรายใดๆแก่ใครเลย ในที่สุดอิมพ์ตัวน้อยก็วางเท้าแยกของเขาลง แต่ในการพยายามหยุดเพื่อนที่ชั่วร้ายของเขา เขาได้ปลุกพลังอันน่าสะพรึงกลัวในตัวเองโดยไม่รู้ตัว.."
 
 #. STRINGS.CHARACTER_BIOS.wortox.3.title
 msgctxt "STRINGS.CHARACTER_BIOS.wortox.3.title"
@@ -301774,12 +301774,12 @@ msgstr "แวนด้า"
 #. STRINGS.CHARACTER_NAMES.warly
 msgctxt "STRINGS.CHARACTER_NAMES.warly"
 msgid "Warly"
-msgstr "วอล่า"
+msgstr "วอร์ลี่"
 
 #. STRINGS.CHARACTER_NAMES.wathgrithr
 msgctxt "STRINGS.CHARACTER_NAMES.wathgrithr"
 msgid "Wigfrid"
-msgstr "วิกฟรีด"
+msgstr "วิกฟริด"
 
 #. STRINGS.CHARACTER_NAMES.waxwell
 msgctxt "STRINGS.CHARACTER_NAMES.waxwell"
@@ -301804,7 +301804,7 @@ msgstr "เวส"
 #. STRINGS.CHARACTER_NAMES.wickerbottom
 msgctxt "STRINGS.CHARACTER_NAMES.wickerbottom"
 msgid "Ms. Wickerbottom"
-msgstr "คุณนาย วิกเกอร์บัตท่อม"
+msgstr "คุณนาย วิกเกอร์บอตทอม"
 
 #. STRINGS.CHARACTER_NAMES.willow
 msgctxt "STRINGS.CHARACTER_NAMES.willow"
@@ -305394,7 +305394,7 @@ msgstr "สุ่ม"
 #. STRINGS.KITCOON_NAMING.NAMES.1
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.1"
 msgid "Shadow"
-msgstr "ชาโดว"
+msgstr "เงา"
 
 #. STRINGS.KITCOON_NAMING.NAMES.10
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.10"
@@ -305579,7 +305579,7 @@ msgstr "ชูชู"
 #. STRINGS.KITCOON_NAMING.NAMES.43
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.43"
 msgid "Ivy"
-msgstr "ไอวี่"
+msgstr "ไม้เลื้อย"
 
 #. STRINGS.KITCOON_NAMING.NAMES.44
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.44"
@@ -305654,7 +305654,7 @@ msgstr "สินเซ็น"
 #. STRINGS.KITCOON_NAMING.NAMES.57
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.57"
 msgid "Shadow"
-msgstr "ชาโดว"
+msgstr "เงา"
 
 #. STRINGS.KITCOON_NAMING.NAMES.58
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.58"
@@ -305924,17 +305924,17 @@ msgstr "ตัวยึด\n\n\n\nความเชี่ยวชาญ:\nต�
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.woodie
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.woodie"
 msgid "*Lucy returns to Woodie when thrown\n*Attack speed increased when wielding Lucy\n\nExpertise:\nMelee"
-msgstr "*ลูซี่กลับไปที่วูดดี้เมื่อถูกโยน\n*ความเร็วในการโจมตีเพิ่มขึ้นเมื่อควงลูซี่\n\nความชำนาญ:\nประชิด"
+msgstr "*ลูซี่กลับไปที่วู้ดดี้เมื่อถูกโยน\n*ความเร็วในการโจมตีเพิ่มขึ้นเมื่อควงลูซี่\n\nความชำนาญ:\nประชิด"
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.woodie_canada
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.woodie_canada"
 msgid "*Lucy returns to Woodie when thrown\n*Attack speed increased when wielding Lucy\n\nExpertise:\nMelee"
-msgstr "*ลูซี่กลับไปที่วูดดี้เมื่อถูกโยน\n*ความเร็วในการโจมตีเพิ่มขึ้นเมื่อควงลูซี่\n\nความชำนาญ:\nประชิด"
+msgstr "*ลูซี่กลับไปที่วู้ดดี้เมื่อถูกโยน\n*ความเร็วในการโจมตีเพิ่มขึ้นเมื่อควงลูซี่\n\nความชำนาญ:\nประชิด"
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.woodie_us
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.woodie_us"
 msgid "*Lucy returns to Woodie when thrown\n*Attack speed increased when wielding Lucy\n\nExpertise:\nMelee"
-msgstr "*ลูซี่กลับไปที่วูดดี้เมื่อถูกโยน\n*ความเร็วในการโจมตีเพิ่มขึ้นเมื่อควงลูซี่\n\nความชำนาญ:\nประชิด"
+msgstr "*ลูซี่กลับไปที่วู้ดดี้เมื่อถูกโยน\n*ความเร็วในการโจมตีเพิ่มขึ้นเมื่อควงลูซี่\n\nความชำนาญ:\nประชิด"
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wormwood
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wormwood"
@@ -308234,7 +308234,7 @@ msgstr "กลูร์ก, กลูร์ก!"
 #. STRINGS.MERM_TALK_PANICBOSS.1.1
 msgctxt "STRINGS.MERM_TALK_PANICBOSS.1.1"
 msgid "Something coming!"
-msgstr "อบิเกลอยู่แถวนี้ๆ!"
+msgstr "อาบิเกลอยู่แถวนี้ๆ!"
 
 #. STRINGS.MERM_TALK_PANICBOSS.1.2
 msgctxt "STRINGS.MERM_TALK_PANICBOSS.1.2"
@@ -308594,12 +308594,12 @@ msgstr "ยกเค้า!"
 #. STRINGS.NAMES.ABIGAIL
 msgctxt "STRINGS.NAMES.ABIGAIL"
 msgid "Abigail"
-msgstr "อบิเกล"
+msgstr "อาบิเกล"
 
 #. STRINGS.NAMES.ABIGAIL_FLOWER
 msgctxt "STRINGS.NAMES.ABIGAIL_FLOWER"
 msgid "Abigail's Flower"
-msgstr "ดอกไม้ของอบิเกล"
+msgstr "ดอกไม้ของอาบิเกล"
 
 #. STRINGS.NAMES.ACCOMPLISHMENT_SHRINE
 msgctxt "STRINGS.NAMES.ACCOMPLISHMENT_SHRINE"
@@ -313829,12 +313829,12 @@ msgstr "งวงยัดไส้มะเดื่อ"
 #. STRINGS.NAMES.KRAMPUS
 msgctxt "STRINGS.NAMES.KRAMPUS"
 msgid "Krampus"
-msgstr "แครมปัส"
+msgstr "ครัมปัส"
 
 #. STRINGS.NAMES.KRAMPUS_SACK
 msgctxt "STRINGS.NAMES.KRAMPUS_SACK"
 msgid "Krampus Sack"
-msgstr "ถุงแครมปัส"
+msgstr "ถุงครัมปัส"
 
 #. STRINGS.NAMES.LANTERN
 msgctxt "STRINGS.NAMES.LANTERN"
@@ -314904,7 +314904,7 @@ msgstr "มังกี้บาร์"
 #. STRINGS.NAMES.MONKEYQUEEN
 msgctxt "STRINGS.NAMES.MONKEYQUEEN"
 msgid "Queen of Moon Quay"
-msgstr "ราชินีมูนคีย์"
+msgstr "ราชินีมูนกุญแจ"
 
 #. STRINGS.NAMES.MONKEYTAIL
 msgctxt "STRINGS.NAMES.MONKEYTAIL"
@@ -316239,7 +316239,7 @@ msgstr "ต้นกล้าเขียวขจี"
 #. STRINGS.NAMES.PIRATE_FLAG_POLE
 msgctxt "STRINGS.NAMES.PIRATE_FLAG_POLE"
 msgid "Moon Quay Pirate Banner"
-msgstr "แบนเนอร์โจรสลัดมูนคีย์"
+msgstr "แบนเนอร์โจรสลัดมูนกุญแจ"
 
 #. STRINGS.NAMES.PIRATE_STASH
 msgctxt "STRINGS.NAMES.PIRATE_STASH"
@@ -316659,7 +316659,7 @@ msgstr "โพสต์"
 #. STRINGS.NAMES.QUAGMIRE_ALTAR_IVY
 msgctxt "STRINGS.NAMES.QUAGMIRE_ALTAR_IVY"
 msgid "Ivy"
-msgstr "ไอวี่"
+msgstr "ไม้เลื้อย"
 
 #. STRINGS.NAMES.QUAGMIRE_ALTAR_QUEEN
 msgctxt "STRINGS.NAMES.QUAGMIRE_ALTAR_QUEEN"
@@ -320094,7 +320094,7 @@ msgstr "พื้นพิมพ์เขียวปล่อง"
 #. STRINGS.NAMES.TURF_MONKEY_GROUND
 msgctxt "STRINGS.NAMES.TURF_MONKEY_GROUND"
 msgid "Moon Quay Beach Turf"
-msgstr "พื้นหาดมูนคีย์"
+msgstr "พื้นหาดมูนกุญแจ"
 
 #. STRINGS.NAMES.TURF_MOSAIC_BLUE
 msgctxt "STRINGS.NAMES.TURF_MOSAIC_BLUE"
@@ -320664,7 +320664,7 @@ msgstr "ศาลเจ้าวาร์ก"
 #. STRINGS.NAMES.WARLY
 msgctxt "STRINGS.NAMES.WARLY"
 msgid "Warly"
-msgstr "วอล่า"
+msgstr "วอร์ลี่"
 
 #. STRINGS.NAMES.WAR_BLUEPRINT
 msgctxt "STRINGS.NAMES.WAR_BLUEPRINT"
@@ -320774,7 +320774,7 @@ msgstr "เต่าทะเล"
 #. STRINGS.NAMES.WATHGRITHR
 msgctxt "STRINGS.NAMES.WATHGRITHR"
 msgid "Wigfrid"
-msgstr "วิกฟรีด"
+msgstr "วิกฟริด"
 
 #. STRINGS.NAMES.WATHGRITHRHAT
 msgctxt "STRINGS.NAMES.WATHGRITHRHAT"
@@ -320909,7 +320909,7 @@ msgstr "แส้หางแมว"
 #. STRINGS.NAMES.WICKERBOTTOM
 msgctxt "STRINGS.NAMES.WICKERBOTTOM"
 msgid "Wickerbottom"
-msgstr "วิกเกอร์บัตท่อม"
+msgstr "วิกเกอร์บอตทอม"
 
 #. STRINGS.NAMES.WILLOW
 msgctxt "STRINGS.NAMES.WILLOW"
@@ -325349,7 +325349,7 @@ msgstr "ให้ความอบอุ่นนิดหน่อย"
 #. STRINGS.RECIPE_DESC.ELIXIR_CONTAINER
 msgctxt "STRINGS.RECIPE_DESC.ELIXIR_CONTAINER"
 msgid "For carrying all of Abigail's snacks."
-msgstr "เพื่อเอาของว่างทั้งหมดของเอบิเกลมาฝาก"
+msgstr "เพื่อเอาของว่างทั้งหมดของเอาบิเกลมาฝาก"
 
 #. STRINGS.RECIPE_DESC.ENDTABLE
 msgctxt "STRINGS.RECIPE_DESC.ENDTABLE"
@@ -325519,7 +325519,7 @@ msgstr "ให้ศัตรูได้ลิ้มรสยาของตั
 #. STRINGS.RECIPE_DESC.GHOSTLYELIXIR_REVIVE
 msgctxt "STRINGS.RECIPE_DESC.GHOSTLYELIXIR_REVIVE"
 msgid "Reminds Abigail of all she can be."
-msgstr "ทำให้เอบิเกลนึกถึงทุกสิ่งที่เธอเป็นได้"
+msgstr "ทำให้เอาบิเกลนึกถึงทุกสิ่งที่เธอเป็นได้"
 
 #. STRINGS.RECIPE_DESC.GHOSTLYELIXIR_SHADOW
 msgctxt "STRINGS.RECIPE_DESC.GHOSTLYELIXIR_SHADOW"
@@ -325919,7 +325919,7 @@ msgstr "นักรบที่แท้จริงอยู่ภายใน
 #. STRINGS.RECIPE_DESC.MERM_ARMORY
 msgctxt "STRINGS.RECIPE_DESC.MERM_ARMORY"
 msgid "No merm should charge into battle without a well-fitting helmet."
-msgstr "เงือกไม่ควรเข้าต่อสู้โดยไม่ได้สวมหมวกกันน็อคที่พอดี"
+msgstr "เมิร์มไม่ควรเข้าต่อสู้โดยไม่ได้สวมหมวกกันน็อคที่พอดี"
 
 #. STRINGS.RECIPE_DESC.MERM_ARMORY_UPGRADED
 msgctxt "STRINGS.RECIPE_DESC.MERM_ARMORY_UPGRADED"
@@ -325929,7 +325929,7 @@ msgstr "สำหรับเมิร์มที่มีรสนิยมใ
 #. STRINGS.RECIPE_DESC.MERM_TOOLSHED
 msgctxt "STRINGS.RECIPE_DESC.MERM_TOOLSHED"
 msgid "A merm is only as good as their tools."
-msgstr "เงือกจะเก่งได้ก็ต่อเมื่อใช้เครื่องมือของมันเท่านั้น"
+msgstr "เมิร์มจะเก่งได้ก็ต่อเมื่อใช้เครื่องมือของมันเท่านั้น"
 
 #. STRINGS.RECIPE_DESC.MERM_TOOLSHED_UPGRADED
 msgctxt "STRINGS.RECIPE_DESC.MERM_TOOLSHED_UPGRADED"
@@ -326834,7 +326834,7 @@ msgstr "ล่อให้สัตว์ไปเลียมัน"
 #. STRINGS.RECIPE_DESC.SALTLICK_IMPROVED
 msgctxt "STRINGS.RECIPE_DESC.SALTLICK_IMPROVED"
 msgid "Treat your beefalo to a taste of the finer things."
-msgstr "ลองลิ้มชิมรสเนื้อควายของคุณที่เลิศรส"
+msgstr "ลองลิ้มชิมรสเนื้อบีฟาโล่ของคุณที่เลิศรส"
 
 #. STRINGS.RECIPE_DESC.SCARECROW
 msgctxt "STRINGS.RECIPE_DESC.SCARECROW"
@@ -328874,7 +328874,7 @@ msgstr "หน้าขวา"
 #. STRINGS.SCRAPBOOK.SPECIALINFO.ABIGAIL_FLOWER
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.ABIGAIL_FLOWER"
 msgid "Used by Wendy to call her Ghostly sister Abigail."
-msgstr "เวนดี้ใช้เรียกเธอว่าน้องสาวผีสิงอบิเกล"
+msgstr "เวนดี้ใช้เรียกเธอว่าน้องสาวผีสิงอาบิเกล"
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.ALTARPLUG
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.ALTARPLUG"
@@ -329614,7 +329614,7 @@ msgstr "ในขณะที่ใช้เชื้อเพลิง จะ�
 #. STRINGS.SCRAPBOOK.SPECIALINFO.FIRESUPPRESSOR
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.FIRESUPPRESSOR"
 msgid "Can be turned on and off. While fueled and on, if a fire appears within its range, it will fling a snowball at it to put it out."
-msgstr "สามารถเปิดและปิดได้ ในขณะที่เติมน้ำมันและเปิดอยู่ หากมีไฟปรากฏขึ้นภายในระยะ ไฟจะขว้างก้อนหิมะเพื่อดับไฟ"
+msgstr "สามารถเปิดและปิดได้ ในขณะที่เติมน้ำมันและเปิดอยู่ หากมีไฟปรากฏขึ้นภายในระยะ ไฟจะขว้างบอลหิมะเพื่อดับไฟ"
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.FISHBOX
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.FISHBOX"
@@ -329854,7 +329854,7 @@ msgstr "กู้คืน \"พลังชีวิตสูงสุด\" ท
 #. STRINGS.SCRAPBOOK.SPECIALINFO.LIGHTER
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.LIGHTER"
 msgid "Can create light. Willow, Walter and Warly can use it to cook food.\n\nWill lose durability faster in the rain."
-msgstr "สร้างแสงได้ วิลโลว์, วอลเตอร์ และ วอล่าสามารถใช้ทำอาหารได้\n\nจะสูญเสียความทนทานเร็วขึ้นในสายฝน"
+msgstr "สร้างแสงได้ วิลโลว์, วอลเตอร์ และ วอร์ลี่สามารถใช้ทำอาหารได้\n\nจะสูญเสียความทนทานเร็วขึ้นในสายฝน"
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.LIGHTNINGROD
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.LIGHTNINGROD"
@@ -334014,7 +334014,7 @@ msgstr "ไรเดอร์"
 #. STRINGS.SKILLTREE.PANELS.BERNIE
 msgctxt "STRINGS.SKILLTREE.PANELS.BERNIE"
 msgid "BERNIE"
-msgstr "เบอร์นี"
+msgstr "เบอร์นี่"
 
 #. STRINGS.SKILLTREE.PANELS.CAMPING
 msgctxt "STRINGS.SKILLTREE.PANELS.CAMPING"
@@ -334084,7 +334084,7 @@ msgstr "การอยู่รอด"
 #. STRINGS.SKILLTREE.PANELS.SWAMPMASTER
 msgctxt "STRINGS.SKILLTREE.PANELS.SWAMPMASTER"
 msgid "MERMDOM"
-msgstr "โลกเงือก"
+msgstr "โลกเมิร์ม"
 
 #. STRINGS.SKILLTREE.PANELS.TORCH
 msgctxt "STRINGS.SKILLTREE.PANELS.TORCH"
@@ -334099,7 +334099,7 @@ msgstr "การฝึกอบรม"
 #. STRINGS.SKILLTREE.PANELS.WOBY
 msgctxt "STRINGS.SKILLTREE.PANELS.WOBY"
 msgid "WOBY"
-msgstr "วอบบี้"
+msgstr "โวบี้"
 
 #. STRINGS.SKILLTREE.RESPEC
 msgctxt "STRINGS.SKILLTREE.RESPEC"
@@ -334404,7 +334404,7 @@ msgstr "ค้นหาและเอาชนะ Ancient Fuelweaver และ�
 #. STRINGS.SKILLTREE.WALTER.WALTER_WOBY_SHADOW_TITLE
 msgctxt "STRINGS.SKILLTREE.WALTER.WALTER_WOBY_SHADOW_TITLE"
 msgid "Shadow Woby"
-msgstr "ชาโดว์ โวบี้"
+msgstr "โวบี้เงา"
 
 #. STRINGS.SKILLTREE.WALTER.WALTER_WOBY_SPRINT_DESC
 msgctxt "STRINGS.SKILLTREE.WALTER.WALTER_WOBY_SPRINT_DESC"
@@ -334419,7 +334419,7 @@ msgstr "นักวิ่งสปรินเตอร์ขี้บ่น"
 #. STRINGS.SKILLTREE.WALTER.WALTER_WOBY_TASKAID_DESC
 msgctxt "STRINGS.SKILLTREE.WALTER.WALTER_WOBY_TASKAID_DESC"
 msgid "Woby will use her hardy horns to assist in chopping and mining."
-msgstr "วอบบี้จะใช้เขาอันแข็งแรงของเธอเพื่อช่วยในการสับและขุด"
+msgstr "โวบี้จะใช้เขาอันแข็งแรงของเธอเพื่อช่วยในการสับและขุด"
 
 #. STRINGS.SKILLTREE.WALTER.WALTER_WOBY_TASKAID_TITLE
 msgctxt "STRINGS.SKILLTREE.WALTER.WALTER_WOBY_TASKAID_TITLE"
@@ -334454,7 +334454,7 @@ msgstr "นักร้องเงา"
 #. STRINGS.SKILLTREE.WATHGRITHR.WATHGRITHR_ARSENAL_HELMET_1_DESC
 msgctxt "STRINGS.SKILLTREE.WATHGRITHR.WATHGRITHR_ARSENAL_HELMET_1_DESC"
 msgid "Battle Helms will be a little more durable when worn by Wigfrid."
-msgstr "หมวกรบ จะทนทานขึ้นเล็กน้อยเมื่อสวมใส่โดยวิกฟรีด"
+msgstr "หมวกรบ จะทนทานขึ้นเล็กน้อยเมื่อสวมใส่โดยวิกฟริด"
 
 #. STRINGS.SKILLTREE.WATHGRITHR.WATHGRITHR_ARSENAL_HELMET_1_TITLE
 msgctxt "STRINGS.SKILLTREE.WATHGRITHR.WATHGRITHR_ARSENAL_HELMET_1_TITLE"
@@ -334464,7 +334464,7 @@ msgstr "หมวกกันน็อคแข็ง I"
 #. STRINGS.SKILLTREE.WATHGRITHR.WATHGRITHR_ARSENAL_HELMET_2_DESC
 msgctxt "STRINGS.SKILLTREE.WATHGRITHR.WATHGRITHR_ARSENAL_HELMET_2_DESC"
 msgid "Battle Helms will be a fair amount more durable when worn by Wigfrid."
-msgstr "หมวกรบHelms จะมีความทนทานมากกว่าเมื่อสวมใส่โดยวิกฟรีด"
+msgstr "หมวกรบHelms จะมีความทนทานมากกว่าเมื่อสวมใส่โดยวิกฟริด"
 
 #. STRINGS.SKILLTREE.WATHGRITHR.WATHGRITHR_ARSENAL_HELMET_2_TITLE
 msgctxt "STRINGS.SKILLTREE.WATHGRITHR.WATHGRITHR_ARSENAL_HELMET_2_TITLE"
@@ -334494,7 +334494,7 @@ msgstr "การเสริมประสิทธิภาพหมวกข
 #. STRINGS.SKILLTREE.WATHGRITHR.WATHGRITHR_ARSENAL_HELMET_5_DESC
 msgctxt "STRINGS.SKILLTREE.WATHGRITHR.WATHGRITHR_ARSENAL_HELMET_5_DESC"
 msgid "Wigfrid's natural healing ability will repair her Commander's Helm when she continues to fight at maximum health."
-msgstr "ความสามารถในการรักษาตามธรรมชาติของ วิกฟรีด จะซ่อมแซมหมวกผู้บัญชาการของเธอ เมื่อเธอยังคงต่อสู้ต่อไปด้วยพลังชีวิตสูงสุด"
+msgstr "ความสามารถในการรักษาตามธรรมชาติของ วิกฟริด จะซ่อมแซมหมวกผู้บัญชาการของเธอ เมื่อเธอยังคงต่อสู้ต่อไปด้วยพลังชีวิตสูงสุด"
 
 #. STRINGS.SKILLTREE.WATHGRITHR.WATHGRITHR_ARSENAL_HELMET_5_TITLE
 msgctxt "STRINGS.SKILLTREE.WATHGRITHR.WATHGRITHR_ARSENAL_HELMET_5_TITLE"
@@ -334719,7 +334719,7 @@ msgstr "ทีมสปิริต III"
 #. STRINGS.SKILLTREE.WENDY.WENDY_GHOSTCOMMAND_HAUNT_DESC
 msgctxt "STRINGS.SKILLTREE.WENDY.WENDY_GHOSTCOMMAND_HAUNT_DESC"
 msgid "Wendy can suggest things for Abigail to haunt."
-msgstr "เวนดี้สามารถแนะนำสิ่งที่จะให้เอบิเกลหลอกหลอนได้"
+msgstr "เวนดี้สามารถแนะนำสิ่งที่จะให้เอาบิเกลหลอกหลอนได้"
 
 #. STRINGS.SKILLTREE.WENDY.WENDY_GHOSTCOMMAND_HAUNT_TITLE
 msgctxt "STRINGS.SKILLTREE.WENDY.WENDY_GHOSTCOMMAND_HAUNT_TITLE"
@@ -334839,7 +334839,7 @@ msgstr "เบียร์เข้มข้น"
 #. STRINGS.SKILLTREE.WENDY.WENDY_POTION_REVIVE_DESC
 msgctxt "STRINGS.SKILLTREE.WENDY.WENDY_POTION_REVIVE_DESC"
 msgid "Wendy learns to brew a new Ghostly Elixir which helps Abigail quickly remember her potential."
-msgstr "เวนดี้เรียนรู้การปรุงยาอายุวัฒนะผีชนิดใหม่ซึ่งจะช่วยให้แอบิเกลจดจำศักยภาพของเธอได้อย่างรวดเร็ว"
+msgstr "เวนดี้เรียนรู้การปรุงยาอายุวัฒนะผีชนิดใหม่ซึ่งจะช่วยให้แอาบิเกลจดจำศักยภาพของเธอได้อย่างรวดเร็ว"
 
 #. STRINGS.SKILLTREE.WENDY.WENDY_POTION_REVIVE_TITLE
 msgctxt "STRINGS.SKILLTREE.WENDY.WENDY_POTION_REVIVE_TITLE"
@@ -334879,7 +334879,7 @@ msgstr "พี่น้องแห่งเงา II"
 #. STRINGS.SKILLTREE.WENDY.WENDY_SHADOW_3_DESC
 msgctxt "STRINGS.SKILLTREE.WENDY.WENDY_SHADOW_3_DESC"
 msgid "Dark Magic is released whenever Wendy uses the Murder action filling Abigail with more power for a short time."
-msgstr "Dark Magic จะถูกปล่อยออกมาทุกครั้งที่เวนดี้ใช้การฆาตกรรม ซึ่งจะทำให้เอบิเกลมีพลังเพิ่มขึ้นในช่วงเวลาสั้นๆ"
+msgstr "Dark Magic จะถูกปล่อยออกมาทุกครั้งที่เวนดี้ใช้การฆาตกรรม ซึ่งจะทำให้เอาบิเกลมีพลังเพิ่มขึ้นในช่วงเวลาสั้นๆ"
 
 #. STRINGS.SKILLTREE.WENDY.WENDY_SHADOW_3_TITLE
 msgctxt "STRINGS.SKILLTREE.WENDY.WENDY_SHADOW_3_TITLE"
@@ -334964,7 +334964,7 @@ msgstr "ค้นหาและกำจัดเครื่องทอเช
 #. STRINGS.SKILLTREE.WILLOW.WILLOW_ALLEGIANCE_LOCK_2_DESC
 msgctxt "STRINGS.SKILLTREE.WILLOW.WILLOW_ALLEGIANCE_LOCK_2_DESC"
 msgid "Learn 6 Bernie skills to unlock."
-msgstr "เรียนรู้ 6 ทักษะของเบอร์นีเพื่อปลดล็อค"
+msgstr "เรียนรู้ 6 ทักษะของเบอร์นี่เพื่อปลดล็อค"
 
 #. STRINGS.SKILLTREE.WILLOW.WILLOW_ALLEGIANCE_LOCK_3_DESC
 msgctxt "STRINGS.SKILLTREE.WILLOW.WILLOW_ALLEGIANCE_LOCK_3_DESC"
@@ -334984,7 +334984,7 @@ msgstr "เรียนรู้ 7 ทักษะที่เบากว่า
 #. STRINGS.SKILLTREE.WILLOW.WILLOW_ALLEGIANCE_LOCK_6_DESC
 msgctxt "STRINGS.SKILLTREE.WILLOW.WILLOW_ALLEGIANCE_LOCK_6_DESC"
 msgid "Learn 6 Bernie skills to unlock."
-msgstr "เรียนรู้ 6 ทักษะของเบอร์นีเพื่อปลดล็อค"
+msgstr "เรียนรู้ 6 ทักษะของเบอร์นี่เพื่อปลดล็อค"
 
 #. STRINGS.SKILLTREE.WILLOW.WILLOW_ALLEGIANCE_LUNAR_1_DESC
 msgctxt "STRINGS.SKILLTREE.WILLOW.WILLOW_ALLEGIANCE_LUNAR_1_DESC"
@@ -335004,7 +335004,7 @@ msgstr "วิงวอนดวงจันทร์เพื่อเสริ
 #. STRINGS.SKILLTREE.WILLOW.WILLOW_ALLEGIANCE_LUNAR_2_TITLE
 msgctxt "STRINGS.SKILLTREE.WILLOW.WILLOW_ALLEGIANCE_LUNAR_2_TITLE"
 msgid "Lunar Bernie"
-msgstr "จันทรคติ เบอร์นี"
+msgstr "จันทรคติ เบอร์นี่"
 
 #. STRINGS.SKILLTREE.WILLOW.WILLOW_ALLEGIANCE_SHADOW_1_DESC
 msgctxt "STRINGS.SKILLTREE.WILLOW.WILLOW_ALLEGIANCE_SHADOW_1_DESC"
@@ -335024,7 +335024,7 @@ msgstr "แตะเข้าไปในความมืดเพื่อเ
 #. STRINGS.SKILLTREE.WILLOW.WILLOW_ALLEGIANCE_SHADOW_2_TITLE
 msgctxt "STRINGS.SKILLTREE.WILLOW.WILLOW_ALLEGIANCE_SHADOW_2_TITLE"
 msgid "Shadow Bernie"
-msgstr "เงาเบอร์นี"
+msgstr "เงาเบอร์นี่"
 
 #. STRINGS.SKILLTREE.WILLOW.WILLOW_ATTUNED_LIGHTER_DESC
 msgctxt "STRINGS.SKILLTREE.WILLOW.WILLOW_ATTUNED_LIGHTER_DESC"
@@ -335039,7 +335039,7 @@ msgstr "ไฟแช็กหิว"
 #. STRINGS.SKILLTREE.WILLOW.WILLOW_BERNIEAI_DESC
 msgctxt "STRINGS.SKILLTREE.WILLOW.WILLOW_BERNIEAI_DESC"
 msgid "Bernie will activate to fight hostile lunar and shadow aligned creatures regardless of Willow's sanity."
-msgstr "เบอร์นีจะเปิดใช้งานเพื่อต่อสู้กับสิ่งมีชีวิตที่อยู่ในแนวดวงจันทร์และเงาที่ไม่เป็นมิตร โดยไม่คำนึงถึงสุขภาพจิตของวิลโลว์"
+msgstr "เบอร์นี่จะเปิดใช้งานเพื่อต่อสู้กับสิ่งมีชีวิตที่อยู่ในแนวดวงจันทร์และเงาที่ไม่เป็นมิตร โดยไม่คำนึงถึงสุขภาพจิตของวิลโลว์"
 
 #. STRINGS.SKILLTREE.WILLOW.WILLOW_BERNIEAI_TITLE
 msgctxt "STRINGS.SKILLTREE.WILLOW.WILLOW_BERNIEAI_TITLE"
@@ -335089,7 +335089,7 @@ msgstr "แพทช์อัพ II"
 #. STRINGS.SKILLTREE.WILLOW.WILLOW_BERNIESANITY_1_DESC
 msgctxt "STRINGS.SKILLTREE.WILLOW.WILLOW_BERNIESANITY_1_DESC"
 msgid "Bernie will become animated at a higher sanity threshold."
-msgstr "เบอร์นีจะกลายเป็นแอนิเมชั่นที่ขีดจำกัดสติที่สูงกว่า"
+msgstr "เบอร์นี่จะกลายเป็นแอนิเมชั่นที่ขีดจำกัดสติที่สูงกว่า"
 
 #. STRINGS.SKILLTREE.WILLOW.WILLOW_BERNIESANITY_1_TITLE
 msgctxt "STRINGS.SKILLTREE.WILLOW.WILLOW_BERNIESANITY_1_TITLE"
@@ -335099,7 +335099,7 @@ msgstr "แบร์ลี สติ ฉัน"
 #. STRINGS.SKILLTREE.WILLOW.WILLOW_BERNIESANITY_2_DESC
 msgctxt "STRINGS.SKILLTREE.WILLOW.WILLOW_BERNIESANITY_2_DESC"
 msgid "Bernie will become animated at an even higher sanity threshold."
-msgstr "เบอร์นีจะกลายเป็นแอนิเมชั่นที่ระดับสติสติปัฏฐานที่สูงกว่านี้"
+msgstr "เบอร์นี่จะกลายเป็นแอนิเมชั่นที่ระดับสติสติปัฏฐานที่สูงกว่านี้"
 
 #. STRINGS.SKILLTREE.WILLOW.WILLOW_BERNIESANITY_2_TITLE
 msgctxt "STRINGS.SKILLTREE.WILLOW.WILLOW_BERNIESANITY_2_TITLE"
@@ -335139,12 +335139,12 @@ msgstr "เรียนรู้อย่างน้อย 4 ทักษะข
 #. STRINGS.SKILLTREE.WILLOW.WILLOW_BURNINGBERNIE_DESC
 msgctxt "STRINGS.SKILLTREE.WILLOW.WILLOW_BURNINGBERNIE_DESC"
 msgid "Igniting Bernie will give him a firey aura for a short time.\nEnemies that attack an ignited Bernie will take damage back."
-msgstr "การจุดไฟเบอร์นีจะทำให้เขามีออร่าเพลิงในช่วงเวลาสั้นๆ\nศัตรูที่โจมตีเบอร์นีจุดไฟจะได้รับความเสียหายกลับ"
+msgstr "การจุดไฟเบอร์นี่จะทำให้เขามีออร่าเพลิงในช่วงเวลาสั้นๆ\nศัตรูที่โจมตีเบอร์นี่จุดไฟจะได้รับความเสียหายกลับ"
 
 #. STRINGS.SKILLTREE.WILLOW.WILLOW_BURNINGBERNIE_TITLE
 msgctxt "STRINGS.SKILLTREE.WILLOW.WILLOW_BURNINGBERNIE_TITLE"
 msgid "Burning Bernie"
-msgstr "การเผาไหม้เบอร์นี"
+msgstr "การเผาไหม้เบอร์นี่"
 
 #. STRINGS.SKILLTREE.WILLOW.WILLOW_CONTROLLED_BURN_1_DESC
 msgctxt "STRINGS.SKILLTREE.WILLOW.WILLOW_CONTROLLED_BURN_1_DESC"
@@ -337049,7 +337049,7 @@ msgstr "เมิร์มขยันขันแข็ง II"
 #. STRINGS.SKILLTREE.WURT.WURT_CIV_2_DESC
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_CIV_2_DESC"
 msgid "Learn to craft the Shoddy Tool Shed to equip your merm workers with Shoddy Tools."
-msgstr "เรียนรู้วิธีประดิษฐ์ Shoddy Tool Shed เพื่อเตรียมเครื่องมือ Shoddy ให้กับคนงานเงือกของคุณ"
+msgstr "เรียนรู้วิธีประดิษฐ์ Shoddy Tool Shed เพื่อเตรียมเครื่องมือ Shoddy ให้กับคนงานเมิร์มของคุณ"
 
 #. STRINGS.SKILLTREE.WURT.WURT_CIV_2_TITLE
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_CIV_2_TITLE"
@@ -337079,7 +337079,7 @@ msgstr "หัวแข็งจังนะ"
 #. STRINGS.SKILLTREE.WURT.WURT_LUNAR_ALLEGIANCE_1_DESC
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_LUNAR_ALLEGIANCE_1_DESC"
 msgid "Grant your loyal merms the wondrous gift of Lunar mutation by feeding them Moon Shards.\nEmpower your mutant merms with Planar power using Pure Brilliance."
-msgstr "มอบของขวัญมหัศจรรย์แห่งการกลายพันธุ์ทางจันทรคติแก่พวกนางเงือกที่ภักดีของคุณ ด้วยการป้อน Moon Shards ให้กับพวกมัน\nเสริมพลังให้พวกนางเงือกที่กลายพันธุ์ของคุณด้วยพลัง Planar โดยใช้ Pure Brilliance"
+msgstr "มอบของขวัญมหัศจรรย์แห่งการกลายพันธุ์ทางจันทรคติแก่พวกเมิร์มที่ภักดีของคุณ ด้วยการป้อน Moon Shards ให้กับพวกมัน\nเสริมพลังให้พวกเมิร์มที่กลายพันธุ์ของคุณด้วยพลัง Planar โดยใช้ Pure Brilliance"
 
 #. STRINGS.SKILLTREE.WURT.WURT_LUNAR_ALLEGIANCE_1_TITLE
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_LUNAR_ALLEGIANCE_1_TITLE"
@@ -337109,7 +337109,7 @@ msgstr "การแสวงหามงกุฎของกษัตริย
 #. STRINGS.SKILLTREE.WURT.WURT_MERMKINGSHOULDERS_DESC
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_MERMKINGSHOULDERS_DESC"
 msgid "Add stony armor to the King's statuesque shoulders for greater stoutness in your merm soldiers."
-msgstr "เพิ่มเกราะหินให้กับไหล่อันสง่างามของราชาเพื่อให้ทหารเงือกของคุณดูแข็งแกร่งยิ่งขึ้น"
+msgstr "เพิ่มเกราะหินให้กับไหล่อันสง่างามของราชาเพื่อให้ทหารเมิร์มของคุณดูแข็งแกร่งยิ่งขึ้น"
 
 #. STRINGS.SKILLTREE.WURT.WURT_MERMKINGSHOULDERS_TITLE
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_MERMKINGSHOULDERS_TITLE"
@@ -337209,12 +337209,12 @@ msgstr "ตัวค้นหาหนองบึง"
 #. STRINGS.SKILLTREE.WURT.WURT_SHADOW_ALLEGIANCE_1_DESC
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_SHADOW_ALLEGIANCE_1_DESC"
 msgid "Your merm followers may die, but their shadows live on.\nInfuse fallen merms' shadows with Planar power using Pure Horror."
-msgstr "ผู้ติดตามเงือกของคุณอาจจะตาย แต่เงาของพวกเขายังมีชีวิตอยู่\nเติมพลัง Planar ให้กับเงาของเงือกที่ล้มลงโดยใช้ Pure Horror"
+msgstr "ผู้ติดตามเมิร์มของคุณอาจจะตาย แต่เงาของพวกเขายังมีชีวิตอยู่\nเติมพลัง Planar ให้กับเงาของเมิร์มที่ล้มลงโดยใช้ Pure Horror"
 
 #. STRINGS.SKILLTREE.WURT.WURT_SHADOW_ALLEGIANCE_1_TITLE
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_SHADOW_ALLEGIANCE_1_TITLE"
 msgid "Shadow Resurrection Merm"
-msgstr "เงือกแห่งเงาแห่งการฟื้นคืนชีพ"
+msgstr "เมิร์มแห่งเงาแห่งการฟื้นคืนชีพ"
 
 #. STRINGS.SKILLTREE.WURT.WURT_SHADOW_ALLEGIANCE_2_DESC
 msgctxt "STRINGS.SKILLTREE.WURT.WURT_SHADOW_ALLEGIANCE_2_DESC"
@@ -337939,7 +337939,7 @@ msgstr "ผ้าห่มขนสัตว์สำหรับเนื้อ
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_body_lunar
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_body_lunar"
 msgid "Drape your beefalo in the finest finery."
-msgstr "ตกแต่งเนื้อควายของคุณด้วยเครื่องประดับที่วิจิตรที่สุด"
+msgstr "ตกแต่งเนื้อบีฟาโล่ของคุณด้วยเครื่องประดับที่วิจิตรที่สุด"
 
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_body_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_body_nature"
@@ -337954,7 +337954,7 @@ msgstr "มันให้ความหมายใหม่กับคำว
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_body_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_body_shadow"
 msgid "Cloak your beefalo in mystery."
-msgstr "ปกปิดเนื้อควายของคุณด้วยความลึกลับ"
+msgstr "ปกปิดเนื้อบีฟาโล่ของคุณด้วยความลึกลับ"
 
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_body_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_body_victorian"
@@ -337994,7 +337994,7 @@ msgstr "ดูเหมือนบีฟาโล่จะเย็นชา"
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_feet_lunar
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_feet_lunar"
 msgid "Your beefalo deserves no less than these golden hooflets."
-msgstr "เนื้อควายของคุณสมควรได้รับไม่น้อยกว่ากีบเท้าทองคำเหล่านี้"
+msgstr "เนื้อบีฟาโล่ของคุณสมควรได้รับไม่น้อยกว่ากีบเท้าทองคำเหล่านี้"
 
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_feet_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_feet_nature"
@@ -338049,7 +338049,7 @@ msgstr "ใบหน้าที่เลือนลางนั้นสาม
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_head_lunar
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_head_lunar"
 msgid "Draped in gold like the beefalo kings of old."
-msgstr "สวมชุดทองเหมือนราชาควายสมัยโบราณ"
+msgstr "สวมชุดทองเหมือนราชาบีฟาโล่สมัยโบราณ"
 
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_head_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_head_nature"
@@ -338104,7 +338104,7 @@ msgstr "พายุฤดูหนาวอันหนาวเหน็บท
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_horn_lunar
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_horn_lunar"
 msgid "Adorn the horns of your beefalo with majestic gold trim."
-msgstr "ประดับเขาควายของคุณด้วยขอบทองอันสง่างาม"
+msgstr "ประดับเขาบีฟาโล่ของคุณด้วยขอบทองอันสง่างาม"
 
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_horn_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_horn_nature"
@@ -338119,7 +338119,7 @@ msgstr "แตรอุตสาหกรรมสำหรับบีฟาโ
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_horn_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_horn_shadow"
 msgid "Your beefalo's horns gleaming in the night will fill your enemies' hearts with fright."
-msgstr "เขาควายของคุณที่เป็นประกายในยามค่ำคืน จะทำให้ศัตรูของคุณหวาดกลัว"
+msgstr "เขาบีฟาโล่ของคุณที่เป็นประกายในยามค่ำคืน จะทำให้ศัตรูของคุณหวาดกลัว"
 
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_horn_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_horn_victorian"
@@ -339344,12 +339344,12 @@ msgstr "เสื้อโค้ทบุขนสำหรับลูกค้
 #. STRINGS.SKIN_DESCRIPTIONS.body_waxwell_krampus
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_waxwell_krampus"
 msgid "Dress up as a spooky Krampus for Hallowed Nights."
-msgstr "แต่งตัวเป็นเหมือนผีแครมปัสสำหรับคืนฮาโลวีน"
+msgstr "แต่งตัวเป็นเหมือนผีครัมปัสสำหรับคืนฮาโลวีน"
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_waxwell_krampusp
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_waxwell_krampusp"
 msgid "Dress up as a spooky Krampus for Hallowed Nights."
-msgstr "แต่งตัวเป็นเหมือนผีแครมปัสสำหรับคืนฮาโลวีน"
+msgstr "แต่งตัวเป็นเหมือนผีครัมปัสสำหรับคืนฮาโลวีน"
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_waxwell_lunar
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_waxwell_lunar"
@@ -343054,7 +343054,7 @@ msgstr "firestaff_rose"
 #. STRINGS.SKIN_DESCRIPTIONS.firesuppressor_circus
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.firesuppressor_circus"
 msgid "Look and be amazed by the incredible automatic snowball juggling machine!"
-msgstr "ดูและทึ่งกับเครื่องเล่นกลก้อนหิมะอัตโนมัติที่น่าทึ่ง!"
+msgstr "ดูและทึ่งกับเครื่องเล่นกลบอลหิมะอัตโนมัติที่น่าทึ่ง!"
 
 #. STRINGS.SKIN_DESCRIPTIONS.firesuppressor_robot
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.firesuppressor_robot"
@@ -343119,7 +343119,7 @@ msgstr "ฉันจะทำแฮตทริก!"
 #. STRINGS.SKIN_DESCRIPTIONS.footballhat_western
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.footballhat_western"
 msgid "Tackle the toughest beefalo!"
-msgstr "จัดการกับเนื้อควายที่แข็งแกร่งที่สุด!"
+msgstr "จัดการกับเนื้อบีฟาโล่ที่แข็งแกร่งที่สุด!"
 
 #. STRINGS.SKIN_DESCRIPTIONS.gemsocket_crystal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.gemsocket_crystal"
@@ -343224,7 +343224,7 @@ msgstr "พลั่วสีทองอร่าม ดีไซน์ชว�
 #. STRINGS.SKIN_DESCRIPTIONS.goldenpitchfork_invisible
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.goldenpitchfork_invisible"
 msgid "Convey an incredibly convincing impression of an expensive pitchfork."
-msgstr "ถ่ายทอดความประทับใจอันน่าเชื่ออย่างไม่น่าเชื่อของโกยราคาแพง"
+msgstr "ถ่ายทอดความประทับใจอันน่าเชื่ออย่างไม่น่าเชื่อของส้อมโกยราคาแพง"
 
 #. STRINGS.SKIN_DESCRIPTIONS.goldenshovel_invisible
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.goldenshovel_invisible"
@@ -345794,7 +345794,7 @@ msgstr "ศัตรูของศัตรูคือมิตรของฉ
 #. STRINGS.SKIN_DESCRIPTIONS.loading_piglio3
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_piglio3"
 msgid "Can a merm and a pig put their differences aside to save themselves?"
-msgstr "เงือกกับหมูจะสามารถวางความขัดแย้งไว้ข้างหลังเพื่อปกป้องตัวเองได้หรือไม่?"
+msgstr "เมิร์มกับหมูจะสามารถวางความขัดแย้งไว้ข้างหลังเพื่อปกป้องตัวเองได้หรือไม่?"
 
 #. STRINGS.SKIN_DESCRIPTIONS.loading_piglio4
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_piglio4"
@@ -345819,7 +345819,7 @@ msgstr "มีเพียงไม่กี่สิ่งที่หมูจ
 #. STRINGS.SKIN_DESCRIPTIONS.loading_pirates1
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_pirates1"
 msgid "If you wish to sail the open sea, best beware the pirates of Moon Quay!"
-msgstr "หากคุณต้องการแล่นเรือในทะเลเปิด ให้ระวังโจรสลัดแห่งมูนคีย์ให้ดีที่สุด!"
+msgstr "หากคุณต้องการแล่นเรือในทะเลเปิด ให้ระวังโจรสลัดแห่งมูนกุญแจให้ดีที่สุด!"
 
 #. STRINGS.SKIN_DESCRIPTIONS.loading_rainingfrog
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_rainingfrog"
@@ -345939,7 +345939,7 @@ msgstr "เวนดี้ยึดติดกับความเศร้า
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wendy_blogpostart
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wendy_blogpostart"
 msgid "\"I know you're still there, Abigail... we'll be able to play together again soon.\""
-msgstr "\"ฉันรู้ว่าคุณยังอยู่ที่นั่น อบิเกล... เราจะได้เล่นด้วยกันอีกครั้งเร็วๆนี้\""
+msgstr "\"ฉันรู้ว่าคุณยังอยู่ที่นั่น อาบิเกล... เราจะได้เล่นด้วยกันอีกครั้งเร็วๆนี้\""
 
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wendy_creepy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wendy_creepy"
@@ -346609,7 +346609,7 @@ msgstr "หีบนี้มี 4x\nของโบราณอีเว้น�
 #. STRINGS.SKIN_DESCRIPTIONS.mysterybox_monkeyhat
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.mysterybox_monkeyhat"
 msgid "This chest contains 4x\nMoon Quay pirate hats."
-msgstr "หีบนี้บรรจุ 4x\nหมวกโจรสลัดมูนคีย์"
+msgstr "หีบนี้บรรจุ 4x\nหมวกโจรสลัดมูนกุญแจ"
 
 #. STRINGS.SKIN_DESCRIPTIONS.mysterybox_nature_4
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.mysterybox_nature_4"
@@ -346887,12 +346887,12 @@ msgstr "Cottage Cache Chest นี้บรรจุไอเท็มสกิ�
 #. STRINGS.SKIN_DESCRIPTIONS.pack_costume_all
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_costume_all"
 msgid "This Costume Chest contains skins for: Wigfrid, Maxwell, Webber, Wendy, Wes, Wickerbottom, Willow, Wilson, Winona, Wolfgang, Woodie, and WX-78."
-msgstr "ชุดคอสตูมนี้มีสกินสำหรับ: วิกฟรีด, แม็กซ์เวลล์, เว็บเบอร์, เวนดี้, เวส, วิกเกอร์บัตท่อม, วิลโลว์, วิลสัน, วิโนน่า, วูล์ฟกัง, วู้ดดี้และ WX-78"
+msgstr "ชุดคอสตูมนี้มีสกินสำหรับ: วิกฟริด, แม็กซ์เวลล์, เว็บเบอร์, เวนดี้, เวส, วิกเกอร์บอตทอม, วิลโลว์, วิลสัน, วิโนน่า, วูล์ฟกัง, วู้ดดี้และ WX-78"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_costume_all2
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_costume_all2"
 msgid "This Costume Chest contains skins for: Walter, Wanda, Warly, Wormwood, Wortox and Wurt."
-msgstr "ชุดคอสตูมนี้มีสกินสำหรับ: วิกฟรีด, แวนด้า, Warly, Wormwood, Wortox และ Wurt"
+msgstr "ชุดคอสตูมนี้มีสกินสำหรับ: วิกฟริด, แวนด้า, Warly, Wormwood, Wortox และ Wurt"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_costume_bundle
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_costume_bundle"
@@ -346932,7 +346932,7 @@ msgstr "หีบคอสตูมนี้บรรจุไอเท็มส
 #. STRINGS.SKIN_DESCRIPTIONS.pack_costume_wathgrithr
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_costume_wathgrithr"
 msgid "This Costume Chest contains Wigfrid's complete set of Costume skin items."
-msgstr "หีบแม๊กมาติกนี้ประกอบด้วยสกินแม๊กมาติกที่สมบูรณ์แบบของวิกฟรีด"
+msgstr "หีบแม๊กมาติกนี้ประกอบด้วยสกินแม๊กมาติกที่สมบูรณ์แบบของวิกฟริด"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_costume_waxwell
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_costume_waxwell"
@@ -347062,7 +347062,7 @@ msgstr "หีบฟอร์จนี้มีสกินนักสู้ใ
 #. STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wathgrithr
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wathgrithr"
 msgid "This Gladiator Chest contains Wigfrid's complete set of Gladiator skin items."
-msgstr "หีบฟอร์จนี้มีสกินนักรบโรมัน\nที่สมบูรณ์แบบของวิกฟรีด"
+msgstr "หีบฟอร์จนี้มีสกินนักรบโรมัน\nที่สมบูรณ์แบบของวิกฟริด"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_waxwell
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_waxwell"
@@ -347087,7 +347087,7 @@ msgstr "หีบฟอร์จนี้มีสกินนักรบโร
 #. STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wickerbottom
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wickerbottom"
 msgid "This Gladiator Chest contains Wickerbottom's complete set of Gladiator skin items."
-msgstr "หีบฟอร์จนี้มีสกินนักรบโรมัน\nที่สมบูรณ์แบบของวิกเกอร์บัตท่อม"
+msgstr "หีบฟอร์จนี้มีสกินนักรบโรมัน\nที่สมบูรณ์แบบของวิกเกอร์บอตทอม"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_willow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_willow"
@@ -347112,7 +347112,7 @@ msgstr "หีบฟอร์จนี้มีสกินนักรบโร
 #. STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_woodie
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_woodie"
 msgid "This Gladiator Chest contains Woodie's complete set of Gladiator skin items."
-msgstr "หีบฟอร์จนี้มีสกินนักรบโรมัน\nที่สมบูรณ์แบบของวูดดี้"
+msgstr "หีบฟอร์จนี้มีสกินนักรบโรมัน\nที่สมบูรณ์แบบของวู้ดดี้"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wx78
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wx78"
@@ -347177,7 +347177,7 @@ msgstr "กล่องเคลือบลูกกวาดนี้บรร
 #. STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wathgrithr
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wathgrithr"
 msgid "This Straw-Stuffed Chest contains Wigfrid's complete set of Hallowed Nights skin items."
-msgstr "หีบบรรจุฟางนี้บรรจุชุดไอเท็มสกิน Hallowed Nights ครบชุดของวิกฟรีด"
+msgstr "หีบบรรจุฟางนี้บรรจุชุดไอเท็มสกิน Hallowed Nights ครบชุดของวิกฟริด"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_waxwell
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_waxwell"
@@ -347527,7 +347527,7 @@ msgstr "มัดแม๊กมาติกนี้ประกอบด้ว
 #. STRINGS.SKIN_DESCRIPTIONS.pack_magma_wathgrithr
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_magma_wathgrithr"
 msgid "This Magmatic Chest contains Wigfrid's complete set of Magmatic skin items."
-msgstr "หีบแม๊กมาติกนี้ประกอบด้วยสกินแม๊กมาติกที่สมบูรณ์แบบของวิกฟรีด"
+msgstr "หีบแม๊กมาติกนี้ประกอบด้วยสกินแม๊กมาติกที่สมบูรณ์แบบของวิกฟริด"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_magma_waxwell
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_magma_waxwell"
@@ -347552,7 +347552,7 @@ msgstr "หีบแม๊กมาติกนี้ประกอบด้ว
 #. STRINGS.SKIN_DESCRIPTIONS.pack_magma_wickerbottom
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_magma_wickerbottom"
 msgid "This Magmatic Chest contains Wickerbottom's complete set of Magmatic skin items."
-msgstr "หีบแม๊กมาติกนี้ประกอบด้วยสกินแม๊กมาติกที่สมบูรณ์แบบของวิกเกอร์บัตท่อม"
+msgstr "หีบแม๊กมาติกนี้ประกอบด้วยสกินแม๊กมาติกที่สมบูรณ์แบบของวิกเกอร์บอตทอม"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_magma_willow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_magma_willow"
@@ -347577,7 +347577,7 @@ msgstr "หีบแม๊กมาติกนี้ประกอบด้ว
 #. STRINGS.SKIN_DESCRIPTIONS.pack_magma_woodie
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_magma_woodie"
 msgid "This Magmatic Chest contains Woodie's complete set of Magmatic skin items."
-msgstr "หีบแม๊กมาติกนี้ประกอบด้วยสกินแม๊กมาติกที่สมบูรณ์แบบของวูดดี้"
+msgstr "หีบแม๊กมาติกนี้ประกอบด้วยสกินแม๊กมาติกที่สมบูรณ์แบบของวู้ดดี้"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_magma_wx78
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_magma_wx78"
@@ -347657,7 +347657,7 @@ msgstr "Musclebound Chest นี้ประกอบด้วยไอเทม
 #. STRINGS.SKIN_DESCRIPTIONS.pack_mystical_1_items
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_mystical_1_items"
 msgid "This Mystic Medley Chest contains the following skin items: Moonshrub Hat, Crystal Chester, Piercing Glass Cutter, Amethyst Lantern, Mystic Mushroom Farm, Luxurious Lean-to, Embellished Thermal Reader, Polar Pearl Bin, Mystic Marker, Mystic Staff, Mystic Merm Flort, Mystic Mermhouse, Mystic Nomad Hat, and Mystic Weave Wrap."
-msgstr "หีบ Mystic Medley นี้ประกอบไปด้วยไอเทมสกินดังต่อไปนี้: หมวก Moonshrub, คริสตัลเชสเตอร์, เครื่องตัดแก้ว Piercing Glass, โคมไฟ Amethyst, ฟาร์มเห็ด Mystic, ชั้นวางของหรูหรา, เครื่องอ่านอุณหภูมิประดับ, ถังไข่มุกโพลาร์, ปากกา Mystic, ไม้เท้า Mystic, ดอกไม้ Mystic Merm, บ้านนางเงือก Mystic, หมวก Mystic Nomad และผ้าห่อ Mystic Weave"
+msgstr "หีบ Mystic Medley นี้ประกอบไปด้วยไอเทมสกินดังต่อไปนี้: หมวก Moonshrub, คริสตัลเชสเตอร์, เครื่องตัดแก้ว Piercing Glass, โคมไฟ Amethyst, ฟาร์มเห็ด Mystic, ชั้นวางของหรูหรา, เครื่องอ่านอุณหภูมิประดับ, ถังไข่มุกโพลาร์, ปากกา Mystic, ไม้เท้า Mystic, ดอกไม้ Mystic Merm, บ้านเมิร์ม Mystic, หมวก Mystic Nomad และผ้าห่อ Mystic Weave"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_nature_all
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_nature_all"
@@ -348197,7 +348197,7 @@ msgstr "ตู้เสื้อผ้าดีลักซ์นี้ประ
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wathgrithr_formal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wathgrithr_formal"
 msgid "This Chest contains Wigfrid's complete set of Guest of Honor skin items."
-msgstr "กล่องนี้บรรจุไอเท็มสกิน Guest of Honor ครบชุดของวิกฟรีด"
+msgstr "กล่องนี้บรรจุไอเท็มสกิน Guest of Honor ครบชุดของวิกฟริด"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wathgrithr_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wathgrithr_rose"
@@ -348217,7 +348217,7 @@ msgstr "หีบนี้บรรจุไอเท็มสกินผู้
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wathgrithr_valkyrie
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wathgrithr_valkyrie"
 msgid "This Chest contains Wigfrid's complete set of Winged Victory skin items."
-msgstr "หีบนี้บรรจุไอเท็มสกิน Winged Victory ครบชุดของวิกฟรีด"
+msgstr "หีบนี้บรรจุไอเท็มสกิน Winged Victory ครบชุดของวิกฟริด"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wathgrithr_valkyrie2
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wathgrithr_valkyrie2"
@@ -348447,7 +348447,7 @@ msgstr "หีบอุปกรณ์ Mystic Moonbound Stampeder นี้ป�
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wickerbottom_deluxe
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wickerbottom_deluxe"
 msgid "This Deluxe Wardrobe contains Wickerbottom's complete set of Guest of Honor, Roseate, Survivor, Triumphant, and Nom de Plume skin items."
-msgstr "ตู้เสื้อผ้าดีลักซ์นี้มีไอเท็มสกิน Guest of Honor, Roseate, Survivor, Triumphant และ Nom de Plume ครบชุดของวิกเกอร์บัตท่อม"
+msgstr "ตู้เสื้อผ้าดีลักซ์นี้มีไอเท็มสกิน Guest of Honor, Roseate, Survivor, Triumphant และ Nom de Plume ครบชุดของวิกเกอร์บอตทอม"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wickerbottom_formal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wickerbottom_formal"
@@ -348462,12 +348462,12 @@ msgstr "หีบ Masquerader นี้ประกอบไปด้วยเ�
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wickerbottom_ornate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wickerbottom_ornate"
 msgid "This Chest contains Wickerbottom's complete set of Nom de Plume skin items."
-msgstr "หีบนี้บรรจุไอเท็มสกิน Nom de Plume ครบชุดของวิกเกอร์บัตท่อม"
+msgstr "หีบนี้บรรจุไอเท็มสกิน Nom de Plume ครบชุดของวิกเกอร์บอตทอม"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wickerbottom_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wickerbottom_rose"
 msgid "This Chest contains Wickerbottom's complete set of Roseate skin items."
-msgstr "หีบนี้บรรจุไอเท็มสกิน Roseate ครบชุดของวิกเกอร์บัตท่อม"
+msgstr "หีบนี้บรรจุไอเท็มสกิน Roseate ครบชุดของวิกเกอร์บอตทอม"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wickerbottom_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wickerbottom_shadow"
@@ -348477,7 +348477,7 @@ msgstr "หีบนี้บรรจุไอเท็มสกิน Triumpha
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wickerbottom_survivor
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wickerbottom_survivor"
 msgid "This Chest contains Wickerbottom's complete set of Survivor skin items."
-msgstr "หีบนี้บรรจุไอเท็มสกินผู้รอดชีวิตครบชุดของวิกเกอร์บัตท่อม"
+msgstr "หีบนี้บรรจุไอเท็มสกินผู้รอดชีวิตครบชุดของวิกเกอร์บอตทอม"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_willow_ancient
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_willow_ancient"
@@ -348792,7 +348792,7 @@ msgstr "กล่องโปรโมชันนี้ประกอบด้
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wrestler_wathgrithr
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wrestler_wathgrithr"
 msgid "This Contenders Chest contains Wigfrid's complete set of Contenders skin items, as well as the Golden Helm and Ultimate Spear."
-msgstr "Contenders Chest นี้บรรจุไอเท็มสกิน Contenders ครบเซ็ตของวิกฟรีดเช่นเดียวกับ Golden Helm และ Ultimate Spear"
+msgstr "Contenders Chest นี้บรรจุไอเท็มสกิน Contenders ครบเซ็ตของวิกฟริดเช่นเดียวกับ Golden Helm และ Ultimate Spear"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wrestler_webber
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wrestler_webber"
@@ -349157,7 +349157,7 @@ msgstr "เหมาะสำหรับสภาพอากาศในฤด
 #. STRINGS.SKIN_DESCRIPTIONS.pitchfork_invisible
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pitchfork_invisible"
 msgid "Convey an incredibly convincing impression of a pitchfork."
-msgstr "ถ่ายทอดความประทับใจอันน่าเชื่ออย่างไม่น่าเชื่อของโกย"
+msgstr "ถ่ายทอดความประทับใจอันน่าเชื่ออย่างไม่น่าเชื่อของส้อมโกย"
 
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_altarstatue
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_altarstatue"
@@ -350382,7 +350382,7 @@ msgstr "ตั้งค่าไอคอนโปรไฟล์ของคุ
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_krampus
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_krampus"
 msgid "Set your profile icon to Krampus.\n\nThe Krampus is compelled to visit all naughty denizens of The Constant."
-msgstr "ตั้งค่าไอคอนโปรไฟล์ของคุณให้เป็นแครมปัส\n\nแครมปัสถูกบังคับให้ไปเยี่ยมเยือนคนหัวปีที่ไร้เดียงสาของค่าคงที่"
+msgstr "ตั้งค่าไอคอนโปรไฟล์ของคุณให้เป็นครัมปัส\n\nครัมปัสถูกบังคับให้ไปเยี่ยมเยือนคนหัวปีที่ไร้เดียงสาของค่าคงที่"
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_lantern_crystal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_lantern_crystal"
@@ -350437,7 +350437,7 @@ msgstr "ตั้งค่าไอคอนโปรไฟล์ของคุ
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_merm
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_merm"
 msgid "Set your profile icon to a merm."
-msgstr "ตั้งค่าไอคอนโปรไฟล์ของคุณให้เป็นนางเงือก"
+msgstr "ตั้งค่าไอคอนโปรไฟล์ของคุณให้เป็นเมิร์ม"
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_mole
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_mole"
@@ -350537,7 +350537,7 @@ msgstr "ตั้งค่าไอคอนรูปโปรไฟล์ขอ
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_ornaments_6
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_ornaments_6"
 msgid "Set your profile icon to a naughty Krampus-inspired Winter's Feast ornament."
-msgstr "ตั้งค่าไอคอนรูปโปรไฟล์ของคุณเป็นเครื่องประดับ\nงานเลี้ยงฉลองเทศกาลฤดูหนาวของแครมปัสที่ซุกซน"
+msgstr "ตั้งค่าไอคอนรูปโปรไฟล์ของคุณเป็นเครื่องประดับ\nงานเลี้ยงฉลองเทศกาลฤดูหนาวของครัมปัสที่ซุกซน"
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_ornaments_7
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_ornaments_7"
@@ -353077,12 +353077,12 @@ msgstr "Wigfrid มีความรู้สึกอ่อนไหวต่�
 #. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_combatant
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_combatant"
 msgid "Wigfrid was born for the arena."
-msgstr "วิกฟรีดเกิดมาในสังเวียน"
+msgstr "วิกฟริดเกิดมาในสังเวียน"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_cook
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_cook"
 msgid "Wigfrid has many pot roasts in her future."
-msgstr "วิกฟรีดมีหม้อย่างหลายอย่างในอนาคตของเธอ"
+msgstr "วิกฟริดมีหม้อย่างหลายอย่างในอนาคตของเธอ"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_deerclops
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_deerclops"
@@ -353092,12 +353092,12 @@ msgstr "เครื่องแต่งกาย Deerfrid\n\nสวมใส�
 #. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_deerclops_d
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_deerclops_d"
 msgid "Wigfrid chose to be one of her favorite foes to battle for Hallowed Nights."
-msgstr "วิกฟรีดเลือกที่จะเป็นหนึ่งในศัตรูที่เธอชื่นชอบในการสู้รบกับคืนฮาโลวีน"
+msgstr "วิกฟริดเลือกที่จะเป็นหนึ่งในศัตรูที่เธอชื่นชอบในการสู้รบกับคืนฮาโลวีน"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_deerclops_p
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_deerclops_p"
 msgid "Wigfrid chose to be one of her favorite foes to battle for Hallowed Nights."
-msgstr "วิกฟรีดเลือกที่จะเป็นหนึ่งในศัตรูที่เธอชื่นชอบในการสู้รบกับคืนฮาโลวีน"
+msgstr "วิกฟริดเลือกที่จะเป็นหนึ่งในศัตรูที่เธอชื่นชอบในการสู้รบกับคืนฮาโลวีน"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_formal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_formal"
@@ -353112,7 +353112,7 @@ msgstr "เธอคล้ายกับเจ้าหญิงซิกอท
 #. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_gladiator
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_gladiator"
 msgid "The question was never IF Wigfrid would master the ring, but when."
-msgstr "คำถามคือไม่เคยถ้าวิกฟรีดจะครองแหวน แต่เมื่อ"
+msgstr "คำถามคือไม่เคยถ้าวิกฟริดจะครองแหวน แต่เมื่อ"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_ice
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_ice"
@@ -353147,7 +353147,7 @@ msgstr "วิกฟริดคุ้นเคยกับแสงแก็ซ
 #. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_magma
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_magma"
 msgid "Wigfrid is ready for Ragnarok."
-msgstr "วิกฟรีดพร้อมสำหรับแร็คนาร็อคแล้ว"
+msgstr "วิกฟริดพร้อมสำหรับแร็คนาร็อคแล้ว"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_masquerade
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_masquerade"
@@ -353157,12 +353157,12 @@ msgstr "ไก่ตัวนี้พร้อมที่จะดังใน
 #. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_nature"
 msgid "Wigfrid would fight to her last breath to protect the spirit of the forest."
-msgstr "วิกฟรีดจะต่อสู้กับลมหายใจสุดท้ายของเธอเพื่อปกป้องจิตวิญญาณของป่า"
+msgstr "วิกฟริดจะต่อสู้กับลมหายใจสุดท้ายของเธอเพื่อปกป้องจิตวิญญาณของป่า"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_none
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_none"
 msgid "Wigfrid's favorite costume."
-msgstr "ชุดโปรดของวิกฟรีด"
+msgstr "ชุดโปรดของวิกฟริด"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_pirate"
@@ -353172,17 +353172,17 @@ msgstr "Wigfrid สามารถสั่งการเรือรบได�
 #. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_rose"
 msgid "Wigfrid was born for the part of Red Queen."
-msgstr "วิกฟรีดเกิดมาเพื่อเป็นส่วนหนึ่งของราชินีแดง"
+msgstr "วิกฟริดเกิดมาเพื่อเป็นส่วนหนึ่งของราชินีแดง"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_rosep
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_rosep"
 msgid "Wigfrid was born for the part of Red Queen."
-msgstr "วิกฟรีดเกิดมาเพื่อเป็นส่วนหนึ่งของราชินีแดง"
+msgstr "วิกฟริดเกิดมาเพื่อเป็นส่วนหนึ่งของราชินีแดง"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_scarecrow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_scarecrow"
 msgid "Wigfrid fears nothing with a head full of stuffing."
-msgstr "วิกฟรีดไม่กลัวอะไรด้วยไส้ที่เต็มไปหมด"
+msgstr "วิกฟริดไม่กลัวอะไรด้วยไส้ที่เต็มไปหมด"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_shadow"
@@ -353212,17 +353212,17 @@ msgstr "ไม่มีอะไรจะหยุดวิกฟริดจา
 #. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_victorian"
 msgid "It seems Ms. Wigfrid can connect to the poetry of any tragedy."
-msgstr "ดูเหมือนว่าวิกฟรีดสามารถเชื่อมต่อบทกวีของโศกนาฏกรรมได้"
+msgstr "ดูเหมือนว่าวิกฟริดสามารถเชื่อมต่อบทกวีของโศกนาฏกรรมได้"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_western
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_western"
 msgid "Wigfrid never met a wild beefalo she couldn't tame."
-msgstr "Wigfrid ไม่เคยพบกับควายป่าตัวไหนที่เธอไม่สามารถฝึกให้เชื่องได้"
+msgstr "Wigfrid ไม่เคยพบกับบีฟาโล่ป่าตัวไหนที่เธอไม่สามารถฝึกให้เชื่องได้"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_wrestler
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_wrestler"
 msgid "Wigfrid's mic skills can't be beat!"
-msgstr "ทักษะไมค์ของวิกฟรีดสู้ไม่ได้!"
+msgstr "ทักษะไมค์ของวิกฟริดสู้ไม่ได้!"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_yule
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_yule"
@@ -353242,7 +353242,7 @@ msgstr "หางเสือสำหรับนักรบที่ศีร
 #. STRINGS.SKIN_DESCRIPTIONS.wathgrithrhat_western
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithrhat_western"
 msgid "Shield your eyes from the blazing sun as mind your beefalo herd."
-msgstr "ปกป้องดวงตาของคุณจากแสงแดดที่แผดจ้า และดูแลฝูงวัวควายของคุณให้ดี"
+msgstr "ปกป้องดวงตาของคุณจากแสงแดดที่แผดจ้า และดูแลฝูงวัวบีฟาโล่ของคุณให้ดี"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wathgrithrhat_wrestle
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithrhat_wrestle"
@@ -353837,7 +353837,7 @@ msgstr "งานกวาดนี้ค่อนข้างเหนื่อ
 #. STRINGS.SKIN_DESCRIPTIONS.wes_western
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wes_western"
 msgid "Here's to the quiet courage of one who leads a raging beefalo away from his friends."
-msgstr "เพื่อความกล้าหาญอันเงียบสงบของผู้ที่นำควายป่าที่กำลังโกรธจัดหนีห่างจากเพื่อนๆ ของเขา"
+msgstr "เพื่อความกล้าหาญอันเงียบสงบของผู้ที่นำบีฟาโล่ป่าที่กำลังโกรธจัดหนีห่างจากเพื่อนๆ ของเขา"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wes_wrestler
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wes_wrestler"
@@ -353857,12 +353857,12 @@ msgstr "ควบคุมความโกรธของป่า"
 #. STRINGS.SKIN_DESCRIPTIONS.wickerbottom_combatant
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wickerbottom_combatant"
 msgid "Wickerbottom is not opposed to self defense, should the occasion call for it."
-msgstr "วิกเกอร์บัตท่อม ไม่ได้ต่อต้านการป้องกันตัวเองควรเรียกโอกาสสำหรับมัน"
+msgstr "วิกเกอร์บอตทอม ไม่ได้ต่อต้านการป้องกันตัวเองควรเรียกโอกาสสำหรับมัน"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wickerbottom_cook
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wickerbottom_cook"
 msgid "Wickerbottom has several cookbooks for just such an occasion."
-msgstr "วิกเกอร์บัตท่อมมีตำรามากมายสำหรับโอกาสเช่นนี้"
+msgstr "วิกเกอร์บอตทอมมีตำรามากมายสำหรับโอกาสเช่นนี้"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wickerbottom_formal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wickerbottom_formal"
@@ -353877,7 +353877,7 @@ msgstr "วิวเกอร์บัตท่อมนอนไม่ได้
 #. STRINGS.SKIN_DESCRIPTIONS.wickerbottom_gladiator
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wickerbottom_gladiator"
 msgid "Wickerbottom adapted to life in the arena with grace and ease."
-msgstr "วิกเกอร์บัตท่อม ปรับให้เข้ากับชีวิตในที่เกิดเหตุด้วยความสง่างามและผ่อนคลาย"
+msgstr "วิกเกอร์บอตทอม ปรับให้เข้ากับชีวิตในที่เกิดเหตุด้วยความสง่างามและผ่อนคลาย"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wickerbottom_ice
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wickerbottom_ice"
@@ -353927,7 +353927,7 @@ msgstr "รูปลักษณ์อมตะสำหรับบรรณา
 #. STRINGS.SKIN_DESCRIPTIONS.wickerbottom_ornate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wickerbottom_ornate"
 msgid "Wickerbottom might have penned a novella or two, back in her wilder days."
-msgstr "วิกเกอร์บัตท่อมอาจเขียนโนเวลลาหนึ่งหรือสองเล่ม ย้อนกลับไปในสมัยที่รกร้างว่างเปล่าของเธอ"
+msgstr "วิกเกอร์บอตทอมอาจเขียนโนเวลลาหนึ่งหรือสองเล่ม ย้อนกลับไปในสมัยที่รกร้างว่างเปล่าของเธอ"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wickerbottom_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wickerbottom_rose"
@@ -353967,7 +353967,7 @@ msgstr "ผู้ที่มีความรู้เป็นสิ่งท
 #. STRINGS.SKIN_DESCRIPTIONS.wickerbottom_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wickerbottom_victorian"
 msgid "How did Ms. Wickerbottom accrue her fortune? Perhaps you should mind your own business."
-msgstr "คุณวิกเกอร์บัตท่อมได้สะสมทรัพย์สมบัติของเธอได้อย่างไร? บางทีคุณอาจจะสนใจธุรกิจของคุณเอง"
+msgstr "คุณวิกเกอร์บอตทอมได้สะสมทรัพย์สมบัติของเธอได้อย่างไร? บางทีคุณอาจจะสนใจธุรกิจของคุณเอง"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wickerbottom_yule
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wickerbottom_yule"
@@ -354802,22 +354802,22 @@ msgstr "เป็นการดีที่สุดที่จะไม่ท
 #. STRINGS.SKIN_DESCRIPTIONS.woodie_cook
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.woodie_cook"
 msgid "Woodie's not beyond using an axe in the kitchen."
-msgstr "วูดดี้ไม่ได้ใช้ขวานในห้องครัว"
+msgstr "วู้ดดี้ไม่ได้ใช้ขวานในห้องครัว"
 
 #. STRINGS.SKIN_DESCRIPTIONS.woodie_formal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.woodie_formal"
 msgid "Woodie puts bear fat in his hair when he goes out."
-msgstr "วูดดี้ทำใช้ไขมันหมีบนเส้นผมของเขา"
+msgstr "วู้ดดี้ทำใช้ไขมันหมีบนเส้นผมของเขา"
 
 #. STRINGS.SKIN_DESCRIPTIONS.woodie_formalp
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.woodie_formalp"
 msgid "Woodie puts bear fat in his hair when he goes out."
-msgstr "วูดดี้ทำใช้ไขมันหมีบนเส้นผมของเขา"
+msgstr "วู้ดดี้ทำใช้ไขมันหมีบนเส้นผมของเขา"
 
 #. STRINGS.SKIN_DESCRIPTIONS.woodie_gladiator
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.woodie_gladiator"
 msgid "Woodie is a wild man in the arena."
-msgstr "วูดดี้เป็นคนป่าในเวที"
+msgstr "วู้ดดี้เป็นคนป่าในเวที"
 
 #. STRINGS.SKIN_DESCRIPTIONS.woodie_hippie
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.woodie_hippie"
@@ -354827,7 +354827,7 @@ msgstr "เครื่องแต่งกายของ Woodie's Hallowed Ni
 #. STRINGS.SKIN_DESCRIPTIONS.woodie_hockey
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.woodie_hockey"
 msgid "Woodie will never pass up an opportunity to hit the ice."
-msgstr "วูดดี้จะไม่มีวันพลาดโอกาสที่จะโดนน้ำแข็ง"
+msgstr "วู้ดดี้จะไม่มีวันพลาดโอกาสที่จะโดนน้ำแข็ง"
 
 #. STRINGS.SKIN_DESCRIPTIONS.woodie_ice
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.woodie_ice"
@@ -354852,7 +354852,7 @@ msgstr "สุภาพบุรุษผู้สง่างาม หรื�
 #. STRINGS.SKIN_DESCRIPTIONS.woodie_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.woodie_nature"
 msgid "All Woodie needs is the sun, the rain, and his favourite tree seeds."
-msgstr "ทุกความต้องการของวูดดี้คือแดดฝนและเมล็ดพืชที่เขาโปรดปราน"
+msgstr "ทุกความต้องการของวู้ดดี้คือแดดฝนและเมล็ดพืชที่เขาโปรดปราน"
 
 #. STRINGS.SKIN_DESCRIPTIONS.woodie_none
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.woodie_none"
@@ -354902,12 +354902,12 @@ msgstr "ชุดแต่งกาย Woodguard\n\nสวมใส่ได้�
 #. STRINGS.SKIN_DESCRIPTIONS.woodie_treeguard_d
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.woodie_treeguard_d"
 msgid "Woodie will have twigs stuck in his beard for weeks. Not that that's unusual."
-msgstr "วูดดี้จะมีกิ่งติดอยู่ในเคราของเขาเป็นเวลาหลายสัปดาห์ ไม่ใช่ว่าเป็นเรื่องผิดปกติ"
+msgstr "วู้ดดี้จะมีกิ่งติดอยู่ในเคราของเขาเป็นเวลาหลายสัปดาห์ ไม่ใช่ว่าเป็นเรื่องผิดปกติ"
 
 #. STRINGS.SKIN_DESCRIPTIONS.woodie_treeguard_p
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.woodie_treeguard_p"
 msgid "Woodie will have twigs stuck in his beard for weeks. Not that that's unusual."
-msgstr "วูดดี้จะมีกิ่งติดอยู่ในเคราของเขาเป็นเวลาหลายสัปดาห์ ไม่ใช่ว่าเป็นเรื่องผิดปกติ"
+msgstr "วู้ดดี้จะมีกิ่งติดอยู่ในเคราของเขาเป็นเวลาหลายสัปดาห์ ไม่ใช่ว่าเป็นเรื่องผิดปกติ"
 
 #. STRINGS.SKIN_DESCRIPTIONS.woodie_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.woodie_victorian"
@@ -375367,12 +375367,12 @@ msgstr "แวนด้า"
 #. STRINGS.SKIN_TAG_CATEGORIES.CHARACTER.WARLY
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.CHARACTER.WARLY"
 msgid "Warly"
-msgstr "วอล่า"
+msgstr "วอร์ลี่"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.CHARACTER.WATHGRITHR
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.CHARACTER.WATHGRITHR"
 msgid "Wigfrid"
-msgstr "วิกฟรีด"
+msgstr "วิกฟริด"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.CHARACTER.WAXWELL
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.CHARACTER.WAXWELL"
@@ -375397,7 +375397,7 @@ msgstr "เวส"
 #. STRINGS.SKIN_TAG_CATEGORIES.CHARACTER.WICKERBOTTOM
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.CHARACTER.WICKERBOTTOM"
 msgid "Wickerbottom"
-msgstr "วิกเกอร์บัตท่อม"
+msgstr "วิกเกอร์บอตทอม"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.CHARACTER.WILLOW
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.CHARACTER.WILLOW"
@@ -375422,7 +375422,7 @@ msgstr "วูล์ฟกัง"
 #. STRINGS.SKIN_TAG_CATEGORIES.CHARACTER.WOODIE
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.CHARACTER.WOODIE"
 msgid "Woodie"
-msgstr "วูดดี้"
+msgstr "วู้ดดี้"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.CHARACTER.WORMWOOD
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.CHARACTER.WORMWOOD"
@@ -375872,7 +375872,7 @@ msgstr "สีเหลือง"
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.ABIGAIL
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.ABIGAIL"
 msgid "Abigail"
-msgstr "อบิเกล"
+msgstr "อาบิเกล"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.ALCHEMY
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.ALCHEMY"
@@ -376372,7 +376372,7 @@ msgstr "เสาโอเบลิส"
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.KRAMPUS_SACK
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.KRAMPUS_SACK"
 msgid "Krampus Sack"
-msgstr "ถุงแครมปัส"
+msgstr "ถุงครัมปัส"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.LANTERN
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.LANTERN"
@@ -376957,7 +376957,7 @@ msgstr "เครื่องกำเนิดไฟฟ้าของ Winona"
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.WINONA_CATAPULT
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.WINONA_CATAPULT"
 msgid "Winona's Catapult"
-msgstr "เครื่องยิงหนังสติ๊กของวินโอน่า"
+msgstr "เครื่องยิงหนังสติ๊กของวิโนน่า"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.WINONA_SPOTLIGHT
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.WINONA_SPOTLIGHT"
@@ -376977,7 +376977,7 @@ msgstr "เครื่องมือวัดความร้อน"
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.WOBY
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.WOBY"
 msgid "Woby"
-msgstr "วอบี้"
+msgstr "โวบี้"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.WOOD_CHAIR
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.WOOD_CHAIR"
@@ -380722,7 +380722,7 @@ msgstr "3"
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.17.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.17.line"
 msgid "Mr. Woodie's never told me if it's actually true..."
-msgstr "คุณวูดดี้ไม่เคยบอกฉันว่ามันเป็นเรื่องจริงหรือไม่..."
+msgstr "คุณวู้ดดี้ไม่เคยบอกฉันว่ามันเป็นเรื่องจริงหรือไม่..."
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.2.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.2.duration"
@@ -382082,7 +382082,7 @@ msgstr "ออกจากการติดตามโดยชาวสแก
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_victory.DESC
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_victory.DESC"
 msgid "Defeat Battlemaster Pugna's warriors as Wigfrid"
-msgstr "กำจัดนักรบของผู้คุมการรบบุคนาในฐานะวิกฟรีด"
+msgstr "กำจัดนักรบของผู้คุมการรบบุคนาในฐานะวิกฟริด"
 
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_victory.TITLE
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_victory.TITLE"
@@ -382232,7 +382232,7 @@ msgstr "คฑาคลังสมอง"
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_victory.DESC
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_victory.DESC"
 msgid "Defeat Battlemaster Pugna's warriors as Wickerbottom"
-msgstr "กำจัดนักรบของผู้คุมการรบบุคนาในฐานะวิกเกอร์บัตท่อม"
+msgstr "กำจัดนักรบของผู้คุมการรบบุคนาในฐานะวิกเกอร์บอตทอม"
 
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_victory.TITLE
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_victory.TITLE"
@@ -382412,7 +382412,7 @@ msgstr "บล็อกสับ"
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_victory.DESC
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_victory.DESC"
 msgid "Defeat Battlemaster Pugna's warriors as Woodie"
-msgstr "กำจัดนักรบของผู้คุมการรบบุคนาในฐานะวูดดี้"
+msgstr "กำจัดนักรบของผู้คุมการรบบุคนาในฐานะวู้ดดี้"
 
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_victory.TITLE
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_victory.TITLE"
@@ -382462,7 +382462,7 @@ msgstr "การเดินทางที่สมบูรณ์แบบ"
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wathgrithr
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wathgrithr"
 msgid "Wigfrid"
-msgstr "วิกฟรีด"
+msgstr "วิกฟริด"
 
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.waxwell
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.waxwell"
@@ -382487,7 +382487,7 @@ msgstr "เวส"
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wickerbottom
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wickerbottom"
 msgid "Wickerbottom"
-msgstr "วิกเกอร์บัตท่อม"
+msgstr "วิกเกอร์บอตทอม"
 
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.willow
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.willow"
@@ -382517,7 +382517,7 @@ msgstr "วูล์ฟกัง"
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.woodie
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.woodie"
 msgid "Woodie"
-msgstr "วูดดี้"
+msgstr "วู้ดดี้"
 
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wx78
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wx78"
@@ -383642,7 +383642,7 @@ msgstr "เครา"
 #. STRINGS.UI.COLLECTIONSCREEN.BEEFALO
 msgctxt "STRINGS.UI.COLLECTIONSCREEN.BEEFALO"
 msgid "Beefalo"
-msgstr "เนื้อ"
+msgstr "บีฟาโล่"
 
 #. STRINGS.UI.COLLECTIONSCREEN.EMOJI
 msgctxt "STRINGS.UI.COLLECTIONSCREEN.EMOJI"
@@ -385432,7 +385432,7 @@ msgstr " - ไม่มีปุ่ม - "
 #. STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.1
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.1"
 msgid "Keyboard/Mouse"
-msgstr "คีย์บอร์ด/เมาส์"
+msgstr "กุญแจบอร์ด/เมาส์"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.10
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.10"
@@ -385887,7 +385887,7 @@ msgstr "ผัก"
 #. STRINGS.UI.COOKBOOK.FOOD_EFFECTS_BEEFALO
 msgctxt "STRINGS.UI.COOKBOOK.FOOD_EFFECTS_BEEFALO"
 msgid "Treat your Beefalo"
-msgstr "เลี้ยงควายของคุณ"
+msgstr "เลี้ยงบีฟาโล่ของคุณ"
 
 #. STRINGS.UI.COOKBOOK.FOOD_EFFECTS_COLD_FOOD
 msgctxt "STRINGS.UI.COOKBOOK.FOOD_EFFECTS_COLD_FOOD"
@@ -388187,7 +388187,7 @@ msgstr "เคลาส์"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.KRAMPUS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.KRAMPUS"
 msgid "Krampii"
-msgstr "แครมปัส"
+msgstr "ครัมปัส"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.LESSDAMAGETAKEN
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LESSDAMAGETAKEN"
@@ -388577,7 +388577,7 @@ msgstr "หมู"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PIRATERAIDS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PIRATERAIDS"
 msgid "Moon Quay Pirates"
-msgstr "โจรสลัดมูนคีย์"
+msgstr "โจรสลัดมูนกุญแจ"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PONDS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PONDS"
@@ -391392,7 +391392,7 @@ msgstr "กาลครั้งหนึ่ง เด็กชายตัว�
 #. STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_WENDY
 msgctxt "STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_WENDY"
 msgid "Nothing could ever come between Wendy and her twin sister Abigail. Some bonds transcend even death."
-msgstr "ไม่มีอะไรมาขวางกั้นระหว่างเวนดี้กับอบิเกล น้องสาวฝาแฝดของเธอได้ ความผูกพันบางอย่างอยู่เหนือความตาย"
+msgstr "ไม่มีอะไรมาขวางกั้นระหว่างเวนดี้กับอาบิเกล น้องสาวฝาแฝดของเธอได้ ความผูกพันบางอย่างอยู่เหนือความตาย"
 
 #. STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_WICKERBOTTOM
 msgctxt "STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_WICKERBOTTOM"
@@ -391497,7 +391497,7 @@ msgstr "\"ดวงจันทร์ในโลกนี้ดูเหมื�
 #. STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_NAUGHTINESS
 msgctxt "STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_NAUGHTINESS"
 msgid "\"We shouldn't hurt things that don't hurt us. If we're mean, bad old Mr. Krampus will come...\" -W"
-msgstr "\"เราไม่ควรทำร้ายสิ่งที่ไม่ทำร้ายเรา ถ้าเราใจร้าย นายแครมปัสเฒ่าจะมา...\" -วิล"
+msgstr "\"เราไม่ควรทำร้ายสิ่งที่ไม่ทำร้ายเรา ถ้าเราใจร้าย นายครัมปัสเฒ่าจะมา...\" -วิล"
 
 #. STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_NEWRECIPES
 msgctxt "STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_NEWRECIPES"
@@ -392637,7 +392637,7 @@ msgstr "คะแนนเกมนี้"
 #. STRINGS.UI.MAINSCREEN.REDEEM
 msgctxt "STRINGS.UI.MAINSCREEN.REDEEM"
 msgid "Redeem"
-msgstr "เปิดใช้คีย์"
+msgstr "เปิดใช้กุญแจ"
 
 #. STRINGS.UI.MAINSCREEN.REGISTER_SECOND_PLAYER
 msgctxt "STRINGS.UI.MAINSCREEN.REGISTER_SECOND_PLAYER"
@@ -393827,12 +393827,12 @@ msgstr "บันทึกการเก็บเกี่ยว"
 #. STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_burnt
 msgctxt "STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_burnt"
 msgid "meals burnt to cinders"
-msgstr "อาหารที่ถูกเผาเป็นเถ้าถ่าน"
+msgstr "อาหารที่ถูกเผาเป็นขี้เถ้า"
 
 #. STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_burnt2
 msgctxt "STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_burnt2"
 msgid "meals burnt to cinders"
-msgstr "อาหารที่ถูกเผาเป็นเถ้าถ่าน"
+msgstr "อาหารที่ถูกเผาเป็นขี้เถ้า"
 
 #. STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_made
 msgctxt "STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_made"
@@ -395822,7 +395822,7 @@ msgstr "ปรับแต่งขนาดของ UI"
 #. STRINGS.UI.OPTIONS.TOOLTIPS.INPUT
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.INPUT"
 msgid "Controller or Keyboard? Play Don't Starve Together your way."
-msgstr "คอนโทรลเลอร์หรือคีย์บอร์ด? เล่น Don't Starve Together ในแบบของคุณ"
+msgstr "คอนโทรลเลอร์หรือกุญแจบอร์ด? เล่น Don't Starve Together ในแบบของคุณ"
 
 #. STRINGS.UI.OPTIONS.TOOLTIPS.INVENTORYSENSITIVITY
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.INVENTORYSENSITIVITY"
@@ -402402,12 +402402,12 @@ msgstr "เกี่ยวกับหนวดของวูล์ฟกัง
 #. STRINGS.UI.WORLDGEN.NOUNS.13
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.13"
 msgid "Wickerbottom's glasses..."
-msgstr "เกี่ยวกับแว่นตาของวิกเกอร์บัตท่อม.."
+msgstr "เกี่ยวกับแว่นตาของวิกเกอร์บอตทอม.."
 
 #. STRINGS.UI.WORLDGEN.NOUNS.14
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.14"
 msgid "Wigfrid's umlauts..."
-msgstr "เกี่ยวกับอูมละอุทของวิกฟรีด.."
+msgstr "เกี่ยวกับอูมละอุทของวิกฟริด.."
 
 #. STRINGS.UI.WORLDGEN.NOUNS.15
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.15"
@@ -402447,7 +402447,7 @@ msgstr "ใบวอร์มวูด.."
 #. STRINGS.UI.WORLDGEN.NOUNS.21
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.21"
 msgid "Warly's spices..."
-msgstr "เครื่องเทศของวอล่า.."
+msgstr "เครื่องเทศของวอร์ลี่.."
 
 #. STRINGS.UI.WORLDGEN.NOUNS.22
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.22"
