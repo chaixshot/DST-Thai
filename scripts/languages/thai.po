@@ -4759,12 +4759,12 @@ msgstr "พวกเขาจะไม่ฟังฉัน แต่พวก�
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.HITCHUP.BEEF_HITCHED
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.HITCHUP.BEEF_HITCHED"
 msgid "My beefalo is already hitched up."
-msgstr "เนื้อของฉันถูกผูกไว้เรียบร้อยแล้ว"
+msgstr "บีฟาโล่ของฉันถูกผูกไว้เรียบร้อยแล้ว"
 
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.HITCHUP.INMOOD
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.HITCHUP.INMOOD"
 msgid "My beefalo seems to be too lively."
-msgstr "เนื้อของฉันดูมีชีวิตชีวาเกินไป"
+msgstr "บีฟาโล่ของฉันดูมีชีวิตชีวาเกินไป"
 
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.HITCHUP.NEEDBEEF
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.HITCHUP.NEEDBEEF"
@@ -4774,7 +4774,7 @@ msgstr "ถ้าฉันมีกระดิ่ง ฉันจะเป็�
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.HITCHUP.NEEDBEEF_CLOSER
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.HITCHUP.NEEDBEEF_CLOSER"
 msgid "My beefalo buddy is too far away."
-msgstr "เพื่อนเนื้อของฉันอยู่ไกลเกินไป"
+msgstr "เพื่อนบีฟาโล่ของฉันอยู่ไกลเกินไป"
 
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.LOOKAT.ROSEGLASSES_COOLDOWN
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.LOOKAT.ROSEGLASSES_COOLDOWN"
@@ -4839,7 +4839,7 @@ msgstr "ได้เวลาตื่นแล้ว!"
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
 msgid "I know better than to bother an angry beefalo!"
-msgstr "ฉันรู้ดีกว่าไปรบกวนเนื้อที่โกรธ!"
+msgstr "ฉันรู้ดีกว่าไปรบกวนบีฟาโล่ที่โกรธ!"
 
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.MUTATE.CAVE
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.MUTATE.CAVE"
@@ -5119,7 +5119,7 @@ msgstr "only_used_by_woodie"
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.SHAVE.SOMEONEELSESBEEFALO
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.SHAVE.SOMEONEELSESBEEFALO"
 msgid "I won't shave someone else's beefalo!"
-msgstr "ฉันจะไม่โกนเนื้อของคนอื่น!"
+msgstr "ฉันจะไม่โกนบีฟาโล่ของคนอื่น!"
 
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.SING_FAIL.SAMESONG
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.SING_FAIL.SAMESONG"
@@ -5219,7 +5219,7 @@ msgstr "only_used_by_webber"
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.USEITEMON.BEEF_BELL_ALREADY_USED
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.USEITEMON.BEEF_BELL_ALREADY_USED"
 msgid "This beefalo already belongs to someone else."
-msgstr "เนื้อชิ้นนี้เป็นของคนอื่นแล้ว"
+msgstr "บีฟาโล่นี้เป็นของคนอื่นแล้ว"
 
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.USEITEMON.BEEF_BELL_HAS_BEEF_ALREADY
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.USEITEMON.BEEF_BELL_HAS_BEEF_ALREADY"
@@ -5549,7 +5549,7 @@ msgstr "only_used_by_wurt"
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_CANTBUILDHERE_YOTB_POST
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_CANTBUILDHERE_YOTB_POST"
 msgid "The judge won't be able to see my beefalo from here."
-msgstr "ผู้พิพากษาไม่สามารถเห็นเนื้อของฉันได้จากที่นี่"
+msgstr "ผู้พิพากษาไม่สามารถเห็นบีฟาโล่ของฉันได้จากที่นี่"
 
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_CANT_ESCAPE_CURSE
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_CANT_ESCAPE_CURSE"
@@ -6399,7 +6399,7 @@ msgstr "only_used_by_wathgrithr"
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_NOMOUNTEDGIFT
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_NOMOUNTEDGIFT"
 msgid "I should get off my beefalo first."
-msgstr "ฉันควรลงจากเนื้อของฉันก่อน"
+msgstr "ฉันควรลงจากบีฟาโล่ของฉันก่อน"
 
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_NONIGHTSIESTA
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_NONIGHTSIESTA"
@@ -8399,7 +8399,7 @@ msgstr "เขามาอย่างสงบสุข"
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.GENERIC
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.GENERIC"
 msgid "It's a beefalo!"
-msgstr "มันคือเนื้อวัว!"
+msgstr "มันคือบีฟาโล่!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.MYPARTNER
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.MYPARTNER"
@@ -8449,22 +8449,22 @@ msgstr "เป็นเม็ดเล็กเกินไปสำหรับ
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALOWOOL
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALOWOOL"
 msgid "It smells like beefalo tears."
-msgstr "มันมีกลิ่นเหมือนน้ำตาเนื้อ"
+msgstr "มันมีกลิ่นเหมือนน้ำตาบีฟาโล่"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO_GROOMER.BURNT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO_GROOMER.BURNT"
 msgid "I styled my beefalo in the hottest fashions... and paid the price."
-msgstr "ฉันจัดสไตล์เนื้อวัวของฉันในแบบที่ร้อนแรงที่สุด...และยอมจ่ายตามราคา"
+msgstr "ฉันจัดสไตล์บีฟาโล่ของฉันในแบบที่ร้อนแรงที่สุด...และยอมจ่ายตามราคา"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO_GROOMER.GENERIC
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO_GROOMER.GENERIC"
 msgid "There's no beefalo here to groom."
-msgstr "ที่นี่ไม่มีเนื้อวัวสำหรับเลี้ยง"
+msgstr "ที่นี่ไม่มีบีฟาโล่สำหรับเลี้ยง"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO_GROOMER.OCCUPIED
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO_GROOMER.OCCUPIED"
 msgid "Let's beautify this beefalo!"
-msgstr "มาตกแต่งเนื้อนี้กันเถอะ!"
+msgstr "มาตกแต่งบีฟาโล่นี่กันเถอะ!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO_GROOMER_ITEM
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO_GROOMER_ITEM"
@@ -9044,7 +9044,7 @@ msgstr "ฉันคิดว่าฉันจะเอามันออกไ
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BODYPILLOW_BEEFALOWOOL
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
 msgid "If only it didn't also smell like a beefalo."
-msgstr "ถ้าเพียงแต่มันไม่ได้มีกลิ่นเนื้อวัว"
+msgstr "ถ้าเพียงแต่มันไม่ได้มีกลิ่นบีฟาโล่"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BODYPILLOW_KELP
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BODYPILLOW_KELP"
@@ -9054,7 +9054,7 @@ msgstr "มันเปียกกว่าที่ฉันต้องกา
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BODYPILLOW_PETALS
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BODYPILLOW_PETALS"
 msgid "At least it smells nicer than the beefalo pillow."
-msgstr "อย่างน้อยก็หอมกว่าหมอนเนื้อวัว"
+msgstr "อย่างน้อยก็หอมกว่าหมอนบีฟาโล่"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BODYPILLOW_STEELWOOL
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BODYPILLOW_STEELWOOL"
@@ -9214,7 +9214,7 @@ msgstr "มันพัง แต่ฉันคิดว่าฉันซ่�
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BRUSH
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BRUSH"
 msgid "I bet the beefalo really like this."
-msgstr "ฉันพนันได้เลยว่าเนื้อต้องแบบนี้"
+msgstr "ฉันพนันได้เลยว่าบีฟาโล่ต้องแบบนี้"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BUGNET
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BUGNET"
@@ -10929,7 +10929,7 @@ msgstr "อ๊ะ! ฉันคิดว่าด็อคขาดอะไร�
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.DOLL_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.DOLL_BLUEPRINT"
 msgid "My beefalo will look as cute as a button!"
-msgstr "เนื้อของฉันจะดูน่ารักราวกับกระดุม!"
+msgstr "บีฟาโล่ของฉันจะดูน่ารักราวกับกระดุม!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.DRAGONBOAT_KIT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.DRAGONBOAT_KIT"
@@ -11734,7 +11734,7 @@ msgstr "หืม ฉันจำไม่ได้ว่าฉันจะพ�
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.FORMAL_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.FORMAL_BLUEPRINT"
 msgid "This is a costume for some Grade A beefalo."
-msgstr "นี่คือชุดสำหรับเนื้อวัวเกรด A บางตัว"
+msgstr "นี่คือชุดสำหรับบีฟาโล่เกรด A บางตัว"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.FOSSIL_PIECE
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.FOSSIL_PIECE"
@@ -12454,7 +12454,7 @@ msgstr "มันเป็นค้อนหนักสำหรับทุบ
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HANDPILLOW_BEEFALOWOOL
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
 msgid "If only it didn't also smell like a beefalo."
-msgstr "ถ้าเพียงแต่มันไม่ได้มีกลิ่นเนื้อวัว"
+msgstr "ถ้าเพียงแต่มันไม่ได้มีกลิ่นบีฟาโล่"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HANDPILLOW_KELP
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HANDPILLOW_KELP"
@@ -12464,7 +12464,7 @@ msgstr "มันเปียกกว่าที่ฉันต้องกา
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HANDPILLOW_PETALS
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HANDPILLOW_PETALS"
 msgid "At least it smells nicer than the beefalo pillow."
-msgstr "อย่างน้อยก็หอมกว่าหมอนเนื้อวัว"
+msgstr "อย่างน้อยก็หอมกว่าหมอนบีฟาโล่"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HANDPILLOW_STEELWOOL
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HANDPILLOW_STEELWOOL"
@@ -12779,7 +12779,7 @@ msgstr "สัมผัสได้ถึงความหนาวเย็น
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ICE_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ICE_BLUEPRINT"
 msgid "I usually like my beefalo fresh, not frozen."
-msgstr "ปกติฉันชอบเนื้อสด ไม่แช่แข็ง"
+msgstr "ปกติฉันชอบบีฟาโล่ ไม่แช่แข็ง"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.INSANITYROCK.ACTIVE
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.INSANITYROCK.ACTIVE"
@@ -17754,7 +17754,7 @@ msgstr "โอ้ย! ฉันอยากฝังขวานอันนี�
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SHADOW_BEEF_BELL
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SHADOW_BEEF_BELL"
 msgid "It's a dead ringer for my old beefalo bell."
-msgstr "มันเหมือนกับกระดิ่งบีฟฟาโลอันเก่าของฉันเลย"
+msgstr "มันเหมือนกับกระดิ่งบีฟาโล่อันเก่าของฉันเลย"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SHADOW_FORGE
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SHADOW_FORGE"
@@ -21784,7 +21784,7 @@ msgstr "มีกลิ่นเหมือนบาร์บีคิว"
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTB_BEEFALOSHRINE.EMPTY
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTB_BEEFALOSHRINE.EMPTY"
 msgid "Hm... what makes a beefalo?"
-msgstr "หืม... อะไรทำให้เป็นเนื้อ"
+msgstr "หืม... อะไรทำให้เป็นบีฟาโล่?"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTB_BEEFALOSHRINE.GENERIC
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTB_BEEFALOSHRINE.GENERIC"
@@ -21884,17 +21884,17 @@ msgstr "ฉันสงสัยว่าผู้พิพากษาจะพ
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTB_PATTERN_FRAGMENT_1
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTB_PATTERN_FRAGMENT_1"
 msgid "If I put some of these together, I bet I could make a beefalo costume."
-msgstr "ถ้าฉันรวมสิ่งเหล่านี้เข้าด้วยกัน ฉันพนันได้เลยว่าฉันจะทำชุดเนื้อวัวได้"
+msgstr "ถ้าฉันรวมสิ่งเหล่านี้เข้าด้วยกัน ฉันพนันได้เลยว่าฉันจะทำชุดบีฟาโล่ได้"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTB_PATTERN_FRAGMENT_2
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTB_PATTERN_FRAGMENT_2"
 msgid "If I put some of these together, I bet I could make a beefalo costume."
-msgstr "ถ้าฉันรวมสิ่งเหล่านี้เข้าด้วยกัน ฉันพนันได้เลยว่าฉันจะทำชุดเนื้อวัวได้"
+msgstr "ถ้าฉันรวมสิ่งเหล่านี้เข้าด้วยกัน ฉันพนันได้เลยว่าฉันจะทำชุดบีฟาโล่ได้"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTB_PATTERN_FRAGMENT_3
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTB_PATTERN_FRAGMENT_3"
 msgid "If I put some of these together, I bet I could make a beefalo costume."
-msgstr "ถ้าฉันรวมสิ่งเหล่านี้เข้าด้วยกัน ฉันพนันได้เลยว่าฉันจะทำชุดเนื้อวัวได้"
+msgstr "ถ้าฉันรวมสิ่งเหล่านี้เข้าด้วยกัน ฉันพนันได้เลยว่าฉันจะทำชุดบีฟาโล่ได้"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTB_POST
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTB_POST"
@@ -22939,7 +22939,7 @@ msgstr "พวกเขาไม่ฟังฉัน! บางทีเว็�
 #. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.HITCHUP.BEEF_HITCHED
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.HITCHUP.BEEF_HITCHED"
 msgid "Don't worry, my beefalo isn't going anywhere."
-msgstr "ไม่ต้องห่วง เนื้อวัวของฉันจะไม่ไปไหน"
+msgstr "ไม่ต้องห่วง บีฟาโล่ของฉันจะไม่ไปไหน"
 
 #. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.HITCHUP.INMOOD
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.HITCHUP.INMOOD"
@@ -22949,12 +22949,12 @@ msgstr "บางทีเราควรรอให้พวกเขาสง
 #. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.HITCHUP.NEEDBEEF
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.HITCHUP.NEEDBEEF"
 msgid "Sorry Woby, I need a real beefalo for this."
-msgstr "ขออภัย Woby ฉันต้องการเนื้อจริงๆสำหรับสิ่งนี้"
+msgstr "ขออภัย Woby ฉันต้องการบีฟาโล่จริงๆสำหรับสิ่งนี้"
 
 #. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.HITCHUP.NEEDBEEF_CLOSER
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.HITCHUP.NEEDBEEF_CLOSER"
 msgid "I should call my beefalo over here."
-msgstr "ฉันควรเรียกเนื้อของฉันที่นี่"
+msgstr "ฉันควรเรียกบีฟาโล่ของฉันที่นี่"
 
 #. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.LOWER_SAIL_FAIL.1
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.LOWER_SAIL_FAIL.1"
@@ -25044,7 +25044,7 @@ msgstr "only_used_by_wx78"
 #. STRINGS.CHARACTERS.WALTER.ANNOUNCE_YOTB_LEARN_NEW_PATTERN
 msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_YOTB_LEARN_NEW_PATTERN"
 msgid "Hey, I think I can make a new beefalo costume!"
-msgstr "เฮ้ ฉันคิดว่าฉันทำคอสตูมเนื้อใหม่ได้!"
+msgstr "เฮ้ ฉันคิดว่าฉันทำคอสตูมบีฟาโล่ใหม่ได้!"
 
 #. STRINGS.CHARACTERS.WALTER.ANNOUNCE_YOTD_NOBOATS
 msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_YOTD_NOBOATS"
@@ -26134,7 +26134,7 @@ msgstr "มีน้ำผึ้งอยู่บ้างแต่ไม่ค
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.BEEFALO.DEAD
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.BEEFALO.DEAD"
 msgid "Poor beefalo."
-msgstr "เนื้อบีฟฟาโลที่น่าสงสาร"
+msgstr "บีฟาโล่ที่น่าสงสาร"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.BEEFALO.DEAD_MYPARTNER
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.BEEFALO.DEAD_MYPARTNER"
@@ -26189,12 +26189,12 @@ msgstr "พวกเขากำลังงีบหลับ"
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.BEEFALOFEED
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.BEEFALOFEED"
 msgid "Come here, beefalo! Dinner time!"
-msgstr "มานี่เลย บีฟฟาโล่! เวลาอาหารเย็น!"
+msgstr "มานี่เลย บีฟาโล่่! เวลาอาหารเย็น!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.BEEFALOHAT
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.BEEFALOHAT"
 msgid "It sure smells like beefalo..."
-msgstr "มันมีกลิ่นเหมือนเนื้อวัว..."
+msgstr "มันมีกลิ่นเหมือนบีฟาโล่..."
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.BEEFALOTREAT
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.BEEFALOTREAT"
@@ -26204,7 +26204,7 @@ msgstr "ไม่ต้องห่วง โวบี้ ฉันจะทำ�
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.BEEFALOWOOL
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.BEEFALOWOOL"
 msgid "Sorry, beefalo."
-msgstr "ขออภัย เนื้อวัว"
+msgstr "ขออภัย บีฟาโล่"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.BEEFALO_GROOMER.BURNT
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.BEEFALO_GROOMER.BURNT"
@@ -26229,7 +26229,7 @@ msgstr "ไปตั้งค่าทั้งหมดดีกว่า"
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.BEEF_BELL
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.BEEF_BELL"
 msgid "The beefalo seem to really like the sound it makes!"
-msgstr "ดูเหมือนเนื้อวัวจะชอบเสียงของมันจริงๆ!"
+msgstr "ดูเหมือนบีฟาโล่จะชอบเสียงของมันจริงๆ!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.BEEGUARD
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.BEEGUARD"
@@ -35139,7 +35139,7 @@ msgstr "อย่ากิน Woby นั่นสำหรับบีฟาโ
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.SALTLICK_IMPROVED
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SALTLICK_IMPROVED"
 msgid "You're not a beefalo, Woby."
-msgstr "คุณไม่ใช่บีฟฟาโลนะ โวบี้"
+msgstr "คุณไม่ใช่บีฟาโล่นะ โวบี้"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.SALTROCK
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SALTROCK"
@@ -38084,7 +38084,7 @@ msgstr "ขอบคุณนะคุณ %s! ตรงประเด็นจ�
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WAR_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WAR_BLUEPRINT"
 msgid "I wonder if the beefalo actually like wearing these."
-msgstr "ฉันสงสัยว่าเจ้าเนื้อชอบใส่พวกนี้จริงๆหรือเปล่า"
+msgstr "ฉันสงสัยว่าเจ้าบีฟาโล่ชอบใส่พวกนี้จริงๆหรือเปล่า"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WASPHIVE
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WASPHIVE"
@@ -39579,22 +39579,22 @@ msgstr "คุณคิดอย่างไร Woby ฉันควรแสด
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTB_PATTERN_FRAGMENT_1
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTB_PATTERN_FRAGMENT_1"
 msgid "This looks like instructions for a beefalo costume! Only part of one, though..."
-msgstr "ดูเหมือนคำสั่งสำหรับคอสตูมเนื้อ! มีแค่ส่วนหนึ่งเท่านั้น..."
+msgstr "ดูเหมือนคำสั่งสำหรับคอสตูมบีฟาโล่! มีแค่ส่วนหนึ่งเท่านั้น..."
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTB_PATTERN_FRAGMENT_2
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTB_PATTERN_FRAGMENT_2"
 msgid "This looks like instructions for a beefalo costume! Only part of one, though..."
-msgstr "ดูเหมือนคำสั่งสำหรับคอสตูมเนื้อ! มีแค่ส่วนหนึ่งเท่านั้น..."
+msgstr "ดูเหมือนคำสั่งสำหรับคอสตูมบีฟาโล่! มีแค่ส่วนหนึ่งเท่านั้น..."
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTB_PATTERN_FRAGMENT_3
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTB_PATTERN_FRAGMENT_3"
 msgid "This looks like instructions for a beefalo costume! Only part of one, though..."
-msgstr "ดูเหมือนคำสั่งสำหรับคอสตูมเนื้อ! มีแค่ส่วนหนึ่งเท่านั้น..."
+msgstr "ดูเหมือนคำสั่งสำหรับคอสตูมบีฟาโล่! มีแค่ส่วนหนึ่งเท่านั้น..."
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTB_POST
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTB_POST"
 msgid "It's pretty hard to teach a beefalo \"sit\" and \"stay\"."
-msgstr "มันค่อนข้างยากที่จะสอนเนื้อวัว \"นั่ง\" และ \"อยู่\""
+msgstr "มันค่อนข้างยากที่จะสอนบีฟาโล่ \"นั่ง\" และ \"อยู่\""
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTB_POST_ITEM
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTB_POST_ITEM"
@@ -40664,7 +40664,7 @@ msgstr "เดี๋ยวก่อน ฉันทำไปแล้ว!"
 #. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.HITCHUP.INMOOD
 msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.HITCHUP.INMOOD"
 msgid "I don't have the patience to deal with a mean-tempered beefalo."
-msgstr "ฉันไม่มีความอดทนที่จะจัดการกับเนื้อวัวอารมณ์ร้าย"
+msgstr "ฉันไม่มีความอดทนที่จะจัดการกับบีฟาโล่อารมณ์ร้าย"
 
 #. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.HITCHUP.NEEDBEEF
 msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.HITCHUP.NEEDBEEF"
@@ -40714,7 +40714,7 @@ msgstr "ตื่นได้แล้ว! มีที่ต้องไป ส
 #. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
 msgid "I will not meet my end trampled beneath the hooves of an angry beefalo!"
-msgstr "ฉันจะไม่พบกับจุดจบของฉันที่ถูกเหยียบย่ำอยู่ใต้กีบของเนื้อโกรธ!"
+msgstr "ฉันจะไม่พบกับจุดจบของฉันที่ถูกเหยียบย่ำอยู่ใต้กีบของบีฟาโล่โกรธ!"
 
 #. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.MUTATE.CAVE
 msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.MUTATE.CAVE"
@@ -40929,7 +40929,7 @@ msgstr "only_used_by_woodie"
 #. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.SHAVE.SOMEONEELSESBEEFALO
 msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.SHAVE.SOMEONEELSESBEEFALO"
 msgid "I don't have time to waste on shaving other people's beefalo!"
-msgstr "ฉันไม่มีเวลาไปเสียเวลาโกนเนื้อของคนอื่นให้เสียเวลา!"
+msgstr "ฉันไม่มีเวลาไปเสียเวลาโกนบีฟาโล่ของคนอื่นให้เสียเวลา!"
 
 #. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.SING_FAIL.SAMESONG
 msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.SING_FAIL.SAMESONG"
@@ -42029,7 +42029,7 @@ msgstr "ต้องรีบหาอะไรกินก่อน"
 #. STRINGS.CHARACTERS.WANDA.ANNOUNCE_NOMOUNTEDGIFT
 msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_NOMOUNTEDGIFT"
 msgid "I'll just quickly hop off my beefalo first."
-msgstr "ฉันจะกระโดดลงจากเนื้ออย่างรวดเร็วก่อน"
+msgstr "ฉันจะกระโดดลงจากบีฟาโล่อย่างรวดเร็วก่อน"
 
 #. STRINGS.CHARACTERS.WANDA.ANNOUNCE_NONIGHTSIESTA
 msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_NONIGHTSIESTA"
@@ -43769,7 +43769,7 @@ msgstr "ดูเขาสิ นอนกรนชั่วโมงอัน�
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.BEEFALOFEED
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.BEEFALOFEED"
 msgid "Did I remember to feed my beefalo today?"
-msgstr "ฉันจำได้ว่าให้อาหารเนื้อวัวของฉันวันนี้หรือไม่?"
+msgstr "ฉันจำได้ว่าให้อาหารบีฟาโล่ของฉันวันนี้หรือไม่?"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.BEEFALOHAT
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.BEEFALOHAT"
@@ -43784,7 +43784,7 @@ msgstr "มันอาจจะดีกว่าสำหรับพวกเ
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.BEEFALOWOOL
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.BEEFALOWOOL"
 msgid "The beefalo will grow it back."
-msgstr "เนื้อจะงอกกลับคืนมา"
+msgstr "บีฟาโล่จะงอกกลับคืนมา"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.BEEFALO_GROOMER.BURNT
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.BEEFALO_GROOMER.BURNT"
@@ -43794,7 +43794,7 @@ msgstr "โอ้ รำคาญ ไม่อีกแล้ว"
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.BEEFALO_GROOMER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.BEEFALO_GROOMER.GENERIC"
 msgid "Oh! I almost forgot to bring the beefalo!"
-msgstr "โอ้! ฉันเกือบลืมเอาเนื้อวัวมา!"
+msgstr "โอ้! ฉันเกือบลืมเอาบีฟาโล่มา!"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.BEEFALO_GROOMER.OCCUPIED
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.BEEFALO_GROOMER.OCCUPIED"
@@ -47059,7 +47059,7 @@ msgstr "ฉันเคยเห็นมาก่อนหรือเปล่
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.FORMAL_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.FORMAL_BLUEPRINT"
 msgid "My beefalo will look like the perfect gentleman."
-msgstr "เนื้อของฉันจะดูเหมือนสุภาพบุรุษที่สมบูรณ์แบบ"
+msgstr "บีฟาโล่ของฉันจะดูเหมือนสุภาพบุรุษที่สมบูรณ์แบบ"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.FOSSIL_PIECE
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.FOSSIL_PIECE"
@@ -48089,7 +48089,7 @@ msgstr "มันจะหยุดทุกอย่างที่ขวาง
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.ICE_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.ICE_BLUEPRINT"
 msgid "The poor beefalo's going to catch a chill wearing that!"
-msgstr "คนใส่เนื้อที่น่าสงสารจะรู้สึกชิลล์เมื่อใส่มัน!"
+msgstr "คนใส่บีฟาโล่ที่น่าสงสารจะรู้สึกชิลล์เมื่อใส่มัน!"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.INSANITYROCK.ACTIVE
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.INSANITYROCK.ACTIVE"
@@ -52689,7 +52689,7 @@ msgstr "ฉันมีอานแล้ว ตอนนี้ฉันแค�
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.SADDLE_RACE
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.SADDLE_RACE"
 msgid "This should help my beefalo pick up the pace."
-msgstr "สิ่งนี้จะช่วยให้เนื้อวัวของฉันเร่งความเร็วได้"
+msgstr "สิ่งนี้จะช่วยให้บีฟาโล่ของฉันเร่งความเร็วได้"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.SADDLE_SHADOW
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.SADDLE_SHADOW"
@@ -52724,7 +52724,7 @@ msgstr "ลองนึกภาพว่าถูกเกลือก้อน
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.SALTLICK_IMPROVED
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.SALTLICK_IMPROVED"
 msgid "Whatever keeps the beefalo busy."
-msgstr "อะไรก็ตามที่ทำให้บีฟฟาโลไม่ว่าง"
+msgstr "อะไรก็ตามที่ทำให้บีฟาโล่ไม่ว่าง"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.SALTROCK
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.SALTROCK"
@@ -53054,7 +53054,7 @@ msgstr "นั่นจะโค่นต้นไม้ได้ในเวล
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.SHADOW_BEEF_BELL
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.SHADOW_BEEF_BELL"
 msgid "A way to reset the clock for my beefalo!"
-msgstr "วิธีการรีเซ็ตนาฬิกาสำหรับบีฟฟาโลของฉัน!"
+msgstr "วิธีการรีเซ็ตนาฬิกาสำหรับบีฟาโล่ของฉัน!"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.SHADOW_FORGE
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.SHADOW_FORGE"
@@ -55659,7 +55659,7 @@ msgstr "ฉันดีใจที่มีคนแบบคุณอยู่
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WAR_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WAR_BLUEPRINT"
 msgid "I wouldn't mind having a beefalo bodyguard."
-msgstr "ฉันไม่รังเกียจที่จะมีคุ้มกันเนื้อ"
+msgstr "ฉันไม่รังเกียจที่จะมีคุ้มกันบีฟาโล่"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WASPHIVE
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WASPHIVE"
@@ -57169,7 +57169,7 @@ msgstr "ด้วยอีกสองสามชิ้น ฉันสาม�
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTB_POST
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTB_POST"
 msgid "A good place to secure a beefalo."
-msgstr "สถานที่ที่ดีในการเก็บเนื้อวัว"
+msgstr "สถานที่ที่ดีในการเก็บบีฟาโล่"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTB_POST_ITEM
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.YOTB_POST_ITEM"
@@ -73819,17 +73819,17 @@ msgstr "บางทีฉันควรแสดงให้ผู้พิพ
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTB_PATTERN_FRAGMENT_1
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTB_PATTERN_FRAGMENT_1"
 msgid "One part of a recipe for a beefalo costume."
-msgstr "ส่วนหนึ่งของสูตรสำหรับคอสตูมเนื้อ"
+msgstr "ส่วนหนึ่งของสูตรสำหรับคอสตูมบีฟาโล่"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTB_PATTERN_FRAGMENT_2
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTB_PATTERN_FRAGMENT_2"
 msgid "One part of a recipe for a beefalo costume."
-msgstr "ส่วนหนึ่งของสูตรสำหรับคอสตูมเนื้อ"
+msgstr "ส่วนหนึ่งของสูตรสำหรับคอสตูมบีฟาโล่"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTB_PATTERN_FRAGMENT_3
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTB_PATTERN_FRAGMENT_3"
 msgid "One part of a recipe for a beefalo costume."
-msgstr "ส่วนหนึ่งของสูตรสำหรับคอสตูมเนื้อ"
+msgstr "ส่วนหนึ่งของสูตรสำหรับคอสตูมบีฟาโล่"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTB_POST
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTB_POST"
@@ -92279,7 +92279,7 @@ msgstr "บางทีเมื่อสัตว์เดรัจฉานส
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.HITCHUP.NEEDBEEF
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.HITCHUP.NEEDBEEF"
 msgid "Here's the hitch pal, I'm going to need a beefalo."
-msgstr "นี่คือตัวผูกปม ฉันต้องการเนื้อวัว"
+msgstr "นี่คือตัวผูกปม ฉันต้องการบีฟาโล่"
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.HITCHUP.NEEDBEEF_CLOSER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.HITCHUP.NEEDBEEF_CLOSER"
@@ -99884,7 +99884,7 @@ msgstr "ฉันจะพูดอะไรเกี่ยวกับซาก
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.KOALEFANT_SUMMER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.KOALEFANT_SUMMER"
 msgid "A distant cousin of the beefalo."
-msgstr "ลูกพี่ลูกน้องที่ห่างไกลของเนื้อ"
+msgstr "ลูกพี่ลูกน้องที่ห่างไกลของบีฟาโล่"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.KOALEFANT_WINTER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.KOALEFANT_WINTER"
@@ -105604,7 +105604,7 @@ msgstr "ก็น่าคิดนะ"
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TALLBIRDNEST.PICKED
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TALLBIRDNEST.PICKED"
 msgid "It's made of dirty beefalo hair."
-msgstr "มันทำมาจากขนเนื้อสกปรก"
+msgstr "มันทำมาจากขนบีฟาโล่สกปรก"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TALLEGGS
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TALLEGGS"
@@ -109399,7 +109399,7 @@ msgstr "เราจะให้ความเป็นส่วนตัวแ
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.CHANGEIN.NOOCCUPANT
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.CHANGEIN.NOOCCUPANT"
 msgid "Once we've got a beefalo hitched up, we can make them fancy!"
-msgstr "เมื่อเราจับเนื้อวัวได้แล้ว เราก็จะทำให้ดูหรูหราได้!"
+msgstr "เมื่อเราจับบีฟาโล่ได้แล้ว เราก็จะทำให้ดูหรูหราได้!"
 
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR"
@@ -109744,7 +109744,7 @@ msgstr "เอาล่ะทุกคน ตามเรามา!"
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.HITCHUP.BEEF_HITCHED
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.HITCHUP.BEEF_HITCHED"
 msgid "Our beefalo isn't going anywhere."
-msgstr "เนื้อของเราไม่ไปไหน"
+msgstr "บีฟาโล่ของเราไม่ไปไหน"
 
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.HITCHUP.INMOOD
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.HITCHUP.INMOOD"
@@ -109754,12 +109754,12 @@ msgstr "ฉันคิดว่าพวกเขาดูบ้าๆบอๆ
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.HITCHUP.NEEDBEEF
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.HITCHUP.NEEDBEEF"
 msgid "We don't have a beefalo to hitch up."
-msgstr "เราไม่มีเนื้อที่จะผูกปม"
+msgstr "เราไม่มีบีฟาโล่ที่จะผูกปม"
 
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.HITCHUP.NEEDBEEF_CLOSER
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.HITCHUP.NEEDBEEF_CLOSER"
 msgid "Our beefalo is too far away!"
-msgstr "เนื้อของเราอยู่ไกลเกินไป!"
+msgstr "บีฟาโล่ของเราอยู่ไกลเกินไป!"
 
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.LOWER_SAIL_FAIL.1
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.LOWER_SAIL_FAIL.1"
@@ -109999,7 +109999,7 @@ msgstr "ทำความสะอาดเหมือนเสียงนก
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.SHAVE.SOMEONEELSESBEEFALO
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.SHAVE.SOMEONEELSESBEEFALO"
 msgid "We shouldn't do that to someone else's beefalo."
-msgstr "เราไม่ควรทำอย่างนั้นกับเนื้อของคนอื่น"
+msgstr "เราไม่ควรทำอย่างนั้นกับบีฟาโล่ของคนอื่น"
 
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.SLAUGHTER.TOOFAR
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.SLAUGHTER.TOOFAR"
@@ -110084,7 +110084,7 @@ msgstr "นั่นคือเพื่อนของคนอื่น"
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.USEITEMON.BEEF_BELL_HAS_BEEF_ALREADY
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.USEITEMON.BEEF_BELL_HAS_BEEF_ALREADY"
 msgid "We already have a beefalo of our own!"
-msgstr "เรามีเนื้อวัวของเราเองแล้ว!"
+msgstr "เรามีบีฟาโล่ของเราเองแล้ว!"
 
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.USEITEMON.BEEF_BELL_INVALID_TARGET
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.USEITEMON.BEEF_BELL_INVALID_TARGET"
@@ -111559,7 +111559,7 @@ msgstr "only_used_by_wx78"
 #. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_YOTB_LEARN_NEW_PATTERN
 msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_YOTB_LEARN_NEW_PATTERN"
 msgid "We can't wait for our beefalo to try it on!"
-msgstr "เราไม่สามารถรอให้เนื้อของเราได้ลอง!"
+msgstr "เราไม่สามารถรอให้บีฟาโล่ของเราได้ลอง!"
 
 #. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_YOTD_NOBOATS
 msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_YOTD_NOBOATS"
@@ -112564,7 +112564,7 @@ msgstr "มันหนามาก!"
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEAST_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEAST_BLUEPRINT"
 msgid "Another costume for our lucky beefalo!"
-msgstr "อีกชุดสำหรับเนื้อนำโชคของเรา!"
+msgstr "อีกชุดสำหรับบีฟาโล่นำโชคของเรา!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEDROLL_FURRY
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEDROLL_FURRY"
@@ -112654,7 +112654,7 @@ msgstr "เราเห็นมันเดินไปมาเมื่อห
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO.DEAD_MYPARTNER
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO.DEAD_MYPARTNER"
 msgid "Our poor beefalo! It's not fair!"
-msgstr "เจ้าเนื้อน่าสงสารของเรา! มันไม่ยุติธรรมเลย!"
+msgstr "เจ้าบีฟาโล่น่าสงสารของเรา! มันไม่ยุติธรรมเลย!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO.DOMESTICATED
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO.DOMESTICATED"
@@ -112669,7 +112669,7 @@ msgstr "ดูเหมือนเขาจะอยากอยู่เฉย
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO.GENERIC
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO.GENERIC"
 msgid "Big big beefalo!"
-msgstr "บิ๊กเนื้อใหญ่!"
+msgstr "เจ้าบีฟาโล่ตัวใหญ่!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO.MYPARTNER
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO.MYPARTNER"
@@ -112699,12 +112699,12 @@ msgstr "อันนี้ดูเร็ว"
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO.SLEEPING"
 msgid "Slumber deep, beefalo."
-msgstr "หลับลึก เนื้อวัว"
+msgstr "หลับลึก บีฟาโล่"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALOFEED
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALOFEED"
 msgid "We take good care of our beefalo."
-msgstr "เราดูแลเนื้อวัวของเราอย่างดี"
+msgstr "เราดูแลบีฟาโล่ของเราอย่างดี"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALOHAT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALOHAT"
@@ -112714,7 +112714,7 @@ msgstr "ผู้สวมใส่จะกลมกลืนอย่างส
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALOTREAT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALOTREAT"
 msgid "Good beefalo deserve treats."
-msgstr "เนื้อวัวที่ดีสมควรได้รับการปฏิบัติ"
+msgstr "บีฟาโล่ที่ดีสมควรได้รับการปฏิบัติ"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALOWOOL
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALOWOOL"
@@ -112729,7 +112729,7 @@ msgstr "อ๊ะ..."
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO_GROOMER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO_GROOMER.GENERIC"
 msgid "We want our beefalo to look its best!"
-msgstr "เราต้องการให้เนื้อของเราดูดีที่สุด!"
+msgstr "เราต้องการให้บีฟาโล่ของเราดูดีที่สุด!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO_GROOMER.OCCUPIED
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO_GROOMER.OCCUPIED"
@@ -112744,7 +112744,7 @@ msgstr "เรามาตั้งค่ากันดีกว่า"
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEF_BELL
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEF_BELL"
 msgid "The beefalo really like this bell, and whoever rings it!"
-msgstr "เจ้าเนื้อชอบกระดิ่งนี้มาก และใครก็ตามที่กริ่ง!"
+msgstr "เจ้าบีฟาโล่ชอบกระดิ่งนี้มาก และใครก็ตามที่กริ่ง!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEGUARD
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEGUARD"
@@ -116004,7 +116004,7 @@ msgstr "ดอกนี้สวยจัง"
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.FORMAL_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.FORMAL_BLUEPRINT"
 msgid "Our beefalo might look even more dapper than Maxwell!"
-msgstr "เนื้อของเราอาจจะดูเท่กว่า Maxwell!"
+msgstr "บีฟาโล่ของเราอาจจะดูเท่กว่า Maxwell!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.FOSSIL_PIECE
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.FOSSIL_PIECE"
@@ -121389,7 +121389,7 @@ msgstr "ตั้งชื่อมันว่า \"ฟรานซิส\""
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROBOT_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROBOT_BLUEPRINT"
 msgid "We hope it's not too heavy for the beefalo."
-msgstr "เราหวังว่ามันจะไม่หนักเกินไปสำหรับเนื้อวัว"
+msgstr "เราหวังว่ามันจะไม่หนักเกินไปสำหรับบีฟาโล่"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROBOT_PUPPET
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROBOT_PUPPET"
@@ -121604,7 +121604,7 @@ msgstr "มันคืออานทำจากสแน็คสไปเด
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SADDLE_SHADOW
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SADDLE_SHADOW"
 msgid "We love riding beefalo! Wheee!"
-msgstr "เราชอบขี่บีฟฟาโล! เย้!"
+msgstr "เราชอบขี่บีฟาโล่! เย้!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SADDLE_WAR
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SADDLE_WAR"
@@ -121964,7 +121964,7 @@ msgstr "เราจะระวัง สัญญา!"
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHADOW_BEEF_BELL
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHADOW_BEEF_BELL"
 msgid "We can save our beefalo!"
-msgstr "เราสามารถช่วยชีวิตเนื้อบีฟาโล่ของเราได้!"
+msgstr "เราสามารถช่วยชีวิตบีฟาโล่ของเราได้!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHADOW_FORGE
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHADOW_FORGE"
@@ -124569,7 +124569,7 @@ msgstr "ขอบคุณมาก %s!"
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAR_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAR_BLUEPRINT"
 msgid "Our beefalo might look scary in this, but we know they're really a big softy!"
-msgstr "เนื้อของเราอาจจะดูน่ากลัวในเรื่องนี้ แต่เรารู้ว่ามันนุ่มมาก!"
+msgstr "บีฟาโล่ของเราอาจจะดูน่ากลัวในเรื่องนี้ แต่เรารู้ว่ามันนุ่มมาก!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WASPHIVE
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WASPHIVE"
@@ -126064,22 +126064,22 @@ msgstr "เราควรแสดงให้ผู้พิพากษาด
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTB_PATTERN_FRAGMENT_1
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTB_PATTERN_FRAGMENT_1"
 msgid "It tells us how to make a beefalo costume. Well, part of one..."
-msgstr "มันบอกเราถึงวิธีทำคอสตูมเนื้อวัว อืม ส่วนหนึ่งของ..."
+msgstr "มันบอกเราถึงวิธีทำคอสตูมบีฟาโล่ อืม ส่วนหนึ่งของ..."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTB_PATTERN_FRAGMENT_2
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTB_PATTERN_FRAGMENT_2"
 msgid "It tells us how to make a beefalo costume. Well, part of one..."
-msgstr "มันบอกเราถึงวิธีทำคอสตูมเนื้อวัว อืม ส่วนหนึ่งของ..."
+msgstr "มันบอกเราถึงวิธีทำคอสตูมบีฟาโล่ อืม ส่วนหนึ่งของ..."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTB_PATTERN_FRAGMENT_3
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTB_PATTERN_FRAGMENT_3"
 msgid "It tells us how to make a beefalo costume. Well, part of one..."
-msgstr "มันบอกเราถึงวิธีทำคอสตูมเนื้อวัว อืม ส่วนหนึ่งของ..."
+msgstr "มันบอกเราถึงวิธีทำคอสตูมบีฟาโล่ อืม ส่วนหนึ่งของ..."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTB_POST
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTB_POST"
 msgid "Is our beefalo ready for the contest?"
-msgstr "เนื้อของเราพร้อมสำหรับการแข่งขันมั๊ย?"
+msgstr "บีฟาโล่ของเราพร้อมสำหรับการแข่งขันมั๊ย?"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTB_POST_ITEM
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTB_POST_ITEM"
@@ -127114,7 +127114,7 @@ msgstr "พวกเขาเป็นเพื่อนของเว็บเ
 #. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.HITCHUP.BEEF_HITCHED
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.HITCHUP.BEEF_HITCHED"
 msgid "My beefalo can only leave when I choose it so."
-msgstr "เนื้อของฉันสามารถออกได้ก็ต่อเมื่อฉันเลือกเท่านั้น"
+msgstr "บีฟาโล่ของฉันสามารถออกได้ก็ต่อเมื่อฉันเลือกเท่านั้น"
 
 #. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.HITCHUP.INMOOD
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.HITCHUP.INMOOD"
@@ -127124,7 +127124,7 @@ msgstr "ฉันไม่คิดว่าฉันจะจัดการม
 #. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.HITCHUP.NEEDBEEF
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.HITCHUP.NEEDBEEF"
 msgid "Oh where could a beefalo be?"
-msgstr "โอ้ เนื้อวัวจะอยู่ที่ไหน"
+msgstr "โอ้ บีฟาโล่จะอยู่ที่ไหน"
 
 #. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.HITCHUP.NEEDBEEF_CLOSER
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.HITCHUP.NEEDBEEF_CLOSER"
@@ -127444,7 +127444,7 @@ msgstr "มันแบ่งสายสัมพันธ์กับคนอ
 #. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.USEITEMON.BEEF_BELL_HAS_BEEF_ALREADY
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.USEITEMON.BEEF_BELL_HAS_BEEF_ALREADY"
 msgid "I will not replace my dear beefalo."
-msgstr "ฉันจะไม่แทนที่เนื้อวัวอันเป็นที่รักของฉัน"
+msgstr "ฉันจะไม่แทนที่บีฟาโล่อันเป็นที่รักของฉัน"
 
 #. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.USEITEMON.BEEF_BELL_INVALID_TARGET
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.USEITEMON.BEEF_BELL_INVALID_TARGET"
@@ -129999,7 +129999,7 @@ msgstr "มันมีกลิ่นเหมือนความตาย"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.BEAST_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BEAST_BLUEPRINT"
 msgid "May it give my beefalo more luck than I've had."
-msgstr "ขอให้เนื้อวัวของฉันโชคดีมากกว่าที่ฉันเคยมี"
+msgstr "ขอให้บีฟาโล่ของฉันโชคดีมากกว่าที่ฉันเคยมี"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.BEDROLL_FURRY
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BEDROLL_FURRY"
@@ -130139,7 +130139,7 @@ msgstr "จะหลับ มีโอกาสฝัน"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEFALOFEED
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEFALOFEED"
 msgid "I wouldn't want my beefalo to starve."
-msgstr "ฉันไม่อยากให้เนื้อของฉันอดตาย"
+msgstr "ฉันไม่อยากให้บีฟาโล่ของฉันอดตาย"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEFALOHAT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEFALOHAT"
@@ -130154,7 +130154,7 @@ msgstr "ที่จะได้พบความสุขในสิ่งง
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEFALOWOOL
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEFALOWOOL"
 msgid "Somewhere, a beefalo is naked and cold."
-msgstr "ที่ไหนสักแห่ง เนื้อวัวเปลือยเปล่าและเย็นชา"
+msgstr "ที่ไหนสักแห่ง บีฟาโล่เปลือยเปล่าและเย็นชา"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEFALO_GROOMER.BURNT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEFALO_GROOMER.BURNT"
@@ -130169,7 +130169,7 @@ msgstr "ความงามก็เหมือนกับทุกสิ่
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEFALO_GROOMER.OCCUPIED
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEFALO_GROOMER.OCCUPIED"
 msgid "I can change its appearance, but it will always just be a beefalo."
-msgstr "ฉันเปลี่ยนรูปลักษณ์ได้ แต่มันจะเป็นแค่เนื้อวัว"
+msgstr "ฉันเปลี่ยนรูปลักษณ์ได้ แต่มันจะเป็นแค่บีฟาโล่"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEFALO_GROOMER_ITEM
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEFALO_GROOMER_ITEM"
@@ -134314,7 +134314,7 @@ msgstr "เนื้อหั่นเป็นชิ้นเล็กๆเห
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.HORN
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HORN"
 msgid "It sounds like there's a beefalo trapped inside."
-msgstr "ดูเหมือนมีเนื้อวัวติดอยู่ข้างใน"
+msgstr "ดูเหมือนมีบีฟาโล่ติดอยู่ข้างใน"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.HORRORFUEL
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HORRORFUEL"
@@ -139389,7 +139389,7 @@ msgstr "ผู้มอบความตายอันแสนงดงาม
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SHADOW_BEEF_BELL
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SHADOW_BEEF_BELL"
 msgid "A shame it only works for beefalo."
-msgstr "น่าเสียดายที่มันใช้ได้เฉพาะกับเนื้อบีฟฟาโลเท่านั้น"
+msgstr "น่าเสียดายที่มันใช้ได้เฉพาะกับบีฟาโล่เท่านั้น"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SHADOW_FORGE
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SHADOW_FORGE"
@@ -141489,7 +141489,7 @@ msgstr "ไม่เติมชีวิตชีวา"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.VICTORIAN_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.VICTORIAN_BLUEPRINT"
 msgid "Playing dress-up with a beefalo is... quite fun..."
-msgstr "การแต่งตัวด้วยเนื้อเป็น...สนุกมาก..."
+msgstr "การแต่งตัวด้วยบีฟาโล่เป็น...สนุกมาก..."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.VOIDCLOTH
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.VOIDCLOTH"
@@ -144194,7 +144194,7 @@ msgstr "ถ้าฉันสามารถใช้สิ่งนั้นไ
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CHANGEIN.NOOCCUPANT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CHANGEIN.NOOCCUPANT"
 msgid "This station requires a beefalo to be securely hitched before I can proceed any further."
-msgstr "สถานีนี้ต้องการการผูกปมเนื้ออย่างปลอดภัยก่อนที่ฉันจะดำเนินการต่อไปได้"
+msgstr "สถานีนี้ต้องการการผูกปมบีฟาโล่อย่างปลอดภัยก่อนที่ฉันจะดำเนินการต่อไปได้"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR"
@@ -144549,12 +144549,12 @@ msgstr "จะไม่มีอะไรสำเร็จในสถานะ
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.HITCHUP.NEEDBEEF
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.HITCHUP.NEEDBEEF"
 msgid "I will require a beefalo first."
-msgstr "ฉันจะขอเนื้อก่อน"
+msgstr "ฉันจะขอบีฟาโล่ก่อน"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.HITCHUP.NEEDBEEF_CLOSER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.HITCHUP.NEEDBEEF_CLOSER"
 msgid "My beefalo needs to be in closer proximity to the post."
-msgstr "เนื้อของฉันต้องอยู่ใกล้กับโพสต์มากขึ้น"
+msgstr "บีฟาโล่ของฉันต้องอยู่ใกล้กับโพสต์มากขึ้น"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.LOWER_SAIL_FAIL.1
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.LOWER_SAIL_FAIL.1"
@@ -144859,7 +144859,7 @@ msgstr "ราบรื่นแล้วที่รัก"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.SHAVE.SOMEONEELSESBEEFALO
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.SHAVE.SOMEONEELSESBEEFALO"
 msgid "It's not my place to shave someone else's beefalo."
-msgstr "ไม่ใช่ที่ของฉันที่จะโกนเนื้อของคนอื่น"
+msgstr "ไม่ใช่ที่ของฉันที่จะโกนบีฟาโล่ของคนอื่น"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.SLAUGHTER.TOOFAR
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.SLAUGHTER.TOOFAR"
@@ -144939,7 +144939,7 @@ msgstr "มันได้สร้างสายสัมพันธ์กั
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.USEITEMON.BEEF_BELL_HAS_BEEF_ALREADY
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.USEITEMON.BEEF_BELL_HAS_BEEF_ALREADY"
 msgid "I don't require any more beefalo."
-msgstr "ฉันไม่ต้องการเนื้ออีกต่อไปแล้ว"
+msgstr "ฉันไม่ต้องการบีฟาโล่อีกต่อไปแล้ว"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.USEITEMON.BEEF_BELL_INVALID_TARGET
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.USEITEMON.BEEF_BELL_INVALID_TARGET"
@@ -147579,7 +147579,7 @@ msgstr "เราทุกคนสามารถใช้การรักษ
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALOWOOL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALOWOOL"
 msgid "Long follicles harvested from the beefalo."
-msgstr "รูขุมยาวที่เก็บเกี่ยวจากเนื้อ"
+msgstr "รูขุมยาวที่เก็บเกี่ยวจากบีฟาโล่"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALO_GROOMER.BURNT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALO_GROOMER.BURNT"
@@ -148174,7 +148174,7 @@ msgstr "ควรปรับปรุงความคล่องแคล่
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BODYPILLOW_BEEFALOWOOL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
 msgid "The woolen fibers of a beefalo's coat make for excellent padding."
-msgstr "เส้นใยขนสัตว์ของโค้ทโค้ทเนื้อวัวทำให้บุนวมได้ดีเยี่ยม"
+msgstr "เส้นใยขนสัตว์ของโค้ทโค้ทบีฟาโล่ทำให้บุนวมได้ดีเยี่ยม"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BODYPILLOW_KELP
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BODYPILLOW_KELP"
@@ -149089,7 +149089,7 @@ msgstr "ศิลปินจับเอาความดุร้ายขอ
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_BEEFALO
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_BEEFALO"
 msgid "It captures my beefalo's likeness quite well."
-msgstr "จับความคล้ายคลึงของเนื้อของฉันได้ค่อนข้างดี"
+msgstr "จับความคล้ายคลึงของบีฟาโล่ของฉันได้ค่อนข้างดี"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_BEEQUEEN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_BEEQUEEN"
@@ -150854,7 +150854,7 @@ msgstr "สายพันธุ์นี้สามารถใช้ในก
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FORMAL_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FORMAL_BLUEPRINT"
 msgid "It seems rather senseless to attempt to make a beefalo appear dignified."
-msgstr "ดูเหมือนค่อนข้างไร้เหตุผลในการพยายามทำให้เนื้อวัวดูสง่างาม"
+msgstr "ดูเหมือนค่อนข้างไร้เหตุผลในการพยายามทำให้บีฟาโล่ดูสง่างาม"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FOSSIL_PIECE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FOSSIL_PIECE"
@@ -151574,7 +151574,7 @@ msgstr "มันดูมีพลังมากเกินไป"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HANDPILLOW_BEEFALOWOOL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
 msgid "The woolen fibers of a beefalo's coat make for excellent padding."
-msgstr "เส้นใยขนสัตว์ของโค้ทโค้ทเนื้อวัวทำให้บุนวมได้ดีเยี่ยม"
+msgstr "เส้นใยขนสัตว์ของโค้ทโค้ทบีฟาโล่ทำให้บุนวมได้ดีเยี่ยม"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HANDPILLOW_KELP
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HANDPILLOW_KELP"
@@ -151739,7 +151739,7 @@ msgstr "เนื้อหวานขนาดพอดีคำ!"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HORN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HORN"
 msgid "What an excellent specimen! I can almost hear the beefalo."
-msgstr "ช่างยอดเยี่ยมเสียนี่กระไร! ฉันเกือบจะได้ยินเนื้อแกะแล้ว"
+msgstr "ช่างยอดเยี่ยมเสียนี่กระไร! ฉันเกือบจะได้ยินบีฟาโล่แล้ว"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HORRORFUEL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HORRORFUEL"
@@ -156484,7 +156484,7 @@ msgstr "ก้อนโซเดียมคลอไรด์สำหรับ
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SALTLICK_IMPROVED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SALTLICK_IMPROVED"
 msgid "The beefalo lick salt to acquire essential nutrients."
-msgstr "เนื้อโคเลียเกลือเพื่อให้ได้รับสารอาหารที่จำเป็น"
+msgstr "บีฟาโล่เกลือเพื่อให้ได้รับสารอาหารที่จำเป็น"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SALTROCK
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SALTROCK"
@@ -156814,7 +156814,7 @@ msgstr "การใช้เครื่องมือดังกล่าว
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SHADOW_BEEF_BELL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SHADOW_BEEF_BELL"
 msgid "It revives one's dead beefalo by a simple mechanism: magic."
-msgstr "มันช่วยชุบชีวิตเนื้อบีฟาโล่ที่ตายแล้วได้ด้วยกลไกง่ายๆ: เวทมนตร์"
+msgstr "มันช่วยชุบชีวิตบีฟาโล่ที่ตายแล้วได้ด้วยกลไกง่ายๆ: เวทมนตร์"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SHADOW_FORGE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SHADOW_FORGE"
@@ -160929,7 +160929,7 @@ msgstr "เป็นเพียงส่วนเดียวของรูป
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTB_POST
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTB_POST"
 msgid "This is where the beefalo are to be displayed for judging."
-msgstr "นี่คือตำแหน่งที่จะแสดงเนื้อวัวสำหรับการตัดสิน"
+msgstr "นี่คือตำแหน่งที่จะแสดงบีฟาโล่สำหรับการตัดสิน"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTB_POST_ITEM
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTB_POST_ITEM"
@@ -161619,12 +161619,12 @@ msgstr "หยุดพูดมาก ฉันก็อยากแต่ง�
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CHANGEIN.NOOCCUPANT
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CHANGEIN.NOOCCUPANT"
 msgid "Just a wild guess, but I might need to hitch up a beefalo first."
-msgstr "เป็นเพียงการเดาคร่าวๆแต่ฉันอาจต้องผูกปมเนื้อก่อน"
+msgstr "เป็นเพียงการเดาคร่าวๆแต่ฉันอาจต้องผูกปมบีฟาโล่ก่อน"
 
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR"
 msgid "It might help if my beefalo had more hair."
-msgstr "อาจช่วยได้ถ้าเนื้อวัวของฉันมีขนมากกว่านี้"
+msgstr "อาจช่วยได้ถ้าบีฟาโล่ของฉันมีขนมากกว่านี้"
 
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CHARGE_FROM.CHARGE_FULL"
@@ -161974,12 +161974,12 @@ msgstr "อ๊ะ ไม่มีเหตุผลอะไรกับพว�
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.HITCHUP.NEEDBEEF
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.HITCHUP.NEEDBEEF"
 msgid "Might help if I had a beefalo..."
-msgstr "อาจช่วยได้ถ้าฉันมีเนื้อวัว..."
+msgstr "อาจช่วยได้ถ้าฉันมีบีฟาโล่..."
 
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.HITCHUP.NEEDBEEF_CLOSER
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.HITCHUP.NEEDBEEF_CLOSER"
 msgid "I need to get that beefalo over here."
-msgstr "ฉันต้องเอาเนื้อนั่นมานี่"
+msgstr "ฉันต้องเอาบีฟาโล่นั่นมานี่"
 
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.LOWER_SAIL_FAIL.1
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.LOWER_SAIL_FAIL.1"
@@ -162294,7 +162294,7 @@ msgstr "มีคนเข้ามาก่อนแล้ว"
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.USEITEMON.BEEF_BELL_HAS_BEEF_ALREADY
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.USEITEMON.BEEF_BELL_HAS_BEEF_ALREADY"
 msgid "One beefalo is enough to deal with."
-msgstr "เนื้อเดียวก็เพียงพอแล้ว"
+msgstr "บีฟาโล่ตัวเดียวก็เพียงพอแล้ว"
 
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.USEITEMON.BEEF_BELL_INVALID_TARGET
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.USEITEMON.BEEF_BELL_INVALID_TARGET"
@@ -162544,7 +162544,7 @@ msgstr "ใช่แล้ว... ฉันยังไม่ได้คิด�
 #. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_CANTBUILDHERE_YOTB_POST
 msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_CANTBUILDHERE_YOTB_POST"
 msgid "How would the judge even see my beefalo this far away?"
-msgstr "ผู้พิพากษาจะมองเห็นเนื้อของฉันไกลขนาดนี้ได้อย่างไร"
+msgstr "ผู้พิพากษาจะมองเห็นบีฟาโล่ของฉันไกลขนาดนี้ได้อย่างไร"
 
 #. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_CANT_ESCAPE_CURSE
 msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_CANT_ESCAPE_CURSE"
@@ -164814,7 +164814,7 @@ msgstr "เป็นขนยาวตลอดทาง"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEAST_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEAST_BLUEPRINT"
 msgid "My beefalo's already a lucky beast. He gets to be my friend!"
-msgstr "เนื้อของฉันเป็นสัตว์นำโชคอยู่แล้ว เขาจะได้เป็นเพื่อนกับฉัน!"
+msgstr "บีฟาโล่ของฉันเป็นสัตว์นำโชคอยู่แล้ว เขาจะได้เป็นเพื่อนกับฉัน!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEDROLL_FURRY
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEDROLL_FURRY"
@@ -167439,7 +167439,7 @@ msgstr "เชื้อเพลิงมากขึ้นสำหรับ fi
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.DOLL_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.DOLL_BLUEPRINT"
 msgid "Awww, my beefalo's gonna be so hideous and adorable!"
-msgstr "อ๊ะ เนื้อวัวของฉันคงจะน่าเกลียดและน่ารักมาก!"
+msgstr "อ๊ะ บีฟาโล่ของฉันคงจะน่าเกลียดและน่ารักมาก!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.DRAGONBOAT_KIT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.DRAGONBOAT_KIT"
@@ -173874,7 +173874,7 @@ msgstr "มันคือก้อนเกลือก้อนใหญ่"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SALTLICK_IMPROVED
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SALTLICK_IMPROVED"
 msgid "I'm so glad I'm not a beefalo."
-msgstr "ฉันดีใจมากที่ฉันไม่ใช่บีฟฟาโล"
+msgstr "ฉันดีใจมากที่ฉันไม่ใช่บีฟาโล่"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SALTROCK
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SALTROCK"
@@ -179014,7 +179014,7 @@ msgstr "ฉันควรรวมอย่างอื่นไหม?"
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.CHANGEIN.NOOCCUPANT
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.CHANGEIN.NOOCCUPANT"
 msgid "It might work better if I had a beefalo hitched up."
-msgstr "มันอาจจะทำงานได้ดีกว่านี้ถ้าฉันผูกเนื้อวัวไว้"
+msgstr "มันอาจจะทำงานได้ดีกว่านี้ถ้าฉันผูกบีฟาโล่ไว้"
 
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR"
@@ -179369,12 +179369,12 @@ msgstr "มันเกินไปที่จะผูกปม"
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.HITCHUP.NEEDBEEF
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.HITCHUP.NEEDBEEF"
 msgid "I'd better rustle up a beefalo."
-msgstr "ฉันทำเนื้อแกะให้เสียดีกว่า"
+msgstr "ฉันทำบีฟาโล่แกะให้เสียดีกว่า"
 
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.HITCHUP.NEEDBEEF_CLOSER
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.HITCHUP.NEEDBEEF_CLOSER"
 msgid "I gotta coax my beefalo to come closer."
-msgstr "ฉันต้องเกลี้ยกล่อมเนื้อของฉันให้เข้าใกล้"
+msgstr "ฉันต้องเกลี้ยกล่อมบีฟาโล่ของฉันให้เข้าใกล้"
 
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.LOOKAT.ROSEGLASSES_COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.LOOKAT.ROSEGLASSES_COOLDOWN"
@@ -179629,7 +179629,7 @@ msgstr "เรียบเหมือนแผ่นโลหะ"
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.SHAVE.SOMEONEELSESBEEFALO
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.SHAVE.SOMEONEELSESBEEFALO"
 msgid "Nope, I'm not shavin' someone else's beefalo."
-msgstr "ไม่ ฉันไม่ได้โกนเนื้อของคนอื่น"
+msgstr "ไม่ ฉันไม่ได้โกนบีฟาโล่ของคนอื่น"
 
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.SLAUGHTER.TOOFAR
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.SLAUGHTER.TOOFAR"
@@ -179709,12 +179709,12 @@ msgstr "นั่นไม่ถูกต้อง"
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.USEITEMON.BEEF_BELL_ALREADY_USED
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.USEITEMON.BEEF_BELL_ALREADY_USED"
 msgid "I'm pretty sure that's someone else's beefalo."
-msgstr "ฉันค่อนข้างแน่ใจว่านั่นเป็นเนื้อของคนอื่น"
+msgstr "ฉันค่อนข้างแน่ใจว่านั่นเป็นบีฟาโล่ของคนอื่น"
 
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.USEITEMON.BEEF_BELL_HAS_BEEF_ALREADY
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.USEITEMON.BEEF_BELL_HAS_BEEF_ALREADY"
 msgid "I've already got a beefalo, thanks."
-msgstr "ฉันมีเนื้ออยู่แล้ว ขอบคุณ"
+msgstr "ฉันมีบีฟาโล่อยู่แล้ว ขอบคุณ"
 
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.USEITEMON.BEEF_BELL_INVALID_TARGET
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.USEITEMON.BEEF_BELL_INVALID_TARGET"
@@ -182409,7 +182409,7 @@ msgstr "ดูเหมือนเป็นความลับ"
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.BEEFALOTREAT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.BEEFALOTREAT"
 msgid "My beefalo's been pulling her weight, she should get a reward."
-msgstr "เนื้อของฉันดึงน้ำหนักเธอ เธอควรได้รับรางวัล"
+msgstr "บีฟาโล่ของฉันดึงน้ำหนักเธอ เธอควรได้รับรางวัล"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.BEEFALOWOOL
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.BEEFALOWOOL"
@@ -182424,12 +182424,12 @@ msgstr "เดาว่าฉันจะต้องสร้างอีกอ
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.BEEFALO_GROOMER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.BEEFALO_GROOMER.GENERIC"
 msgid "Awfully fancy for a beefalo."
-msgstr "ชอบเนื้อวัวมาก"
+msgstr "ชอบบีฟาโล่มาก"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.BEEFALO_GROOMER.OCCUPIED
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.BEEFALO_GROOMER.OCCUPIED"
 msgid "Let's get this beefalo spiffed up."
-msgstr "มาปรุงเนื้อนี้กัน"
+msgstr "มาปรุงบีฟาโล่นี้กัน"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.BEEFALO_GROOMER_ITEM
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.BEEFALO_GROOMER_ITEM"
@@ -183924,7 +183924,7 @@ msgstr "นั่นเป็นลูกของสัตว์ร้ายต
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_BEEFALO
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_BEEFALO"
 msgid "Aw, it looks just like my beefalo."
-msgstr "อ๊ะ ดูเหมือนเนื้อวัวของฉันเลย"
+msgstr "อ๊ะ ดูเหมือนบีฟาโล่ของฉันเลย"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_BEEQUEEN
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_BEEQUEEN"
@@ -191674,7 +191674,7 @@ msgstr "มันไม่ใช่เครื่องมือที่แม
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.SHADOW_BEEF_BELL
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SHADOW_BEEF_BELL"
 msgid "One lucky beefalo is gonna get a second chance."
-msgstr "เจ้าเนื้อผู้โชคดีหนึ่งตัวจะได้รับโอกาสครั้งที่สอง"
+msgstr "เจ้าบีฟาโล่ผู้โชคดีหนึ่งตัวจะได้รับโอกาสครั้งที่สอง"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.SHADOW_FORGE
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SHADOW_FORGE"
@@ -194279,7 +194279,7 @@ msgstr "คุณเป็นเพื่อนแท้ %s"
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.WAR_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WAR_BLUEPRINT"
 msgid "I don't know if I want to encourage my beefalo's ornery side."
-msgstr "ฉันไม่รู้ว่าฉันอยากจะสนับสนุนให้คนกินเนื้อของฉันไหม?"
+msgstr "ฉันไม่รู้ว่าฉันอยากจะสนับสนุนให้คนกินบีฟาโล่ของฉันไหม?"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.WASPHIVE
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.WASPHIVE"
@@ -195684,7 +195684,7 @@ msgstr "ตอนนี้ไม่ค่อยดีเท่าไหร่"
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTB_BEEFALOSHRINE.EMPTY
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTB_BEEFALOSHRINE.EMPTY"
 msgid "I bet I could find some beefalo fluff to give it."
-msgstr "ฉันพนันได้เลยว่าฉันจะหาชิ้นเนื้อนุ่มๆมาให้ได้"
+msgstr "ฉันพนันได้เลยว่าฉันจะหาบีฟาโล่นุ่มๆมาให้ได้"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTB_BEEFALOSHRINE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTB_BEEFALOSHRINE.GENERIC"
@@ -196489,7 +196489,7 @@ msgstr "วูล์ฟกังจะรอจนกว่าพวกเขา
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CHANGEIN.NOOCCUPANT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CHANGEIN.NOOCCUPANT"
 msgid "Wolfgang needs beefalo to hitch."
-msgstr "วูล์ฟกังต้องการเนื้อวัวเพื่อผูกปม"
+msgstr "วูล์ฟกังต้องการบีฟาโล่เพื่อผูกปม"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR"
@@ -213909,7 +213909,7 @@ msgstr "คุณช่วยส่งเสื้อเชิ้ตลายส
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CHANGEIN.NOOCCUPANT
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CHANGEIN.NOOCCUPANT"
 msgid "See any beefalo to hitch up around here, Lucy?"
-msgstr "เห็นเนื้อตัวไหนที่จะผูกปมแถวนี้ไหม ลูซี่"
+msgstr "เห็นบีฟาโล่ตัวไหนที่จะผูกปมแถวนี้ไหม ลูซี่?"
 
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CHANGEIN.NOTENOUGHHAIR"
@@ -214264,12 +214264,12 @@ msgstr "ดูเหมือนใครบางคนกำลังมีอ
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.HITCHUP.NEEDBEEF
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.HITCHUP.NEEDBEEF"
 msgid "I should probably get a beefalo first, eh?"
-msgstr "ฉันควรจะซื้อเนื้อก่อน ใช่มั้ย?"
+msgstr "ฉันควรจมีบีฟาโล่ก่อน ใช่มั้ย?"
 
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.HITCHUP.NEEDBEEF_CLOSER
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.HITCHUP.NEEDBEEF_CLOSER"
 msgid "I can't hitch my beefalo when he's way over there."
-msgstr "ฉันไม่สามารถผูกปมเนื้อของฉันได้เมื่อเขาอยู่ตรงนั้น"
+msgstr "ฉันไม่สามารถผูกปมบีฟาโล่ของฉันได้เมื่อเขาอยู่ตรงนั้น"
 
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.LOWER_SAIL_FAIL.1
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.LOWER_SAIL_FAIL.1"
@@ -214294,7 +214294,7 @@ msgstr "ฉันรู้สึกดีกับสิ่งนี้"
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.MARK.NOT_PARTICIPANT
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.MARK.NOT_PARTICIPANT"
 msgid "Can't do that without entering a beefalo in the contest."
-msgstr "ทำไม่ได้ถ้าไม่ได้เข้าร่วมการแข่งขัน"
+msgstr "ทำแบบนั้นไม่ได้ถ้าไม่ส่งบีฟาโล่เข้าประกวด"
 
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.MOUNT.INUSE
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.MOUNT.INUSE"
@@ -214589,7 +214589,7 @@ msgstr "ฉันคิดว่ามันมีเจ้าของแล้
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.USEITEMON.BEEF_BELL_HAS_BEEF_ALREADY
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.USEITEMON.BEEF_BELL_HAS_BEEF_ALREADY"
 msgid "I've got my own beefalo to worry aboot."
-msgstr "ฉันมีเนื้อของตัวเองที่ต้องกังวล"
+msgstr "ฉันมีบีฟาโล่ของตัวเองที่ต้องกังวล"
 
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.USEITEMON.BEEF_BELL_INVALID_TARGET
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.USEITEMON.BEEF_BELL_INVALID_TARGET"
@@ -217219,12 +217219,12 @@ msgstr "มาเลย!"
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BEEFALOHAT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BEEFALOHAT"
 msgid "Now I'm the king of the beefalo!"
-msgstr "ตอนนี้ฉันเป็นราชาแห่งเนื้อวัว!"
+msgstr "ตอนนี้ฉันเป็นราชาแห่งบีฟาโล่!"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BEEFALOTREAT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BEEFALOTREAT"
 msgid "How aboot I give my beefalo something tasty to munch on, eh?"
-msgstr "ฉันจะเอาเนื้อของฉันไปเคี้ยวให้อร่อยได้อย่างไร"
+msgstr "ฉันจะเอาบีฟาโล่ของฉันไปเคี้ยวให้อร่อยได้อย่างไร"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BEEFALOWOOL
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BEEFALOWOOL"
@@ -219704,7 +219704,7 @@ msgstr "การดูพวกมันทำให้ฉันหิว"
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.DOLL_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.DOLL_BLUEPRINT"
 msgid "I can doll it up all I want, it'll still be a beefalo."
-msgstr "ฉันสามารถปั้นมันได้ทุกอย่างที่ฉันต้องการ มันจะยังคงเป็นเนื้อวัว"
+msgstr "ฉันสามารถปั้นมันได้ทุกอย่างที่ฉันต้องการ มันจะยังคงเป็นบีฟาโล่"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.DRAGONBOAT_KIT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.DRAGONBOAT_KIT"
@@ -230474,7 +230474,7 @@ msgstr "มาง่าย ไปง่ายไหม?"
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTB_BEEFALOSHRINE.EMPTY
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTB_BEEFALOSHRINE.EMPTY"
 msgid "That beefalo's missing something."
-msgstr "เนื้อนั่นขาดอะไรบางอย่าง"
+msgstr "บีฟาโล่นั่นขาดอะไรบางอย่าง"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTB_BEEFALOSHRINE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTB_BEEFALOSHRINE.GENERIC"
@@ -249049,7 +249049,7 @@ msgstr "เพื่อนขนฟูของฉันจมอยู่กั
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.HITCHUP.NEEDBEEF
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.HITCHUP.NEEDBEEF"
 msgid "First I must find a beefalo to be mine."
-msgstr "ก่อนอื่น ฉันต้องหาเนื้อวัวมาเป็นของฉันก่อน"
+msgstr "ก่อนอื่น ฉันต้องหาบีฟาโล่มาเป็นของฉันก่อน"
 
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.HITCHUP.NEEDBEEF_CLOSER
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.HITCHUP.NEEDBEEF_CLOSER"
@@ -252119,7 +252119,7 @@ msgstr "รถของใครบางคนเสียชีวิตแล
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BEEFALO.DEAD_MYPARTNER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BEEFALO.DEAD_MYPARTNER"
 msgid "Say it ain't so, m'fellow beefalo!"
-msgstr "พูดได้เลยว่าไม่ใช่อย่างนั้น เพื่อนเนื้อคู่ของคุณ!"
+msgstr "พูดได้เลยว่าไม่ใช่อย่างนั้น เพื่อนบีฟาโล่ของคุณ!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BEEFALO.DOMESTICATED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BEEFALO.DOMESTICATED"
@@ -252134,7 +252134,7 @@ msgstr "Hyuyu! พวกเรากำลังเล่นตามผู้�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BEEFALO.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BEEFALO.GENERIC"
 msgid "Hello, hello, dear beefalo!"
-msgstr "สวัสดี สวัสดี ที่รัก เนื้อวัว!"
+msgstr "สวัสดี สวัสดี ที่รัก บีฟาโล่!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BEEFALO.MYPARTNER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BEEFALO.MYPARTNER"
@@ -252194,7 +252194,7 @@ msgstr "Hyuyuyu งี่เง่า!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BEEFALO_GROOMER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BEEFALO_GROOMER.GENERIC"
 msgid "I'll groom beefalo hair with my signature flair."
-msgstr "ฉันจะแต่งผมเนื้อด้วยไหวพริบอันเป็นเอกลักษณ์ของฉัน"
+msgstr "ฉันจะแต่งผมบีฟาโล่ด้วยไหวพริบอันเป็นเอกลักษณ์ของฉัน"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BEEFALO_GROOMER.OCCUPIED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BEEFALO_GROOMER.OCCUPIED"
@@ -252204,7 +252204,7 @@ msgstr "ลองแต่งแฟนซีดู? Hyuyu!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BEEFALO_GROOMER_ITEM
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BEEFALO_GROOMER_ITEM"
 msgid "Let's prepare to style beefalo hair!"
-msgstr "มาเตรียมทำผมเนื้อกันเถอะ!"
+msgstr "มาเตรียมทำผมบีฟาโล่กันเถอะ!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BEEF_BELL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BEEF_BELL"
@@ -253694,7 +253694,7 @@ msgstr "มันมีความคล้ายคลึงกันมาก
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEEFALO
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEEFALO"
 msgid "This beefalo is even more hard-headed than most!"
-msgstr "เนื้อนี้หัวแข็งกว่าส่วนใหญ่!"
+msgstr "บีฟาโล่นี้หัวแข็งกว่าส่วนใหญ่!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEEQUEEN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEEQUEEN"
@@ -255474,7 +255474,7 @@ msgstr "ดูเหมือนพวกมันจะมีมนต์ขล
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.FORMAL_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.FORMAL_BLUEPRINT"
 msgid "But will it really suit my beefalo? Hyuyu!"
-msgstr "แต่มันจะเหมาะกับเนื้อของฉันจริงๆเหรอ Hyuyu!"
+msgstr "แต่มันจะเหมาะกับบีฟาโล่ของฉันจริงๆเหรอ? ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.FOSSIL_PIECE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.FOSSIL_PIECE"
@@ -263944,7 +263944,7 @@ msgstr "ขอบคุณนะ %s ดูเหมือนจะไม่ฉ�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WANDERINGTRADER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WANDERINGTRADER.GENERIC"
 msgid "Whoa, uncanny beefalo!"
-msgstr "โอ้โห เนื้อวัวที่น่าขนลุก!"
+msgstr "โอ้โห บีฟาโล่ที่น่าขนลุก!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WANDERINGTRADER.REVEALED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WANDERINGTRADER.REVEALED"
@@ -265439,7 +265439,7 @@ msgstr "โอ้ มันต้องเกิดขึ้นงั้นห�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALOSHRINE.EMPTY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALOSHRINE.EMPTY"
 msgid "This beefalo looks a little bare."
-msgstr "เนื้อนี้ดูโล่งไปหน่อย"
+msgstr "บีฟาโล่นี้ดูโล่งไปหน่อย"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALOSHRINE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALOSHRINE.GENERIC"
@@ -265554,7 +265554,7 @@ msgstr "ลวดลายอันน่าพิศวง"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_POST
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_POST"
 msgid "A stage to show my beefalo."
-msgstr "เวทีแสดงเนื้อของฉัน"
+msgstr "เวทีแสดงบีฟาโล่ของฉัน"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_POST_ITEM
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_POST_ITEM"
@@ -287704,7 +287704,7 @@ msgstr "สำหรับสร้างหางเสือโง่"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.BODYPILLOW_BEEFALOWOOL
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
 msgid "EXTRUDED BEEFALO DISGUSTINGNESS... IN A BAG"
-msgstr "ความน่าขยะแขยงของเนื้อวัวอัดออกมา... ในถุง"
+msgstr "ความน่าขยะแขยงของบีฟาโล่อัดออกมา... ในถุง"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.BODYPILLOW_KELP
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.BODYPILLOW_KELP"
@@ -291104,7 +291104,7 @@ msgstr "ฉันจะทุบทุกคนที่ต่อต้านฉ
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.HANDPILLOW_BEEFALOWOOL
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HANDPILLOW_BEEFALOWOOL"
 msgid "EXTRUDED BEEFALO DISGUSTINGNESS... IN A BAG"
-msgstr "ความน่าขยะแขยงของเนื้อวัวอัดออกมา... ในถุง"
+msgstr "ความน่าขยะแขยงของบีฟาโล่อัดออกมา... ในถุง"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.HANDPILLOW_KELP
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HANDPILLOW_KELP"
@@ -296344,7 +296344,7 @@ msgstr "มันต้องการเนื้อหนัง น่าร�
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.SHADOW_BEEF_BELL
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SHADOW_BEEF_BELL"
 msgid "I CAN REBOOT MY BEEFALO MINION"
-msgstr "ฉันสามารถรีบูตมิเนี่ยนบีฟฟาโลของฉันได้แล้ว"
+msgstr "ฉันสามารถรีบูตมิเนี่ยนบีฟาโล่ของฉันได้แล้ว"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.SHADOW_FORGE
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SHADOW_FORGE"
@@ -309364,7 +309364,7 @@ msgstr "บีฟาโล่เชื่อง"
 #. STRINGS.NAMES.BEEFALO_GROOMER
 msgctxt "STRINGS.NAMES.BEEFALO_GROOMER"
 msgid "Beefalo Grooming Station"
-msgstr "สถานีกรูมมิ่งบีฟฟาโล"
+msgstr "สถานีกรูมมิ่งบีฟาโล่"
 
 #. STRINGS.NAMES.BEEFALO_GROOMER_ITEM
 msgctxt "STRINGS.NAMES.BEEFALO_GROOMER_ITEM"
@@ -324829,12 +324829,12 @@ msgstr "การแสดงที่เปี่ยมด้วยจิตว
 #. STRINGS.RECIPE_DESC.CHESSPIECE_BEEFALO_BUILDER
 msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_BEEFALO_BUILDER"
 msgid "A beauteous beefalo bust."
-msgstr "หน้าอกเนื้อที่สวยงาม"
+msgstr "หน้าอกบีฟาโล่ที่สวยงาม"
 
 #. STRINGS.RECIPE_DESC.CHESSPIECE_BEEFALO_SKETCH
 msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_BEEFALO_SKETCH"
 msgid "A sculpture sketch of a charming beefalo."
-msgstr "ภาพร่างประติมากรรมของเนื้อวัวที่มีเสน่ห์"
+msgstr "ภาพร่างประติมากรรมของบีฟาโล่ที่มีเสน่ห์"
 
 #. STRINGS.RECIPE_DESC.CHESSPIECE_BEEQUEEN_BUILDER
 msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_BEEQUEEN_BUILDER"
@@ -326834,7 +326834,7 @@ msgstr "ล่อให้สัตว์ไปเลียมัน"
 #. STRINGS.RECIPE_DESC.SALTLICK_IMPROVED
 msgctxt "STRINGS.RECIPE_DESC.SALTLICK_IMPROVED"
 msgid "Treat your beefalo to a taste of the finer things."
-msgstr "ลองลิ้มชิมรสเนื้อบีฟาโล่ของคุณที่เลิศรส"
+msgstr "ลองลิ้มชิมรสบีฟาโล่ของคุณที่เลิศรส"
 
 #. STRINGS.RECIPE_DESC.SCARECROW
 msgctxt "STRINGS.RECIPE_DESC.SCARECROW"
@@ -328269,7 +328269,7 @@ msgstr "อัญเชิญดวงดาวเล็กๆ"
 #. STRINGS.RECIPE_DESC.YOTB_BEEFALOSHRINE
 msgctxt "STRINGS.RECIPE_DESC.YOTB_BEEFALOSHRINE"
 msgid "Make offerings to the steadfast beefalo."
-msgstr "ถวายเครื่องบูชาแก่เนื้อวัวที่แน่วแน่"
+msgstr "ถวายเครื่องบูชาแก่บีฟาโล่ที่แน่วแน่"
 
 #. STRINGS.RECIPE_DESC.YOTB_PATTERN_FRAGMENT_1
 msgctxt "STRINGS.RECIPE_DESC.YOTB_PATTERN_FRAGMENT_1"
@@ -328289,12 +328289,12 @@ msgstr "หาแรงบันดาลใจในเทศกาล"
 #. STRINGS.RECIPE_DESC.YOTB_POST_ITEM
 msgctxt "STRINGS.RECIPE_DESC.YOTB_POST_ITEM"
 msgid "Put your beefalo on center stage."
-msgstr "วางเนื้อของคุณไว้ตรงกลางเวที"
+msgstr "วางบีฟาโล่ของคุณไว้ตรงกลางเวที"
 
 #. STRINGS.RECIPE_DESC.YOTB_SEWINGMACHINE_ITEM
 msgctxt "STRINGS.RECIPE_DESC.YOTB_SEWINGMACHINE_ITEM"
 msgid "Prototype the perfect beefalo outfit."
-msgstr "ต้นแบบเครื่องแต่งกายเนื้อที่สมบูรณ์แบบ"
+msgstr "ต้นแบบเครื่องแต่งกายบีฟาโล่ที่สมบูรณ์แบบ"
 
 #. STRINGS.RECIPE_DESC.YOTB_STAGE_ITEM
 msgctxt "STRINGS.RECIPE_DESC.YOTB_STAGE_ITEM"
@@ -330569,7 +330569,7 @@ msgstr "ภาชนะที่มี 9 ช่องสำหรับใส่
 #. STRINGS.SCRAPBOOK.SPECIALINFO.SALTLICK
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.SALTLICK"
 msgid "A constructed Saltlick will attract nearby Beefalo and other herd like animals.\n\nThey will lick the saltlick, eventually depleting it.\n\nBeefalo who use the saltlick will pause their domestication decay."
-msgstr "บ่อเกลือที่สร้างขึ้นจะดึงดูดเนื้อวัวที่อยู่ใกล้ๆ และฝูงสัตว์อื่นๆ ที่มีลักษณะคล้ายสัตว์\n\nพวกมันจะเลียบ่อเกลือ และทำให้มันหมดไปในที่สุด\n\nบีฟาโลที่ใช้บ่อเกลือจะหยุดการเสื่อมสลายของการเลี้ยงชั่วคราว"
+msgstr "บ่อเกลือที่สร้างขึ้นจะดึงดูดบีฟาโล่ที่อยู่ใกล้ๆ และฝูงสัตว์อื่นๆ ที่มีลักษณะคล้ายสัตว์\n\nพวกมันจะเลียบ่อเกลือ และทำให้มันหมดไปในที่สุด\n\nบีฟาโลที่ใช้บ่อเกลือจะหยุดการเสื่อมสลายของการเลี้ยงชั่วคราว"
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.SANITYROCK
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.SANITYROCK"
@@ -337934,12 +337934,12 @@ msgstr "ทำไมบีฟาโล่ไม่ควรจะเจ้าเ
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_body_ice
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_body_ice"
 msgid "A woolly blanket for a chilly beefalo."
-msgstr "ผ้าห่มขนสัตว์สำหรับเนื้อที่เย็นยะเยือก"
+msgstr "ผ้าห่มขนสัตว์สำหรับบีฟาโล่ที่เย็นยะเยือก"
 
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_body_lunar
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_body_lunar"
 msgid "Drape your beefalo in the finest finery."
-msgstr "ตกแต่งเนื้อบีฟาโล่ของคุณด้วยเครื่องประดับที่วิจิตรที่สุด"
+msgstr "ตกแต่งบีฟาโล่ของคุณด้วยเครื่องประดับที่วิจิตรที่สุด"
 
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_body_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_body_nature"
@@ -337954,7 +337954,7 @@ msgstr "มันให้ความหมายใหม่กับคำว
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_body_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_body_shadow"
 msgid "Cloak your beefalo in mystery."
-msgstr "ปกปิดเนื้อบีฟาโล่ของคุณด้วยความลึกลับ"
+msgstr "ปกปิดบีฟาโล่ของคุณด้วยความลึกลับ"
 
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_body_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_body_victorian"
@@ -337974,7 +337974,7 @@ msgstr "รองเท้านำโชคเหล่านี้จะพา
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_feet_doll
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_feet_doll"
 msgid "The daintiest beefalo shoes you ever did see!"
-msgstr "รองเท้า Beefalo ที่อร่อยที่สุดที่คุณเคยเห็น!"
+msgstr "รองเท้าบีฟาโล่ที่อร่อยที่สุดที่คุณเคยเห็น!"
 
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_feet_festive
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_feet_festive"
@@ -337994,12 +337994,12 @@ msgstr "ดูเหมือนบีฟาโล่จะเย็นชา"
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_feet_lunar
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_feet_lunar"
 msgid "Your beefalo deserves no less than these golden hooflets."
-msgstr "เนื้อบีฟาโล่ของคุณสมควรได้รับไม่น้อยกว่ากีบเท้าทองคำเหล่านี้"
+msgstr "บีฟาโล่ของคุณสมควรได้รับไม่น้อยกว่ากีบเท้าทองคำเหล่านี้"
 
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_feet_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_feet_nature"
 msgid "Gives your beefalo a simple, all-natural look."
-msgstr "ให้เนื้อของคุณดูเรียบง่ายและเป็นธรรมชาติ"
+msgstr "ให้บีฟาโล่ของคุณดูเรียบง่ายและเป็นธรรมชาติ"
 
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_feet_robot
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_feet_robot"
@@ -338009,7 +338009,7 @@ msgstr "ใส่สปริงในขั้นตอนของบีฟา
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_feet_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_feet_shadow"
 msgid "Your beefalo will be hot-to-trot in this high-class hoofwear."
-msgstr "เนื้อของคุณจะต้องร้อนแรงในชุดกีบเท้าชั้นสูงนี้"
+msgstr "บีฟาโล่ของคุณจะต้องร้อนแรงในชุดกีบเท้าชั้นสูงนี้"
 
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_feet_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_feet_victorian"
@@ -338024,7 +338024,7 @@ msgstr "ม้าต้องมีรองเท้าที่แข็งแ
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_head_beast
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_head_beast"
 msgid "This beefalo is lucky that the beast is just a costume."
-msgstr "เนื้อนี้โชคดีที่สัตว์ร้ายเป็นเพียงเครื่องแต่งกาย"
+msgstr "บีฟาโล่นี้โชคดีที่สัตว์ร้ายเป็นเพียงเครื่องแต่งกาย"
 
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_head_doll
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_head_doll"
@@ -338034,7 +338034,7 @@ msgstr "ตกแต่งบีฟาโล่ของคุณด้วยแ
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_head_festive
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_head_festive"
 msgid "Give your beefalo a pair of pom-pom pigtails."
-msgstr "มอบผมเปียปอมปอมให้เนื้อคู่ของคุณ"
+msgstr "มอบผมเปียปอมปอมให้บีฟาโล่คู่ของคุณ"
 
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_head_formal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_head_formal"
@@ -338054,7 +338054,7 @@ msgstr "สวมชุดทองเหมือนราชาบีฟาโ
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_head_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_head_nature"
 msgid "Adorn your beefalo with a sweet-smelling crown of flowers."
-msgstr "ประดับประดาเนื้อของคุณด้วยมงกุฎดอกไม้ที่หอมหวาน"
+msgstr "ประดับประดาบีฟาโล่ของคุณด้วยมงกุฎดอกไม้ที่หอมหวาน"
 
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_head_robot
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_head_robot"
@@ -338134,7 +338134,7 @@ msgstr "ข้อเสียเพียงอย่างเดียวขอ
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_tail_beast
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_tail_beast"
 msgid "This fanciful covering gives your beefalo's tail a more lizard-like appearance."
-msgstr "การปกปิดที่ดูเพ้อฝันนี้ทำให้หางของเนื้อของคุณมีลักษณะเหมือนจิ้งจกมากขึ้น"
+msgstr "การปกปิดที่ดูเพ้อฝันนี้ทำให้หางของบีฟาโล่ของคุณมีลักษณะเหมือนจิ้งจกมากขึ้น"
 
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_tail_doll
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_tail_doll"
@@ -338174,7 +338174,7 @@ msgstr "หางวัวที่มีขนดกมีขนดกเป็
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_tail_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_tail_shadow"
 msgid "A tiny blood-red cape for your beefalo's tail."
-msgstr "ผ้าคลุมสีแดงเลือดเล็กๆ สำหรับหางบีฟฟาโลของคุณ"
+msgstr "ผ้าคลุมสีแดงเลือดเล็กๆ สำหรับหางบีฟาโล่ของคุณ"
 
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_tail_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_tail_victorian"
@@ -338799,7 +338799,7 @@ msgstr "สีเสื้อกั๊กที่ทำจากขนบีฟ
 #. STRINGS.SKIN_DESCRIPTIONS.body_sweatervest_navy_ocean
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_sweatervest_navy_ocean"
 msgid "An 'unsuitably blue' colored vest made of the finest beefalo wool. Unfortunately, it's not actually warm."
-msgstr "เสื้อกั๊กสีน้ำเงิน 'ไม่เหมาะสม' ทำจากขนแกะเนื้อดีที่สุด น่าเสียดายที่มันไม่อบอุ่นจริงๆ"
+msgstr "เสื้อกั๊กสีน้ำเงิน 'ไม่เหมาะสม' ทำจากขนบีฟาโล่ดีที่สุด น่าเสียดายที่มันไม่อบอุ่นจริงๆ"
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_sweatervest_red_firehound
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_sweatervest_red_firehound"
@@ -341544,7 +341544,7 @@ msgstr "แจ้งให้ทุกคนรู้ว่าคุณพร้
 #. STRINGS.SKIN_DESCRIPTIONS.emoji_beefalo
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.emoji_beefalo"
 msgid "A cute beefalo face brightens any conversation.\n\nType :beefalo: in chat to use this emoticon."
-msgstr "ใบหน้าของ beefalo น่ารักจะเพิ่มความสว่างให้กับการสนทนาใดๆ\n\nพิมพ์ : beefalo: ในการสนทนาเพื่อใช้ไอคอนแสดงอารมณ์นี้"
+msgstr "ใบหน้าของบีฟาโล่น่ารักจะเพิ่มความสว่างให้กับการสนทนาใดๆ\n\nพิมพ์ : beefalo: ในการสนทนาเพื่อใช้ไอคอนแสดงอารมณ์นี้"
 
 #. STRINGS.SKIN_DESCRIPTIONS.emoji_beehive
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.emoji_beehive"
@@ -343119,7 +343119,7 @@ msgstr "ฉันจะทำแฮตทริก!"
 #. STRINGS.SKIN_DESCRIPTIONS.footballhat_western
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.footballhat_western"
 msgid "Tackle the toughest beefalo!"
-msgstr "จัดการกับเนื้อบีฟาโล่ที่แข็งแกร่งที่สุด!"
+msgstr "จัดการกับบีฟาโล่ที่แข็งแกร่งที่สุด!"
 
 #. STRINGS.SKIN_DESCRIPTIONS.gemsocket_crystal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.gemsocket_crystal"
@@ -376007,7 +376007,7 @@ msgstr "หมวกบีฟาโล่"
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.BEEF_BELL
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.BEEF_BELL"
 msgid "Beefalo Bell"
-msgstr "กระดิ่งเนื้อ"
+msgstr "กระดิ่งบีฟาโล่"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.BEEHAT
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.BEEHAT"
@@ -383707,7 +383707,7 @@ msgstr "ดูเคราตัวละครของคุณ"
 #. STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_BEEFALO
 msgctxt "STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_BEEFALO"
 msgid "View your beefalo skins"
-msgstr "ดูหนังบีฟฟาโลของคุณ"
+msgstr "ดูหนังบีฟาโล่ของคุณ"
 
 #. STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_EMOJI
 msgctxt "STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_EMOJI"
@@ -404392,7 +404392,7 @@ msgstr "อันนี้น่ากลัวเกินไป"
 #. STRINGS.YOTB_CONTEST_FEARSOME_EXTREMEHIGH.2
 msgctxt "STRINGS.YOTB_CONTEST_FEARSOME_EXTREMEHIGH.2"
 msgid "This beefalo's fierceness is well beyond my taste today."
-msgstr "ความดุของเนื้อนี้มันเกินบรรยายจริงๆ"
+msgstr "ความดุของบีฟาโล่นี้มันเกินบรรยายจริงๆ"
 
 #. STRINGS.YOTB_CONTEST_FEARSOME_EXTREMELOW.1
 msgctxt "STRINGS.YOTB_CONTEST_FEARSOME_EXTREMELOW.1"
@@ -404407,7 +404407,7 @@ msgstr "วันนี้ฉันกำลังมองหาบางอย
 #. STRINGS.YOTB_CONTEST_FEARSOME_HIGH.1
 msgctxt "STRINGS.YOTB_CONTEST_FEARSOME_HIGH.1"
 msgid "This beefalo is just a little fiercer than I want."
-msgstr "เนื้อนี้ดุกว่าที่ฉันต้องการเพียงเล็กน้อย"
+msgstr "บีฟาโล่นี้ดุกว่าที่ฉันต้องการเพียงเล็กน้อย"
 
 #. STRINGS.YOTB_CONTEST_FEARSOME_HIGH.2
 msgctxt "STRINGS.YOTB_CONTEST_FEARSOME_HIGH.2"
@@ -404417,12 +404417,12 @@ msgstr "การดุดันไปหน่อยอาจจะดี แ�
 #. STRINGS.YOTB_CONTEST_FEARSOME_LOW.1
 msgctxt "STRINGS.YOTB_CONTEST_FEARSOME_LOW.1"
 msgid "Maybe this beefalo could be a little more fierce."
-msgstr "บางทีเนื้อนี้อาจจะดุกว่านี้หน่อย"
+msgstr "บางทีบีฟาโล่นี้อาจจะดุกว่านี้หน่อย"
 
 #. STRINGS.YOTB_CONTEST_FEARSOME_LOW.2
 msgctxt "STRINGS.YOTB_CONTEST_FEARSOME_LOW.2"
 msgid "This beefalo is not as fierce as I'd like, but it's close."
-msgstr "เนื้อนี้ไม่ได้ดุอย่างที่อยากได้ แต่ก็ใกล้เคียงนะ"
+msgstr "บีฟาโล่นี้ไม่ได้ดุอย่างที่อยากได้ แต่ก็ใกล้เคียงนะ"
 
 #. STRINGS.YOTB_CONTEST_FEARSOME_PERFECT.1
 msgctxt "STRINGS.YOTB_CONTEST_FEARSOME_PERFECT.1"
@@ -404432,7 +404432,7 @@ msgstr "ฉันชอบท่าทีของมัน"
 #. STRINGS.YOTB_CONTEST_FEARSOME_PERFECT.2
 msgctxt "STRINGS.YOTB_CONTEST_FEARSOME_PERFECT.2"
 msgid "This beefalo fills me with just the right amount of fear."
-msgstr "เนื้อนี้ทำให้ฉันเต็มไปด้วยความกลัว"
+msgstr "บีฟาโล่นี้ทำให้ฉันเต็มไปด้วยความกลัว"
 
 #. STRINGS.YOTB_CONTEST_FEARSOME_TARGET_EXTREMEHIGH.1
 msgctxt "STRINGS.YOTB_CONTEST_FEARSOME_TARGET_EXTREMEHIGH.1"
@@ -404492,7 +404492,7 @@ msgstr "ฉันเคารพในความน่ากลัวของ
 #. STRINGS.YOTB_CONTEST_FEARSOME_VERYLOW.1
 msgctxt "STRINGS.YOTB_CONTEST_FEARSOME_VERYLOW.1"
 msgid "I'd like my beefalo to be a fair bit more fearsome than this."
-msgstr "ฉันอยากให้เนื้อของฉันน่ากลัวกว่านี้หน่อย"
+msgstr "ฉันอยากให้บีฟาโล่ของฉันน่ากลัวกว่านี้หน่อย"
 
 #. STRINGS.YOTB_CONTEST_FEARSOME_VERYLOW.2
 msgctxt "STRINGS.YOTB_CONTEST_FEARSOME_VERYLOW.2"
@@ -404522,7 +404522,7 @@ msgstr "ฉันกำลังมองหาบางอย่างที่
 #. STRINGS.YOTB_CONTEST_FESTIVE_HIGH.1
 msgctxt "STRINGS.YOTB_CONTEST_FESTIVE_HIGH.1"
 msgid "This beefalo is just a little more festive than I want."
-msgstr "เนื้อนี้เป็นเพียงงานรื่นเริงมากกว่าที่ฉันต้องการ"
+msgstr "บีฟาโล่นี้เป็นเพียงงานรื่นเริงมากกว่าที่ฉันต้องการ"
 
 #. STRINGS.YOTB_CONTEST_FESTIVE_HIGH.2
 msgctxt "STRINGS.YOTB_CONTEST_FESTIVE_HIGH.2"
@@ -404532,7 +404532,7 @@ msgstr "การมีเทศกาลน้อยเกินไปอาจ
 #. STRINGS.YOTB_CONTEST_FESTIVE_LOW.1
 msgctxt "STRINGS.YOTB_CONTEST_FESTIVE_LOW.1"
 msgid "Maybe this beefalo could be a little more festive."
-msgstr "บางทีเนื้อนี้อาจจะดุกว่านี้หน่อย"
+msgstr "บางทีบีฟาโล่นี้อาจจะดุกว่านี้หน่อย"
 
 #. STRINGS.YOTB_CONTEST_FESTIVE_LOW.2
 msgctxt "STRINGS.YOTB_CONTEST_FESTIVE_LOW.2"
@@ -404547,7 +404547,7 @@ msgstr "ฉันชอบเทศกาลนี้"
 #. STRINGS.YOTB_CONTEST_FESTIVE_PERFECT.2
 msgctxt "STRINGS.YOTB_CONTEST_FESTIVE_PERFECT.2"
 msgid "This beefalo is just festive enough."
-msgstr "เนื้อนี้เป็นเพียงงานรื่นเริงพอ"
+msgstr "บีฟาโล่นี้เป็นเพียงงานรื่นเริงพอ"
 
 #. STRINGS.YOTB_CONTEST_FESTIVE_TARGET_EXTREMEHIGH.1
 msgctxt "STRINGS.YOTB_CONTEST_FESTIVE_TARGET_EXTREMEHIGH.1"
@@ -404602,7 +404602,7 @@ msgstr "ผู้ชายคนนี้มีงานรื่นเริง
 #. STRINGS.YOTB_CONTEST_FESTIVE_VERYHIGH.2
 msgctxt "STRINGS.YOTB_CONTEST_FESTIVE_VERYHIGH.2"
 msgid "I respect how festive this beefalo is, but it's more than I like."
-msgstr "ฉันเคารพในความรื่นเริงของเนื้อนี้ แต่มันมากกว่าที่ฉันชอบ"
+msgstr "ฉันเคารพในความรื่นเริงของบีฟาโล่นี้ แต่มันมากกว่าที่ฉันชอบ"
 
 #. STRINGS.YOTB_CONTEST_FESTIVE_VERYLOW.1
 msgctxt "STRINGS.YOTB_CONTEST_FESTIVE_VERYLOW.1"
@@ -404717,7 +404717,7 @@ msgstr "ตัวอย่างนี้เป็นทางการมาก
 #. STRINGS.YOTB_CONTEST_FORMAL_VERYHIGH.2
 msgctxt "STRINGS.YOTB_CONTEST_FORMAL_VERYHIGH.2"
 msgid "I respect how formal this beefalo is, but it's more than I like."
-msgstr "ฉันเคารพในความเป็นทางการของเนื้อชิ้นนี้ แต่มันมากกว่าที่ฉันชอบ"
+msgstr "ฉันเคารพในความเป็นทางการของบีฟาโล่ชิ้นนี้ แต่มันมากกว่าที่ฉันชอบ"
 
 #. STRINGS.YOTB_CONTEST_FORMAL_VERYLOW.1
 msgctxt "STRINGS.YOTB_CONTEST_FORMAL_VERYLOW.1"
