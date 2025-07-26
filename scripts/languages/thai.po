@@ -102924,7 +102924,7 @@ msgstr "มันคือนกพัฟฟิน"
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PUFFIN.HELD
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PUFFIN.HELD"
 msgid "I'm gonna turn you into puffin' stuff."
-msgstr "ข้าจะเปลี่ยนเจ้าให้กลายเป็นของพัฟฟิน"
+msgstr "ข้าจะเปลี่ยนเจ้าให้กลายเป็นของนกพัฟฟิน"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PUFFIN.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PUFFIN.SLEEPING"
@@ -316554,7 +316554,7 @@ msgstr "ไพรม์เมท"
 #. STRINGS.NAMES.PUFFIN
 msgctxt "STRINGS.NAMES.PUFFIN"
 msgid "Puffin"
-msgstr "นัทเชล"
+msgstr "นกพัฟฟิน"
 
 #. STRINGS.NAMES.PUMPKIN
 msgctxt "STRINGS.NAMES.PUMPKIN"
@@ -321984,47 +321984,47 @@ msgstr "ฮิวโก้"
 #. STRINGS.PIGNAMES.101
 msgctxt "STRINGS.PIGNAMES.101"
 msgid "Moon Pie"
-msgstr "เซท"
+msgstr "มูนพาย"
 
 #. STRINGS.PIGNAMES.102
 msgctxt "STRINGS.PIGNAMES.102"
 msgid "Bagel"
-msgstr "มูนพาย"
+msgstr "เบเกล"
 
 #. STRINGS.PIGNAMES.103
 msgctxt "STRINGS.PIGNAMES.103"
 msgid "Biscuit"
-msgstr "เบเกล"
+msgstr "บิสกิต"
 
 #. STRINGS.PIGNAMES.104
 msgctxt "STRINGS.PIGNAMES.104"
 msgid "Bacon"
-msgstr "บิสกิต"
+msgstr "เบคอน"
 
 #. STRINGS.PIGNAMES.105
 msgctxt "STRINGS.PIGNAMES.105"
 msgid "Hamilton"
-msgstr "เบคอน"
+msgstr "แฮมิลตัน"
 
 #. STRINGS.PIGNAMES.106
 msgctxt "STRINGS.PIGNAMES.106"
 msgid "Hamms"
-msgstr "แฮมิลตัน"
+msgstr "แฮมส์"
 
 #. STRINGS.PIGNAMES.107
 msgctxt "STRINGS.PIGNAMES.107"
 msgid "Mr.P"
-msgstr "แฮมส์"
+msgstr "คุณ.พี"
 
 #. STRINGS.PIGNAMES.108
 msgctxt "STRINGS.PIGNAMES.108"
 msgid "Brownie"
-msgstr "นาย.พี"
+msgstr "บราวนี่"
 
 #. STRINGS.PIGNAMES.109
 msgctxt "STRINGS.PIGNAMES.109"
 msgid "Butters"
-msgstr "บราวนี่"
+msgstr "บัตเตอร์"
 
 #. STRINGS.PIGNAMES.11
 msgctxt "STRINGS.PIGNAMES.11"
@@ -322039,47 +322039,47 @@ msgstr "ทูน่า"
 #. STRINGS.PIGNAMES.111
 msgctxt "STRINGS.PIGNAMES.111"
 msgid "Clover"
-msgstr "ทูน่า"
+msgstr "โคลวเวอร์"
 
 #. STRINGS.PIGNAMES.112
 msgctxt "STRINGS.PIGNAMES.112"
 msgid "Coco"
-msgstr "โคลวเวอร์"
+msgstr "โคโค"
 
 #. STRINGS.PIGNAMES.113
 msgctxt "STRINGS.PIGNAMES.113"
 msgid "Custard"
-msgstr "โคโค"
+msgstr "คัสตาร์"
 
 #. STRINGS.PIGNAMES.114
 msgctxt "STRINGS.PIGNAMES.114"
 msgid "Dumpling"
-msgstr "คัสตาร์"
+msgstr "ดั๊มมิง"
 
 #. STRINGS.PIGNAMES.115
 msgctxt "STRINGS.PIGNAMES.115"
 msgid "Eggy"
-msgstr "ดั๊มมิง"
+msgstr "เอกกี้"
 
 #. STRINGS.PIGNAMES.116
 msgctxt "STRINGS.PIGNAMES.116"
 msgid "Kiwi"
-msgstr "เอกกี้"
+msgstr "กีวี่"
 
 #. STRINGS.PIGNAMES.117
 msgctxt "STRINGS.PIGNAMES.117"
 msgid "Weiner"
-msgstr "กีวี่"
+msgstr "วินเนอร์"
 
 #. STRINGS.PIGNAMES.118
 msgctxt "STRINGS.PIGNAMES.118"
 msgid "Waffle"
-msgstr "วินเนอร์"
+msgstr "วาฟเฟิล"
 
 #. STRINGS.PIGNAMES.119
 msgctxt "STRINGS.PIGNAMES.119"
 msgid "Twinkie"
-msgstr "วาฟเฟิล"
+msgstr "ทวิงกี้"
 
 #. STRINGS.PIGNAMES.12
 msgctxt "STRINGS.PIGNAMES.12"
@@ -322089,52 +322089,52 @@ msgstr "เนว์วา"
 #. STRINGS.PIGNAMES.120
 msgctxt "STRINGS.PIGNAMES.120"
 msgid "Truffle"
-msgstr "ทวิงกี้"
+msgstr "ทราฟเฟิล"
 
 #. STRINGS.PIGNAMES.121
 msgctxt "STRINGS.PIGNAMES.121"
 msgid "Tater"
-msgstr "ทราฟเฟิล"
+msgstr "เทเทอร์"
 
 #. STRINGS.PIGNAMES.122
 msgctxt "STRINGS.PIGNAMES.122"
 msgid "Cheddar"
-msgstr "เทเทอร์"
+msgstr "Cheddar"
 
 #. STRINGS.PIGNAMES.123
 msgctxt "STRINGS.PIGNAMES.123"
 msgid "Pumpkin"
-msgstr "ฟักทอง"
+msgstr "พัมคิน"
 
 #. STRINGS.PIGNAMES.124
 msgctxt "STRINGS.PIGNAMES.124"
 msgid "Oatey"
-msgstr "พัมคิน"
+msgstr "โอ๊ตตี้"
 
 #. STRINGS.PIGNAMES.125
 msgctxt "STRINGS.PIGNAMES.125"
 msgid "Oinkey"
-msgstr "โอ๊ตตี้"
+msgstr "โออินคีย์"
 
 #. STRINGS.PIGNAMES.126
 msgctxt "STRINGS.PIGNAMES.126"
 msgid "Nacho"
-msgstr "ออยกี้"
+msgstr "นาโช่"
 
 #. STRINGS.PIGNAMES.127
 msgctxt "STRINGS.PIGNAMES.127"
 msgid "Puffin"
-msgstr "นัทเชล"
+msgstr "พัฟฟิน"
 
 #. STRINGS.PIGNAMES.128
 msgctxt "STRINGS.PIGNAMES.128"
 msgid "Doughnut"
-msgstr "พัฟฟิน"
+msgstr "โดนัท"
 
 #. STRINGS.PIGNAMES.129
 msgctxt "STRINGS.PIGNAMES.129"
 msgid "Cabbage"
-msgstr "โดนัท"
+msgstr "เคบบิจ"
 
 #. STRINGS.PIGNAMES.13
 msgctxt "STRINGS.PIGNAMES.13"
@@ -322144,37 +322144,37 @@ msgstr "ทรีเจน"
 #. STRINGS.PIGNAMES.130
 msgctxt "STRINGS.PIGNAMES.130"
 msgid "Porky"
-msgstr "คาเบจ"
+msgstr "พอกกี้"
 
 #. STRINGS.PIGNAMES.131
 msgctxt "STRINGS.PIGNAMES.131"
 msgid "Porkins"
-msgstr "พอกกี้"
+msgstr "พอกเก็น"
 
 #. STRINGS.PIGNAMES.132
 msgctxt "STRINGS.PIGNAMES.132"
 msgid "Porkbun"
-msgstr "พอกเก็น"
+msgstr "พอกบุน"
 
 #. STRINGS.PIGNAMES.133
 msgctxt "STRINGS.PIGNAMES.133"
 msgid "Pepper"
-msgstr "พอกบุน"
+msgstr "เพพเปอร์"
 
 #. STRINGS.PIGNAMES.134
 msgctxt "STRINGS.PIGNAMES.134"
 msgid "Gouda"
-msgstr "เพพเปอร์"
+msgstr "เกาดา"
 
 #. STRINGS.PIGNAMES.135
 msgctxt "STRINGS.PIGNAMES.135"
 msgid "Eggbert"
-msgstr "เกาดา"
+msgstr "แอกเบริด"
 
 #. STRINGS.PIGNAMES.136
 msgctxt "STRINGS.PIGNAMES.136"
 msgid "Chip"
-msgstr "แอกเบริด"
+msgstr "ชิป"
 
 #. STRINGS.PIGNAMES.137
 msgctxt "STRINGS.PIGNAMES.137"
@@ -322184,12 +322184,12 @@ msgstr "เบอร์รี่"
 #. STRINGS.PIGNAMES.138
 msgctxt "STRINGS.PIGNAMES.138"
 msgid "Crabby"
-msgstr "เบอร์รี่"
+msgstr "เครปบี้"
 
 #. STRINGS.PIGNAMES.139
 msgctxt "STRINGS.PIGNAMES.139"
 msgid "Reuben"
-msgstr "เครปบี้"
+msgstr "รูเบน"
 
 #. STRINGS.PIGNAMES.14
 msgctxt "STRINGS.PIGNAMES.14"
@@ -322199,37 +322199,37 @@ msgstr "เฮเดรีย"
 #. STRINGS.PIGNAMES.140
 msgctxt "STRINGS.PIGNAMES.140"
 msgid "Barley"
-msgstr "รูเบน"
+msgstr "บาร์เล่ย์"
 
 #. STRINGS.PIGNAMES.141
 msgctxt "STRINGS.PIGNAMES.141"
 msgid "Olive"
-msgstr "บาร์เล่ย์"
+msgstr "โอลิฟว์"
 
 #. STRINGS.PIGNAMES.142
 msgctxt "STRINGS.PIGNAMES.142"
 msgid "Pickles"
-msgstr "โอลิฟว์"
+msgstr "พิกเกล"
 
 #. STRINGS.PIGNAMES.143
 msgctxt "STRINGS.PIGNAMES.143"
 msgid "Wiggles"
-msgstr "พิกเกล"
+msgstr "วิกเกิลส์"
 
 #. STRINGS.PIGNAMES.144
 msgctxt "STRINGS.PIGNAMES.144"
 msgid "Jerky"
-msgstr "เนื้อตากแห้ง"
+msgstr "เจิกกี้"
 
 #. STRINGS.PIGNAMES.145
 msgctxt "STRINGS.PIGNAMES.145"
 msgid "Smelly"
-msgstr "เหม็นๆ"
+msgstr "สเมลลี่"
 
 #. STRINGS.PIGNAMES.146
 msgctxt "STRINGS.PIGNAMES.146"
 msgid "Salty"
-msgstr "เสมวลี่"
+msgstr "ซอลตี้"
 
 #. STRINGS.PIGNAMES.15
 msgctxt "STRINGS.PIGNAMES.15"
