@@ -7,6 +7,17 @@ end
 local itemsName = {
    ["beefalo bell"] = Thai.PO["STRINGS.NAMES.BEEF_BELL"],
    ["beefalo"] = Thai.PO["STRINGS.NAMES.BEEFALO"],
+   ["acid rain"] = Thai.PO["STRINGS.NAMES.ACIDRAIN"],
+   ["algae"] = Thai.PO["STRINGS.NAMES.POND_ALGAE"],
+   ["anchor"] = Thai.PO["STRINGS.NAMES.ANCHOR"],
+   ["ashes"] = Thai.PO["STRINGS.NAMES.ASH"],
+   ["asparagus"] = Thai.PO["STRINGS.NAMES.ASPARAGUS"],
+   ["axe"] = Thai.PO["STRINGS.NAMES.AXE"],
+   ["balloon"] = Thai.PO["STRINGS.NAMES.BALLOON"],
+   ["banana"] = Thai.PO["STRINGS.NAMES.CAVE_BANANA"],
+   ["barnacles"] = Thai.PO["STRINGS.NAMES.BARNACLE"],
+   ["beeswax"] = Thai.PO["STRINGS.NAMES.BEESWAX"],
+   ["berries"] = Thai.PO["STRINGS.NAMES.BERRIES"],
 }
 for nameIndex, nameEng in pairs(GetOriginalStringsFromIndex("STRINGS.NAMES")) do
    itemsName[nameEng:gsub("?", "")] = Thai.PO[nameIndex]

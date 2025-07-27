@@ -7549,7 +7549,7 @@ msgstr "ฉันไม่อยากให้เรือของฉันล
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ANCHOR_ITEM
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ANCHOR_ITEM"
 msgid "Now I can build an anchor."
-msgstr "ตอนนี้ฉันสร้างจุดยึดได้แล้ว"
+msgstr "ตอนนี้ฉันสร้างสมอได้แล้ว"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ANCIENTFRUIT_GEM
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ANCIENTFRUIT_GEM"
@@ -22109,7 +22109,7 @@ msgstr "ฉันไม่ต้องการให้เรือของฉ
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTD_ANCHOR_ITEM
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTD_ANCHOR_ITEM"
 msgid "Now I can build an anchor."
-msgstr "ตอนนี้ฉันสามารถสร้างจุดยึดได้แล้ว"
+msgstr "ตอนนี้ฉันสามารถสร้างสมอได้แล้ว"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTD_DRAGONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTD_DRAGONSHRINE.BURNT"
@@ -27694,7 +27694,7 @@ msgstr "ฉันไม่คิดว่าพวกเขาจะตื่น
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_ANCHOR
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_ANCHOR"
 msgid "Technically this could still work as a real anchor."
-msgstr "ในทางเทคนิค สิ่งนี้ยังสามารถใช้เป็นจุดยึดที่แท้จริงได้"
+msgstr "ในทางเทคนิค สิ่งนี้ยังสามารถใช้เป็นสมอที่แท้จริงได้"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_ANTLION
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_ANTLION"
@@ -39804,7 +39804,7 @@ msgstr "นั่นคงเป็นสมอที่เพ้อฝันท
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTD_ANCHOR_ITEM
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTD_ANCHOR_ITEM"
 msgid "I've got all the supplies ready to build an anchor."
-msgstr "ฉันมีอุปกรณ์พร้อมสำหรับสร้างสมอเรือแล้ว"
+msgstr "ฉันมีอุปกรณ์พร้อมสำหรับสร้างสมอแล้ว"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTD_DRAGONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.YOTD_DRAGONSHRINE.BURNT"
@@ -42174,7 +42174,7 @@ msgstr "ฉันได้เรียนรู้สิ่งใหม่! ห�
 #. STRINGS.CHARACTERS.WANDA.ANNOUNCE_POCKETWATCH_MARK
 msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_POCKETWATCH_MARK"
 msgid "That will make a fine anchor point."
-msgstr "นั่นจะทำให้เป็นจุดยึดที่ดี"
+msgstr "นั่นจะทำให้เป็นสมอที่ดี"
 
 #. STRINGS.CHARACTERS.WANDA.ANNOUNCE_POCKETWATCH_OPEN_PORTAL
 msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_POCKETWATCH_OPEN_PORTAL"
@@ -72334,7 +72334,7 @@ msgstr "ไม่ใช่ผึ้งธรรมดาของคุณ"
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WATERBALLOON
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WATERBALLOON"
 msgid "A balloon, filled with water? What a funny idea."
-msgstr "บอลลูนที่เต็มไปด้วยน้ำ? ช่างเป็นความคิดที่ตลกจริงๆ"
+msgstr "ลูกโป่งที่เต็มไปด้วยน้ำ? ช่างเป็นความคิดที่ตลกจริงๆ"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WATERINGCAN.EMPTY
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WATERINGCAN.EMPTY"
@@ -74044,7 +74044,7 @@ msgstr "น่าเสียดายที่ต้องทิ้งสิ่
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTD_ANCHOR_ITEM
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTD_ANCHOR_ITEM"
 msgid "Looks like a recipe for an anchor."
-msgstr "ดูเหมือนสูตรสมอเรือ"
+msgstr "ดูเหมือนสูตรสมอ"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTD_DRAGONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.YOTD_DRAGONSHRINE.BURNT"
@@ -114209,7 +114209,7 @@ msgstr "ความยุ่งเหยิงของหมากรุก"
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_ANCHOR
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_ANCHOR"
 msgid "Anchors away!"
-msgstr "ยึดไว้!"
+msgstr "สมอยึดไว้!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_ANTLION
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_ANTLION"
@@ -126289,7 +126289,7 @@ msgstr "คว้าพื้นทะเลให้แน่นจริงๆ
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTD_ANCHOR_ITEM
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTD_ANCHOR_ITEM"
 msgid "That's for making an anchor."
-msgstr "นั่นสำหรับสร้างจุดยึด"
+msgstr "นั่นสำหรับสร้างสมอ"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTD_DRAGONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.YOTD_DRAGONSHRINE.BURNT"
@@ -129254,7 +129254,7 @@ msgstr "เมื่อรู้สึกว่าไปต่อไม่ได
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.ANCHOR_ITEM
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ANCHOR_ITEM"
 msgid "It's for a burdensome boat anchor."
-msgstr "สำหรับสมอเรือที่บรรทุกภาระ"
+msgstr "สำหรับสมอที่บรรทุกภาระ"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.ANCIENTFRUIT_GEM
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ANCIENTFRUIT_GEM"
@@ -129779,7 +129779,7 @@ msgstr "จะเฉลิมฉลองในสถานที่เช่น
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.BALLOONSPEED.DEFLATED
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BALLOONSPEED.DEFLATED"
 msgid "Sail far away from here, little balloon."
-msgstr "แล่นไปไกลจากที่นี่ บอลลูนน้อย"
+msgstr "แล่นไปไกลจากที่นี่ ลูกโป่งน้อย"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.BALLOONSPEED.GENERIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BALLOONSPEED.GENERIC"
@@ -143714,7 +143714,7 @@ msgstr "ความแวววาวสีทองของมันจะห
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTD_ANCHOR_ITEM
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTD_ANCHOR_ITEM"
 msgid "It's for a burdensome boat anchor."
-msgstr "มีไว้สำหรับสมอเรือที่เป็นภาระ"
+msgstr "มีไว้สำหรับสมอที่เป็นภาระ"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTD_DRAGONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTD_DRAGONSHRINE.BURNT"
@@ -146674,12 +146674,12 @@ msgstr "ของฝากจากยุคอื่น"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ANCHOR
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ANCHOR"
 msgid "An anchor for our vessel."
-msgstr "สมอเรือของเรา"
+msgstr "สมอของเรา"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ANCHOR_ITEM
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ANCHOR_ITEM"
 msgid "It will allow us to create an anchor for our ships."
-msgstr "มันจะช่วยให้เราสร้างสมอเรือของเราได้"
+msgstr "มันจะช่วยให้เราสร้างสมอของเราได้"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ANCIENTFRUIT_GEM
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ANCIENTFRUIT_GEM"
@@ -153224,7 +153224,7 @@ msgstr "นี่จะเป็นไฟอ่านหนังสือที
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MINIBOATLANTERN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MINIBOATLANTERN"
 msgid "The balloon seems a bit redundant, doesn't it?"
-msgstr "บอลลูนดูซ้ำซ้อนไปหน่อย ใช่มั๊ย?"
+msgstr "ลูกโป่งดูซ้ำซ้อนไปหน่อย ใช่มั๊ย?"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MINIFAN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MINIFAN"
@@ -156204,7 +156204,7 @@ msgstr "หินก้อนนั้นมีพลังในการเก
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.REVIVER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.REVIVER"
 msgid "This provides a corporeal anchor for the ectoplasmic configuration."
-msgstr "นี่เป็นจุดยึดตามร่างกายสำหรับการกำหนดค่าของ ectoplasmic"
+msgstr "นี่เป็นสมอตามร่างกายสำหรับการกำหนดค่าของ ectoplasmic"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RHINODRILL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RHINODRILL"
@@ -161139,7 +161139,7 @@ msgstr "หนึ่งในการใช้ทองคำที่แปล
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTD_ANCHOR_ITEM
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTD_ANCHOR_ITEM"
 msgid "It will allow us to create an anchor for our ships."
-msgstr "มันจะช่วยให้เราสร้างสมอเรือของเราได้"
+msgstr "มันจะช่วยให้เราสร้างสมอของเราได้"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTD_DRAGONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTD_DRAGONSHRINE.BURNT"
@@ -164069,7 +164069,7 @@ msgstr "การทิ้งมันสนุกกว่าการดึง
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ANCHOR_ITEM
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ANCHOR_ITEM"
 msgid "Ooo, let's build an anchor."
-msgstr "โอ้ มาสร้างจุดยึดกันเถอะ"
+msgstr "โอ้ มาสร้างสมอกันเถอะ"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ANCIENTFRUIT_GEM
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ANCIENTFRUIT_GEM"
@@ -164589,7 +164589,7 @@ msgstr "เฮ้ กระต่าย! ไม่เลว!"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BALLOONPARTY
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.BALLOONPARTY"
 msgid "Hey, when are you gonna make a hot air balloon? I could help!"
-msgstr "เฮ้ เมื่อไหร่คุณจะทำบอลลูนลมร้อน? ฉันช่วยได้!"
+msgstr "เฮ้ เมื่อไหร่คุณจะทำลูกโป่งลมร้อน? ฉันช่วยได้!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BALLOONSPEED.DEFLATED
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.BALLOONSPEED.DEFLATED"
@@ -181514,7 +181514,7 @@ msgstr "นั่นจะทำให้เรืออยู่ในตำแ
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.ANCHOR_ITEM
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ANCHOR_ITEM"
 msgid "Someone's gotta assemble this anchor, might as well be me."
-msgstr "มีคนต้องประกอบสมอเรือนี้ อาจจะเป็นฉันด้วย"
+msgstr "มีคนต้องประกอบสมอนี้ อาจจะเป็นฉันด้วย"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.ANCIENTFRUIT_GEM
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ANCIENTFRUIT_GEM"
@@ -182024,7 +182024,7 @@ msgstr "อะไรอาจจะผิดพลาดได้?"
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.BALLOON
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.BALLOON"
 msgid "Oh! A balloon."
-msgstr "โอ้! บอลลูน"
+msgstr "โอ้! ลูกโป่ง"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.BALLOONHAT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.BALLOONHAT"
@@ -199494,17 +199494,17 @@ msgstr "มาเถอะเพื่อน! ปาร์ตี้!"
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BALLOONSPEED.DEFLATED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BALLOONSPEED.DEFLATED"
 msgid "Balloon has gotten scrawny and weak!"
-msgstr "บอลลูนดูผอมแห้งและอ่อนแอ!"
+msgstr "ลูกโป่งดูผอมแห้งและอ่อนแอ!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BALLOONSPEED.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BALLOONSPEED.GENERIC"
 msgid "Clownman has mighty lungs to make balloon so big!"
-msgstr "ตัวตลกมีปอดอันทรงพลังที่จะทำให้บอลลูนใหญ่โต!"
+msgstr "ตัวตลกมีปอดอันทรงพลังที่จะทำให้ลูกโป่งใหญ่โต!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BALLOONS_EMPTY
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BALLOONS_EMPTY"
 msgid "Wolfgang will make balloon muscles."
-msgstr "วูล์ฟกังจะสร้างกล้ามเนื้อบอลลูน"
+msgstr "วูล์ฟกังจะสร้างกล้ามเนื้อลูกโป่ง"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BALLOONVEST
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BALLOONVEST"
@@ -213424,7 +213424,7 @@ msgstr "เป็นเมล็ดพืชที่สวยงามสำห
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTD_ANCHOR
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTD_ANCHOR"
 msgid "Ha! Shiny anchor is not heavy for Wolfgang!"
-msgstr "ฮ่า! สมอเรือมันไม่หนักสำหรับวูล์ฟกัง!"
+msgstr "ฮ่า! สมอมันไม่หนักสำหรับวูล์ฟกัง!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTD_ANCHOR_ITEM
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTD_ANCHOR_ITEM"
@@ -216854,7 +216854,7 @@ msgstr "เอ่อ ฉันไม่ได้ลืมวันเกิด�
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BALLOONSPEED.DEFLATED
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BALLOONSPEED.DEFLATED"
 msgid "Just a regular balloon now, eh?"
-msgstr "ตอนนี้เป็นแค่บอลลูนธรรมดาใช่มั้ย"
+msgstr "ตอนนี้เป็นแค่ลูกโป่งธรรมดาใช่มั้ย"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BALLOONSPEED.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BALLOONSPEED.GENERIC"
@@ -230794,7 +230794,7 @@ msgstr "คิดว่ามันจะโตเป็นอะไรล่ะ
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTD_ANCHOR
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTD_ANCHOR"
 msgid "Pretty fancy for an anchor, eh?"
-msgstr "สมอเรือสวยมากใช่ไหม?"
+msgstr "สมอสวยมากใช่ไหม?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTD_ANCHOR_ITEM
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTD_ANCHOR_ITEM"
@@ -251824,7 +251824,7 @@ msgstr "เก็บลมหายใจไว้ใช้ภายหลัง
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BALLOONVEST
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BALLOONVEST"
 msgid "A bright balloon vest to wear across my chest."
-msgstr "เสื้อบอลลูนสีสดใสสำหรับใส่พาดหน้าอก"
+msgstr "เสื้อลูกโป่งสีสดใสสำหรับใส่พาดหน้าอก"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BANANABUSH
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BANANABUSH"
@@ -286209,7 +286209,7 @@ msgstr "มันทำให้เรือหยุด ฉันชอบ"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.ANCHOR_ITEM
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ANCHOR_ITEM"
 msgid "FOR BUILDING A RIDICULOUS ANCHOR"
-msgstr "สำหรับสร้างจุดยึดที่ไร้สาระ"
+msgstr "สำหรับสร้างสมอที่ไร้สาระ"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.ANCIENTFRUIT_GEM
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ANCIENTFRUIT_GEM"
@@ -300669,7 +300669,7 @@ msgstr "คุณอยู่ในน้ำได้ดีกว่าฉัน
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTD_ANCHOR_ITEM
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTD_ANCHOR_ITEM"
 msgid "FOR BUILDING A RIDICULOUS ANCHOR"
-msgstr "สำหรับการสร้างสมอเรือที่ไร้สาระ"
+msgstr "สำหรับการสร้างสมอที่ไร้สาระ"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.YOTD_DRAGONSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.YOTD_DRAGONSHRINE.BURNT"
@@ -301649,7 +301649,7 @@ msgstr "*ถูกพี่สาวฝาแฝดหลอกหลอน\n*�
 #. STRINGS.CHARACTER_DESCRIPTIONS.wes
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wes"
 msgid "*Can't talk \n*Practices balloonomancy \n*Is not a skilled fighter or worker \n*Has trouble staying alive"
-msgstr "*พูดไม่ได้\n*ฝึกการทำบอลลูน\n*ไม่ใช่นักสู้หรือช่างฝีมือ\n*มีปัญหาในการมีชีวิตอยู่"
+msgstr "*พูดไม่ได้\n*ฝึกการทำลูกโป่ง\n*ไม่ใช่นักสู้หรือช่างฝีมือ\n*มีปัญหาในการมีชีวิตอยู่"
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wickerbottom
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wickerbottom"
@@ -324809,7 +324809,7 @@ msgstr "กราวด์ฐานของคุณด้วยสมอหิ
 #. STRINGS.RECIPE_DESC.CHESSPIECE_ANCHOR_SKETCH
 msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_ANCHOR_SKETCH"
 msgid "A sculpture sketch of an anchor."
-msgstr "ภาพร่างประติมากรรมสมอเรือ"
+msgstr "ภาพร่างประติมากรรมสมอ"
 
 #. STRINGS.RECIPE_DESC.CHESSPIECE_ANTLION_BUILDER
 msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_ANTLION_BUILDER"
@@ -328374,7 +328374,7 @@ msgstr "ห่อเมล็ดพันธุ์คุณภาพสูง"
 #. STRINGS.RECIPE_DESC.YOTD_ANCHOR_ITEM
 msgctxt "STRINGS.RECIPE_DESC.YOTD_ANCHOR_ITEM"
 msgid "The gold standard of ship anchors."
-msgstr "มาตรฐานทองคำของสมอเรือ"
+msgstr "มาตรฐานทองคำของสมอ"
 
 #. STRINGS.RECIPE_DESC.YOTD_DRAGONSHRINE
 msgctxt "STRINGS.RECIPE_DESC.YOTD_DRAGONSHRINE"
@@ -345964,7 +345964,7 @@ msgstr "เวนดี้พบความสะดวกสบายแปล
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wes1
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wes1"
 msgid "Wes often gets carried away while performing his ballonomantic arts."
-msgstr "เวสมักถูกพาตัวไปในขณะที่แสดงศิลปะบอลลูน"
+msgstr "เวสมักถูกพาตัวไปในขณะที่แสดงศิลปะลูกโป่ง"
 
 #. STRINGS.SKIN_DESCRIPTIONS.loading_wes_trailer
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_wes_trailer"
