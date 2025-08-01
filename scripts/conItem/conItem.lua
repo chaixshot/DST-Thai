@@ -87,15 +87,16 @@ for _, text in ipairs(conStrings) do
             end
          end
 
-         -- if #found > 0 then
-         --    local index = ""
-         --    for k, v in pairs(found) do
-         --       index = index.."[\""..v.."\"] = true, "
-         --    end
-         --    print("[\""..conIndex.."\"] = {"..index.."},")
-         -- end
+         -- Print conItemIndex table
+         if #found > 0 then
+            local index = ""
+            for k, v in pairs(found) do
+               index = index.."[\""..v.."\"] = true, "
+            end
+            print("[\""..conIndex.."\"] = {"..index.."},")
+         end
 
-         -- print lowercase item name in conversion
+         -- Print lowercase item name in conversion
          -- if #foundLower > 0 then
          --    local index = ""
          --    for k, v in pairs(foundLower) do
@@ -104,16 +105,14 @@ for _, text in ipairs(conStrings) do
          --    print(index)
          -- end
 
-         if #countEng > #countThai then
-            missingName[conIndex] = countEng
-         end
+         -- Print missing thai name from converation
+         -- if #countEng > #countThai then
+         --    local missing = ""
+         --    for i, j in pairs(countEng) do
+         --       missing = missing.."\""..j.."\", "
+         --    end
+         --    print("\""..conIndex.."\"\t\t"..missing)
+         -- end
       end
    end
-end ]]
---[[ for k, v in pairs(missingName) do -- print missing thai name from converation
-   local missing = ""
-   for i, j in pairs(v) do
-      missing = missing.."\""..j.."\", "
-   end
-   print("\""..k.."\"\t\t"..missing)
-end ]]
+end]]
