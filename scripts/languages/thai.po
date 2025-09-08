@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.5\n"
+"X-Generator: Poedit 3.7\n"
 
 #. STRINGS.ACTIONS.ABANDON
 msgctxt "STRINGS.ACTIONS.ABANDON"
@@ -310664,7 +310664,7 @@ msgstr "เศษรู้แจ้ง"
 #. STRINGS.NAMES.ALTERGUARDIANHAT_PROJECTILE
 msgctxt "STRINGS.NAMES.ALTERGUARDIANHAT_PROJECTILE"
 msgid "Minor Gestalt"
-msgstr "ไมเนอร์เกสตัลต์"
+msgstr "ไมเนอร์เกสตัลท์"
 
 #. STRINGS.NAMES.ALTERGUARDIAN_CONTAINED
 msgctxt "STRINGS.NAMES.ALTERGUARDIAN_CONTAINED"
@@ -313196,15 +313196,25 @@ msgctxt "STRINGS.NAMES.CHESSPIECE_WAGBOSS_LUNAR_BUILDER"
 msgid "Celestial Scion Figure"
 msgstr ""
 
+#. STRINGS.NAMES.CHESSPIECE_WAGBOSS_LUNAR_SKETCH
+msgctxt "STRINGS.NAMES.CHESSPIECE_WAGBOSS_LUNAR_SKETCH"
+msgid "Celestial Scion Figure Sketch"
+msgstr ""
+
 #. STRINGS.NAMES.CHESSPIECE_WAGBOSS_ROBOT
 msgctxt "STRINGS.NAMES.CHESSPIECE_WAGBOSS_ROBOT"
 msgid "W.A.R.B.O.T. Figure"
-msgstr ""
+msgstr "รูปปั้น W.A.R.B.O.T."
 
 #. STRINGS.NAMES.CHESSPIECE_WAGBOSS_ROBOT_BUILDER
 msgctxt "STRINGS.NAMES.CHESSPIECE_WAGBOSS_ROBOT_BUILDER"
 msgid "W.A.R.B.O.T. Figure"
-msgstr ""
+msgstr "รูปปั้น W.A.R.B.O.T."
+
+#. STRINGS.NAMES.CHESSPIECE_WAGBOSS_ROBOT_SKETCH
+msgctxt "STRINGS.NAMES.CHESSPIECE_WAGBOSS_ROBOT_SKETCH"
+msgid "W.A.R.B.O.T. Figure Sketch"
+msgstr "พิมพ์เขียวรูปปั้น W.A.R.B.O.T."
 
 #. STRINGS.NAMES.CHESSPIECE_WARG_MUTATED
 msgctxt "STRINGS.NAMES.CHESSPIECE_WARG_MUTATED"
@@ -314794,12 +314804,12 @@ msgstr "ขาตั้งอัญมณี"
 #. STRINGS.NAMES.GESTALT
 msgctxt "STRINGS.NAMES.GESTALT"
 msgid "Gestalt"
-msgstr "เกสตัลต์"
+msgstr "เกสตัลท์"
 
 #. STRINGS.NAMES.GESTALT_ALTERGUARDIAN_PROJECTILE
 msgctxt "STRINGS.NAMES.GESTALT_ALTERGUARDIAN_PROJECTILE"
 msgid "Gestalt"
-msgstr "เกสตัลต์"
+msgstr "เกสตัลท์"
 
 #. STRINGS.NAMES.GESTALT_CAGE
 msgctxt "STRINGS.NAMES.GESTALT_CAGE"
@@ -314809,7 +314819,7 @@ msgstr ""
 #. STRINGS.NAMES.GESTALT_GUARD
 msgctxt "STRINGS.NAMES.GESTALT_GUARD"
 msgid "Greater Gestalt"
-msgstr "เกรทเตอร์เกสตัลต์"
+msgstr "เกรทเตอร์เกสตัลท์"
 
 #. STRINGS.NAMES.GESTALT_GUARD_EVOLVED
 msgctxt "STRINGS.NAMES.GESTALT_GUARD_EVOLVED"
@@ -315904,7 +315914,7 @@ msgstr "ตะเกียง"
 #. STRINGS.NAMES.LARGEGUARD_ALTERGUARDIAN_PROJECTILE
 msgctxt "STRINGS.NAMES.LARGEGUARD_ALTERGUARDIAN_PROJECTILE"
 msgid "Greater Gestalt"
-msgstr "เกรทเตอร์เกสตัลต์"
+msgstr "เกรทเตอร์เกสตัลท์"
 
 #. STRINGS.NAMES.LATKES
 msgctxt "STRINGS.NAMES.LATKES"
@@ -320426,6 +320436,11 @@ msgctxt "STRINGS.NAMES.SHADOWDUELIST_BUILDER"
 msgid "Shadow Duelist"
 msgstr "นักฆ่าเงา"
 
+#. STRINGS.NAMES.SHADOWHAND
+msgctxt "STRINGS.NAMES.SHADOWHAND"
+msgid "Shadow Hand"
+msgstr "มือเงา"
+
 #. STRINGS.NAMES.SHADOWHEART
 msgctxt "STRINGS.NAMES.SHADOWHEART"
 msgid "Shadow Atrium"
@@ -320919,7 +320934,7 @@ msgstr "ปิ๊บสปุ๊ก"
 #. STRINGS.NAMES.SMALLGUARD_ALTERGUARDIAN_PROJECTILE
 msgctxt "STRINGS.NAMES.SMALLGUARD_ALTERGUARDIAN_PROJECTILE"
 msgid "Minor Gestalt"
-msgstr "ไมเนอร์เกสตัลต์"
+msgstr "ไมเนอร์เกสตัลท์"
 
 #. STRINGS.NAMES.SMALLMEAT
 msgctxt "STRINGS.NAMES.SMALLMEAT"
@@ -322920,6 +322935,11 @@ msgstr "หมวกผู้บัญชาการ"
 msgctxt "STRINGS.NAMES.WATHGRITHR_SHIELD"
 msgid "Battle Rönd"
 msgstr "แบทเทิลเรินด์"
+
+#. STRINGS.NAMES.WAVEYJONES
+msgctxt "STRINGS.NAMES.WAVEYJONES"
+msgid "Wavey Jones"
+msgstr ""
 
 #. STRINGS.NAMES.WAXPAPER
 msgctxt "STRINGS.NAMES.WAXPAPER"
@@ -330966,6 +330986,11 @@ msgctxt "STRINGS.SCRAPBOOK.FOODTYPE.BURNT"
 msgid "BURNT"
 msgstr "ไหม้"
 
+#. STRINGS.SCRAPBOOK.FOODTYPE.CORPSE
+msgctxt "STRINGS.SCRAPBOOK.FOODTYPE.CORPSE"
+msgid "CORPSE"
+msgstr "ศพ"
+
 #. STRINGS.SCRAPBOOK.FOODTYPE.ELEMENTAL
 msgctxt "STRINGS.SCRAPBOOK.FOODTYPE.ELEMENTAL"
 msgid "ELEMENTAL"
@@ -330995,6 +331020,11 @@ msgstr "น่ากลัว"
 msgctxt "STRINGS.SCRAPBOOK.FOODTYPE.INSECT"
 msgid "INSECT"
 msgstr "แมลง"
+
+#. STRINGS.SCRAPBOOK.FOODTYPE.LUNAR_SHARDS
+msgctxt "STRINGS.SCRAPBOOK.FOODTYPE.LUNAR_SHARDS"
+msgid "LUNAR SHARDS"
+msgstr "เศษดวงจันทร์"
 
 #. STRINGS.SCRAPBOOK.FOODTYPE.MEAT
 msgctxt "STRINGS.SCRAPBOOK.FOODTYPE.MEAT"
@@ -331671,6 +331701,11 @@ msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.COOKBOOK"
 msgid "A record of all the foods cooked and/or eaten, as well as the ingredients used to cook them."
 msgstr "บันทึกของอาหารทั้งหมดที่ปรุงและ/หรือรับประทาน รวมทั้งส่วนผสมที่ใช้ในการปรุง"
 
+#. STRINGS.SCRAPBOOK.SPECIALINFO.COOLANT
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.COOLANT"
+msgid "Essence of insight... Fuel of power... ...Bubbling."
+msgstr "แก่นสารแห่งปัญญา...เชื้อเพลิงแห่งพลัง... ...เดือดพล่าน"
+
 #. STRINGS.SCRAPBOOK.SPECIALINFO.COSTUME
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.COSTUME"
 msgid "Costume piece used in stage plays."
@@ -332325,6 +332360,11 @@ msgstr "การทดลองที่ทำโดยโฮโลแกรม
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.MOONSTORM_GOGGLESHAT"
 msgid "Improves vision in a storm.\n\nWill help locate mysterious holograms."
 msgstr "ปรับปรุงการมองเห็นในพายุ\n\nจะช่วยค้นหาโฮโลแกรมลึกลับ"
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.MOONSTORM_STATIC_CATCHER
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.MOONSTORM_STATIC_CATCHER"
+msgid "Now you're the catcher!\nFind the energy running loose in the storms and try to restrain it."
+msgstr "ตอนนี้คุณเป็นคนจับ!\nค้นหาพลังงานที่ไหลเวียนอยู่ในพายุและพยายามควบคุมมัน"
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.MOON_ALTAR_ROCK
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.MOON_ALTAR_ROCK"
@@ -333361,6 +333401,21 @@ msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WAGBOSS_MISSILE"
 msgid "These heat-seeking missiles lock onto the warmest thing they can find... So make sure that isn't you!"
 msgstr "ขีปนาวุธนำวิถีความร้อนเหล่านี้จะล็อคเป้าหมายไปที่สิ่งที่อุ่นที่สุดที่พวกมันสามารถหาได้... ดังนั้น ตรวจสอบให้แน่ใจว่าไม่ใช่คุณ!"
 
+#. STRINGS.SCRAPBOOK.SPECIALINFO.WAGBOSS_ROBOT_CONSTRUCTIONSITE
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WAGBOSS_ROBOT_CONSTRUCTIONSITE"
+msgid "Build the W.A.R.B.O.T. using only the most authentic parts."
+msgstr "สร้าง W.A.R.B.O.T. โดยใช้เฉพาะชิ้นอะไหล่แท้"
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.WAGBOSS_ROBOT_CONSTRUCTIONSITE_KIT
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WAGBOSS_ROBOT_CONSTRUCTIONSITE_KIT"
+msgid "There is only one place that this contraption can go so that the containment barrier can do its part in stabilizing the energies used."
+msgstr "มีเพียงที่เดียวเท่านั้นที่อุปกรณ์นี้จะสามารถวางได้เพื่อให้แผงกั้นสามารถทำหน้าที่รักษาเสถียรภาพของพลังงานที่ใช้"
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.WAGBOSS_ROBOT_CREATION_PARTS
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WAGBOSS_ROBOT_CREATION_PARTS"
+msgid "Parts cut according to the correct specifications for W.A.R.B.O.T. construction."
+msgstr "ชิ้นส่วนที่ตัดตามข้อกำหนดที่ถูกต้องสำหรับการก่อสร้าง W.A.R.B.O.T."
+
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WAGBOSS_ROBOT_LEG
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WAGBOSS_ROBOT_LEG"
 msgid "Although the W.A.R.B.O.T. material failed to fully contain the Celestial Scion, it may still prove useful in protecting the survivors."
@@ -333720,6 +333775,11 @@ msgstr "น้ำยาอีลิกเซอร์"
 msgctxt "STRINGS.SCRAPBOOK.SUBCATS.FARMPLANT"
 msgid "Farm Plant"
 msgstr "พืชไร่"
+
+#. STRINGS.SCRAPBOOK.SUBCATS.GESTALT
+msgctxt "STRINGS.SCRAPBOOK.SUBCATS.GESTALT"
+msgid "Gestalt"
+msgstr "เกสตัลท์"
 
 #. STRINGS.SCRAPBOOK.SUBCATS.HALLOWEENORNAMENT
 msgctxt "STRINGS.SCRAPBOOK.SUBCATS.HALLOWEENORNAMENT"
