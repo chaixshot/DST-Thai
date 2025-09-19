@@ -1,5 +1,5 @@
 name = " Thai Language Pack"
-version = "6.26.8"
+version = "6.27"
 author = "H@mer"
 description = [[Don't Starve Together: ภาษาไทย
 เวอร์ชั่น: ]]..version..
