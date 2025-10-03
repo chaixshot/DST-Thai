@@ -2371,7 +2371,7 @@ msgctxt "STRINGS.ARCHIVE_RUNE_STATUE.LINE_5"
 msgid "\"Alter is good. Alter shall not forsake us. Alter shall return.\""
 msgstr "\"อัลเทอร์นั้นดี อัลเทอร์จะไม่ละทิ้งเรา อัลเทอร์จะกลับมา\""
 
-#. STRINGS.ATRIUM_g tem-pooral"... glurgh. ForgOVERGROWTH.LINE_1
+#. STRINGS.ATRIUM_OVERGROWTH.LINE_1
 msgctxt "STRINGS.ATRIUM_OVERGROWTH.LINE_1"
 msgid "\"The unknown hath been made known. The abyss revealed as refuge.\""
 msgstr "สิ่งที่ไม่รู้จักได้ถูกเปิดเผย เหวลึกถูกเปิดเผยเป็นที่หลบภัย.\""
@@ -4436,6 +4436,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CAST_POCKETWATCH.GENERIC"
 msgid "only_used_by_wanda"
 msgstr "only_used_by_wanda"
 
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CAST_POCKETWATCH.NO_TELEPORT_ZONE
+msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CAST_POCKETWATCH.NO_TELEPORT_ZONE"
+msgid "only_used_by_wanda"
+msgstr "only_used_by_wanda"
+
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CAST_POCKETWATCH.REVIVE_FAILED
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CAST_POCKETWATCH.REVIVE_FAILED"
 msgid "only_used_by_wanda"
@@ -6390,6 +6395,11 @@ msgstr "only_used_by_willow"
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED"
 msgid "Safe from that frightening lightning!"
 msgstr "ปลอดภัยจากฟ้าผ่าที่น่ากลัว!"
+
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_LIGHTSOUT_SHADOWHAND
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_LIGHTSOUT_SHADOWHAND"
+msgid "Wait a minute, what is that doing down here?"
+msgstr "รอสักครู่ นั่นมันทำอะไรอยู่ที่นี่?"
 
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_LOWRESEARCH
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_LOWRESEARCH"
@@ -10090,6 +10100,26 @@ msgstr "มันคือเฟิร์น"
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_FERN_WITHERED"
 msgid "It's a withered fern."
 msgstr "มันเป็นเฟิร์นที่เหี่ยวเฉา"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_VENT_MITE.DEAD
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_VENT_MITE.DEAD"
+msgid "Out of gas!"
+msgstr "แก๊สหมด!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_VENT_MITE.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_VENT_MITE.GENERIC"
+msgid "What mite it be?"
+msgstr "มันจะเป็นอะไรสักอย่าง?"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_VENT_MITE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_VENT_MITE.SLEEPING"
+msgid "Careful, it mite wake up."
+msgstr "ระวัง มันจะตื่น"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_VENT_MITE.VENTING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_VENT_MITE.VENTING"
+msgid "It's fuming mad!"
+msgstr "มันบ้าไปแล้ว!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_VENT_ROCK.GAS
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_VENT_ROCK.GAS"
@@ -15556,6 +15586,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.OCEANVINE_COCOON_BURNT"
 msgid "I smell burnt toast."
 msgstr "ฉันได้กลิ่นขนมปังไหม้"
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.OCEANWHIRLBIGPORTALEXIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.OCEANWHIRLBIGPORTALEXIT"
+msgid "I sea debris."
+msgstr "เศษซากในทะเล"
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.OCEANWHIRLPORTAL
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.OCEANWHIRLPORTAL"
 msgid "I'll give it a whirl."
@@ -20266,6 +20301,16 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.VAULT_TELEPORTER_UNDERCONSTRUCTION"
 msgid "\"This Waymark is under development for a future update.\""
 msgstr "\"Waymark นี้กำลังอยู่ระหว่างการพัฒนาเพื่อการอัปเดตในอนาคต\""
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.VAULT_TORCH.BROKEN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.VAULT_TORCH.BROKEN"
+msgid "The switch looks broken."
+msgstr "สวิตช์ดูเหมือนจะเสีย"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.VAULT_TORCH.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.VAULT_TORCH.GENERIC"
+msgid "Is that a light switch?"
+msgstr "นั่นคือสวิตช์ไฟใช่มั๊ย?"
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.VEGGIEOMLET
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.VEGGIEOMLET"
 msgid "Breakfast is the most scientific meal of the day."
@@ -24561,6 +24606,11 @@ msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED"
 msgid "Woah! I almost got zapped!"
 msgstr "ว้าว! ฉันเกือบโดนแซะแล้ว!"
 
+#. STRINGS.CHARACTERS.WALTER.ANNOUNCE_LIGHTSOUT_SHADOWHAND
+msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_LIGHTSOUT_SHADOWHAND"
+msgid "Woby, did you see that hand? It's cheating!"
+msgstr "Woby คุณเห็นมือนั่นมั๊ย? มันโกง!"
+
 #. STRINGS.CHARACTERS.WALTER.ANNOUNCE_LOWRESEARCH
 msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_LOWRESEARCH"
 msgid "That wasn't very informative."
@@ -28180,6 +28230,26 @@ msgstr "มีพืชแปลกๆเติบโตที่นี่"
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CAVE_FERN_WITHERED"
 msgid "These weird plants don't do well down here."
 msgstr "พืชแปลกๆเหล่านี้ไม่เจริญเติบโตได้ดีที่นี่"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CAVE_VENT_MITE.DEAD
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CAVE_VENT_MITE.DEAD"
+msgid "Yup. It's dead."
+msgstr "ใช่แล้ว มันตายแล้ว"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CAVE_VENT_MITE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CAVE_VENT_MITE.GENERIC"
+msgid "Careful Woby! It's gassy."
+msgstr "ระวัง Woby! มันมีแก๊ส"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CAVE_VENT_MITE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CAVE_VENT_MITE.SLEEPING"
+msgid "Shh... don't wake it, Woby."
+msgstr "ชู่... อย่าปลุกมันนะ Woby"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CAVE_VENT_MITE.VENTING
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CAVE_VENT_MITE.VENTING"
+msgid "It's blowing off steam! Get it, Woby?"
+msgstr "มันระบายอารมณ์ออกมา! เข้าใจมั๊ย Woby?"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CAVE_VENT_ROCK.GAS
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CAVE_VENT_ROCK.GAS"
@@ -33641,6 +33711,11 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.OCEANVINE_COCOON_BURNT"
 msgid "The poor spiders..."
 msgstr "แมงมุมผู้น่าสงสาร..."
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.OCEANWHIRLBIGPORTALEXIT
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.OCEANWHIRLBIGPORTALEXIT"
+msgid "You smell anything in there, Woby?"
+msgstr "คุณได้กลิ่นอะไรในนั้นมั๊ย Woby?"
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.OCEANWHIRLPORTAL
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.OCEANWHIRLPORTAL"
 msgid "I don't think my water safety badge prepared me for that."
@@ -38311,6 +38386,16 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.VAULT_TELEPORTER.UNPOWERED"
 msgid "I don't think there's power."
 msgstr "ฉันไม่คิดว่าจะมีพลังงาน"
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.VAULT_TORCH.BROKEN
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.VAULT_TORCH.BROKEN"
+msgid "The switch looks broken."
+msgstr "สวิตช์ดูเหมือนจะเสีย"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.VAULT_TORCH.GENERIC
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.VAULT_TORCH.GENERIC"
+msgid "There's a neat little switch that turns it on and off!"
+msgstr "มีสวิตช์เล็กๆน่ารักๆที่ใช้เปิดและปิด!"
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.VEGGIEOMLET
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.VEGGIEOMLET"
 msgid "Wow, it's so... healthy!"
@@ -42686,6 +42771,11 @@ msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED"
 msgid "I was almost struck down!"
 msgstr "ฉันเกือบโดนโจมตี!"
 
+#. STRINGS.CHARACTERS.WANDA.ANNOUNCE_LIGHTSOUT_SHADOWHAND
+msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_LIGHTSOUT_SHADOWHAND"
+msgid "That's strange. You don't belong down here."
+msgstr "นั่นแปลกนะ คุณไม่ควรอยู่ที่นี่"
+
 #. STRINGS.CHARACTERS.WANDA.ANNOUNCE_LOWRESEARCH
 msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_LOWRESEARCH"
 msgid "Well I learned a bit, but not much."
@@ -43793,8 +43883,8 @@ msgstr "เวลาล่วงเลยไป"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.ANCIENT_HUSK
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.ANCIENT_HUSK"
-msgid "Some scenes I'd rather forget."
-msgstr "บางฉากฉันอยากจะลืมเสียมากกว่า"
+msgid "How awful."
+msgstr "แย่จัง"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.ANCIENT_STATUE
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.ANCIENT_STATUE"
@@ -46085,6 +46175,26 @@ msgstr "น่าสนใจมาก ยังไงก็ตาม..."
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CAVE_FERN_WITHERED"
 msgid "Not interesting at all."
 msgstr "ไม่น่าสนใจเลย"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CAVE_VENT_MITE.DEAD
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CAVE_VENT_MITE.DEAD"
+msgid "That's the end of that."
+msgstr "นั่นคือจุดสิ้นสุดของเรื่องนั้น"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CAVE_VENT_MITE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CAVE_VENT_MITE.GENERIC"
+msgid "I was hoping not to see or smell you again."
+msgstr "ฉันหวังว่าจะไม่เห็นหรือได้กลิ่นคุณอีก"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CAVE_VENT_MITE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CAVE_VENT_MITE.SLEEPING"
+msgid "That's one way to pass the time."
+msgstr "นั่นเป็นวิธีหนึ่งในการผ่านเวลา"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CAVE_VENT_MITE.VENTING
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CAVE_VENT_MITE.VENTING"
+msgid "Disgusting."
+msgstr "น่ารังเกียจ"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.CAVE_VENT_ROCK.GAS
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CAVE_VENT_ROCK.GAS"
@@ -51521,6 +51631,11 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.OCEANVINE_COCOON_BURNT"
 msgid "Thankfully the fire didn't spread to the tree."
 msgstr "โชคดีที่ไฟไม่ลามไปถึงต้นไม้"
 
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.OCEANWHIRLBIGPORTALEXIT
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.OCEANWHIRLBIGPORTALEXIT"
+msgid "Not how I want to spend my time."
+msgstr "ไม่ใช่แบบที่ฉันต้องการใช้เวลา"
+
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.OCEANWHIRLPORTAL
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.OCEANWHIRLPORTAL"
 msgid "If it's the quickest way out of here, I suppose I can't be picky."
@@ -56216,6 +56331,16 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.VAULT_TELEPORTER.UNPOWERED"
 msgid "I knew I forgot something."
 msgstr "ฉันรู้ว่าฉันลืมบางอย่าง"
 
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.VAULT_TORCH.BROKEN
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.VAULT_TORCH.BROKEN"
+msgid "It's broken."
+msgstr "มันเสีย"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.VAULT_TORCH.GENERIC
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.VAULT_TORCH.GENERIC"
+msgid "Is there an order to this."
+msgstr "มีคำสั่งสำหรับสิ่งนี้หรือไม่"
+
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.VEGGIEOMLET
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.VEGGIEOMLET"
 msgid "Why waste time washing extra dishes when you can eat out of the pan?"
@@ -60516,6 +60641,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED"
 msgid "That was much too close!"
 msgstr "นั่นใกล้เกินไปแล้ว!"
 
+#. STRINGS.CHARACTERS.WARLY.ANNOUNCE_LIGHTSOUT_SHADOWHAND
+msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_LIGHTSOUT_SHADOWHAND"
+msgid "There are too many cooks in this kitchen!"
+msgstr "มีคนทำอาหารมากเกินไปในครัวนี้!"
+
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_LOWRESEARCH
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_LOWRESEARCH"
 msgid "I did not learn any new tricks from that."
@@ -63855,6 +63985,26 @@ msgstr "มีอะไรเติบโตที่นี่ได้อย่
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CAVE_FERN_WITHERED"
 msgid "It did not survive this environment."
 msgstr "มันไม่สามารถอยู่รอดในสภาพแวดล้อมนี้"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CAVE_VENT_MITE.DEAD
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CAVE_VENT_MITE.DEAD"
+msgid "It is dead."
+msgstr "มันตายแล้ว"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CAVE_VENT_MITE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CAVE_VENT_MITE.GENERIC"
+msgid "A walking pressure cooker!"
+msgstr "หม้อความดันเดินได้!"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CAVE_VENT_MITE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CAVE_VENT_MITE.SLEEPING"
+msgid "Perhaps a good time to harvest?"
+msgstr "บางทีนี่อาจเป็นเวลาที่ดีที่จะเก็บเกี่ยว?"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CAVE_VENT_MITE.VENTING
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CAVE_VENT_MITE.VENTING"
+msgid "Most unappetizing!"
+msgstr "ไม่น่ากินที่สุด!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CAVE_VENT_ROCK.GAS
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CAVE_VENT_ROCK.GAS"
@@ -69216,6 +69366,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.OCEANVINE_COCOON_BURNT"
 msgid "Burnt to a crisp."
 msgstr "ไหม้เกรียม"
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.OCEANWHIRLBIGPORTALEXIT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.OCEANWHIRLBIGPORTALEXIT"
+msgid "Never know what I might find!"
+msgstr "ไม่เคยรู้เลยว่าฉันจะพบอะไร!"
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.OCEANWHIRLPORTAL
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.OCEANWHIRLPORTAL"
 msgid "Someone is really stirring the soup."
@@ -73210,6 +73365,16 @@ msgstr "ส่งคนทันที!"
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.VAULT_TELEPORTER.UNPOWERED"
 msgid "There is no juice."
 msgstr "ไม่มีน้ำผลไม้"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.VAULT_TORCH.BROKEN
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.VAULT_TORCH.BROKEN"
+msgid "I'm afraid the switch is broken."
+msgstr "ฉันกลัวว่าสวิตช์จะเสีย"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.VAULT_TORCH.GENERIC
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.VAULT_TORCH.GENERIC"
+msgid "Mood lighting!"
+msgstr "แสงไฟสร้างอารมณ์!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.VEGGIEOMLET
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.VEGGIEOMLET"
@@ -77476,6 +77641,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED"
 msgid "I rode in on a bolt lightning."
 msgstr "ฉันขี่สายฟ้าฟาดลงมา"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_LIGHTSOUT_SHADOWHAND
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_LIGHTSOUT_SHADOWHAND"
+msgid "Curses! I shall hew off thy dark meddling hand!"
+msgstr "สาปแช่ง! ข้าจะตัดมืออันมืดมิดที่คอยยุ่งเกี่ยวของเจ้าทิ้ง!"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_LOWRESEARCH
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_LOWRESEARCH"
 msgid "That wasn't very exciting."
@@ -80825,6 +80995,26 @@ msgstr "ใบไม้จากยุคมืด"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_FERN_WITHERED"
 msgid "'Tis dead."
 msgstr "มันตายแล้ว"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_VENT_MITE.DEAD
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_VENT_MITE.DEAD"
+msgid "I shall remember thy foul fumes."
+msgstr "ฉันจะจดจำควันพิษอันน่ารังเกียจของคุณ"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_VENT_MITE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_VENT_MITE.GENERIC"
+msgid "Come, stinking beast!"
+msgstr "มาสิ เจ้าสัตว์เหม็น!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_VENT_MITE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_VENT_MITE.SLEEPING"
+msgid "To slay it in its sleep is simple, swift and without honor."
+msgstr "การฆ่ามันในขณะที่มันหลับเป็นเรื่องง่าย รวดเร็ว และไร้เกียรติ"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_VENT_MITE.VENTING
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_VENT_MITE.VENTING"
+msgid "Spew not they noxious vapors upon me, vile insect!"
+msgstr "อย่าพ่นไอพิษใส่ข้าเลย เจ้าแมลงชั่วร้าย!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_VENT_ROCK.GAS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_VENT_ROCK.GAS"
@@ -86271,6 +86461,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.OCEANVINE_COCOON_BURNT"
 msgid "'Twas consumed by flames."
 msgstr "ถูกไฟเผาไหม้"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.OCEANWHIRLBIGPORTALEXIT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.OCEANWHIRLBIGPORTALEXIT"
+msgid "Sea spoils!"
+msgstr "ของที่ปล้นมาจากทะเล!"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.OCEANWHIRLPORTAL
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.OCEANWHIRLPORTAL"
 msgid "Oh, beautiful maelström. Into thy hungry mouth we doth sail."
@@ -90931,6 +91126,16 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.VAULT_TELEPORTER.UNPOWERED"
 msgid "This infernal contraption hath no spark!"
 msgstr "อุปกรณ์นรกนี้ไม่มีประกายไฟ!"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.VAULT_TORCH.BROKEN
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.VAULT_TORCH.BROKEN"
+msgid "'Tis broken."
+msgstr "มันเสีย"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.VAULT_TORCH.GENERIC
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.VAULT_TORCH.GENERIC"
+msgid "A flame to banish the shadows!"
+msgstr "เปลวไฟที่จะขับไล่เงา!"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.VEGGIEOMLET
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.VEGGIEOMLET"
 msgid "Bah! The eggs have been spoiled by non-meats!"
@@ -95286,6 +95491,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED"
 msgid "Can't touch this!"
 msgstr "สัมผัสสิ่งนี้ไม่ได้!"
 
+#. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_LIGHTSOUT_SHADOWHAND
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_LIGHTSOUT_SHADOWHAND"
+msgid "Hmm... could you be... trying to help?"
+msgstr "อืม... คุณ... กำลังพยายามช่วยอยู่หรือเปล่า?"
+
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_LOWRESEARCH
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_LOWRESEARCH"
 msgid "That wasn't very informative."
@@ -98630,6 +98840,26 @@ msgstr "ฉันอยากจะเหยียบมัน"
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CAVE_FERN_WITHERED"
 msgid "Ah well."
 msgstr "เอาล่ะ"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CAVE_VENT_MITE.DEAD
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CAVE_VENT_MITE.DEAD"
+msgid "Great."
+msgstr "เยี่ยมมาก"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CAVE_VENT_MITE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CAVE_VENT_MITE.GENERIC"
+msgid "Leave me alone!"
+msgstr "ปล่อยฉันไว้คนเดียว!"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CAVE_VENT_MITE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CAVE_VENT_MITE.SLEEPING"
+msgid "Quickly, while it sleeps."
+msgstr "เร็วๆนี้ ขณะที่มันหลับ"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CAVE_VENT_MITE.VENTING
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CAVE_VENT_MITE.VENTING"
+msgid "Ugh, I think I swallowed some."
+msgstr "อืม ฉันคิดว่าฉันกลืนมันไปบ้าง"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CAVE_VENT_ROCK.GAS
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CAVE_VENT_ROCK.GAS"
@@ -104066,6 +104296,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.OCEANVINE_COCOON_BURNT"
 msgid "Not quite so comfortable anymore."
 msgstr "ไม่ค่อยสบายเท่าไหร่แล้ว"
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.OCEANWHIRLBIGPORTALEXIT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.OCEANWHIRLBIGPORTALEXIT"
+msgid "I'd rather not pick through that."
+msgstr "ฉันไม่อยากเลือกสิ่งนั้น"
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.OCEANWHIRLPORTAL
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.OCEANWHIRLPORTAL"
 msgid "Is it safe? We should send Wilson in first."
@@ -108726,6 +108961,16 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.VAULT_TELEPORTER.UNPOWERED"
 msgid "Figures."
 msgstr "รูปภาพ"
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.VAULT_TORCH.BROKEN
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.VAULT_TORCH.BROKEN"
+msgid "Of course it's broken."
+msgstr "แน่นอนว่ามันเสีย"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.VAULT_TORCH.GENERIC
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.VAULT_TORCH.GENERIC"
+msgid "On or off? Make up your mind."
+msgstr "เปิดหรือปิด? ตัดสินใจเอาเอง"
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.VEGGIEOMLET
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.VEGGIEOMLET"
 msgid "At least it's hot."
@@ -113006,6 +113251,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED"
 msgid "We're invincible!"
 msgstr "พวกเราอยู่ยงคงกระพัน!"
 
+#. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_LIGHTSOUT_SHADOWHAND
+msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_LIGHTSOUT_SHADOWHAND"
+msgid "Hey, no fair! Nobody invited that hand to play!"
+msgstr "เฮ้ ไม่ยุติธรรมเลย! ไม่มีใครชวนมือนั้นมาเล่นเลย!"
+
 #. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_LOWRESEARCH
 msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_LOWRESEARCH"
 msgid "That might've taught a toddler something."
@@ -116345,6 +116595,26 @@ msgstr "พืชหมุนวน"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_FERN_WITHERED"
 msgid "Aww, it's dead."
 msgstr "โอ้ย มันตายแล้ว"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_VENT_MITE.DEAD
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_VENT_MITE.DEAD"
+msgid "Aw."
+msgstr "อ๊ะ"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_VENT_MITE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_VENT_MITE.GENERIC"
+msgid "We don't think it's trying to play."
+msgstr "เราไม่คิดว่ามันกำลังพยายามเล่น"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_VENT_MITE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_VENT_MITE.SLEEPING"
+msgid "It's sleeping!"
+msgstr "มันกำลังนอนหลับ!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_VENT_MITE.VENTING
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_VENT_MITE.VENTING"
+msgid "How does it do that?"
+msgstr "มันทำแบบนั้นได้ยังไง?"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_VENT_ROCK.GAS
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_VENT_ROCK.GAS"
@@ -121791,6 +122061,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.OCEANVINE_COCOON_BURNT"
 msgid "Oh no! Your tree house!"
 msgstr "โอ้ ไม่นะ บ้านต้นไม้ของคุณ!"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.OCEANWHIRLBIGPORTALEXIT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.OCEANWHIRLBIGPORTALEXIT"
+msgid "Let's dig for treasure!"
+msgstr "ไปขุดหาสมบัติกันเถอะ!"
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.OCEANWHIRLPORTAL
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.OCEANWHIRLPORTAL"
 msgid "We love spinny boat rides!"
@@ -126451,6 +126726,16 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.VAULT_TELEPORTER.UNPOWERED"
 msgid "Why won't it turn on?"
 msgstr "ทำไมมันถึงเปิดไม่ได้?"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.VAULT_TORCH.BROKEN
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.VAULT_TORCH.BROKEN"
+msgid "Aw, it's broken."
+msgstr "โอ้ มันเสีย"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.VAULT_TORCH.GENERIC
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.VAULT_TORCH.GENERIC"
+msgid "We know how it works!"
+msgstr "เรารู้ว่ามันทำงานอย่างไร!"
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.VEGGIEOMLET
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.VEGGIEOMLET"
 msgid "Stop trying to trick us into eating our veggies!"
@@ -130766,6 +131051,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED"
 msgid "So close to death, yet so far."
 msgstr "ใกล้ตายแต่ไกล"
 
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_LIGHTSOUT_SHADOWHAND
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_LIGHTSOUT_SHADOWHAND"
+msgid "Like the death's own hand, come to snuff our fragile flame."
+msgstr "เหมือนกับมือแห่งความตายที่มาดับเปลวไฟอันบอบบางของเรา"
+
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_LOWRESEARCH
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_LOWRESEARCH"
 msgid "Pithy knowledge..."
@@ -134110,6 +134400,26 @@ msgstr "สัมผัสสีสันในความมืดมิด"
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CAVE_FERN_WITHERED"
 msgid "It's dead'."
 msgstr "มันตายแล้ว"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CAVE_VENT_MITE.DEAD
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CAVE_VENT_MITE.DEAD"
+msgid "It's dead."
+msgstr "มันตายแล้ว"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CAVE_VENT_MITE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CAVE_VENT_MITE.GENERIC"
+msgid "Has it ever been above ground?"
+msgstr "มันเคยอยู่เหนือพื้นดินบ้างมั๊ย?"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CAVE_VENT_MITE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CAVE_VENT_MITE.SLEEPING"
+msgid "It's asleep."
+msgstr "มันกำลังหลับอยู่"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CAVE_VENT_MITE.VENTING
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CAVE_VENT_MITE.VENTING"
+msgid "It smells terrible."
+msgstr "มันมีกลิ่นเหม็นมาก"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CAVE_VENT_ROCK.GAS
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CAVE_VENT_ROCK.GAS"
@@ -139546,6 +139856,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.OCEANVINE_COCOON_BURNT"
 msgid "Nothing but ash remains."
 msgstr "เหลือแต่ขี้เถ้า"
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.OCEANWHIRLBIGPORTALEXIT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.OCEANWHIRLBIGPORTALEXIT"
+msgid "Is it even worth digging through?"
+msgstr "มันคุ้มค่าที่จะขุดคุ้ยหรือเปล่า?"
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.OCEANWHIRLPORTAL
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.OCEANWHIRLPORTAL"
 msgid "It calls to me."
@@ -144206,6 +144521,16 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.VAULT_TELEPORTER.UNPOWERED"
 msgid "There's no power."
 msgstr "ไม่มีพลังงาน"
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.VAULT_TORCH.BROKEN
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.VAULT_TORCH.BROKEN"
+msgid "It's broken."
+msgstr "มันเสีย"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.VAULT_TORCH.GENERIC
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.VAULT_TORCH.GENERIC"
+msgid "A light in the darkness."
+msgstr "แสงสว่างในความมืด"
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.VEGGIEOMLET
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.VEGGIEOMLET"
 msgid "A healthy diet for a long life. How dreadful."
@@ -148531,6 +148856,11 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED"
 msgid "Thank goodness for this non-conductive clothing!"
 msgstr "ขอบคุณพระเจ้าสำหรับเสื้อผ้าที่ไม่นำไฟฟ้าตัวนี้!"
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_LIGHTSOUT_SHADOWHAND
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_LIGHTSOUT_SHADOWHAND"
+msgid "That insufferable hand appears to be impeding the puzzle's resolution!"
+msgstr "มือที่ทนไม่ได้นั้นดูเหมือนจะขัดขวางการแก้ไขปริศนา!"
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_LOWRESEARCH
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_LOWRESEARCH"
 msgid "Not a great resource, but there were useful bits."
@@ -151871,6 +152201,26 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAVE_FERN_WITHERED"
 msgid "It is quite dead."
 msgstr "มันตายไปแล้ว"
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAVE_VENT_MITE.DEAD
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAVE_VENT_MITE.DEAD"
+msgid "This one is deceased."
+msgstr "คนนี้เสียชีวิตแล้ว"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAVE_VENT_MITE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAVE_VENT_MITE.GENERIC"
+msgid "This creature is a hybrid of insect and mineral, possessing the ability to store gas under considerable pressure."
+msgstr "สิ่งมีชีวิตชนิดนี้เป็นลูกผสมระหว่างแมลงและแร่ธาตุ ซึ่งมีความสามารถในการกักเก็บก๊าซภายใต้ความกดดันอย่างมาก"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAVE_VENT_MITE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAVE_VENT_MITE.SLEEPING"
+msgid "It is dormant at the moment."
+msgstr "มันอยู่ในสภาวะพักตัวในขณะนี้"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAVE_VENT_MITE.VENTING
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAVE_VENT_MITE.VENTING"
+msgid "It is venting gas as a form of attack."
+msgstr "มันกำลังระบายแก๊สเป็นรูปแบบหนึ่งของการโจมตี"
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAVE_VENT_ROCK.GAS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAVE_VENT_ROCK.GAS"
 msgid "Those fumes are harmful to inhale and will cause spoilage to perishables."
@@ -151879,12 +152229,12 @@ msgstr "ควันเหล่านั้นเป็นอันตราย
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAVE_VENT_ROCK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAVE_VENT_ROCK.GENERIC"
 msgid "Fumarole from which a number of gasses may emerge. Best steer clear."
-msgstr "ปล่องควันซึ่งก๊าซหลายชนิดอาจพุ่งออกมา ควรหลีกเลี่ยง"
+msgstr "น้ำพุร้อนภูเขาไฟซึ่งก๊าซหลายชนิดอาจพุ่งออกมา ควรหลีกเลี่ยง"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAVE_VENT_ROCK.HOT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAVE_VENT_ROCK.HOT"
 msgid "Merely geothermal steam venting from a fumarole. One needn't be alarmed."
-msgstr "เป็นเพียงไอน้ำร้อนใต้พิภพที่ระบายออกมาจากปล่องควัน ไม่จำเป็นต้องตกใจ"
+msgstr "เป็นเพียงไอน้ำร้อนใต้พิภพที่ระบายออกมาจากน้ำพุร้อนภูเขาไฟ ไม่จำเป็นต้องตกใจ"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAVE_VENT_ROCK.MIASMA
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAVE_VENT_ROCK.MIASMA"
@@ -157306,6 +157656,11 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.OCEANVINE_COCOON_BURNT"
 msgid "How unfortunate."
 msgstr "น่าเสียดายจัง"
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.OCEANWHIRLBIGPORTALEXIT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.OCEANWHIRLBIGPORTALEXIT"
+msgid "It appears to be sea debris and remnants from our watercraft."
+msgstr "ดูเหมือนว่าจะเป็นเศษขยะจากทะเลและซากเรือของเรา"
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.OCEANWHIRLPORTAL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.OCEANWHIRLPORTAL"
 msgid "One typically avoids sailing into a whirlpool, but sense and reason seem to mean nothing in this place."
@@ -161966,6 +162321,16 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.VAULT_TELEPORTER.UNPOWERED"
 msgid "As it is unpowered, this mechanism cannot operate."
 msgstr "เนื่องจากไม่ได้รับพลังงาน กลไกนี้จึงไม่สามารถทำงานได้"
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.VAULT_TORCH.BROKEN
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.VAULT_TORCH.BROKEN"
+msgid "The switch appears to be broken."
+msgstr "สวิตช์ดูเหมือนจะเสีย"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.VAULT_TORCH.GENERIC
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.VAULT_TORCH.GENERIC"
+msgid "A finely crafted ancient torch."
+msgstr "คบเพลิงโบราณที่ประดิษฐ์อย่างประณีต"
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.VEGGIEOMLET
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.VEGGIEOMLET"
 msgid "A healthy, balanced breakfast."
@@ -166251,6 +166616,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED"
 msgid "I'm safe from the sky-fire."
 msgstr "ฉันปลอดภัยจากไฟบนฟ้า"
 
+#. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_LIGHTSOUT_SHADOWHAND
+msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_LIGHTSOUT_SHADOWHAND"
+msgid "Stupid hand! What is your problem?!"
+msgstr "มือโง่! มีปัญหาอะไรหรือเปล่า?!"
+
 #. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_LOWRESEARCH
 msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_LOWRESEARCH"
 msgid "Boo, that was boring."
@@ -169590,6 +169960,26 @@ msgstr "ดูเหมือนไวไฟ"
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CAVE_FERN_WITHERED"
 msgid "I think it still burns."
 msgstr "ฉันคิดว่ามันยังไหม้อยู่"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CAVE_VENT_MITE.DEAD
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CAVE_VENT_MITE.DEAD"
+msgid "Good riddance!"
+msgstr "ดีแล้ว!"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CAVE_VENT_MITE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CAVE_VENT_MITE.GENERIC"
+msgid "You're real a pain, aren't you!"
+msgstr "คุณนี่มันน่ารำคาญจริงๆเลย ใช่มั๊ย!"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CAVE_VENT_MITE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CAVE_VENT_MITE.SLEEPING"
+msgid "That's right, keep sleeping..."
+msgstr "ถูกต้องแล้ว นอนต่อไป..."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CAVE_VENT_MITE.VENTING
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CAVE_VENT_MITE.VENTING"
+msgid "How rude!"
+msgstr "หยาบคายมาก!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CAVE_VENT_ROCK.GAS
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CAVE_VENT_ROCK.GAS"
@@ -175026,6 +175416,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.OCEANVINE_COCOON_BURNT"
 msgid "Fire is a quick redecorator."
 msgstr "ไฟเป็นตัวตกแต่งใหม่อย่างรวดเร็ว"
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.OCEANWHIRLBIGPORTALEXIT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.OCEANWHIRLBIGPORTALEXIT"
+msgid "What do I care about a pile of sea junk."
+msgstr "ฉันจะสนใจอะไรกับกองขยะทะเลล่ะ"
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.OCEANWHIRLPORTAL
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.OCEANWHIRLPORTAL"
 msgid "Er, can't we take the scenic route instead?"
@@ -179686,6 +180081,16 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.VAULT_TELEPORTER.UNPOWERED"
 msgid "Someone forgot to plug it in."
 msgstr "มีคนลืมเสียบปลั๊ก"
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.VAULT_TORCH.BROKEN
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.VAULT_TORCH.BROKEN"
+msgid "Stupid broken switch."
+msgstr "สวิตช์เสียโง่ๆ"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.VAULT_TORCH.GENERIC
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.VAULT_TORCH.GENERIC"
+msgid "Light'em up!"
+msgstr "จุดไฟให้พวกมัน!"
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.VEGGIEOMLET
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.VEGGIEOMLET"
 msgid "Hey, there's vegetables hiding underneath!"
@@ -184006,6 +184411,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED"
 msgid "Ha! Now you gotta kiss me!"
 msgstr "ฮ่า! ตอนนี้คุณต้องจูบฉัน!"
 
+#. STRINGS.CHARACTERS.WINONA.ANNOUNCE_LIGHTSOUT_SHADOWHAND
+msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_LIGHTSOUT_SHADOWHAND"
+msgid "Hey, quit it! You ain't even supposed to be down here!"
+msgstr "เฮ้ หยุดซะ! แกไม่ควรลงมาที่นี่ด้วยซ้ำ!"
+
 #. STRINGS.CHARACTERS.WINONA.ANNOUNCE_LOWRESEARCH
 msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_LOWRESEARCH"
 msgid "I'll take what I can get."
@@ -187365,6 +187775,26 @@ msgstr "ลองมองดูเฟิร์นตัวเล็กตัว
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CAVE_FERN_WITHERED"
 msgid "Aww, that fern's dead."
 msgstr "โอ้ เฟิร์นนั่นตายแล้ว"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CAVE_VENT_MITE.DEAD
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CAVE_VENT_MITE.DEAD"
+msgid "It's dead, alright."
+msgstr "มันตายแล้ว โอเค"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CAVE_VENT_MITE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CAVE_VENT_MITE.GENERIC"
+msgid "That critter is trouble!"
+msgstr "สัตว์ตัวนั้นมันก่อปัญหา!"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CAVE_VENT_MITE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CAVE_VENT_MITE.SLEEPING"
+msgid "It's sleepin'."
+msgstr "มันกำลังนอนหลับ"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CAVE_VENT_MITE.VENTING
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CAVE_VENT_MITE.VENTING"
+msgid "It ain't shy about passin' gas."
+msgstr "มันไม่เขินอายที่จะปล่อยแก๊ส"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.CAVE_VENT_ROCK.GAS
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CAVE_VENT_ROCK.GAS"
@@ -192826,6 +193256,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.OCEANVINE_COCOON_BURNT"
 msgid "One less to worry about."
 msgstr "มีเรื่องให้ต้องกังวลน้อยลง"
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.OCEANWHIRLBIGPORTALEXIT
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.OCEANWHIRLBIGPORTALEXIT"
+msgid "Some good pickins here."
+msgstr "มีตัวเลือกดีๆมากมายที่นี่"
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.OCEANWHIRLPORTAL
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.OCEANWHIRLPORTAL"
 msgid "Alright, time to sink or swim!"
@@ -197486,6 +197921,16 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.VAULT_TELEPORTER.UNPOWERED"
 msgid "Where's the dang ON switch?"
 msgstr "สวิตช์เปิดบ้าๆนั่นอยู่ไหน?"
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.VAULT_TORCH.BROKEN
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.VAULT_TORCH.BROKEN"
+msgid "The switch is busted."
+msgstr "สวิตช์เสียหาย"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.VAULT_TORCH.GENERIC
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.VAULT_TORCH.GENERIC"
+msgid "A fine lookin' torch."
+msgstr "ไฟฉายที่ดูดี"
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.VEGGIEOMLET
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.VEGGIEOMLET"
 msgid "Less dishes to wash if you leave it in the pan."
@@ -201791,6 +202236,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED"
 msgid "Lightning is weak compared to Wolfgang clothes!"
 msgstr "สายฟ้าอ่อนแอเมื่อเทียบกับเสื้อผ้าของวูล์ฟกัง!"
 
+#. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_LIGHTSOUT_SHADOWHAND
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_LIGHTSOUT_SHADOWHAND"
+msgid "Get out of here, big shadow hand!"
+msgstr "ออกไปจากที่นี่ มือเงาใหญ่!"
+
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_LOWRESEARCH
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_LOWRESEARCH"
 msgid "Is tiny information."
@@ -205150,6 +205600,26 @@ msgstr "ต้นไม้สวย!"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CAVE_FERN_WITHERED"
 msgid "Plant is dead."
 msgstr "พืชตายแล้ว"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CAVE_VENT_MITE.DEAD
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CAVE_VENT_MITE.DEAD"
+msgid "Gassy bug is dead."
+msgstr "แมลงแก๊สซี่ตายแล้ว"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CAVE_VENT_MITE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CAVE_VENT_MITE.GENERIC"
+msgid "Is mitey, not mighty!"
+msgstr "ไมตี้ไม่เก่ง!"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CAVE_VENT_MITE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CAVE_VENT_MITE.SLEEPING"
+msgid "Shh, gassy bug is sleeping."
+msgstr "ชู่, แมลงแก๊สกำลังนอนหลับ"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CAVE_VENT_MITE.VENTING
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CAVE_VENT_MITE.VENTING"
+msgid "Is bad gas!"
+msgstr "แก๊สเสีย!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CAVE_VENT_ROCK.GAS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CAVE_VENT_ROCK.GAS"
@@ -210586,6 +211056,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.OCEANVINE_COCOON_BURNT"
 msgid "Hmm, Wolfgang smell burnt spiders."
 msgstr "หืม วูล์ฟกังได้กลิ่นแมงมุมไหม้"
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.OCEANWHIRLBIGPORTALEXIT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.OCEANWHIRLBIGPORTALEXIT"
+msgid "Any goodies for Wolfgang in sea garbage pile?"
+msgstr "มีของดีอะไรสำหรับ Wolfgang ในกองขยะทะเลบ้างมั๊ย?"
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.OCEANWHIRLPORTAL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.OCEANWHIRLPORTAL"
 msgid "Wolfgang does not run! He makes courageous escape!"
@@ -215246,6 +215721,16 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.VAULT_TELEPORTER.UNPOWERED"
 msgid "It lacks power!"
 msgstr "มันขาดพลัง!"
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.VAULT_TORCH.BROKEN
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.VAULT_TORCH.BROKEN"
+msgid "It is broken?"
+msgstr "มันเสียเหรอ?"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.VAULT_TORCH.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.VAULT_TORCH.GENERIC"
+msgid "Oh good, bright light for Wolfgang."
+msgstr "โอ้ ดีเลย แสงสว่างสำหรับ Wolfgang"
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.VEGGIEOMLET
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.VEGGIEOMLET"
 msgid "Egg with vegetables, a mighty breakfast!"
@@ -219501,6 +219986,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED"
 msgid "That tickled a bit, eh?"
 msgstr "มันจั๊กจี้หน่อยมั๊ย?"
 
+#. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_LIGHTSOUT_SHADOWHAND
+msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_LIGHTSOUT_SHADOWHAND"
+msgid "You see that, Luce? That creepy hand snuffed a torch!"
+msgstr "คุณเห็นมั๊ย Luce? มือที่น่าขนลุกนั่นดับคบเพลิงได้!"
+
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_LOWRESEARCH
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_LOWRESEARCH"
 msgid "That was barely even worth it, eh?"
@@ -222840,6 +223330,26 @@ msgstr "เฮ้! มันคือเฟิร์น!"
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CAVE_FERN_WITHERED"
 msgid "Hey, it's dead!"
 msgstr "เฮ้ มันตายแล้ว!"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CAVE_VENT_MITE.DEAD
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CAVE_VENT_MITE.DEAD"
+msgid "That's a dead bug."
+msgstr "นั่นคือแมลงที่ตายแล้ว"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CAVE_VENT_MITE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CAVE_VENT_MITE.GENERIC"
+msgid "Stay away from me, bug!"
+msgstr "อย่าเข้าใกล้ฉันนะ แมลง!"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CAVE_VENT_MITE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CAVE_VENT_MITE.SLEEPING"
+msgid "We should get it while it's sleeping."
+msgstr "เราควรจะได้มันในขณะที่มันกำลังนอนหลับ"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CAVE_VENT_MITE.VENTING
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CAVE_VENT_MITE.VENTING"
+msgid "Watch out for the gas!"
+msgstr "ระวังแก๊ส!"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CAVE_VENT_ROCK.GAS
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CAVE_VENT_ROCK.GAS"
@@ -228286,6 +228796,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.OCEANVINE_COCOON_BURNT"
 msgid "Burnt away to nothing."
 msgstr "เผาไหม้จนหมดสิ้น"
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.OCEANWHIRLBIGPORTALEXIT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.OCEANWHIRLBIGPORTALEXIT"
+msgid "Anything good in there?"
+msgstr "มีอะไรดีๆอยู่ในนั้นมั๊ย?"
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.OCEANWHIRLPORTAL
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.OCEANWHIRLPORTAL"
 msgid "Hold your breath, Lucy!"
@@ -232946,6 +233461,16 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.VAULT_TELEPORTER.UNPOWERED"
 msgid "I don't think it's turned on."
 msgstr "ฉันไม่คิดว่ามันเปิดอยู่"
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.VAULT_TORCH.BROKEN
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.VAULT_TORCH.BROKEN"
+msgid "It's broken."
+msgstr "มันเสีย"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.VAULT_TORCH.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.VAULT_TORCH.GENERIC"
+msgid "That's a big oil lamp."
+msgstr "นั่นคือตะเกียงน้ำมันขนาดใหญ่"
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.VEGGIEOMLET
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.VEGGIEOMLET"
 msgid "Veggies? Did we run outta bacon and potatoes?"
@@ -237231,6 +237756,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED"
 msgid "Too close!"
 msgstr "ใกล้เกินไป!"
 
+#. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_LIGHTSOUT_SHADOWHAND
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_LIGHTSOUT_SHADOWHAND"
+msgid "Bad hand friend! Why doing that?"
+msgstr "มือแย่มากเพื่อน! ทำไมถึงทำแบบนั้น?"
+
 #. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_LOWRESEARCH
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_LOWRESEARCH"
 msgid "Learned stuff"
@@ -240570,6 +241100,26 @@ msgstr "เป็นยังไงบ้าง?"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_FERN_WITHERED"
 msgid "Dead"
 msgstr "ตาย"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_VENT_MITE.DEAD
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_VENT_MITE.DEAD"
+msgid "Gassy friend not sleeping"
+msgstr "เพื่อนแก๊สซี่ไม่นอน"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_VENT_MITE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_VENT_MITE.GENERIC"
+msgid "Hello gassy friend"
+msgstr "สวัสดีเพื่อนแก๊สซี่"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_VENT_MITE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_VENT_MITE.SLEEPING"
+msgid "Dream rock friends or bug friends?"
+msgstr "เพื่อนหินในฝันหรือเพื่อนแมลง?"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_VENT_MITE.VENTING
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_VENT_MITE.VENTING"
+msgid "Gassy friend gassing!"
+msgstr "เพื่อนแก๊สซี่ แก๊สซี่!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_VENT_ROCK.GAS
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_VENT_ROCK.GAS"
@@ -246031,6 +246581,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.OCEANVINE_COCOON_BURNT"
 msgid "No more house"
 msgstr "ไม่มีบ้านอีกต่อไป"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.OCEANWHIRLBIGPORTALEXIT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.OCEANWHIRLBIGPORTALEXIT"
+msgid "Good stuff"
+msgstr "สิ่งดีๆ"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.OCEANWHIRLPORTAL
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.OCEANWHIRLPORTAL"
 msgid "Spinny water!"
@@ -250691,6 +251246,16 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_TELEPORTER.UNPOWERED"
 msgid "No spark"
 msgstr "ไม่มีประกายไฟ"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_TORCH.BROKEN
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_TORCH.BROKEN"
+msgid "Torch friend broke?"
+msgstr "เพื่อนไฟฉายพังเหรอ?"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_TORCH.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_TORCH.GENERIC"
+msgid "Torch friend"
+msgstr "เพื่อนคบเพลิง"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VEGGIEOMLET
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VEGGIEOMLET"
 msgid "Friends help make belly stuff"
@@ -254941,6 +255506,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED"
 msgid "Hyuyu! Can't catch me!"
 msgstr "Hyuyu! Can't catch me!"
 
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_LIGHTSOUT_SHADOWHAND
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_LIGHTSOUT_SHADOWHAND"
+msgid "And a hand came to snuff the flame!"
+msgstr "และมีมือมาดับเปลวไฟ!"
+
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_LOWRESEARCH
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_LOWRESEARCH"
 msgid "That wasn't very enlightening."
@@ -258455,6 +259025,26 @@ msgstr "มันชอบความมืด"
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CAVE_FERN_WITHERED"
 msgid "Looks dead, I said."
 msgstr "ดูเหมือนตายแล้ว ฉันพูด"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CAVE_VENT_MITE.DEAD
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CAVE_VENT_MITE.DEAD"
+msgid "It's gassed its last!"
+msgstr "แก๊สหมดแล้ว!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CAVE_VENT_MITE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CAVE_VENT_MITE.GENERIC"
+msgid "Don't make light of that mite!"
+msgstr "อย่ามองข้ามเรื่องเล็กน้อยนั้น!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CAVE_VENT_MITE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CAVE_VENT_MITE.SLEEPING"
+msgid "Not a peep, it's fast asleep."
+msgstr "ไม่มีเสียงแม้แต่นิดเดียว มันหลับสนิทเลย"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CAVE_VENT_MITE.VENTING
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CAVE_VENT_MITE.VENTING"
+msgid "Heehee! How crass to pester with gas!"
+msgstr "ฮี่ฮี่! น่ารำคาญจริง ๆที่คอยกวนใจด้วยแก๊ส!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CAVE_VENT_ROCK.GAS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CAVE_VENT_ROCK.GAS"
@@ -263906,6 +264496,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANVINE_COCOON_BURNT"
 msgid "What a shame, it went up in flames."
 msgstr "น่าเสียดายที่มันลุกเป็นไฟ"
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANWHIRLBIGPORTALEXIT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANWHIRLBIGPORTALEXIT"
+msgid "Lots of flotsam."
+msgstr "มีเศษซากมากมาย"
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANWHIRLPORTAL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANWHIRLPORTAL"
 msgid "Oooh goodie! A watery vortex for little ol' Wortox!"
@@ -268566,6 +269161,16 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.VAULT_TELEPORTER.UNPOWERED"
 msgid "No power? At this hour?"
 msgstr "ไม่มีไฟฟ้า? ตอนนี้เลยเหรอ?"
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.VAULT_TORCH.BROKEN
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.VAULT_TORCH.BROKEN"
+msgid "What a joke! The switch is broke!"
+msgstr "ตลกจัง! สวิตช์เสีย!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.VAULT_TORCH.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.VAULT_TORCH.GENERIC"
+msgid "That light's alright!"
+msgstr "ไฟนั่นไม่เป็นไร!"
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.VEGGIEOMLET
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.VEGGIEOMLET"
 msgid "A mortal dish. Or should I say, a mortal pan."
@@ -272851,6 +273456,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED"
 msgid "GLORPT! Almost got sparky!"
 msgstr "กลอร์ปต์! เกือบเป็นประกาย!"
 
+#. STRINGS.CHARACTERS.WURT.ANNOUNCE_LIGHTSOUT_SHADOWHAND
+msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_LIGHTSOUT_SHADOWHAND"
+msgid "Grrr... go away, Shadowfolk!"
+msgstr "กร๊าก... ออกไปซะ พวกเงา!"
+
 #. STRINGS.CHARACTERS.WURT.ANNOUNCE_LOWRESEARCH
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_LOWRESEARCH"
 msgid "Don't get it..."
@@ -276280,6 +276890,26 @@ msgstr "ต้นไม้ในถ้ำใบ"
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CAVE_FERN_WITHERED"
 msgid "Leafy cave plant dead. Flort."
 msgstr "ต้นไม้ในถ้ำใบตายแล้ว ดอก"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CAVE_VENT_MITE.DEAD
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CAVE_VENT_MITE.DEAD"
+msgid "Bye stink bug!"
+msgstr "ลาก่อนเจ้าแมลงเหม็น!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CAVE_VENT_MITE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CAVE_VENT_MITE.GENERIC"
+msgid "Stink bug!"
+msgstr "แมลงเหม็น!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CAVE_VENT_MITE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CAVE_VENT_MITE.SLEEPING"
+msgid "Stink bug sleeping."
+msgstr "แมลงเหม็นกำลังนอนหลับ"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CAVE_VENT_MITE.VENTING
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CAVE_VENT_MITE.VENTING"
+msgid "So stinky, flort!"
+msgstr "เหม็นจังเลยนะฟลอร์ต!"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.CAVE_VENT_ROCK.GAS
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CAVE_VENT_ROCK.GAS"
@@ -281741,6 +282371,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.OCEANVINE_COCOON_BURNT"
 msgid "No tell Webby boy!"
 msgstr "ไม่ต้องบอก Webby boy!"
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.OCEANWHIRLBIGPORTALEXIT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.OCEANWHIRLBIGPORTALEXIT"
+msgid "Ocean poop?"
+msgstr "อึมหาสมุทร?"
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.OCEANWHIRLPORTAL
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.OCEANWHIRLPORTAL"
 msgid "Wheeeeeeee!!"
@@ -286406,6 +287041,16 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.VAULT_TELEPORTER.UNPOWERED"
 msgid "Grrr... why not?"
 msgstr "กึ๋ย... ทำไมจะไม่ได้ล่ะ?"
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.VAULT_TORCH.BROKEN
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.VAULT_TORCH.BROKEN"
+msgid "Florp! Broke!"
+msgstr "ฟลอป! พัง!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.VAULT_TORCH.GENERIC
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.VAULT_TORCH.GENERIC"
+msgid "We switch!"
+msgstr "เราเปลี่ยน!"
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.VEGGIEOMLET
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.VEGGIEOMLET"
 msgid "Glurgh, eggy goop all over it!"
@@ -290691,6 +291336,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED"
 msgid "CIRCUIT INCOMPLETE. NO CHARGE RECEIVED"
 msgstr "วงจรไม่สมบูรณ์ ไม่ได้รับค่าบริการ"
 
+#. STRINGS.CHARACTERS.WX78.ANNOUNCE_LIGHTSOUT_SHADOWHAND
+msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_LIGHTSOUT_SHADOWHAND"
+msgid "WARNING: UNAUTHORIZED INTERFERANCE! SHADOW APPLICATION DETECTED!"
+msgstr "คำเตือน: การแทรกแซงที่ไม่ได้รับอนุญาต! ตรวจพบแอปพลิเคชันเงา!"
+
 #. STRINGS.CHARACTERS.WX78.ANNOUNCE_LOWRESEARCH
 msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_LOWRESEARCH"
 msgid "MATERIAL HAS LOW INFORMATIONAL CONTENT"
@@ -294040,6 +294690,26 @@ msgstr "เสน่ห์ของคุณใช้ไม่ได้กับ
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CAVE_FERN_WITHERED"
 msgid "HA"
 msgstr "ฮ่า"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CAVE_VENT_MITE.DEAD
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CAVE_VENT_MITE.DEAD"
+msgid "HAHAHA. DEAD"
+msgstr "ฮ่าฮ่าฮ่า ตายแล้ว"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CAVE_VENT_MITE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CAVE_VENT_MITE.GENERIC"
+msgid "YOU ANNOY ME. PREPARE TO DIE"
+msgstr "คุณทำให้ฉันรำคาญ เตรียมตัวตายได้เลย"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CAVE_VENT_MITE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CAVE_VENT_MITE.SLEEPING"
+msgid "UNIT SLEEPING. PERFECT..."
+msgstr "หน่วยนอน สมบูรณ์แบบ..."
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CAVE_VENT_MITE.VENTING
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CAVE_VENT_MITE.VENTING"
+msgid "UNIT VENTING"
+msgstr "หน่วยระบายอากาศ"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CAVE_VENT_ROCK.GAS
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CAVE_VENT_ROCK.GAS"
@@ -299476,6 +300146,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.OCEANVINE_COCOON_BURNT"
 msgid "SPIDER SOURCE NULLIFIED"
 msgstr "แหล่งแมงมุมเป็นโมฆะ"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.OCEANWHIRLBIGPORTALEXIT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.OCEANWHIRLBIGPORTALEXIT"
+msgid "POSSIBLE SALVAGE DETECTED"
+msgstr "ตรวจพบการกู้ภัยที่เป็นไปได้"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.OCEANWHIRLPORTAL
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.OCEANWHIRLPORTAL"
 msgid "I HATE THIS I HATE THIS I HATE THIS"
@@ -304135,6 +304810,16 @@ msgstr "อุปกรณ์แทนที่อนุภาค"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.VAULT_TELEPORTER.UNPOWERED"
 msgid "IT NEEDS POWER!!!"
 msgstr "มันต้องการพลังงาน!!!"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.VAULT_TORCH.BROKEN
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.VAULT_TORCH.BROKEN"
+msgid "SWITCH NOT OPERATIONAL"
+msgstr "สวิตช์ไม่ทำงาน"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.VAULT_TORCH.GENERIC
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.VAULT_TORCH.GENERIC"
+msgid "INTERCONNECTED LIGHTING UNIT"
+msgstr "หน่วยแสงสว่างที่เชื่อมต่อกัน"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.VEGGIEOMLET
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.VEGGIEOMLET"
@@ -314344,12 +315029,12 @@ msgstr "ดอกไม้ของอาบิเกล"
 #. STRINGS.NAMES.ABYSSPILLAR_MINION
 msgctxt "STRINGS.NAMES.ABYSSPILLAR_MINION"
 msgid "Sequitor"
-msgstr ""
+msgstr "เซควิเตอร์"
 
 #. STRINGS.NAMES.ABYSSPILLAR_TRIAL
 msgctxt "STRINGS.NAMES.ABYSSPILLAR_TRIAL"
 msgid "Lever"
-msgstr ""
+msgstr "คันโยก"
 
 #. STRINGS.NAMES.ACCOMPLISHMENT_SHRINE
 msgctxt "STRINGS.NAMES.ACCOMPLISHMENT_SHRINE"
@@ -314394,7 +315079,7 @@ msgstr "เศษรู้แจ้ง"
 #. STRINGS.NAMES.ALTERGUARDIANHAT_PROJECTILE
 msgctxt "STRINGS.NAMES.ALTERGUARDIANHAT_PROJECTILE"
 msgid "Minor Gestalt"
-msgstr "ไมเนอร์เกสตัลท์"
+msgstr "เกสตัลท์เยาว์"
 
 #. STRINGS.NAMES.ALTERGUARDIAN_CONTAINED
 msgctxt "STRINGS.NAMES.ALTERGUARDIAN_CONTAINED"
@@ -314409,12 +315094,12 @@ msgstr "แชมป์สวรรค์"
 #. STRINGS.NAMES.ALTERGUARDIAN_PHASE1_LUNARRIFT
 msgctxt "STRINGS.NAMES.ALTERGUARDIAN_PHASE1_LUNARRIFT"
 msgid "Celestial Revenant"
-msgstr ""
+msgstr "เรเวแนนท์์สวรรค์"
 
 #. STRINGS.NAMES.ALTERGUARDIAN_PHASE1_LUNARRIFT_GESTALT
 msgctxt "STRINGS.NAMES.ALTERGUARDIAN_PHASE1_LUNARRIFT_GESTALT"
 msgid "Pure Gestalt"
-msgstr ""
+msgstr "เกสตัลท์บริสุทธิ์"
 
 #. STRINGS.NAMES.ALTERGUARDIAN_PHASE2
 msgctxt "STRINGS.NAMES.ALTERGUARDIAN_PHASE2"
@@ -314449,7 +315134,7 @@ msgstr "บ่วงตรัสรู้"
 #. STRINGS.NAMES.ALTERGUARDIAN_PHASE4_LUNARRIFT
 msgctxt "STRINGS.NAMES.ALTERGUARDIAN_PHASE4_LUNARRIFT"
 msgid "Celestial Scion"
-msgstr ""
+msgstr "ลูกหลานแห่งสวรรค์"
 
 #. STRINGS.NAMES.AMULET
 msgctxt "STRINGS.NAMES.AMULET"
@@ -314539,7 +315224,7 @@ msgstr "ศูนย์วิจัยวิทยาศาสตร์เที
 #. STRINGS.NAMES.ANCIENT_HUSK
 msgctxt "STRINGS.NAMES.ANCIENT_HUSK"
 msgid "Ancient Remains"
-msgstr ""
+msgstr "ซากศพโบราณ"
 
 #. STRINGS.NAMES.ANCIENT_STATUE
 msgctxt "STRINGS.NAMES.ANCIENT_STATUE"
@@ -314824,7 +315509,7 @@ msgstr "เบคอนและไข่"
 #. STRINGS.NAMES.BALATRO_MACHINE
 msgctxt "STRINGS.NAMES.BALATRO_MACHINE"
 msgid "JIMBO"
-msgstr ""
+msgstr "จิมโบ้"
 
 #. STRINGS.NAMES.BALLOON
 msgctxt "STRINGS.NAMES.BALLOON"
@@ -314879,7 +315564,7 @@ msgstr "น้ำผึ้งพอก"
 #. STRINGS.NAMES.BANDAGE_BUTTERFLYWINGS
 msgctxt "STRINGS.NAMES.BANDAGE_BUTTERFLYWINGS"
 msgid "Flutter Strip"
-msgstr ""
+msgstr "ปีกลายแถบ"
 
 #. STRINGS.NAMES.BARNACLE
 msgctxt "STRINGS.NAMES.BARNACLE"
@@ -315409,7 +316094,7 @@ msgstr "กระดาน"
 #. STRINGS.NAMES.BOARDS_BUNCH
 msgctxt "STRINGS.NAMES.BOARDS_BUNCH"
 msgid "Bunch o' Boards"
-msgstr ""
+msgstr "กองกระดาน"
 
 #. STRINGS.NAMES.BOARON
 msgctxt "STRINGS.NAMES.BOARON"
@@ -315509,7 +316194,7 @@ msgstr "เรือเก่า"
 #. STRINGS.NAMES.BOAT_ANCIENT_CONTAINER
 msgctxt "STRINGS.NAMES.BOAT_ANCIENT_CONTAINER"
 msgid "Cargo Hold"
-msgstr ""
+msgstr "ห้องเก็บสินค้า"
 
 #. STRINGS.NAMES.BOAT_ANCIENT_ITEM
 msgctxt "STRINGS.NAMES.BOAT_ANCIENT_ITEM"
@@ -315774,7 +316459,7 @@ msgstr "บูมเมอร์แรง"
 #. STRINGS.NAMES.BOOTLEG
 msgctxt "STRINGS.NAMES.BOOTLEG"
 msgid "Bootleg Getaway"
-msgstr ""
+msgstr "รองเท้าโจรสลัดหลบหนี"
 
 #. STRINGS.NAMES.BRAMBLEFX
 msgctxt "STRINGS.NAMES.BRAMBLEFX"
@@ -316379,12 +317064,17 @@ msgstr "เฟิร์น"
 #. STRINGS.NAMES.CAVE_FERN_WITHERED
 msgctxt "STRINGS.NAMES.CAVE_FERN_WITHERED"
 msgid "Withered Fern"
+msgstr "เฟิร์นเหี่ยวเฉา"
+
+#. STRINGS.NAMES.CAVE_VENT_MITE
+msgctxt "STRINGS.NAMES.CAVE_VENT_MITE"
+msgid "Geothermite"
 msgstr ""
 
 #. STRINGS.NAMES.CAVE_VENT_ROCK
 msgctxt "STRINGS.NAMES.CAVE_VENT_ROCK"
 msgid "Fumarole"
-msgstr ""
+msgstr "น้ำพุร้อนภูเขาไฟ"
 
 #. STRINGS.NAMES.CEVICHE
 msgctxt "STRINGS.NAMES.CEVICHE"
@@ -316404,7 +317094,7 @@ msgstr "ชาร์ลี"
 #. STRINGS.NAMES.CHARLIERESIDUE
 msgctxt "STRINGS.NAMES.CHARLIERESIDUE"
 msgid "Dark Vestige"
-msgstr ""
+msgstr "ร่องรอยแห่งความมืด"
 
 #. STRINGS.NAMES.CHARLIEROSE
 msgctxt "STRINGS.NAMES.CHARLIEROSE"
@@ -316414,7 +317104,7 @@ msgstr "กุหลาบเปราะบาง"
 #. STRINGS.NAMES.CHARLIE_HAND
 msgctxt "STRINGS.NAMES.CHARLIE_HAND"
 msgid "Beckoning Hand"
-msgstr ""
+msgstr "มือกวัก"
 
 #. STRINGS.NAMES.CHARLIE_HECKLER
 msgctxt "STRINGS.NAMES.CHARLIE_HECKLER"
@@ -316934,17 +317624,17 @@ msgstr "รูปปั้นฝาแฝดแห่งความหวาด
 #. STRINGS.NAMES.CHESSPIECE_WAGBOSS_LUNAR
 msgctxt "STRINGS.NAMES.CHESSPIECE_WAGBOSS_LUNAR"
 msgid "Celestial Scion Figure"
-msgstr ""
+msgstr "รูปปั้นลูกหลานแห่งสวรรค์"
 
 #. STRINGS.NAMES.CHESSPIECE_WAGBOSS_LUNAR_BUILDER
 msgctxt "STRINGS.NAMES.CHESSPIECE_WAGBOSS_LUNAR_BUILDER"
 msgid "Celestial Scion Figure"
-msgstr ""
+msgstr "รูปปั้นลูกหลานแห่งสวรรค์"
 
 #. STRINGS.NAMES.CHESSPIECE_WAGBOSS_LUNAR_SKETCH
 msgctxt "STRINGS.NAMES.CHESSPIECE_WAGBOSS_LUNAR_SKETCH"
 msgid "Celestial Scion Figure Sketch"
-msgstr ""
+msgstr "พิมพ์เขียวรูปปั้นลูกหลานแห่งสวรรค์"
 
 #. STRINGS.NAMES.CHESSPIECE_WAGBOSS_ROBOT
 msgctxt "STRINGS.NAMES.CHESSPIECE_WAGBOSS_ROBOT"
@@ -317029,7 +317719,7 @@ msgstr "กระดูกตา"
 #. STRINGS.NAMES.CHESTUPGRADE_STACKSIZE
 msgctxt "STRINGS.NAMES.CHESTUPGRADE_STACKSIZE"
 msgid "Elastispacer"
-msgstr ""
+msgstr "อีลาสติสเปเซอร์"
 
 #. STRINGS.NAMES.CHEST_MIMIC
 msgctxt "STRINGS.NAMES.CHEST_MIMIC"
@@ -317159,7 +317849,7 @@ msgstr "หม้อปรุงอาหาร"
 #. STRINGS.NAMES.COOLANT
 msgctxt "STRINGS.NAMES.COOLANT"
 msgid "Nucleation Fluid"
-msgstr ""
+msgstr "ของไหลนิวเคลียส"
 
 #. STRINGS.NAMES.COONTAIL
 msgctxt "STRINGS.NAMES.COONTAIL"
@@ -317424,7 +318114,7 @@ msgstr "หินตัด"
 #. STRINGS.NAMES.CUTSTONE_BUNCH
 msgctxt "STRINGS.NAMES.CUTSTONE_BUNCH"
 msgid "Bunch o' Stone"
-msgstr ""
+msgstr "กองหิน"
 
 #. STRINGS.NAMES.DARKNESS
 msgctxt "STRINGS.NAMES.DARKNESS"
@@ -317469,7 +318159,7 @@ msgstr "ต้นบีทนัต"
 #. STRINGS.NAMES.DECK_OF_CARDS
 msgctxt "STRINGS.NAMES.DECK_OF_CARDS"
 msgid "Deck Of Cards"
-msgstr ""
+msgstr "สำรับไพ่"
 
 #. STRINGS.NAMES.DECOR_CENTERPIECE
 msgctxt "STRINGS.NAMES.DECOR_CENTERPIECE"
@@ -317919,7 +318609,7 @@ msgstr "เมล็ดมะเขือเปราะ"
 #. STRINGS.NAMES.ELIXIR_CONTAINER
 msgctxt "STRINGS.NAMES.ELIXIR_CONTAINER"
 msgid "Picnic Casket"
-msgstr ""
+msgstr "โลงศพปิกนิก"
 
 #. STRINGS.NAMES.EMBERLIGHT
 msgctxt "STRINGS.NAMES.EMBERLIGHT"
@@ -318139,17 +318829,17 @@ msgstr "รั้วไม้"
 #. STRINGS.NAMES.FENCE_ELECTRIC
 msgctxt "STRINGS.NAMES.FENCE_ELECTRIC"
 msgid "T.I.N.G.L.E. Node"
-msgstr ""
+msgstr "โหนด T.I.N.G.L.E."
 
 #. STRINGS.NAMES.FENCE_ELECTRIC_FIELD
 msgctxt "STRINGS.NAMES.FENCE_ELECTRIC_FIELD"
 msgid "T.I.N.G.L.E"
-msgstr ""
+msgstr "T.I.N.G.L.E."
 
 #. STRINGS.NAMES.FENCE_ELECTRIC_ITEM
 msgctxt "STRINGS.NAMES.FENCE_ELECTRIC_ITEM"
 msgid "T.I.N.G.L.E. Node"
-msgstr ""
+msgstr "โหนด T.I.N.G.L.E."
 
 #. STRINGS.NAMES.FENCE_GATE
 msgctxt "STRINGS.NAMES.FENCE_GATE"
@@ -318169,7 +318859,7 @@ msgstr "รั้วไม้"
 #. STRINGS.NAMES.FENCE_JUNK
 msgctxt "STRINGS.NAMES.FENCE_JUNK"
 msgid "Junky Fence"
-msgstr ""
+msgstr "รั้วเก่า"
 
 #. STRINGS.NAMES.FENCE_ROTATOR
 msgctxt "STRINGS.NAMES.FENCE_ROTATOR"
@@ -318324,7 +319014,7 @@ msgstr "หินเหล็กไฟ"
 #. STRINGS.NAMES.FLOTATIONCUSHION
 msgctxt "STRINGS.NAMES.FLOTATIONCUSHION"
 msgid "Personal Floater"
-msgstr ""
+msgstr "สัมภาระลอยน้ำ"
 
 #. STRINGS.NAMES.FLOWER
 msgctxt "STRINGS.NAMES.FLOWER"
@@ -318349,7 +319039,7 @@ msgstr "ดอกไม้แสงสว่าง"
 #. STRINGS.NAMES.FLOWER_CAVE_WITHERED
 msgctxt "STRINGS.NAMES.FLOWER_CAVE_WITHERED"
 msgid "Withered Light Flower"
-msgstr ""
+msgstr "ดอกไม้แสงเหี่ยวเฉา"
 
 #. STRINGS.NAMES.FLOWER_EVIL
 msgctxt "STRINGS.NAMES.FLOWER_EVIL"
@@ -318474,7 +319164,7 @@ msgstr "กระจุกขนหนา"
 #. STRINGS.NAMES.FUSED_SHADELING
 msgctxt "STRINGS.NAMES.FUSED_SHADELING"
 msgid "Fused Shadeling"
-msgstr ""
+msgstr "ฟิวส์เงา"
 
 #. STRINGS.NAMES.FUSED_SHADELING_BOMB
 msgctxt "STRINGS.NAMES.FUSED_SHADELING_BOMB"
@@ -318564,17 +319254,17 @@ msgstr "เกสตัลท์"
 #. STRINGS.NAMES.GESTALT_CAGE
 msgctxt "STRINGS.NAMES.GESTALT_CAGE"
 msgid "Phasmo-Encapsulator"
-msgstr ""
+msgstr "เฟสโม-เอ็นแคปซูเลเตอร์"
 
 #. STRINGS.NAMES.GESTALT_GUARD
 msgctxt "STRINGS.NAMES.GESTALT_GUARD"
 msgid "Greater Gestalt"
-msgstr "เกรทเตอร์เกสตัลท์"
+msgstr "เกสตัลท์ผู้ยิ่งใหญ่"
 
 #. STRINGS.NAMES.GESTALT_GUARD_EVOLVED
 msgctxt "STRINGS.NAMES.GESTALT_GUARD_EVOLVED"
 msgid "Inimical Gestalt"
-msgstr ""
+msgstr "เกสตัลท์จอมโมโห"
 
 #. STRINGS.NAMES.GHOST
 msgctxt "STRINGS.NAMES.GHOST"
@@ -318604,7 +319294,7 @@ msgstr "การรักษาจิตวิญญาณ"
 #. STRINGS.NAMES.GHOSTLYELIXIR_LUNAR
 msgctxt "STRINGS.NAMES.GHOSTLYELIXIR_LUNAR"
 msgid "Luminous Wrath"
-msgstr ""
+msgstr "ความแค้นเรื่องแสง"
 
 #. STRINGS.NAMES.GHOSTLYELIXIR_RETALIATION
 msgctxt "STRINGS.NAMES.GHOSTLYELIXIR_RETALIATION"
@@ -318629,7 +319319,7 @@ msgstr "ร่างไม่ยอมแพ้"
 #. STRINGS.NAMES.GHOSTLYELIXIR_SLOWREGEN
 msgctxt "STRINGS.NAMES.GHOSTLYELIXIR_SLOWREGEN"
 msgid "Revenant Restorative"
-msgstr "การรักษาซ้ำ"
+msgstr "เรเวแนนท์แห่งการฟื้นฟู"
 
 #. STRINGS.NAMES.GHOSTLYELIXIR_SPEED
 msgctxt "STRINGS.NAMES.GHOSTLYELIXIR_SPEED"
@@ -318789,7 +319479,7 @@ msgstr "ร่มหรูหรา"
 #. STRINGS.NAMES.GRAVEGUARD_GHOST
 msgctxt "STRINGS.NAMES.GRAVEGUARD_GHOST"
 msgid "Bigspook"
-msgstr ""
+msgstr "วิญญาณ"
 
 #. STRINGS.NAMES.GRAVESTONE
 msgctxt "STRINGS.NAMES.GRAVESTONE"
@@ -319134,7 +319824,7 @@ msgstr "ไม้หนาม"
 #. STRINGS.NAMES.HERMITCRAB
 msgctxt "STRINGS.NAMES.HERMITCRAB"
 msgid "Crabby Hermit"
-msgstr "ฤาษีแครบบี้"
+msgstr "ฤๅษีปูเสฉวน"
 
 #. STRINGS.NAMES.HERMITCRAB_NAME
 msgctxt "STRINGS.NAMES.HERMITCRAB_NAME"
@@ -319144,12 +319834,12 @@ msgstr "ไข่มุก"
 #. STRINGS.NAMES.HERMITCRAB_RELOCATION_KIT
 msgctxt "STRINGS.NAMES.HERMITCRAB_RELOCATION_KIT"
 msgid "Hermit Rehomer"
-msgstr ""
+msgstr "เหยือกฤๅษีปูเสฉวน"
 
 #. STRINGS.NAMES.HERMITHOUSE
 msgctxt "STRINGS.NAMES.HERMITHOUSE"
 msgid "Hermit Home"
-msgstr "บ้านฤาษี"
+msgstr "บ้านฤๅษีปูเสฉวน"
 
 #. STRINGS.NAMES.HERMITHOUSE_PEARL
 msgctxt "STRINGS.NAMES.HERMITHOUSE_PEARL"
@@ -319359,17 +320049,17 @@ msgstr "เสาโอเบลิส"
 #. STRINGS.NAMES.INSPECTACLESBOX
 msgctxt "STRINGS.NAMES.INSPECTACLESBOX"
 msgid "Cachebox"
-msgstr ""
+msgstr "กล่องแคช"
 
 #. STRINGS.NAMES.INSPECTACLESBOX2
 msgctxt "STRINGS.NAMES.INSPECTACLESBOX2"
 msgid "Advanced Cachebox"
-msgstr ""
+msgstr "กล่องแคชขั้นสูง"
 
 #. STRINGS.NAMES.INSPECTACLESHAT
 msgctxt "STRINGS.NAMES.INSPECTACLESHAT"
 msgid "Inspectacles"
-msgstr ""
+msgstr "หมวกแว่นตา"
 
 #. STRINGS.NAMES.IPECACSYRUP
 msgctxt "STRINGS.NAMES.IPECACSYRUP"
@@ -319384,7 +320074,7 @@ msgstr "พิษอิเปกาก้า"
 #. STRINGS.NAMES.ITEMMIMIC_REVEALED
 msgctxt "STRINGS.NAMES.ITEMMIMIC_REVEALED"
 msgid "Mimicreep"
-msgstr ""
+msgstr "มิมิครีป"
 
 #. STRINGS.NAMES.IVY_SNARE
 msgctxt "STRINGS.NAMES.IVY_SNARE"
@@ -320109,7 +320799,7 @@ msgstr "ต้นร่มไม้สดใส"
 #. STRINGS.NAMES.LUNARTHRALL_PLANT_GESTALT
 msgctxt "STRINGS.NAMES.LUNARTHRALL_PLANT_GESTALT"
 msgid "Incursive Gestalt"
-msgstr ""
+msgstr "เกสตัลท์ผู้บุกรุก"
 
 #. STRINGS.NAMES.LUNARTHRALL_PLANT_VINE_END
 msgctxt "STRINGS.NAMES.LUNARTHRALL_PLANT_VINE_END"
@@ -320134,7 +320824,7 @@ msgstr "เกรเซอร์"
 #. STRINGS.NAMES.LUNAR_SEED
 msgctxt "STRINGS.NAMES.LUNAR_SEED"
 msgid "Celestial Jewel"
-msgstr ""
+msgstr "อัญมณีสวรรค์"
 
 #. STRINGS.NAMES.LUREPLANT
 msgctxt "STRINGS.NAMES.LUREPLANT"
@@ -320219,7 +320909,7 @@ msgstr "ม้วนแผนที่"
 #. STRINGS.NAMES.MAPSCROLL_TRICKER
 msgctxt "STRINGS.NAMES.MAPSCROLL_TRICKER"
 msgid "Map of Totally Uninhabited Island"
-msgstr ""
+msgstr "แผนที่เกาะที่ไม่มีคนอาศัยอยู่เลย"
 
 #. STRINGS.NAMES.MARBLE
 msgctxt "STRINGS.NAMES.MARBLE"
@@ -320274,17 +320964,17 @@ msgstr "ครีมมันฝรั่งบด"
 #. STRINGS.NAMES.MASK_ANCIENT_ARCHITECTHAT
 msgctxt "STRINGS.NAMES.MASK_ANCIENT_ARCHITECTHAT"
 msgid "Visionist's Mask"
-msgstr ""
+msgstr "หน้ากากของผู้มีวิสัยทัศน์"
 
 #. STRINGS.NAMES.MASK_ANCIENT_HANDMAIDHAT
 msgctxt "STRINGS.NAMES.MASK_ANCIENT_HANDMAIDHAT"
 msgid "Elytra's Mask"
-msgstr ""
+msgstr "หน้ากากของเอลีตรา"
 
 #. STRINGS.NAMES.MASK_ANCIENT_MASONHAT
 msgctxt "STRINGS.NAMES.MASK_ANCIENT_MASONHAT"
 msgid "Artificer's Mask"
-msgstr ""
+msgstr "หน้ากากของช่างฝีมือ"
 
 #. STRINGS.NAMES.MASK_BLACKSMITHHAT
 msgctxt "STRINGS.NAMES.MASK_BLACKSMITHHAT"
@@ -320314,7 +321004,7 @@ msgstr "หน้ากากคนโง่"
 #. STRINGS.NAMES.MASK_HALFWITHAT
 msgctxt "STRINGS.NAMES.MASK_HALFWITHAT"
 msgid "Halfwit's Masque"
-msgstr ""
+msgstr "หน้ากากของฮาล์ฟวิทส์"
 
 #. STRINGS.NAMES.MASK_KINGHAT
 msgctxt "STRINGS.NAMES.MASK_KINGHAT"
@@ -320334,12 +321024,12 @@ msgstr "หน้ากากราชินี"
 #. STRINGS.NAMES.MASK_SAGEHAT
 msgctxt "STRINGS.NAMES.MASK_SAGEHAT"
 msgid "Sage's Masque"
-msgstr ""
+msgstr "หน้ากากของนักปราชญ์"
 
 #. STRINGS.NAMES.MASK_TOADYHAT
 msgctxt "STRINGS.NAMES.MASK_TOADYHAT"
 msgid "Toady's Masque"
-msgstr ""
+msgstr "มาส์กของโทดี้"
 
 #. STRINGS.NAMES.MASK_TREEHAT
 msgctxt "STRINGS.NAMES.MASK_TREEHAT"
@@ -320884,7 +321574,7 @@ msgstr "หมวกหินแก้ว"
 #. STRINGS.NAMES.MOONSTORM_GOGGLESHAT_BLUEPRINT
 msgctxt "STRINGS.NAMES.MOONSTORM_GOGGLESHAT_BLUEPRINT"
 msgid "Astroggles Blueprint"
-msgstr ""
+msgstr "พิมพ์เขียวหมวกหินแก้ว"
 
 #. STRINGS.NAMES.MOONSTORM_SPARK
 msgctxt "STRINGS.NAMES.MOONSTORM_SPARK"
@@ -320899,7 +321589,7 @@ msgstr "พลังไฟฟ้าสถิตย์"
 #. STRINGS.NAMES.MOONSTORM_STATIC_CATCHER
 msgctxt "STRINGS.NAMES.MOONSTORM_STATIC_CATCHER"
 msgid "Static Restrainer"
-msgstr ""
+msgstr "ตัวยับยั้งไฟฟ้าสถิต"
 
 #. STRINGS.NAMES.MOONSTORM_STATIC_ITEM
 msgctxt "STRINGS.NAMES.MOONSTORM_STATIC_ITEM"
@@ -320909,12 +321599,12 @@ msgstr "ยับยั้งไฟฟ้าสถิต"
 #. STRINGS.NAMES.MOONSTORM_STATIC_NOWAG
 msgctxt "STRINGS.NAMES.MOONSTORM_STATIC_NOWAG"
 msgid "Energetic Static"
-msgstr ""
+msgstr "พลังงานไฟฟ้าสถิต"
 
 #. STRINGS.NAMES.MOONSTORM_STATIC_ROAMER
 msgctxt "STRINGS.NAMES.MOONSTORM_STATIC_ROAMER"
 msgid "Unrestrained Static"
-msgstr ""
+msgstr "ไฟฟ้าสถิตไร้การยับยั้ง"
 
 #. STRINGS.NAMES.MOON_ALTAR
 msgctxt "STRINGS.NAMES.MOON_ALTAR"
@@ -321004,7 +321694,7 @@ msgstr "ชรูมจันทราย่าง"
 #. STRINGS.NAMES.MOON_DEVICE
 msgctxt "STRINGS.NAMES.MOON_DEVICE"
 msgid "Lunar Siphonator"
-msgstr "กาลักน้ำทางจันทรา"
+msgstr "เครื่องดูดจันทรา"
 
 #. STRINGS.NAMES.MOON_DEVICE_CONSTRUCTION1
 msgctxt "STRINGS.NAMES.MOON_DEVICE_CONSTRUCTION1"
@@ -321014,7 +321704,7 @@ msgstr "การทดลองที่ไม่สมบูรณ์"
 #. STRINGS.NAMES.MOON_DEVICE_CONSTRUCTION1_BLUEPRINT
 msgctxt "STRINGS.NAMES.MOON_DEVICE_CONSTRUCTION1_BLUEPRINT"
 msgid "Incomplete Experiment Blueprint"
-msgstr ""
+msgstr "พิมพ์เขียวการทดลองที่ไม่สมบูรณ์"
 
 #. STRINGS.NAMES.MOON_DEVICE_CONSTRUCTION2
 msgctxt "STRINGS.NAMES.MOON_DEVICE_CONSTRUCTION2"
@@ -321024,7 +321714,7 @@ msgstr "การทดลองที่ใกล้สำเร็จ"
 #. STRINGS.NAMES.MOON_DEVICE_CONSTRUCTION3
 msgctxt "STRINGS.NAMES.MOON_DEVICE_CONSTRUCTION3"
 msgid "Lunar Siphonator"
-msgstr "กาลักน้ำทางจันทรา"
+msgstr "เครื่องดูดจันทรา"
 
 #. STRINGS.NAMES.MOON_FISSURE
 msgctxt "STRINGS.NAMES.MOON_FISSURE"
@@ -321039,7 +321729,7 @@ msgstr "อุดรอยแยก"
 #. STRINGS.NAMES.MOON_MUSHROOMHAT
 msgctxt "STRINGS.NAMES.MOON_MUSHROOMHAT"
 msgid "Lunar Funcap"
-msgstr ""
+msgstr "หมวกเห็ดจันทรา"
 
 #. STRINGS.NAMES.MOON_TREE
 msgctxt "STRINGS.NAMES.MOON_TREE"
@@ -321094,7 +321784,7 @@ msgstr "ยุง"
 #. STRINGS.NAMES.MOSQUITOBOMB
 msgctxt "STRINGS.NAMES.MOSQUITOBOMB"
 msgid "Skeeter Bomb"
-msgstr ""
+msgstr "ระเบิดสกีเตอร์"
 
 #. STRINGS.NAMES.MOSQUITOFERTILIZER
 msgctxt "STRINGS.NAMES.MOSQUITOFERTILIZER"
@@ -321109,7 +321799,7 @@ msgstr "เข็มเลือด"
 #. STRINGS.NAMES.MOSQUITOMUSK
 msgctxt "STRINGS.NAMES.MOSQUITOMUSK"
 msgid "Lil' Itchy"
-msgstr ""
+msgstr "ลิลจอมคัน"
 
 #. STRINGS.NAMES.MOSQUITOSACK
 msgctxt "STRINGS.NAMES.MOSQUITOSACK"
@@ -321229,12 +321919,12 @@ msgstr "หมียักษ์หุ้มเกราะ"
 #. STRINGS.NAMES.MUTATEDBIRD
 msgctxt "STRINGS.NAMES.MUTATEDBIRD"
 msgid "Bright-Beaked Bird"
-msgstr ""
+msgstr "นกปากส่องแสง"
 
 #. STRINGS.NAMES.MUTATEDBUZZARD
 msgctxt "STRINGS.NAMES.MUTATEDBUZZARD"
 msgid "Crystal-Crested Buzzard"
-msgstr ""
+msgstr "แร้งหงอนคริสตัล"
 
 #. STRINGS.NAMES.MUTATEDDEERCLOPS
 msgctxt "STRINGS.NAMES.MUTATEDDEERCLOPS"
@@ -321746,6 +322436,16 @@ msgctxt "STRINGS.NAMES.OCEANVINE_COCOON_BURNT"
 msgid "Sea Strider Nest"
 msgstr "รังแมงมุมทะเล"
 
+#. STRINGS.NAMES.OCEANWHIRLBIGPORTAL
+msgctxt "STRINGS.NAMES.OCEANWHIRLBIGPORTAL"
+msgid "Big Whirlpool"
+msgstr "น้ำวนใหญ่"
+
+#. STRINGS.NAMES.OCEANWHIRLBIGPORTALEXIT
+msgctxt "STRINGS.NAMES.OCEANWHIRLBIGPORTALEXIT"
+msgid "Ocean Detritus"
+msgstr "เศษซากมหาสมุทร"
+
 #. STRINGS.NAMES.OCEANWHIRLPORTAL
 msgctxt "STRINGS.NAMES.OCEANWHIRLPORTAL"
 msgid "Whirlportal"
@@ -322149,7 +322849,7 @@ msgstr "ตุ๊กตาหลงเสน่ห์\nละครเวที"
 #. STRINGS.NAMES.PLAYBILL_THE_VAULT
 msgctxt "STRINGS.NAMES.PLAYBILL_THE_VAULT"
 msgid "A Task Complete\nA Confession"
-msgstr ""
+msgstr "ภารกิจเสร็จสิ้น\nคำสารภาพ"
 
 #. STRINGS.NAMES.PLAYBILL_THE_VEIL
 msgctxt "STRINGS.NAMES.PLAYBILL_THE_VEIL"
@@ -322169,7 +322869,7 @@ msgstr ""
 #. STRINGS.NAMES.PLAYING_CARD
 msgctxt "STRINGS.NAMES.PLAYING_CARD"
 msgid "Playing Card"
-msgstr ""
+msgstr "ไพ่ในมือ"
 
 #. STRINGS.NAMES.POCKETWATCH_DISMANTLER
 msgctxt "STRINGS.NAMES.POCKETWATCH_DISMANTLER"
@@ -323554,27 +324254,27 @@ msgstr "รังพกพา"
 #. STRINGS.NAMES.RABBITKINGMINION_BUNNYMAN
 msgctxt "STRINGS.NAMES.RABBITKINGMINION_BUNNYMAN"
 msgid "Royal Rabbit Enforcer"
-msgstr ""
+msgstr "กระต่ายราชวงศ์ผู้บังคับใช้กฎ"
 
 #. STRINGS.NAMES.RABBITKINGSPEAR
 msgctxt "STRINGS.NAMES.RABBITKINGSPEAR"
 msgid "Rabbit King Cudgel"
-msgstr ""
+msgstr "กระบองราชากระต่าย"
 
 #. STRINGS.NAMES.RABBITKING_AGGRESSIVE
 msgctxt "STRINGS.NAMES.RABBITKING_AGGRESSIVE"
 msgid "Wrathful Rabbit King"
-msgstr ""
+msgstr "ราชากระต่ายผู้โกรธแค้น"
 
 #. STRINGS.NAMES.RABBITKING_LUCKY
 msgctxt "STRINGS.NAMES.RABBITKING_LUCKY"
 msgid "Fortuitous Rabbit"
-msgstr ""
+msgstr "กระต่ายแห่งโชคชะตา"
 
 #. STRINGS.NAMES.RABBITKING_PASSIVE
 msgctxt "STRINGS.NAMES.RABBITKING_PASSIVE"
 msgid "Benevolent Rabbit King"
-msgstr ""
+msgstr "ราชากระต่ายผู้ใจดี"
 
 #. STRINGS.NAMES.RAIN
 msgctxt "STRINGS.NAMES.RAIN"
@@ -323874,12 +324574,12 @@ msgstr "เชือก"
 #. STRINGS.NAMES.ROPE_BRIDGE_KIT
 msgctxt "STRINGS.NAMES.ROPE_BRIDGE_KIT"
 msgid "Spelunker's Bridge Kit"
-msgstr ""
+msgstr "ชุดทำสะพานของนักสำรวจถ้ำ"
 
 #. STRINGS.NAMES.ROSEGLASSESHAT
 msgctxt "STRINGS.NAMES.ROSEGLASSESHAT"
 msgid "Rose-Colored Glasses"
-msgstr ""
+msgstr "แว่นตาสีกุหลาบ"
 
 #. STRINGS.NAMES.ROTTENEGG
 msgctxt "STRINGS.NAMES.ROTTENEGG"
@@ -324009,7 +324709,7 @@ msgstr "หินโป่ง"
 #. STRINGS.NAMES.SALTLICK_IMPROVED
 msgctxt "STRINGS.NAMES.SALTLICK_IMPROVED"
 msgid "Gourmet Salt Lick"
-msgstr ""
+msgstr "หินโป่งรสเลิศ"
 
 #. STRINGS.NAMES.SALTROCK
 msgctxt "STRINGS.NAMES.SALTROCK"
@@ -324219,7 +324919,7 @@ msgstr "เอเทรียมเงา"
 #. STRINGS.NAMES.SHADOWHEART_INFUSED
 msgctxt "STRINGS.NAMES.SHADOWHEART_INFUSED"
 msgid "Possessed Shadow Atrium"
-msgstr ""
+msgstr "ห้องโถงเงาที่ถูกสิง"
 
 #. STRINGS.NAMES.SHADOWLUMBER_BUILDER
 msgctxt "STRINGS.NAMES.SHADOWLUMBER_BUILDER"
@@ -326094,7 +326794,7 @@ msgstr ""
 #. STRINGS.NAMES.TURF_VENT
 msgctxt "STRINGS.NAMES.TURF_VENT"
 msgid "Cave Fumarole Turf"
-msgstr ""
+msgstr "พื้นถ้ำภูเขาไฟ"
 
 #. STRINGS.NAMES.TURF_WOODFLOOR
 msgctxt "STRINGS.NAMES.TURF_WOODFLOOR"
@@ -326229,6 +326929,11 @@ msgstr ""
 #. STRINGS.NAMES.VAULT_TELEPORTER_BROKEN
 msgctxt "STRINGS.NAMES.VAULT_TELEPORTER_BROKEN"
 msgid "Broken Sanctum Waymark"
+msgstr ""
+
+#. STRINGS.NAMES.VAULT_TORCH
+msgctxt "STRINGS.NAMES.VAULT_TORCH"
+msgid "Flummoxing Flame"
 msgstr ""
 
 #. STRINGS.NAMES.VEGGIEOMLET
@@ -335046,6 +335751,16 @@ msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.ABIGAIL_FLOWER"
 msgid "Used by Wendy to call her Ghostly sister Abigail."
 msgstr "เวนดี้ใช้เรียกเธอว่าน้องสาวผีสิงอาบิเกล"
 
+#. STRINGS.SCRAPBOOK.SPECIALINFO.ABYSSPILLAR_MINION
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.ABYSSPILLAR_MINION"
+msgid "They block your path. Are they following a pattern?"
+msgstr "พวกมันปิดกั้นเส้นทางของคุณ พวกมันกำลังเดินตามรูปแบบหรือเปล่า?"
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.ABYSSPILLAR_TRIAL
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.ABYSSPILLAR_TRIAL"
+msgid "The urge to pull this lever is... unusually strong."
+msgstr "แรงกระตุ้นที่จะดึงคันโยกนี้มัน... รุนแรงผิดปกติ"
+
 #. STRINGS.SCRAPBOOK.SPECIALINFO.ALTARPLUG
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.ALTARPLUG"
 msgid "It looks like it plugs into something."
@@ -335565,6 +336280,16 @@ msgstr "อนุญาตให้ผู้รอดชีวิตประด
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.CATCOONDEN"
 msgid "The den of a Catcoon and the place they store items they have carried off.\n\nThose items can be picked up here, but the Catcoon won't like it."
 msgstr "ถ้ำของแคตคูนและสถานที่ที่พวกมันเก็บสิ่งของที่พวกเขาขนมา\n\nสิ่งของเหล่านั้นสามารถหยิบได้ที่นี่ แต่แคตคูนจะไม่ชอบมัน"
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.CAVE_VENT_MITE
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.CAVE_VENT_MITE"
+msgid "The Fumarole's cycle begins with the Geothermite."
+msgstr "วงจรของ Fumarole เริ่มต้นด้วย Geothermite"
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.CAVE_VENT_ROCK
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.CAVE_VENT_ROCK"
+msgid "These vents can billow out more than mere heat."
+msgstr "ช่องระบายอากาศเหล่านี้สามารถพ่นออกมาได้มากกว่าความร้อนเพียงอย่างเดียว"
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.CHARLIE_STAGE_POST
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.CHARLIE_STAGE_POST"
@@ -336111,6 +336836,21 @@ msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.MARBLEBEAN"
 msgid "Can be planted in the ground."
 msgstr "ปลูกลงดินได้"
 
+#. STRINGS.SCRAPBOOK.SPECIALINFO.MASK_ANCIENT_ARCHITECTHAT
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.MASK_ANCIENT_ARCHITECTHAT"
+msgid "Costume piece used in stage plays.\nIs it better to face the bitter truth or embrace sweet ignorance?"
+msgstr "เครื่องแต่งกายที่ใช้ในละครเวที\nอะไรดีกว่ากันระหว่างการเผชิญหน้ากับความจริงอันขมขื่นหรือการยอมรับความไม่รู้อันแสนหวาน?"
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.MASK_ANCIENT_HANDMAIDHAT
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.MASK_ANCIENT_HANDMAIDHAT"
+msgid "Costume piece used in stage plays.\nShe did what was necessary in service of her Queen."
+msgstr "เครื่องแต่งกายที่ใช้ในละครเวที\nเธอทำสิ่งที่จำเป็นเพื่อรับใช้ราชินีของเธอ"
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.MASK_ANCIENT_MASONHAT
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.MASK_ANCIENT_MASONHAT"
+msgid "Costume piece used in stage plays.\nBetrayal begets the darkest of curses."
+msgstr "เครื่องแต่งกายที่ใช้ในละครเวที\nการทรยศนำมาซึ่งคำสาปที่มืดมนที่สุด"
+
 #. STRINGS.SCRAPBOOK.SPECIALINFO.MAST
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.MAST"
 msgid "It can be quickly unfurled and furled with effort. When unfurled the sail increases the boats forward velocity by 2.5.\n\nEach mast placed is 30% less efficient than the last.\n\nThe Steering Wheel can be used to rotate the forward direction of the Mast."
@@ -336426,6 +337166,16 @@ msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.OCEANTREE"
 msgid "Standing near a tree offers 35% protection from rain and cools survivor a small amount.\n\nWith help, it can grow to gigantic size."
 msgstr "การยืนใกล้ต้นไม้สามารถป้องกันฝนได้ 35% และทำให้ผู้รอดชีวิตเย็นลงได้เล็กน้อย\n\nด้วยความช่วยเหลือมันสามารถเติบโตเป็นขนาดมหึมาได้"
 
+#. STRINGS.SCRAPBOOK.SPECIALINFO.OCEANWHIRLBIGPORTAL
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.OCEANWHIRLBIGPORTAL"
+msgid "Hypnotically swirling, ever-drawing, it swallows all caught within its eye.\nHighly destructive to boats and structures alike."
+msgstr "หมุนวนอย่างสะกดจิต ดึงดูดใจตลอดเวลา กลืนทุกสิ่งที่จับต้องได้เข้าไป\nทำลายล้างอย่างรุนแรงทั้งต่อเรือและโครงสร้าง"
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.OCEANWHIRLBIGPORTALEXIT
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.OCEANWHIRLBIGPORTALEXIT"
+msgid "A heap of sludge. Best dig in!"
+msgstr "กองตะกอน ขุดเข้าไปเลยดีกว่า!"
+
 #. STRINGS.SCRAPBOOK.SPECIALINFO.OCEANWHIRLPORTAL
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.OCEANWHIRLPORTAL"
 msgid "An ocean portal that allows boats to travel long distances."
@@ -336525,6 +337275,21 @@ msgstr "ปลูกบนกองทะเลได้"
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.PLANTREGISTRYHAT"
 msgid "Researching garden plants at different stages of growth adds to the Plant Registery."
 msgstr "การค้นคว้าเกี่ยวกับพืชสวนในระยะต่างๆของการเจริญเติบโตจะเพิ่มเข้าไปในทะเบียนพืช"
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.PLAYBILL_THE_DOLL
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.PLAYBILL_THE_DOLL"
+msgid "Charlie's version of events."
+msgstr "เวอร์ชันเหตุการณ์ของชาร์ลี"
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.PLAYBILL_THE_VAULT
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.PLAYBILL_THE_VAULT"
+msgid "A grim testimony from the past, and a foreshadowing of what awaits."
+msgstr "คำให้การอันน่าสยดสยองจากอดีต และการบอกล่วงหน้าถึงสิ่งที่จะเกิดขึ้น"
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.PLAYBILL_THE_VEIL
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.PLAYBILL_THE_VEIL"
+msgid "Shady promotional material."
+msgstr "สื่อส่งเสริมการขายที่น่าสงสัย"
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.PLAYING_CARD
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.PLAYING_CARD"
@@ -336855,6 +337620,11 @@ msgstr "หัวใจที่ยังทำงานอยู่ซึ่ง
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.SHADOWRIFTPORTAL"
 msgid "A one way door of shadow that grows over time and then expires to pop up somewhere else some time later."
 msgstr "ประตูแห่งเงาทางเดียวที่เติบโตเมื่อเวลาผ่านไป และหมดอายุและจะปรากฏขึ้นที่อื่นในภายหลัง"
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.SHADOWTHRALL_CENTIPEDE_HEAD
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.SHADOWTHRALL_CENTIPEDE_HEAD"
+msgid "Dense and unyielding, it will take great effort to crack its shell."
+msgstr "หนาแน่นและไม่ยืดหยุ่น มันจะต้องใช้ความพยายามอย่างมากในการทำให้เปลือกของมันแตก"
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.SHADOWTHRALL_MOUTH
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.SHADOWTHRALL_MOUTH"
@@ -337256,6 +338026,11 @@ msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.TREEGROWTHSOLUTION"
 msgid "Grows trees up one stage. Can also restore 8 Growth Formula, 32 Compost and 8 Manure to Farm Soil.\n\nUsed on Wormwood will heal 2 Health and 1 Health a second for 32 seconds."
 msgstr "ปลูกต้นไม้เพิ่มขึ้นหนึ่งขั้น นอกจากนี้ยังสามารถฟื้นฟูสูตรการเจริญเติบโต 8 สูตร ปุ๋ยหมัก 32 รายการและปุ๋ยคอก 8 รายการสำหรับดินในฟาร์ม\n\nเมื่อใช้กับไม้วอร์มวูดจะรักษาพลังชีวิต 2 หน่วยและพลังชีวิต 1 หน่วยต่อวินาทีเป็นเวลา 32 วินาที"
 
+#. STRINGS.SCRAPBOOK.SPECIALINFO.TREE_ROCK
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.TREE_ROCK"
+msgid "The vines uproot more than boulders, depending on where they are planted."
+msgstr "เถาวัลย์จะถอนรากมากกว่าก้อนหิน ขึ้นอยู่กับว่าปลูกไว้ที่ไหน"
+
 #. STRINGS.SCRAPBOOK.SPECIALINFO.TRIDENT
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.TRIDENT"
 msgid "Can be Played to cause small geysers to shoot up from the ocean, doing damage to creatures and structures."
@@ -337285,6 +338060,31 @@ msgstr "สามารถวางบนพื้นดินเพื่อเ
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.TURFCRAFTINGSTATION"
 msgid "Standing near this device will provide the survivor with new Turf they can craft."
 msgstr "การยืนอยู่ใกล้อุปกรณ์นี้จะทำให้ผู้รอดชีวิตมีสนามหญ้าใหม่ที่พวกเขาสามารถสร้างได้"
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.VAULT_LOBBY_EXIT
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.VAULT_LOBBY_EXIT"
+msgid "The longer you gaze, the stronger the urge to leap."
+msgstr "ยิ่งคุณจ้องมองนานเท่าไร แรงกระตุ้นที่จะกระโดดก็ยิ่งแข็งแกร่งขึ้นเท่านั้น"
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.VAULT_ORB
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.VAULT_ORB"
+msgid "A focus of intent for the Sanctum Waymark, drawing together those beyond."
+msgstr "จุดศูนย์กลางของเจตนาสำหรับ Sanctum Waymark เพื่อดึงดูดผู้คนที่อยู่นอกเหนือจากนั้นมารวมกัน"
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.VAULT_RUNE
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.VAULT_RUNE"
+msgid "Engraved markings, enduring through eternity. Perhaps decipherable."
+msgstr "เครื่องหมายสลักที่คงอยู่ชั่วนิรันดร์ บางทีอาจสามารถถอดรหัสได้"
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.VAULT_TELEPORTER
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.VAULT_TELEPORTER"
+msgid "Flashy transportation. Keep your gaze on the floor if you feel dizzy or disoriented."
+msgstr "การขนส่งที่ฉูดฉาด โปรดจ้องมองพื้นหากคุณรู้สึกเวียนหัวหรือสับสน"
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.VAULT_TORCH
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.VAULT_TORCH"
+msgid "The flame is calming. If only it would stay lit."
+msgstr "เปลวไฟกำลังสงบลง หากมันยังคงสว่างอยู่ได้ก็คงดี"
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.VOIDCLITHSCYTHE
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.VOIDCLITHSCYTHE"
@@ -344145,6 +344945,11 @@ msgstr "มีกลิ่นหอมเหมือนดอกกุหลา
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beargervest_yule"
 msgid "Snuggle up for a warm winter nap."
 msgstr "งีบหลับอย่างอบอุ่นในฤดูหนาว"
+
+#. STRINGS.SKIN_DESCRIPTIONS.bedroll_furry_bearger
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.bedroll_furry_bearger"
+msgid "Bearger fur is much cozier when it's not attached to Bearger teeth."
+msgstr "ขน Bearger จะอบอุ่นกว่ามากเมื่อไม่ได้ติดกับฟัน Bearger"
 
 #. STRINGS.SKIN_DESCRIPTIONS.bedroll_furry_catcoon
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.bedroll_furry_catcoon"
@@ -362825,6 +363630,11 @@ msgstr "Rosebloom Bearger Vest"
 msgctxt "STRINGS.SKIN_NAMES.beargervest_yule"
 msgid "Winter Hibearnation Vest"
 msgstr "Winter Hibearnation Vest"
+
+#. STRINGS.SKIN_NAMES.bedroll_furry_bearger
+msgctxt "STRINGS.SKIN_NAMES.bedroll_furry_bearger"
+msgid "Bearger Fur Roll"
+msgstr "Bearger Fur Roll"
 
 #. STRINGS.SKIN_NAMES.bedroll_furry_catcoon
 msgctxt "STRINGS.SKIN_NAMES.bedroll_furry_catcoon"
@@ -411250,6 +412060,11 @@ msgstr "\"อย่าให้ Keystone ที่ถูกสาปข้าม
 msgctxt "STRINGS.VAULT_RUNE.PUZZLE1"
 msgid "\"Paths are taken but once. Leap wisely, tarry not, or the abyss claims all.\""
 msgstr "เส้นทางมีเพียงครั้งเดียว จงก้าวเดินอย่างชาญฉลาด อย่าชักช้า มิฉะนั้นเหวจะกลืนกินทุกสิ่ง"
+
+#. STRINGS.VAULT_RUNE.PUZZLE2
+msgctxt "STRINGS.VAULT_RUNE.PUZZLE2"
+msgid "\"Only when all torches burn shall the way be revealed.\""
+msgstr "\"เมื่อคบเพลิงทั้งหมดสว่างไสวเท่านั้น หนทางจึงจะเปิดเผย.\""
 
 #. STRINGS.VAULT_RUNE.TELEPORT1
 msgctxt "STRINGS.VAULT_RUNE.TELEPORT1"
