@@ -315214,12 +315214,12 @@ msgstr "ต้นกล้าเมล็ดพันธุ์ประหลา
 #. STRINGS.NAMES.ANCIENT_ALTAR
 msgctxt "STRINGS.NAMES.ANCIENT_ALTAR"
 msgid "Ancient Pseudoscience Station"
-msgstr "ศูนย์วิจัยวิทยาศาสตร์เทียมโบราณ"
+msgstr "สถานีวิทยาศาสตร์เทียมโบราณ"
 
 #. STRINGS.NAMES.ANCIENT_ALTAR_BROKEN
 msgctxt "STRINGS.NAMES.ANCIENT_ALTAR_BROKEN"
 msgid "Broken Ancient Pseudoscience Station"
-msgstr "ศูนย์วิจัยวิทยาศาสตร์เทียมโบราณชำรุด"
+msgstr "สถานีวิทยาศาสตร์เทียมโบราณชำรุด"
 
 #. STRINGS.NAMES.ANCIENT_HUSK
 msgctxt "STRINGS.NAMES.ANCIENT_HUSK"
@@ -317069,7 +317069,7 @@ msgstr "เฟิร์นเหี่ยวเฉา"
 #. STRINGS.NAMES.CAVE_VENT_MITE
 msgctxt "STRINGS.NAMES.CAVE_VENT_MITE"
 msgid "Geothermite"
-msgstr ""
+msgstr "จีโอเทอร์ไมต์"
 
 #. STRINGS.NAMES.CAVE_VENT_ROCK
 msgctxt "STRINGS.NAMES.CAVE_VENT_ROCK"
@@ -321029,7 +321029,7 @@ msgstr "หน้ากากของนักปราชญ์"
 #. STRINGS.NAMES.MASK_TOADYHAT
 msgctxt "STRINGS.NAMES.MASK_TOADYHAT"
 msgid "Toady's Masque"
-msgstr "มาส์กของโทดี้"
+msgstr "หน้ากากของโทดี้"
 
 #. STRINGS.NAMES.MASK_TREEHAT
 msgctxt "STRINGS.NAMES.MASK_TREEHAT"
@@ -322859,12 +322859,12 @@ msgstr "พอล\nละครเวที"
 #. STRINGS.NAMES.PLAYER_HOSTED
 msgctxt "STRINGS.NAMES.PLAYER_HOSTED"
 msgid "Inthralled Corpse"
-msgstr ""
+msgstr "ศพที่ถูกพันธนาการ"
 
 #. STRINGS.NAMES.PLAYER_HOSTED_ME
 msgctxt "STRINGS.NAMES.PLAYER_HOSTED_ME"
 msgid "Deadelgänger"
-msgstr ""
+msgstr "เดเดลแกงเกอร์"
 
 #. STRINGS.NAMES.PLAYING_CARD
 msgctxt "STRINGS.NAMES.PLAYING_CARD"
@@ -324769,7 +324769,7 @@ msgstr "หน้าสมุด {name}"
 #. STRINGS.NAMES.SCRAPHAT
 msgctxt "STRINGS.NAMES.SCRAPHAT"
 msgid "Scrappy Chapauldron"
-msgstr ""
+msgstr "หมวกสแครปปี้ชาพอลดรอน"
 
 #. STRINGS.NAMES.SCRAP_MONOCLEHAT
 msgctxt "STRINGS.NAMES.SCRAP_MONOCLEHAT"
@@ -324949,12 +324949,12 @@ msgstr "หนวดเงา"
 #. STRINGS.NAMES.SHADOWTHRALL_CENTIPEDE
 msgctxt "STRINGS.NAMES.SHADOWTHRALL_CENTIPEDE"
 msgid "Mega Blight"
-msgstr ""
+msgstr "เมกะไบลท์"
 
 #. STRINGS.NAMES.SHADOWTHRALL_CENTIPEDE_ALLEGIANCE
 msgctxt "STRINGS.NAMES.SHADOWTHRALL_CENTIPEDE_ALLEGIANCE"
 msgid "Ripple"
-msgstr ""
+msgstr "ริปเปิล"
 
 #. STRINGS.NAMES.SHADOWTHRALL_HANDS
 msgctxt "STRINGS.NAMES.SHADOWTHRALL_HANDS"
@@ -324964,7 +324964,7 @@ msgstr "หมึกทำลาย"
 #. STRINGS.NAMES.SHADOWTHRALL_HANDS_ALLEGIANCE
 msgctxt "STRINGS.NAMES.SHADOWTHRALL_HANDS_ALLEGIANCE"
 msgid "Jitters"
-msgstr ""
+msgstr "จิทเตอร์"
 
 #. STRINGS.NAMES.SHADOWTHRALL_HORNS
 msgctxt "STRINGS.NAMES.SHADOWTHRALL_HORNS"
@@ -324974,7 +324974,7 @@ msgstr "หมึกทำลาย"
 #. STRINGS.NAMES.SHADOWTHRALL_HORNS_ALLEGIANCE
 msgctxt "STRINGS.NAMES.SHADOWTHRALL_HORNS_ALLEGIANCE"
 msgid "Rasp"
-msgstr "บุ้ง"
+msgstr "ราสป์"
 
 #. STRINGS.NAMES.SHADOWTHRALL_MOUTH
 msgctxt "STRINGS.NAMES.SHADOWTHRALL_MOUTH"
@@ -324984,17 +324984,17 @@ msgstr ""
 #. STRINGS.NAMES.SHADOWTHRALL_MOUTH_ALLEGIANCE
 msgctxt "STRINGS.NAMES.SHADOWTHRALL_MOUTH_ALLEGIANCE"
 msgid "Rictus"
-msgstr ""
+msgstr "ริกตัส"
 
 #. STRINGS.NAMES.SHADOWTHRALL_PARASITE
 msgctxt "STRINGS.NAMES.SHADOWTHRALL_PARASITE"
 msgid "Void Masque"
-msgstr ""
+msgstr "หน้ากากความว่างเปล่า"
 
 #. STRINGS.NAMES.SHADOWTHRALL_PARASITE_ALLEGIANCE
 msgctxt "STRINGS.NAMES.SHADOWTHRALL_PARASITE_ALLEGIANCE"
 msgid "Herald of Tenebrau"
-msgstr ""
+msgstr "เฮรัลด์แห่งเทเนเบรา"
 
 #. STRINGS.NAMES.SHADOWTHRALL_WINGS
 msgctxt "STRINGS.NAMES.SHADOWTHRALL_WINGS"
@@ -325029,12 +325029,12 @@ msgstr "ตัวโคนเงา"
 #. STRINGS.NAMES.SHADOW_FORGE
 msgctxt "STRINGS.NAMES.SHADOW_FORGE"
 msgid "Shadowcraft Plinth"
-msgstr ""
+msgstr "ฐานของยานเงา"
 
 #. STRINGS.NAMES.SHADOW_FORGE_KIT
 msgctxt "STRINGS.NAMES.SHADOW_FORGE_KIT"
 msgid "Shadowcraft Plinth Kit"
-msgstr ""
+msgstr "ชิ้นส่วนฐานของยานเงา"
 
 #. STRINGS.NAMES.SHADOW_KNIGHT
 msgctxt "STRINGS.NAMES.SHADOW_KNIGHT"
@@ -325299,7 +325299,7 @@ msgstr "กระสุนคำสาป"
 #. STRINGS.NAMES.SLINGSHOTMODKIT
 msgctxt "STRINGS.NAMES.SLINGSHOTMODKIT"
 msgid "Slingshot Field Kit"
-msgstr "ชุดสนามยิงหนังสติ๊ก"
+msgstr "ชิ้นส่วนสนามยิงหนังสติ๊ก"
 
 #. STRINGS.NAMES.SLINGSHOT_BAND_MIMIC
 msgctxt "STRINGS.NAMES.SLINGSHOT_BAND_MIMIC"
@@ -326044,7 +326044,7 @@ msgstr "คทาย้ายมวลสาร"
 #. STRINGS.NAMES.TEMP_BETA_MSG
 msgctxt "STRINGS.NAMES.TEMP_BETA_MSG"
 msgid "Beta Report"
-msgstr ""
+msgstr "รายงานเบต้า"
 
 #. STRINGS.NAMES.TENT
 msgctxt "STRINGS.NAMES.TENT"
@@ -326294,17 +326294,17 @@ msgstr "ต้นแยม"
 #. STRINGS.NAMES.TREE_ROCK
 msgctxt "STRINGS.NAMES.TREE_ROCK"
 msgid "Boulderbough"
-msgstr ""
+msgstr "ไม้ศิลา"
 
 #. STRINGS.NAMES.TREE_ROCK_SAPLING
 msgctxt "STRINGS.NAMES.TREE_ROCK_SAPLING"
 msgid "Boulderbough Sapling"
-msgstr ""
+msgstr "ต้นกล้าไม้ศิลา"
 
 #. STRINGS.NAMES.TREE_ROCK_SEED
 msgctxt "STRINGS.NAMES.TREE_ROCK_SEED"
 msgid "Boulderbough Seed"
-msgstr ""
+msgstr "เมล็ดไม้ศิลา"
 
 #. STRINGS.NAMES.TRIDENT
 msgctxt "STRINGS.NAMES.TRIDENT"
@@ -326789,7 +326789,7 @@ msgstr "พื้นถ้ำ"
 #. STRINGS.NAMES.TURF_VAULT
 msgctxt "STRINGS.NAMES.TURF_VAULT"
 msgid "Ancient Sanctum Stonework"
-msgstr ""
+msgstr "พื้นหินศักดิ์สิทธิ์โบราณ"
 
 #. STRINGS.NAMES.TURF_VENT
 msgctxt "STRINGS.NAMES.TURF_VENT"
@@ -326874,62 +326874,62 @@ msgstr "ไม่ทราบ"
 #. STRINGS.NAMES.VAULTRELIC
 msgctxt "STRINGS.NAMES.VAULTRELIC"
 msgid "Sanctum Relic"
-msgstr ""
+msgstr "วัตถุศักดิ์สิทธิ์"
 
 #. STRINGS.NAMES.VAULTRELIC_BOWL
 msgctxt "STRINGS.NAMES.VAULTRELIC_BOWL"
 msgid "Replica Sanctum Bowl"
-msgstr ""
+msgstr "ชามศักดิ์สิทธิ์จำลอง"
 
 #. STRINGS.NAMES.VAULTRELIC_BROKEN
 msgctxt "STRINGS.NAMES.VAULTRELIC_BROKEN"
 msgid "Broken Sanctum Relic"
-msgstr ""
+msgstr "วัตถุศักดิ์สิทธิ์พัง"
 
 #. STRINGS.NAMES.VAULTRELIC_PLANTER
 msgctxt "STRINGS.NAMES.VAULTRELIC_PLANTER"
 msgid "Replica Sanctum Planter"
-msgstr ""
+msgstr "กระทางต้นไม้ศักดิ์สิทธิ์จำลอง"
 
 #. STRINGS.NAMES.VAULTRELIC_VASE
 msgctxt "STRINGS.NAMES.VAULTRELIC_VASE"
 msgid "Replica Sanctum Vase"
-msgstr ""
+msgstr "แจกันศักดิ์สิทธิ์จำลอง"
 
 #. STRINGS.NAMES.VAULT_CHANDELIER_BROKEN
 msgctxt "STRINGS.NAMES.VAULT_CHANDELIER_BROKEN"
 msgid "Sanctum Lustre"
-msgstr ""
+msgstr "โคมระย้าศักดิ์สิทธิ์"
 
 #. STRINGS.NAMES.VAULT_LOBBY_EXIT
 msgctxt "STRINGS.NAMES.VAULT_LOBBY_EXIT"
 msgid "Chasm"
-msgstr ""
+msgstr "ช่องว่าง"
 
 #. STRINGS.NAMES.VAULT_ORB
 msgctxt "STRINGS.NAMES.VAULT_ORB"
 msgid "Portation Orb"
-msgstr ""
+msgstr "ลูกแก้วพอร์ตเทชั่น"
 
 #. STRINGS.NAMES.VAULT_RUNE
 msgctxt "STRINGS.NAMES.VAULT_RUNE"
 msgid "Sanctum Lunarune Stone"
-msgstr ""
+msgstr "หินจันทราศักดิ์สิทธิ์"
 
 #. STRINGS.NAMES.VAULT_STATUE
 msgctxt "STRINGS.NAMES.VAULT_STATUE"
 msgid "Sanctum Statue"
-msgstr ""
+msgstr "ศักดิ์สิทธิ์รูปปั้น"
 
 #. STRINGS.NAMES.VAULT_TELEPORTER
 msgctxt "STRINGS.NAMES.VAULT_TELEPORTER"
 msgid "Sanctum Waymark"
-msgstr ""
+msgstr "เครื่องชี้ทางศักดิ์สิทธิ์"
 
 #. STRINGS.NAMES.VAULT_TELEPORTER_BROKEN
 msgctxt "STRINGS.NAMES.VAULT_TELEPORTER_BROKEN"
 msgid "Broken Sanctum Waymark"
-msgstr ""
+msgstr "เครื่องชี้ทางศักดิ์สิทธิ์พัง"
 
 #. STRINGS.NAMES.VAULT_TORCH
 msgctxt "STRINGS.NAMES.VAULT_TORCH"
@@ -326969,7 +326969,7 @@ msgstr "บลูมเมอแรง"
 #. STRINGS.NAMES.VOIDCLOTH_KIT
 msgctxt "STRINGS.NAMES.VOIDCLOTH_KIT"
 msgid "Void Repair Kit"
-msgstr "ชุดซ่อมแห่งความว่างเปล่า"
+msgstr "ชิ้นส่วนซ่อมแห่งความว่างเปล่า"
 
 #. STRINGS.NAMES.VOIDCLOTH_SCYTHE
 msgctxt "STRINGS.NAMES.VOIDCLOTH_SCYTHE"
@@ -326999,37 +326999,37 @@ msgstr ""
 #. STRINGS.NAMES.WAGBOSS_ROBOT
 msgctxt "STRINGS.NAMES.WAGBOSS_ROBOT"
 msgid "W.A.R.B.O.T."
-msgstr ""
+msgstr "W.A.R.B.O.T."
 
 #. STRINGS.NAMES.WAGBOSS_ROBOT_CONSTRUCTIONSITE
 msgctxt "STRINGS.NAMES.WAGBOSS_ROBOT_CONSTRUCTIONSITE"
 msgid "W.A.R.B.O.T. Base"
-msgstr ""
+msgstr "ฐาน W.A.R.B.O.T."
 
 #. STRINGS.NAMES.WAGBOSS_ROBOT_CONSTRUCTIONSITE_KIT
 msgctxt "STRINGS.NAMES.WAGBOSS_ROBOT_CONSTRUCTIONSITE_KIT"
 msgid "W.A.R.B.O.T. Base Kit"
-msgstr ""
+msgstr "ชุดฐาน W.A.R.B.O.T."
 
 #. STRINGS.NAMES.WAGBOSS_ROBOT_CREATION_PARTS
 msgctxt "STRINGS.NAMES.WAGBOSS_ROBOT_CREATION_PARTS"
 msgid "W.A.R.B.O.T. Parts"
-msgstr ""
+msgstr "ชิ้นส่วน W.A.R.B.O.T."
 
 #. STRINGS.NAMES.WAGBOSS_ROBOT_LEG
 msgctxt "STRINGS.NAMES.WAGBOSS_ROBOT_LEG"
 msgid "W.A.R.B.O.T. Leg"
-msgstr ""
+msgstr "ขา W.A.R.B.O.T."
 
 #. STRINGS.NAMES.WAGBOSS_ROBOT_POSSESSED
 msgctxt "STRINGS.NAMES.WAGBOSS_ROBOT_POSSESSED"
 msgid "Enlightened W.A.R.B.O.T."
-msgstr ""
+msgstr "W.A.R.B.O.T. ผู้รู้แจ้ง"
 
 #. STRINGS.NAMES.WAGBOSS_ROBOT_SECRET
 msgctxt "STRINGS.NAMES.WAGBOSS_ROBOT_SECRET"
 msgid "Undisclosed Construct"
-msgstr ""
+msgstr "โครงสร้างที่ไม่เปิดเผย"
 
 #. STRINGS.NAMES.WAGDRONE_BEACON
 msgctxt "STRINGS.NAMES.WAGDRONE_BEACON"
@@ -327044,12 +327044,12 @@ msgstr ""
 #. STRINGS.NAMES.WAGDRONE_PARTS
 msgctxt "STRINGS.NAMES.WAGDRONE_PARTS"
 msgid "Gyroscopic Transduction Core"
-msgstr ""
+msgstr "แกนถ่ายทอดสัญญาณไจโรสโคป"
 
 #. STRINGS.NAMES.WAGDRONE_ROLLING
 msgctxt "STRINGS.NAMES.WAGDRONE_ROLLING"
 msgid "Terramite"
-msgstr ""
+msgstr "เทอร์ราไมต์"
 
 #. STRINGS.NAMES.WAGPUNKBITS_KIT
 msgctxt "STRINGS.NAMES.WAGPUNKBITS_KIT"
@@ -327069,7 +327069,7 @@ msgstr "เศษเหล็ก"
 #. STRINGS.NAMES.WAGPUNK_CAGEWALL
 msgctxt "STRINGS.NAMES.WAGPUNK_CAGEWALL"
 msgid "Kinetoclasmic Field Expandinator"
-msgstr ""
+msgstr "ตัวขยายสนามจลนศาสตร์"
 
 #. STRINGS.NAMES.WAGPUNK_FLOOR_KIT
 msgctxt "STRINGS.NAMES.WAGPUNK_FLOOR_KIT"
@@ -327089,27 +327089,27 @@ msgstr ""
 #. STRINGS.NAMES.WAGSTAFF_CONTAINMENT_NOTE
 msgctxt "STRINGS.NAMES.WAGSTAFF_CONTAINMENT_NOTE"
 msgid "Research Notes"
-msgstr ""
+msgstr "บันทึกการวิจัย"
 
 #. STRINGS.NAMES.WAGSTAFF_ELECTRICITY_NOTE
 msgctxt "STRINGS.NAMES.WAGSTAFF_ELECTRICITY_NOTE"
 msgid "Research Notes"
-msgstr ""
+msgstr "บันทึกการวิจัย"
 
 #. STRINGS.NAMES.WAGSTAFF_ENERGY_NOTE
 msgctxt "STRINGS.NAMES.WAGSTAFF_ENERGY_NOTE"
 msgid "Research Notes"
-msgstr ""
+msgstr "บันทึกการวิจัย"
 
 #. STRINGS.NAMES.WAGSTAFF_ITEM_1
 msgctxt "STRINGS.NAMES.WAGSTAFF_ITEM_1"
 msgid "Glove"
-msgstr ""
+msgstr "ถุงมือ"
 
 #. STRINGS.NAMES.WAGSTAFF_ITEM_2
 msgctxt "STRINGS.NAMES.WAGSTAFF_ITEM_2"
 msgid "Clipboard"
-msgstr ""
+msgstr "คลิปบอร์ด"
 
 #. STRINGS.NAMES.WAGSTAFF_MACHINERY
 msgctxt "STRINGS.NAMES.WAGSTAFF_MACHINERY"
@@ -327119,7 +327119,7 @@ msgstr "ขยะที่ถูกทิ้ง"
 #. STRINGS.NAMES.WAGSTAFF_MATERIALS_NOTE
 msgctxt "STRINGS.NAMES.WAGSTAFF_MATERIALS_NOTE"
 msgid "Research Notes"
-msgstr ""
+msgstr "บันทึกการวิจัย"
 
 #. STRINGS.NAMES.WAGSTAFF_MUTATIONS_NOTE
 msgctxt "STRINGS.NAMES.WAGSTAFF_MUTATIONS_NOTE"
@@ -327154,7 +327154,7 @@ msgstr ""
 #. STRINGS.NAMES.WAGSTAFF_THERMAL_NOTE
 msgctxt "STRINGS.NAMES.WAGSTAFF_THERMAL_NOTE"
 msgid "Research Notes"
-msgstr ""
+msgstr "บันทึกการวิจัย"
 
 #. STRINGS.NAMES.WAGSTAFF_TOOL_1
 msgctxt "STRINGS.NAMES.WAGSTAFF_TOOL_1"
@@ -327349,12 +327349,12 @@ msgstr "แวนด้า"
 #. STRINGS.NAMES.WANDERINGTRADER
 msgctxt "STRINGS.NAMES.WANDERINGTRADER"
 msgid "Odd Beefalo"
-msgstr ""
+msgstr "บีฟาโล่แปลกๆ"
 
 #. STRINGS.NAMES.WANDERINGTRADER_REVEALED
 msgctxt "STRINGS.NAMES.WANDERINGTRADER_REVEALED"
 msgid "Wandering Trader"
-msgstr ""
+msgstr "พ่อค้าเร่ร่อน"
 
 #. STRINGS.NAMES.WARDROBE
 msgctxt "STRINGS.NAMES.WARDROBE"
@@ -327509,7 +327509,7 @@ msgstr "แบทเทิลเรินด์"
 #. STRINGS.NAMES.WAVEYJONES
 msgctxt "STRINGS.NAMES.WAVEYJONES"
 msgid "Wavey Jones"
-msgstr ""
+msgstr "เววี่ โจนส์"
 
 #. STRINGS.NAMES.WAXPAPER
 msgctxt "STRINGS.NAMES.WAXPAPER"
@@ -328464,7 +328464,7 @@ msgstr "ศาลเจ้าแมลงปอ"
 #. STRINGS.NAMES.YOTD_OAR
 msgctxt "STRINGS.NAMES.YOTD_OAR"
 msgid "Claw Oar"
-msgstr ""
+msgstr "ไม้พายกรงเล็บ"
 
 #. STRINGS.NAMES.YOTD_STEERINGWHEEL
 msgctxt "STRINGS.NAMES.YOTD_STEERINGWHEEL"
@@ -328514,17 +328514,17 @@ msgstr "โคมไฟกระต่ายสูง"
 #. STRINGS.NAMES.YOTR_FIGHTRING
 msgctxt "STRINGS.NAMES.YOTR_FIGHTRING"
 msgid "Pillow Fight Pit"
-msgstr ""
+msgstr "หลุมสู้ด้วยหมอน"
 
 #. STRINGS.NAMES.YOTR_FIGHTRING_BELL
 msgctxt "STRINGS.NAMES.YOTR_FIGHTRING_BELL"
 msgid "Pillow Fight Bell"
-msgstr ""
+msgstr "ระฆังสู้ด้วยหมอน"
 
 #. STRINGS.NAMES.YOTR_FIGHTRING_KIT
 msgctxt "STRINGS.NAMES.YOTR_FIGHTRING_KIT"
 msgid "Pillow Fight Pit Kit"
-msgstr ""
+msgstr "ชิ้นส่วนหลุมสู้ด้วยหมอน"
 
 #. STRINGS.NAMES.YOTR_FIGHTRING_TORCH
 msgctxt "STRINGS.NAMES.YOTR_FIGHTRING_TORCH"
