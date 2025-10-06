@@ -12299,7 +12299,7 @@ msgstr "อ้อ ใช่แล้ว วิทยาศาสตร์มา�
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GHOSTLYELIXIR_RETALIATION
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GHOSTLYELIXIR_RETALIATION"
 msgid "Ah yes. Very science-y."
-msgstr "อ่าใช่ วิทยาศาสตร์มาก-y"
+msgstr "อ่าใช่ วิทยาศาสตร์มาก"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GHOSTLYELIXIR_REVIVE
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GHOSTLYELIXIR_REVIVE"
@@ -14859,7 +14859,7 @@ msgstr "วิทยาศาสตร์เพิ่งเริ่มต้น
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOON_DEVICE.CONSTRUCTION2
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOON_DEVICE.CONSTRUCTION2"
 msgid "That's looking much more science-y already!"
-msgstr "มันดูเป็นวิทยาศาสตร์มากกว่านะ-คุณ!"
+msgstr "นั่นดูเป็นวิทยาศาสตร์มากขึ้นแล้ว!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOON_DEVICE.GENERIC
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOON_DEVICE.GENERIC"
@@ -21364,7 +21364,7 @@ msgstr "วิทยาศาสตร์ไม่สามารถบันท
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_BATTERY_LOW.GENERIC
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_BATTERY_LOW.GENERIC"
 msgid "Looks science-y. How does it work?"
-msgstr "ดูเป็นวิทยาศาสตร์-y มันทำงานยังไง?"
+msgstr "ดูเหมือนวิทยาศาสตร์เลย มันทำงานยังไง?"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_BATTERY_LOW.LOWPOWER
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_BATTERY_LOW.LOWPOWER"
@@ -29334,7 +29334,7 @@ msgstr "เรียบร้อย ฉันสามารถสร้าง�
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.DOCK_WOODPOSTS_ITEM
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.DOCK_WOODPOSTS_ITEM"
 msgid "Some posts will make the dock look even more... dock-y."
-msgstr "บางโพสต์จะทำให้ Dock ดูดีขึ้น... dock-y"
+msgstr "โพสต์บางโพสต์จะทำให้ท่าเทียบเรือดู... คล้ายท่าเทียบเรือมากขึ้น"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.DOLL_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.DOLL_BLUEPRINT"
@@ -31479,7 +31479,7 @@ msgstr "เฮ้! คุณยิงปืนผ่านเสบียงข�
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.KRAMPUS_SACK
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.KRAMPUS_SACK"
 msgid "It smells... goat-y."
-msgstr "มีกลิ่น...แพะ-y"
+msgstr "มันมีกลิ่น...แพะ"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.LANTERN
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.LANTERN"
@@ -39814,7 +39814,7 @@ msgstr "ของโปรดของ Woby!"
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WOLFGANG.ATTACKER
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WOLFGANG.ATTACKER"
 msgid "Y-you stay away!"
-msgstr "ย-คุณอยู่ห่างๆ!"
+msgstr "คุณอยู่ห่างๆไว้!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WOLFGANG.FIRESTARTER
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WOLFGANG.FIRESTARTER"
@@ -40114,7 +40114,7 @@ msgstr "สิ่งนี้ก่อให้เกิดปัญหาที
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WORTOX.MURDERER
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WORTOX.MURDERER"
 msgid "Y-your prank went too far %s!"
-msgstr "ย-เล่นพิเรนทร์เกินไป %s!"
+msgstr "เรื่องตลกของคุณมันเกินเลยไป %s!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.WORTOX.REVIVER
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.WORTOX.REVIVER"
@@ -56989,7 +56989,7 @@ msgstr "ขอเวลาฉันหน่อย คุณจะคลั่�
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WATHGRITHR.MURDERER
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WATHGRITHR.MURDERER"
 msgid "You're not taking MY soul to Val-whatever-you-call-it!"
-msgstr "คุณไม่ได้เอาจิตวิญญาณของฉันไปที่ Val-whatever-you-call-it!"
+msgstr "คุณไม่ได้พาจิตวิญญาณของฉันไปหาวัล-ไม่ว่าคุณจะเรียกมันว่าอะไรก็ตาม!"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.WATHGRITHR.REVIVER
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.WATHGRITHR.REVIVER"
@@ -60614,7 +60614,7 @@ msgstr "ฉันขอเข้าร่วมด้วยได้ไหม �
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_KITCOON_HIDEANDSEEK_START
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_KITCOON_HIDEANDSEEK_START"
 msgid "Three, two, one... allons-y!"
-msgstr "สาม สอง หนึ่ง... allons-y!"
+msgstr "สาม สอง หนึ่ง... อัลลอนซี!"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_KLAUS_CALLFORHELP
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_KLAUS_CALLFORHELP"
@@ -61159,7 +61159,7 @@ msgstr "บางทีอาจไม่มีการสนทนาเล็
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_TICOON_START_TRACKING
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_TICOON_START_TRACKING"
 msgid "Allons-y, monsieur! I'll be close behind."
-msgstr "Allons-y monsieur! I'll be close behind."
+msgstr "อัลลอนซี คุณชาย! ฉันจะตามมาติดๆ"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_TICOON_WAITING_FOR_LEADER
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_TICOON_WAITING_FOR_LEADER"
@@ -61674,7 +61674,7 @@ msgstr "ดินนี้ดูเหมือนจะไม่เหมาะ
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.ANCIENTTREE_SAPLING_ITEM
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ANCIENTTREE_SAPLING_ITEM"
 msgid "Allons-y! I can't just leave this little tree uprooted!"
-msgstr "Allons-y! ฉันไม่สามารถทิ้งต้นไม้เล็กๆนี้ให้ถูกถอนรากถอนโคนได้!"
+msgstr "อัลลอนซี่! ฉันไม่สามารถทิ้งต้นไม้เล็กๆนี้ให้ถูกถอนรากถอนโคนได้!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.ANCIENTTREE_SEED
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ANCIENTTREE_SEED"
@@ -63089,7 +63089,7 @@ msgstr "ไม่ไกลหรอก แต่เราต้องเริ�
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.BOAT_ITEM
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BOAT_ITEM"
 msgid "Allons-y out to sea!"
-msgstr "Allons-y ออกทะเล!"
+msgstr "อัลลอนซี่ ออกทะเล!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.BOAT_LEAK
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BOAT_LEAK"
@@ -68689,7 +68689,7 @@ msgstr "ช่างน่ารักจริงๆ!"
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.MOOSE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MOOSE"
 msgid "I wish you were a bit less moose-y and a lot more goose-y!"
-msgstr "ฉันหวังว่าคุณจะเป็นกวางมูซน้อยลงหน่อย-y และให้มากขึ้น-y!"
+msgstr "ฉันหวังว่าคุณจะมีนิสัยขี้มูกน้อยลงหน่อยและมีนิสัยขี้มูกเยอะขึ้น!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.MOOSEEGG
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MOOSEEGG"
@@ -91684,7 +91684,7 @@ msgstr "ผึ้งสงคราม!"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WATERBALLOON
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WATERBALLOON"
 msgid "Prepare to engage in water-y battle!"
-msgstr "เตรียมเข้าร่วมการต่อสู้ทางน้ำ!"
+msgstr "เตรียมพร้อมที่จะเข้าร่วมการต่อสู้กลางน้ำ!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WATERINGCAN.EMPTY
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WATERINGCAN.EMPTY"
@@ -112539,7 +112539,7 @@ msgstr "พื้นดินกำลังหลีกทาง!"
 #. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_ANTLION_SINKHOLE.2
 msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_ANTLION_SINKHOLE.2"
 msgid "It's rumble-y!"
-msgstr "มันดัง-y!"
+msgstr "มันดังกึกก้อง!"
 
 #. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_ANTLION_SINKHOLE.3
 msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_ANTLION_SINKHOLE.3"
@@ -117819,7 +117819,7 @@ msgstr "หินที่น่ากลัวยิ่งกว่านั้
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.DRIFTWOOD_LOG
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.DRIFTWOOD_LOG"
 msgid "Easy piece-y."
-msgstr "ง่ายชิ้น-y"
+msgstr "ง่ายๆ"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.DRIFTWOOD_TREE.BURNING
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.DRIFTWOOD_TREE.BURNING"
@@ -168099,7 +168099,7 @@ msgstr "คุณสามารถใส่ไฟแช็คได้เป็
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BACONEGGS
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.BACONEGGS"
 msgid "The yellow mucus-y part is gross, but the bacon is great!"
-msgstr "ส่วนเมือก-y สีเหลืองนั้นแย่มาก แต่เบคอนก็เยี่ยมมาก!"
+msgstr "ส่วนที่เป็นเมือกสีเหลืองนั้นน่ารังเกียจ แต่เบคอนนั้นเยี่ยมมาก!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BALATRO_MACHINE
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.BALATRO_MACHINE"
@@ -232394,7 +232394,7 @@ msgstr "เกือบพร้อมแล้วใช่มั๊ย?"
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TELEPORTATO_BOX
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TELEPORTATO_BOX"
 msgid "Box-y, eh?"
-msgstr "Box-y ใช่มั๊ย?"
+msgstr "กล่อง ใช่มั๊ย?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TELEPORTATO_CRANK
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TELEPORTATO_CRANK"
@@ -232409,7 +232409,7 @@ msgstr "มันฝรั่ง ใช่มั๊ย?"
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TELEPORTATO_RING
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TELEPORTATO_RING"
 msgid "Ring-y, eh?"
-msgstr "ริง-ย ใช่มั้ย"
+msgstr "ริงกี้ ใช่มั้ย?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TELESTAFF
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TELESTAFF"
@@ -253819,7 +253819,7 @@ msgstr "ก็อตฟาเธอร์ หืม? ฉันคิดว่า
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.KITCOON_HIDEANDSEEK_NOT_ENOUGH_HIDERS
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.KITCOON_HIDEANDSEEK_NOT_ENOUGH_HIDERS"
 msgid "We'll need more friends if we want to play, hyuyu!"
-msgstr "เราต้องการเพื่อนเพิ่มถ้าอยากเล่น ฮุ่ยหยู!"
+msgstr "เราต้องการเพื่อนเพิ่มถ้าอยากเล่น ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.KITCOON_HIDEANDSEEK_NOT_ENOUGH_HIDING_SPOTS
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.KITCOON_HIDEANDSEEK_NOT_ENOUGH_HIDING_SPOTS"
@@ -253929,7 +253929,7 @@ msgstr "ฉันจะต้องลง หรือโลกต้องข�
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.BUILD.TICOON
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.BUILD.TICOON"
 msgid "Oh, but one's enough, hyuyu!"
-msgstr "โอ้ แต่ก็พอแล้ว ฮยอกยู!"
+msgstr "โอ้ แต่ก็พอแล้ว ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.CARNIVALGAME_FEED.TOO_LATE
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.CARNIVALGAME_FEED.TOO_LATE"
@@ -254024,7 +254024,7 @@ msgstr "ปลาซิวตัวนี้ไม่ชนะ ไม่!"
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.COMPARE_WEIGHABLE.OVERSIZEDVEGGIES_TOO_SMALL
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.COMPARE_WEIGHABLE.OVERSIZEDVEGGIES_TOO_SMALL"
 msgid "I'll have to produce some bigger produce, hyuyuyu!"
-msgstr "ฉันจะต้องผลิตผลที่ใหญ่กว่านี้ ฮยอกยูยู!"
+msgstr "ฉันจะต้องผลิตผลที่ใหญ่กว่านี้ ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.CONSTRUCT.EMPTY
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.CONSTRUCT.EMPTY"
@@ -254134,7 +254134,7 @@ msgstr "ทนไม่ได้! ทิ้งไว้มือเปล่า!
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.GIVE.ABIGAILHEART
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.GIVE.ABIGAILHEART"
 msgid "This soul's already been sucked! Hyuyu!"
-msgstr "วิญญาณนี้ถูกดูดไปแล้ว! Hyuyu!"
+msgstr "วิญญาณนี้ถูกดูดไปแล้ว! ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.GIVE.BUSY
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.GIVE.BUSY"
@@ -254284,7 +254284,7 @@ msgstr "สีมันผิด ผิด ผิด"
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.GIVE.WRONGSHADOWFORM
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.GIVE.WRONGSHADOWFORM"
 msgid "It looks downright silly, hyuyu!"
-msgstr "มันดูงี่เง่าจริงๆฮยอกยู!"
+msgstr "มันดูงี่เง่าจริงๆ ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.GIVEALLTOPLAYER.BUSY
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.GIVEALLTOPLAYER.BUSY"
@@ -254374,7 +254374,7 @@ msgstr "ช่างน่าหงุดหงิดเสียจริง! �
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.LOWER_SAIL_FAIL.2
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.LOWER_SAIL_FAIL.2"
 msgid "Perhaps I should try a new tack! Hyuyu!"
-msgstr "บางทีฉันควรลองวิธีใหม่! Hyuyu!"
+msgstr "บางทีฉันควรลองวิธีใหม่! ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.LOWER_SAIL_FAIL.3
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.LOWER_SAIL_FAIL.3"
@@ -254434,7 +254434,7 @@ msgstr "only_used_by_wendy"
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.OCEAN_FISHING_POND.WRONGGEAR
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.OCEAN_FISHING_POND.WRONGGEAR"
 msgid "I fear I've brought the wrong gear, hyuyu!"
-msgstr "ฉันกลัวเอาเกียร์มาผิด ฮยอกยู!"
+msgstr "ฉันกลัวเอาเกียร์มาผิด ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.OPEN_CRAFTING.PROFESSIONALCHEF
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.OPEN_CRAFTING.PROFESSIONALCHEF"
@@ -254489,7 +254489,7 @@ msgstr "นั่นคือทั้งหมดที่ฉันจำเป
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.PLANTREGISTRY_RESEARCH_FAIL.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.PLANTREGISTRY_RESEARCH_FAIL.GENERIC"
 msgid "I already know all its tricks, hyuyu!"
-msgstr "ฉันรู้เคล็ดลับของมันหมดแล้ว ฮยอกยู!"
+msgstr "ฉันรู้เคล็ดลับของมันหมดแล้ว ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.POUNCECAPTURE.MISSED
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.POUNCECAPTURE.MISSED"
@@ -254529,7 +254529,7 @@ msgstr "นั่นไม่ถูกต้อง!"
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.REPLATE.MISMATCH
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.REPLATE.MISMATCH"
 msgid "Hyuyu! They all look the same to me!"
-msgstr "Hyuyu! พวกเขาทั้งหมดดูเหมือนกับฉัน!"
+msgstr "ฮยูยู! พวกเขาทั้งหมดดูเหมือนกับฉัน!"
 
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.REPLATE.SAMEDISH
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.REPLATE.SAMEDISH"
@@ -254539,7 +254539,7 @@ msgstr "ฉันไม่สามารถทำซ้ำสิ่งที่
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.ROW_FAIL.BAD_TIMING0
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.ROW_FAIL.BAD_TIMING0"
 msgid "Time to sync or swim, hyuyu!"
-msgstr "ได้เวลาซิงค์หรือว่ายน้ำ ฮยอกยู!"
+msgstr "ได้เวลาซิงค์หรือว่ายน้ำ ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.ROW_FAIL.BAD_TIMING1
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.ROW_FAIL.BAD_TIMING1"
@@ -254709,7 +254709,7 @@ msgstr "ฉันเห็นว่ามันไม่ได้เป็นข
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.USEKLAUSSACKKEY.KLAUS
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.USEKLAUSSACKKEY.KLAUS"
 msgid "Hyuyu!"
-msgstr "Hyuyu!"
+msgstr "ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY"
@@ -254739,7 +254739,7 @@ msgstr "คนอื่นมีคำสั่งของมัน"
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.YOTB_STARTCONTEST.ALREADYACTIVE
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.YOTB_STARTCONTEST.ALREADYACTIVE"
 msgid "Perhaps he too likes to travel between planes? Hyuyuyu!"
-msgstr "บางทีเขาอาจจะชอบเดินทางระหว่างเครื่องบินด้วย? Hyuyuyu!"
+msgstr "บางทีเขาอาจจะชอบเดินทางระหว่างเครื่องบินด้วย? ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.YOTB_STARTCONTEST.DOESNTWORK
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.YOTB_STARTCONTEST.DOESNTWORK"
@@ -254834,7 +254834,7 @@ msgstr "โอ้ เดรด ฉันรู้แล้ว"
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_ATRIUM_DESTABILIZING.1
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_ATRIUM_DESTABILIZING.1"
 msgid "Hyuyuyu, time to go!"
-msgstr "Hyuyuyu ได้เวลาไปแล้ว!"
+msgstr "ฮยูยู ได้เวลาไปแล้ว!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_ATRIUM_DESTABILIZING.2
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_ATRIUM_DESTABILIZING.2"
@@ -254849,7 +254849,7 @@ msgstr "หืม คุณได้ยินอะไรมั๊ย?"
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_ATTACH_BUFF_ATTACK
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_ATTACH_BUFF_ATTACK"
 msgid "Hyuyu, I'm ready to play!"
-msgstr "Hyuyu ฉันพร้อมเล่นแล้ว!"
+msgstr "ฮยูยู ฉันพร้อมเล่นแล้ว!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_ATTACH_BUFF_ELECTRICATTACK
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_ATTACH_BUFF_ELECTRICATTACK"
@@ -254859,7 +254859,7 @@ msgstr "ฉันเป็นอิมพ์ไฟฟ้า!"
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_ATTACH_BUFF_MOISTUREIMMUNITY
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_ATTACH_BUFF_MOISTUREIMMUNITY"
 msgid "There will be no wet fur smell for this imp! Hyuyu!"
-msgstr "จะไม่มีกลิ่นขนเปียกสำหรับอิมพ์นี้! Hyuyu!"
+msgstr "จะไม่มีกลิ่นขนเปียกสำหรับอิมพ์นี้! ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_ATTACH_BUFF_PLAYERABSORPTION
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_ATTACH_BUFF_PLAYERABSORPTION"
@@ -254869,7 +254869,7 @@ msgstr "ฉันรู้สึกดีมาก! น่าจะเป็น�
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_ATTACH_BUFF_SLEEPRESISTANCE
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_ATTACH_BUFF_SLEEPRESISTANCE"
 msgid "You won't catch this imp sleeping, hyuyu!"
-msgstr "คุณจะไม่จับได้ว่าอิมพ์ตัวนี้หลับ hyuyu!"
+msgstr "คุณจะไม่จับได้ว่าอิมพ์ตัวนี้หลับ ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_ATTACH_BUFF_WORKEFFECTIVENESS
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_ATTACH_BUFF_WORKEFFECTIVENESS"
@@ -254894,12 +254894,12 @@ msgstr "ตอนนี้การเดินทางกำลังสนุ
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_BOAT_SINK
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_BOAT_SINK"
 msgid "Into the drink I go, hyuyu!"
-msgstr "ฉันจะไปในเครื่องดื่ม hyuyu!"
+msgstr "ฉันจะไปในเครื่องดื่ม ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_BOOMERANG
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_BOOMERANG"
 msgid "Hyuyu!"
-msgstr "Hyuyu!"
+msgstr "ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_BRAVERY_POTION
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_BRAVERY_POTION"
@@ -255079,7 +255079,7 @@ msgstr "สัตว์เดรัจฉานกำลังเดินทา
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_DESPAWN
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_DESPAWN"
 msgid "Hyuyu, fare thee well!"
-msgstr "Hyuyu ลาก่อน!"
+msgstr "ฮยูยู ลาก่อน!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_DETACH_BUFF_ATTACK
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_DETACH_BUFF_ATTACK"
@@ -255089,7 +255089,7 @@ msgstr "มันเป็นแค่การเล่นตลก!"
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_DETACH_BUFF_ELECTRICATTACK
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_DETACH_BUFF_ELECTRICATTACK"
 msgid "I think I gave them quite a shock! Hyuyu!"
-msgstr "ฉันคิดว่าฉันทำให้พวกเขาตกใจมาก! Hyuyu!"
+msgstr "ฉันคิดว่าฉันทำให้พวกเขาตกใจมาก! ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_DETACH_BUFF_MOISTUREIMMUNITY
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_DETACH_BUFF_MOISTUREIMMUNITY"
@@ -255109,7 +255109,7 @@ msgstr "บางทีฉันอาจจะทำได้ด้วยกา
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_DETACH_BUFF_WORKEFFECTIVENESS
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_DETACH_BUFF_WORKEFFECTIVENESS"
 msgid "All work and no play doesn't suit an imp. Hyuyu!"
-msgstr "ทำงานทั้งหมดและไม่มีการเล่นไม่เหมาะกับอิมพ์ Hyuyu!"
+msgstr "ทำงานทั้งหมดและไม่มีการเล่นไม่เหมาะกับอิมพ์ ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_DIG_DISEASE_WARNING
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_DIG_DISEASE_WARNING"
@@ -255119,7 +255119,7 @@ msgstr "ฉันช่วยแล้ว!"
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_DUSK
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_DUSK"
 msgid "The night soon approaches. Hyuyu!"
-msgstr "ใกล้ค่ำแล้ว Hyuyu!"
+msgstr "ใกล้ค่ำแล้ว ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_EAT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_EAT.GENERIC"
@@ -255134,7 +255134,7 @@ msgstr "แม้ฉันจะกินสิ่งนั้นไม่ได
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_EAT.PAINFUL
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_EAT.PAINFUL"
 msgid "Ouch! Hyuyu!"
-msgstr "อุ๊ย! Hyuyu!"
+msgstr "อุ๊ย! ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_EAT.SPOILED
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_EAT.SPOILED"
@@ -255254,7 +255254,7 @@ msgstr "ฉันอาจจะตายอยู่ข้างในก็ไ
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_EYEOFTERROR_ARRIVE
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_EYEOFTERROR_ARRIVE"
 msgid "I don't suppose this is a friendly visit? Hyuyu..."
-msgstr "ฉันไม่คิดว่านี่เป็นการมาที่เป็นมิตรเหรอ? Hyuyu..."
+msgstr "ฉันไม่คิดว่านี่เป็นการมาที่เป็นมิตรเหรอ? ฮยูยู..."
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_EYEOFTERROR_FLYAWAY
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_EYEOFTERROR_FLYAWAY"
@@ -255264,7 +255264,7 @@ msgstr "แสงของวันทำให้ตาไม่สว่าง
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_EYEOFTERROR_FLYBACK
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_EYEOFTERROR_FLYBACK"
 msgid "Hyuyu, back for more fun?"
-msgstr "Hyuyu กลับมาสนุกอีกมั๊ย?"
+msgstr "ฮยูยู กลับมาสนุกอีกมั๊ย?"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_FAN_OUT
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_FAN_OUT"
@@ -255384,7 +255384,7 @@ msgstr "ก่อวินาศกรรมโดยความดื้อร
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_HUNT_START_FORK
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_HUNT_START_FORK"
 msgid "The game is afoot! Or rather, a claw! Hyuyu!"
-msgstr "เกมกำลังดำเนินไป! หรือค่อนข้างจะเป็นกรงเล็บ! Hyuyu!"
+msgstr "เกมกำลังดำเนินไป! หรือค่อนข้างจะเป็นกรงเล็บ! ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_HUNT_SUCCESSFUL_FORK
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_HUNT_SUCCESSFUL_FORK"
@@ -255409,7 +255409,7 @@ msgstr "ฉันมีเพียงสองอุ้งเท้า"
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_IS_FEASTING
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_IS_FEASTING"
 msgid "A fancy feast... or a fancied feast? Hyuyu!"
-msgstr "งานเลี้ยงแฟนซี...หรืองานเลี้ยงแฟนซี? Hyuyu!"
+msgstr "งานเลี้ยงแฟนซี...หรืองานเลี้ยงแฟนซี? ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_KITCOON_FOUND_IN_THE_WILD
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_KITCOON_FOUND_IN_THE_WILD"
@@ -255449,7 +255449,7 @@ msgstr "ฉันเจอแล้ว เราเจอแมวอยู่�
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_KITCOON_HIDANDSEEK_FOUND_ONE_MORE
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_KITCOON_HIDANDSEEK_FOUND_ONE_MORE"
 msgid "The last one better hide with all their might, hyuyu!"
-msgstr "อันสุดท้ายควรซ่อนด้วยสุดกำลังของมัน hyuyu!"
+msgstr "อันสุดท้ายควรซ่อนด้วยสุดกำลังของมัน ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_KITCOON_HIDANDSEEK_LOSEGAME
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_KITCOON_HIDANDSEEK_LOSEGAME"
@@ -255469,7 +255469,7 @@ msgstr "ไม่มีมนุษย์ขนปุกปุยจะซ่อ
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_KITCOON_HIDANDSEEK_TOOFAR_RETURN
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_KITCOON_HIDANDSEEK_TOOFAR_RETURN"
 msgid "Back to the guessing game, hyuyu."
-msgstr "กลับไปที่เกมทายผล hyuyu"
+msgstr "กลับไปที่เกมทายผล ฮยูยู"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_KITCOON_HIDEANDSEEK_JOIN
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_KITCOON_HIDEANDSEEK_JOIN"
@@ -255504,7 +255504,7 @@ msgstr "โอ้ สวัสดีตอนเช้า!"
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED"
 msgid "Hyuyu! Can't catch me!"
-msgstr "Hyuyu! Can't catch me!"
+msgstr "ฮยูยู! Can't catch me!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_LIGHTSOUT_SHADOWHAND
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_LIGHTSOUT_SHADOWHAND"
@@ -255549,7 +255549,7 @@ msgstr "เมื่อคำสาปแช่ง มันอาจจะแ�
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_MONKEY_CURSE_CHANGE
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_MONKEY_CURSE_CHANGE"
 msgid "Hyuyu you've made a monkey out of me!"
-msgstr "Hyuyu คุณสร้างลิงจากฉัน!"
+msgstr "ฮยูยู คุณสร้างลิงจากฉัน!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_MONKEY_CURSE_CHANGEBACK
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_MONKEY_CURSE_CHANGEBACK"
@@ -255559,7 +255559,7 @@ msgstr "ก็จบกันที่คาถา"
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_MOONALTAR_MINE.GLASS_LOW
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_MOONALTAR_MINE.GLASS_LOW"
 msgid "Yoo-hyuyu!"
-msgstr "Yoo-hyuyu!"
+msgstr "ยู-ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_MOONALTAR_MINE.GLASS_MED
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_MOONALTAR_MINE.GLASS_MED"
@@ -255574,7 +255574,7 @@ msgstr "สวัสดี!"
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_MOONALTAR_MINE.IDOL_LOW
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_MOONALTAR_MINE.IDOL_LOW"
 msgid "Yoo-hyuyu!"
-msgstr "Yoo-hyuyu!"
+msgstr "ยู-ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_MOONALTAR_MINE.IDOL_MED
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_MOONALTAR_MINE.IDOL_MED"
@@ -255589,7 +255589,7 @@ msgstr "สวัสดี!"
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_MOONALTAR_MINE.SEED_LOW
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_MOONALTAR_MINE.SEED_LOW"
 msgid "Yoo-hyuyu!"
-msgstr "Yoo-hyuyu!"
+msgstr "ยู-ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_MOONALTAR_MINE.SEED_MED
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_MOONALTAR_MINE.SEED_MED"
@@ -255704,7 +255704,7 @@ msgstr "ลองใหม่อีกครั้ง!"
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_OCEANFISHING_GOTAWAY
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_OCEANFISHING_GOTAWAY"
 msgid "Hyuyu, what a slippery little fellow!"
-msgstr "Hyuyu เจ้าตัวน้อยช่างลื่นไหลเสียนี่กระไร!"
+msgstr "ฮยูยู เจ้าตัวน้อยช่างลื่นไหลเสียนี่กระไร!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_OCEANFISHING_IDLE_QUOTE.1
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_OCEANFISHING_IDLE_QUOTE.1"
@@ -255739,7 +255739,7 @@ msgstr "เส้นหย่อน ม้วนกลับได้ดีท�
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_OCEAN_SILHOUETTE_INCOMING
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_OCEAN_SILHOUETTE_INCOMING"
 msgid "Hyuyu, something's come to play!"
-msgstr "Hyuyu มีบางอย่างมาเพื่อเล่น!"
+msgstr "ฮยูยู มีบางอย่างมาเพื่อเล่น!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_OFF_SCRIPT
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_OFF_SCRIPT"
@@ -255754,7 +255754,7 @@ msgstr "ฉันไม่ควรจะทำลายถ้ำนั่นใ
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_OTTERBOAT_OUTOFSHALLOWS
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_OTTERBOAT_OUTOFSHALLOWS"
 msgid "I knew I otter keep to the shallows, hyuyu!"
-msgstr "ฉันรู้ว่านากฉันอยู่ในน้ำตื้น เฮ้!"
+msgstr "ฉันรู้ว่านากฉันอยู่ในน้ำตื้น ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_PANFLUTE_BUFF_ACTIVE.1
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_PANFLUTE_BUFF_ACTIVE.1"
@@ -255774,7 +255774,7 @@ msgstr "สนุกจริงๆที่ได้เล่นฟลุต!"
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_PANFLUTE_BUFF_USED.2
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_PANFLUTE_BUFF_USED.2"
 msgid "A treat that feeds the soul! Hyuyu!"
-msgstr "อาหารอันแสนวิเศษที่เติมเต็มจิตใจ! Hyuyu!"
+msgstr "อาหารอันแสนวิเศษที่เติมเต็มจิตใจ! ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_PECKED
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_PECKED"
@@ -256199,7 +256199,7 @@ msgstr "ไม่มีเพลง ไม่มีเงื่อนงำ ฉ�
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_TICOON_START_TRACKING
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_TICOON_START_TRACKING"
 msgid "He'll get us nowhere fast, hyuyu!"
-msgstr "เขาจะไปไม่ถึงไหนเร็ว ฮุ่ยหยู!"
+msgstr "เขาจะไปไม่ถึงไหนเร็ว ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_TICOON_WAITING_FOR_LEADER
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_TICOON_WAITING_FOR_LEADER"
@@ -256219,7 +256219,7 @@ msgstr "อย่าหนี! เล่นกับฉัน!"
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_TOOL_SLIP
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_TOOL_SLIP"
 msgid "Whoops-a-doodle, hyuyu!"
-msgstr "วู้ปส์-a-doodle hyuyu!"
+msgstr "วู้ปส์-a-doodle ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_TOOL_TOOWEAK
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_TOOL_TOOWEAK"
@@ -256309,7 +256309,7 @@ msgstr "ไม่มีอะไรเกิดขึ้น"
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_WINTERS_FEAST_BUFF
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_WINTERS_FEAST_BUFF"
 msgid "Hyuyu, how splendid!"
-msgstr "Hyuyu วิเศษมาก!"
+msgstr "ฮยูยู วิเศษมาก!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_WINTERS_FEAST_BUFF_OVER
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_WINTERS_FEAST_BUFF_OVER"
@@ -256354,7 +256354,7 @@ msgstr "only_used_by_wolfgang"
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_WORMHOLE
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_WORMHOLE"
 msgid "Hyuyu, how grotesque that was!"
-msgstr "Hyuyu ช่างพิลึกอะไรเช่นนี้!"
+msgstr "ฮยูยู ช่างพิลึกอะไรเช่นนี้!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_WORMS
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_WORMS"
@@ -256379,7 +256379,7 @@ msgstr "only_used_by_wx78"
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_YOTB_LEARN_NEW_PATTERN
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_YOTB_LEARN_NEW_PATTERN"
 msgid "Hyuyu! A new plan has taken shape!"
-msgstr "Hyuyu! แผนใหม่เป็นรูปเป็นร่างแล้ว!"
+msgstr "ฮยูยู! แผนใหม่เป็นรูปเป็นร่างแล้ว!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_YOTD_NOBOATS
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_YOTD_NOBOATS"
@@ -256514,7 +256514,7 @@ msgstr "คุณเป็นยังไงบ้างในนั้น?"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ABIGAIL_FLOWER.LEVEL3
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ABIGAIL_FLOWER.LEVEL3"
 msgid "My, you're looking spirited! Hyuyu!"
-msgstr "ของฉัน คุณดูร่าเริง! Hyuyu!"
+msgstr "ของฉัน คุณดูร่าเริง! ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ABIGAIL_FLOWER.LONG
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ABIGAIL_FLOWER.LONG"
@@ -256574,7 +256574,7 @@ msgstr "ฉันต้องการเล่นเกมกับคุณ!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIANHAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIANHAT"
 msgid "It tells me the most delicious secrets, hyuyu!"
-msgstr "มันบอกความลับที่อร่อยที่สุดให้ฉัน hyuyu!"
+msgstr "มันบอกความลับที่อร่อยที่สุดให้ฉัน ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIANHATSHARD
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIANHATSHARD"
@@ -256594,7 +256594,7 @@ msgstr "ขอแสดงความนับถือถึงเจ้าน
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIAN_PHASE1.GENERIC"
 msgid "We got off to a rocky start, didn't we? Hyuyu!"
-msgstr "เราเริ่มต้นได้เร็วมากใช่มั้ย Hyuyu!"
+msgstr "เราเริ่มต้นได้เร็วมากใช่มั้ย ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIAN_PHASE1_LUNARRIFT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ALTERGUARDIAN_PHASE1_LUNARRIFT"
@@ -256719,7 +256719,7 @@ msgstr "มันเป็นเรื่องยุ่งยากกับต
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ANCIENTTREE_SEED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ANCIENTTREE_SEED"
 msgid "I see a seed to sow, hyuyu!"
-msgstr "ฉันเห็นเมล็ดพันธุ์ที่จะหว่าน hyuyu!"
+msgstr "ฉันเห็นเมล็ดพันธุ์ที่จะหว่าน ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ANCIENT_ALTAR
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ANCIENT_ALTAR"
@@ -256739,7 +256739,7 @@ msgstr "โอ้พระเจ้า พวกเขาตายได้ย�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ANCIENT_STATUE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ANCIENT_STATUE"
 msgid "Hyuyu, how spooky!"
-msgstr "Hyuyu น่ากลัวจัง!"
+msgstr "ฮยูยู น่ากลัวจัง!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ANIMAL_TRACK
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ANIMAL_TRACK"
@@ -256769,7 +256769,7 @@ msgstr "คุณไม่พอใจหรือเพื่อน"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ANTLIONHAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ANTLIONHAT"
 msgid "I'd be lion if I said I wasn't antsy to try it, hyuyu!"
-msgstr "ฉันจะเป็นสิงโตถ้าฉันบอกว่าฉันไม่รังเกียจที่จะลอง hyuyu!"
+msgstr "ฉันจะเป็นสิงโตถ้าฉันบอกว่าฉันไม่รังเกียจที่จะลอง ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ANTLIONTRINKET
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ANTLIONTRINKET"
@@ -256884,7 +256884,7 @@ msgstr "โอ้ มาย มาย มาย มาย!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ARCHIVE_RUNE_STATUE.LINE_5
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ARCHIVE_RUNE_STATUE.LINE_5"
 msgid "Hyuyu, I shouldn't spoil the surprise!"
-msgstr "Hyuyu ฉันไม่ควรสปอยเซอร์ไพรส์!"
+msgstr "ฮยูยู ฉันไม่ควรสปอยเซอร์ไพรส์!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ARCHIVE_SECURITY_DESK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ARCHIVE_SECURITY_DESK.GENERIC"
@@ -256964,7 +256964,7 @@ msgstr "พวกเขาพูด เคาะไม้ พวกเขาพ�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ARMOR_BRAMBLE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ARMOR_BRAMBLE"
 msgid "Who'd like to give an imp a hug? Hyuyu!"
-msgstr "ใครอยากกอดอิมพ์บ้าง? Hyuyu!"
+msgstr "ใครอยากกอดอิมพ์บ้าง? ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ARMOR_CARROTLURE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ARMOR_CARROTLURE"
@@ -257044,7 +257044,7 @@ msgstr "มันไม่มีอยู่บนเครื่องบิน
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ASPARAGUS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ASPARAGUS"
 msgid "A spear I guess. Hyuyu!"
-msgstr "ฉันเดาว่าหอก Hyuyu!"
+msgstr "ฉันเดาว่าหอก ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ASPARAGUSSOUP
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ASPARAGUSSOUP"
@@ -257079,7 +257079,7 @@ msgstr "หมดเวลาเล่นแล้ว"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ATRIUM_GATE.DESTABILIZING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ATRIUM_GATE.DESTABILIZING"
 msgid "Hyuyu, it's getting weird!"
-msgstr "Hyuyu เริ่มแปลกแล้ว!"
+msgstr "ฮยูยู เริ่มแปลกแล้ว!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ATRIUM_GATE.OFF
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ATRIUM_GATE.OFF"
@@ -257089,7 +257089,7 @@ msgstr "สิ่งที่ฉันกระโดดผ่าน!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ATRIUM_GATE.ON
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ATRIUM_GATE.ON"
 msgid "That's how you get imps. Hyuyu!"
-msgstr "นั่นเป็นวิธีที่คุณได้รับอิมพ์ Hyuyu!"
+msgstr "นั่นเป็นวิธีที่คุณได้รับอิมพ์ ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ATRIUM_KEY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ATRIUM_KEY"
@@ -257139,7 +257139,7 @@ msgstr "พวกเขาไม่น่าจะใช้เวทย์มน
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ATRIUM_STATUE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ATRIUM_STATUE"
 msgid "Hyuyu, did you lose a game?"
-msgstr "Hyuyu คุณแพ้เกมหรือเปล่า"
+msgstr "ฮยูยู คุณแพ้เกมหรือเปล่า"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.AXE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.AXE"
@@ -257174,12 +257174,12 @@ msgstr "เฮ้ โจ๊กเกอร์ มาเล่นโป๊กเ�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BALLOON
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BALLOON"
 msgid "I often feel like I might float away. Hyuyu!"
-msgstr "ฉันมักจะรู้สึกเหมือนลอยไป Hyuyu!"
+msgstr "ฉันมักจะรู้สึกเหมือนลอยไป ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BALLOONHAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BALLOONHAT"
 msgid "I'm likely to get lightheaded from wearing it, hyuyuyu!"
-msgstr "ฉันอาจจะหน้ามืดจากการใส่มัน ฮยอกยูยู!"
+msgstr "ฉันอาจจะหน้ามืดจากการใส่มัน ฮยูยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BALLOONPARTY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BALLOONPARTY"
@@ -257209,7 +257209,7 @@ msgstr "เสื้อลูกโป่งสีสดใสสำหรับ
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BANANABUSH
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BANANABUSH"
 msgid "Hyuyu, little shrub, are you waving at me?"
-msgstr "Hyuyu พุ่มไม้น้อย เธอโบกมือให้ฉันเหรอ?"
+msgstr "ฮยูยู พุ่มไม้น้อย เธอโบกมือให้ฉันเหรอ?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BANANAJUICE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BANANAJUICE"
@@ -257219,7 +257219,7 @@ msgstr "มนุษย์จะกินกล้วยในทุกรูป
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BANANAPOP
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BANANAPOP"
 msgid "Hyuyu, what will the mortals think of next?"
-msgstr "Hyuyu พวกมนุษย์จะคิดยังไงต่อไป"
+msgstr "ฮยูยู พวกมนุษย์จะคิดยังไงต่อไป"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BANDAGE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BANDAGE"
@@ -257244,7 +257244,7 @@ msgstr "ถ้ากระเป๋าใบนี้เต็มไปด้ว
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BARNACLESTUFFEDFISHHEAD
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BARNACLESTUFFEDFISHHEAD"
 msgid "Hyuyu, no talking with your mouth full!"
-msgstr "Hyuyu พูดไม่เต็มปาก!"
+msgstr "ฮยูยู พูดไม่เต็มปาก!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BARNACLESUSHI
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BARNACLESUSHI"
@@ -257269,7 +257269,7 @@ msgstr "ใหญ่ ใหญ่ แน่นอน แน่"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BAT"
 msgid "I'm quite batty myself! Hyuyu!"
-msgstr "ฉันค่อนข้างจะบ้า! Hyuyu!"
+msgstr "ฉันค่อนข้างจะบ้า! ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BATBAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BATBAT"
@@ -257383,8 +257383,8 @@ msgstr "ฉันอยากจะกินขนมปังปิ้งคู
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BEARGERCORPSE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BEARGERCORPSE.GENERIC"
-msgid "Hibernation? More like termination! Hyuyu!"
-msgstr "ไฮเบอร์เนตเหรอ เหมือนการยุติ! Hyuyu!"
+msgid "Hibernation? More like termination! ฮยูยู!"
+msgstr "ไฮเบอร์เนตเหรอ เหมือนการยุติ! ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BEARGERCORPSE.REVIVING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BEARGERCORPSE.REVIVING"
@@ -257524,7 +257524,7 @@ msgstr "พวกเราเป็นญาติกัน คุณจะไ�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BEEFALO.NAKED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BEEFALO.NAKED"
 msgid "Hyuyuyu! That's too good!"
-msgstr "Hyuyuyu! ดีมาก!"
+msgstr "ฮยูยู! ดีมาก!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BEEFALO.ORNERY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BEEFALO.ORNERY"
@@ -257569,7 +257569,7 @@ msgstr "อดีตบีฟาโล"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BEEFALO_GROOMER.BURNT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BEEFALO_GROOMER.BURNT"
 msgid "Hyuyuyu how silly!"
-msgstr "Hyuyuyu งี่เง่า!"
+msgstr "ฮยูยู งี่เง่า!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BEEFALO_GROOMER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BEEFALO_GROOMER.GENERIC"
@@ -257769,7 +257769,7 @@ msgstr "รู้สึกแย่ใช่มั๊ย?"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRYSAUCE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRYSAUCE"
 msgid "Hyuyuyu, what a fun trick!"
-msgstr "Hyuyuyu ช่างเป็นเคล็ดลับที่สนุกจริงๆ!"
+msgstr "ฮยูยูยู ช่างเป็นเคล็ดลับที่สนุกจริงๆ!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIBINGKA
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIBINGKA"
@@ -258084,7 +258084,7 @@ msgstr "แต่มือเปล่าเป็นของเล่นที
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_BUMPER_SHELL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_BUMPER_SHELL"
 msgid "We shell be well protected, hyuyu!"
-msgstr "พวกเราปลอดภัยดี ฮยอกยู!"
+msgstr "พวกเราปลอดภัยดี ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_BUMPER_SHELL_KIT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_BUMPER_SHELL_KIT"
@@ -258124,7 +258124,7 @@ msgstr "ฉันจะสร้างมันอย่างรวดเร็
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_GRASS_ITEM
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_GRASS_ITEM"
 msgid "This grass will pass for a boat, hyuyu!"
-msgstr "หญ้านี้จะผ่านไปสำหรับเรือ hyuyu!"
+msgstr "หญ้านี้จะผ่านไปสำหรับเรือ ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_ITEM
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_ITEM"
@@ -258149,7 +258149,7 @@ msgstr "ทำไมฉันต้องพายเรือในเมื่
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_MAGNET_BEACON.ACTIVATED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_MAGNET_BEACON.ACTIVATED"
 msgid "It brought me here, so it must attract trouble, hyuyu!"
-msgstr "มันพาฉันมาที่นี่ ดังนั้นมันต้องสร้างปัญหา ฮุ่ยหยู!"
+msgstr "มันพาฉันมาที่นี่ ดังนั้นมันต้องสร้างปัญหา ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_MAGNET_BEACON.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_MAGNET_BEACON.GENERIC"
@@ -258164,7 +258164,7 @@ msgstr "งานหนักหนาสาหัสไม่สิ้นสุ
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_ROTATOR
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_ROTATOR"
 msgid "One good turn deserves another, hyuyu!"
-msgstr "หนึ่งเทิร์นที่ดีสมควรได้รับอีกครั้ง hyuyu!"
+msgstr "หนึ่งเทิร์นที่ดีสมควรได้รับอีกครั้ง ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_ROTATOR_KIT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_ROTATOR_KIT"
@@ -258304,7 +258304,7 @@ msgstr "ความรู้มากมาย และไม่มีสิ�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_SILVICULTURE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_SILVICULTURE"
 msgid "Why not read it to the reeds? Hyuyuyu!"
-msgstr "ทำไมไม่อ่านให้จบล่ะ Hyuyuyu!"
+msgstr "ทำไมไม่อ่านให้จบล่ะ ฮยูยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_SLEEP
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_SLEEP"
@@ -258314,7 +258314,7 @@ msgstr "ความรู้คือพลัง แท้จริงแล�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_TEMPERATURE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_TEMPERATURE"
 msgid "Hyuyuyu, mortals have such funny ideas."
-msgstr "Hyuyuyu มนุษย์มีความคิดที่ตลกมาก"
+msgstr "ฮยูยูยู มนุษย์มีความคิดที่ตลกมาก"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_TENTACLES
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_TENTACLES"
@@ -258394,7 +258394,7 @@ msgstr "ลาก่อน เจ้าขนแปรงน้อย"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUSHHAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUSHHAT"
 msgid "Now you see me, now you don't! Hyuyu!"
-msgstr "ตอนนี้คุณเห็นฉันแล้ว แต่ไม่เห็นฉัน! Hyuyu!"
+msgstr "ตอนนี้คุณเห็นฉันแล้ว แต่ไม่เห็นฉัน! ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUTTER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUTTER"
@@ -258539,7 +258539,7 @@ msgstr "โอ้ ช่างเป็นความรู้สึกที�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALCANNON.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALCANNON.COOLDOWN"
 msgid "Hyuyuyu, what fun!"
-msgstr "Hyuyuyu สนุกจริงๆ!"
+msgstr "ฮยูยูยู สนุกจริงๆ!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALCANNON.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALCANNON.GENERIC"
@@ -258549,7 +258549,7 @@ msgstr "โอ้ แผลงๆที่ฉันสามารถดึง�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALCANNON_KIT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALCANNON_KIT"
 msgid "Let's start things off with a bang, shall we? Hyuyuyu!"
-msgstr "มาเริ่มกันเลยดีกว่าไหม Hyuyuyu!"
+msgstr "มาเริ่มกันเลยดีกว่าไหม ฮยูยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_BANNER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_BANNER"
@@ -258584,17 +258584,17 @@ msgstr "เครื่องประดับที่หายากที่
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_FIGURE.UNCOMMON
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_FIGURE.UNCOMMON"
 msgid "Hyuyu, a fine find indeed!"
-msgstr "Hyuyu เยี่ยมมาก!"
+msgstr "ฮยูยู เยี่ยมมาก!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_FIGURE_KIT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_FIGURE_KIT"
 msgid "Hyuyu, how very mysterious!"
-msgstr "Hyuyu ช่างลึกลับเหลือเกิน!"
+msgstr "ฮยูยู ช่างลึกลับเหลือเกิน!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "Hyuyu, how very mysterious!"
-msgstr "Hyuyu ช่างลึกลับเหลือเกิน!"
+msgstr "ฮยูยู ช่างลึกลับเหลือเกิน!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_LAMP"
@@ -258664,7 +258664,7 @@ msgstr "อนุญาตให้ฉันเสนอการค้า: เ�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_HERDING_STATION.PLAYING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_HERDING_STATION.PLAYING"
 msgid "It's quite fun, or so I herd. Hyuyuyu!"
-msgstr "มันสนุกดี ฉันก็เลยต้อนฝูง Hyuyuyu!"
+msgstr "มันสนุกดี ฉันก็เลยต้อนฝูง ฮยูยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_MEMORY_CARD.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_MEMORY_CARD.GENERIC"
@@ -258714,7 +258714,7 @@ msgstr "อนุญาตให้ฉันเสนอการค้า: เ�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING"
 msgid "Hyuyuyu! What does it do?"
-msgstr "Hyuyuyu! มันทำอะไร?"
+msgstr "ฮยูยูยู! มันทำอะไร?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_SHOOTING_KIT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_SHOOTING_KIT"
@@ -258764,7 +258764,7 @@ msgstr "มันเข้ากันได้ดีกับขนของฉ
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVAL_CROWKID
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVAL_CROWKID"
 msgid "Hyuyu, so nice to see these fine folk out and about!"
-msgstr "Hyuyu ดีใจมากที่ได้เห็นคนดีๆเหล่านี้อยู่ข้างนอก!"
+msgstr "ฮยูยู ดีใจมากที่ได้เห็นคนดีๆเหล่านี้อยู่ข้างนอก!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVAL_GAMETOKEN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVAL_GAMETOKEN"
@@ -258809,7 +258809,7 @@ msgstr "จะมีของอร่อยอะไรมั้ย ฉัน�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVAL_PRIZETICKET.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVAL_PRIZETICKET.GENERIC"
 msgid "One ticket please, hyuyu!"
-msgstr "ขอตั๋วหนึ่งใบ hyuyu!"
+msgstr "ขอตั๋วหนึ่งใบ ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVAL_PRIZETICKET.GENERIC_LARGESTACK
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVAL_PRIZETICKET.GENERIC_LARGESTACK"
@@ -258839,7 +258839,7 @@ msgstr "เสื้อคลุมของใบไม้ที่พันร
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVAL_VEST_C
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVAL_VEST_C"
 msgid "Short and sweet, hyuyu!"
-msgstr "สั้นและหอมหวาน hyuyu!"
+msgstr "สั้นและหอมหวาน ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARPENTRY_BLADE_MOONGLASS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARPENTRY_BLADE_MOONGLASS"
@@ -258879,7 +258879,7 @@ msgstr "นอนหลับฝันดี อย่าให้มนุษ�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARRAT_GHOSTRACER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARRAT_GHOSTRACER"
 msgid "I had a feeling she liked to play games too, hyuyu!"
-msgstr "ฉันรู้สึกว่าเธอชอบเล่นเกมเหมือนกัน ฮยอกยู!"
+msgstr "ฉันรู้สึกว่าเธอชอบเล่นเกมเหมือนกัน ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARROT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARROT"
@@ -259094,7 +259094,7 @@ msgstr "มันแสวงหาหินแห่งความหวาด
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHARLIE_HECKLER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHARLIE_HECKLER"
 msgid "Hyuyu, what a funny pair!"
-msgstr "Hyuyu ช่างเป็นคู่ที่ตลกจริงๆ!"
+msgstr "ฮยูยู ช่างเป็นคู่ที่ตลกจริงๆ!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHARLIE_LECTURN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHARLIE_LECTURN"
@@ -259134,7 +259134,7 @@ msgstr "หนักมาก หนักมาก น่าเบื่อ น
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_ANTLION
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_ANTLION"
 msgid "An anti Ant Lion, formerly furry. Hyuyu!"
-msgstr "แอนตี้แอนตี้แอนท์สิงโต ก่อนหน้านี้มีขนยาว Hyuyu!"
+msgstr "แอนตี้แอนตี้แอนท์สิงโต ก่อนหน้านี้มีขนยาว ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEARGER"
@@ -259174,12 +259174,12 @@ msgstr "มันไม่ลอยและไม่ต่อย"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_CARRAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_CARRAT"
 msgid "Not so light on its feet now, hyuyu!"
-msgstr "ตอนนี้เท้ามันไม่เบาแล้ว ฮยอกยู!"
+msgstr "ตอนนี้เท้ามันไม่เบาแล้ว ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_CATCOON
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_CATCOON"
 msgid "This little guy and I don't see eye to eye, hyuyu."
-msgstr "หนูน้อยคนนี้และฉันไม่สบตากัน hyuyu"
+msgstr "หนูน้อยคนนี้และฉันไม่สบตากัน ฮยูยู"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_CLAYHOUND
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_CLAYHOUND"
@@ -259229,7 +259229,7 @@ msgstr "ลาก่อน แมลงปอที่รัก"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_EYEOFTERROR
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_EYEOFTERROR"
 msgid "He's gone, no matter how you look at it, hyuyu!"
-msgstr "เขาไปแล้ว ไม่ว่าคุณจะมองยังไงก็ตาม ฮยอกยู!"
+msgstr "เขาไปแล้ว ไม่ว่าคุณจะมองยังไงก็ตาม ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_FORMAL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_FORMAL"
@@ -259284,7 +259284,7 @@ msgstr "ราวกับว่ามิโนทอร์พบกับเม
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MOON
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MOON"
 msgid "The mortals thought it was made of cheese! Hyuyu!"
-msgstr "พวกมนุษย์คิดว่ามันทำมาจากชีส! Hyuyu!"
+msgstr "พวกมนุษย์คิดว่ามันทำมาจากชีส! ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MOOSEGOOSE.1
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MOOSEGOOSE.1"
@@ -259389,7 +259389,7 @@ msgstr "ไม่มีวิญญาณที่ปรับตัวเข้
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESTUPGRADE_STACKSIZE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESTUPGRADE_STACKSIZE"
 msgid "Now that's bending the rules a little, hyuyu!"
-msgstr "ตอนนี้มันเป็นการฝ่าฝืนกฎนิดหน่อยนะ hyuyu!"
+msgstr "ตอนนี้มันเป็นการฝ่าฝืนกฎนิดหน่อยนะ ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHEST_MIMIC_REVEALED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHEST_MIMIC_REVEALED"
@@ -259399,7 +259399,7 @@ msgstr "ทำไมเราถึงเปิดมัน?!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHUM
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHUM"
 msgid "Shall we try to get chummy with the fish? Hyuyu!"
-msgstr "เรามาลองคบกับปลากันไหม Hyuyu!"
+msgstr "เรามาลองคบกับปลากันไหม ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CLAYHOUND.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CLAYHOUND.GENERIC"
@@ -259574,7 +259574,7 @@ msgstr "แต่ถ้าติดปีกจะสนุกกว่า!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.COOKBOOK
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.COOKBOOK"
 msgid "Oh what shall I cook up next? Hyuyu!"
-msgstr "โอ้ ฉันจะทำอะไรต่อไปดี? Hyuyu!"
+msgstr "โอ้ ฉันจะทำอะไรต่อไปดี? ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.COOKEDMANDRAKE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.COOKEDMANDRAKE"
@@ -259674,37 +259674,37 @@ msgstr "เพาะเมล็ดแล้วให้อาหาร!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.COSTUME_BLACKSMITH_BODY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.COSTUME_BLACKSMITH_BODY"
 msgid "Hyuyuyu, oh this is a fun game!"
-msgstr "Hyuyuyu โอ้ เกมนี้สนุกนะ!"
+msgstr "ฮยูยูยู โอ้ เกมนี้สนุกนะ!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.COSTUME_DOLL_BODY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.COSTUME_DOLL_BODY"
 msgid "Hyuyuyu, oh this is a fun game!"
-msgstr "Hyuyuyu โอ้ เกมนี้สนุกนะ!"
+msgstr "ฮยูยูยู โอ้ เกมนี้สนุกนะ!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.COSTUME_FOOL_BODY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.COSTUME_FOOL_BODY"
 msgid "Hyuyuyu, oh this is a fun game!"
-msgstr "Hyuyuyu โอ้ เกมนี้สนุกนะ!"
+msgstr "ฮยูยูยู โอ้ เกมนี้สนุกนะ!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.COSTUME_KING_BODY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.COSTUME_KING_BODY"
 msgid "Hyuyuyu, oh this is a fun game!"
-msgstr "Hyuyuyu โอ้ เกมนี้สนุกนะ!"
+msgstr "ฮยูยูยู โอ้ เกมนี้สนุกนะ!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.COSTUME_MIRROR_BODY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.COSTUME_MIRROR_BODY"
 msgid "Hyuyuyu, oh this is a fun game!"
-msgstr "Hyuyuyu โอ้ เกมนี้สนุกนะ!"
+msgstr "ฮยูยูยู โอ้ เกมนี้สนุกนะ!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.COSTUME_QUEEN_BODY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.COSTUME_QUEEN_BODY"
 msgid "Hyuyuyu, oh this is a fun game!"
-msgstr "Hyuyuyu โอ้ เกมนี้สนุกนะ!"
+msgstr "ฮยูยูยู โอ้ เกมนี้สนุกนะ!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.COSTUME_TREE_BODY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.COSTUME_TREE_BODY"
 msgid "Hyuyuyu, oh this is a fun game!"
-msgstr "Hyuyuyu โอ้ เกมนี้สนุกนะ!"
+msgstr "ฮยูยูยู โอ้ เกมนี้สนุกนะ!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.COTL_TABERNACLE_LEVEL1.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.COTL_TABERNACLE_LEVEL1.GENERIC"
@@ -259759,12 +259759,12 @@ msgstr "ปราสาทนี้ไม่มีมงกุฎเพชร"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CRABKING_CANNONTOWER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CRABKING_CANNONTOWER"
 msgid "Well don't go ballistic, hyuyu!"
-msgstr "อย่าโมโหไปเลย hyuyu!"
+msgstr "อย่าโมโหไปเลย ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CRABKING_CLAW
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CRABKING_CLAW"
 msgid "Now that's claws for alarm, hyuyuyu!"
-msgstr "ตอนนี้มีกรงเล็บไว้เตือนแล้วนะ hyuyuyu!"
+msgstr "ตอนนี้มีกรงเล็บไว้เตือนแล้วนะ ฮยูยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CRABKING_ICEWALL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CRABKING_ICEWALL"
@@ -259839,7 +259839,7 @@ msgstr "ระวัง อย่าแตะต้องมือฉัน"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CRUMBS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CRUMBS"
 msgid "That's the way the cookie crumbles, hyuyu!"
-msgstr "นั่นเป็นวิธีที่คุ้กกี้บี้ ฮุ่ยหยู!"
+msgstr "นั่นเป็นวิธีที่คุ้กกี้บี้ ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CURSED_MONKEY_TOKEN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CURSED_MONKEY_TOKEN"
@@ -260029,7 +260029,7 @@ msgstr "ขอเงินคืนเหรอ ฉันตะลึง"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DEERCLOPSEYEBALL_SENTRYWARD.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DEERCLOPSEYEBALL_SENTRYWARD.GENERIC"
 msgid "What the eye sees stays icy! Hyuyu!"
-msgstr "สิ่งที่ตาเห็นยังคงเป็นน้ำแข็ง! Hyuyu!"
+msgstr "สิ่งที่ตาเห็นยังคงเป็นน้ำแข็ง! ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DEERCLOPSEYEBALL_SENTRYWARD.NOEYEBALL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DEERCLOPSEYEBALL_SENTRYWARD.NOEYEBALL"
@@ -260139,7 +260139,7 @@ msgstr "ฉันจะแก้ไขในโพสต์ ฮยูยู!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DOLL_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DOLL_BLUEPRINT"
 msgid "Oh what a dollight! Hyuyu!"
-msgstr "โอ้ ช่างเป็นอะไร! Hyuyu!"
+msgstr "โอ้ ช่างเป็นอะไร! ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DRAGONBOAT_KIT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DRAGONBOAT_KIT"
@@ -260174,7 +260174,7 @@ msgstr "หน้าอกที่น่าประทับใจ"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DRAGONFLYCHEST.UPGRADED_STACKSIZE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DRAGONFLYCHEST.UPGRADED_STACKSIZE"
 msgid "Scaled-up storage, hyuyu!"
-msgstr "พื้นที่เก็บข้อมูลขยายขนาดแล้ว hyuyu!"
+msgstr "พื้นที่เก็บข้อมูลขยายขนาดแล้ว ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DRAGONFLYFURNACE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DRAGONFLYFURNACE.GENERIC"
@@ -260199,7 +260199,7 @@ msgstr "ฉันว่ามันเผาผลาญได้ในปริ
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DRAGONFRUIT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DRAGONFRUIT"
 msgid "Plucked fresh from the dragon. Hyuyu!"
-msgstr "ดึงสดจากมังกร Hyuyu!"
+msgstr "ดึงสดจากมังกร ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DRAGONFRUIT_COOKED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DRAGONFRUIT_COOKED"
@@ -260289,7 +260289,7 @@ msgstr "ปรุงเสร็จแล้ว"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DUG_BANANABUSH
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DUG_BANANABUSH"
 msgid "Hyuyu, little shrub, are you waving at me?"
-msgstr "Hyuyu พุ่มไม้น้อย เธอโบกมือให้ฉันเหรอ?"
+msgstr "ฮยูยู พุ่มไม้น้อย เธอโบกมือให้ฉันเหรอ?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DUG_BERRYBUSH
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DUG_BERRYBUSH"
@@ -260384,12 +260384,12 @@ msgstr "ให้ดินพวกเขาบ้าง ก่อนที่�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DUSTMERINGUE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DUSTMERINGUE"
 msgid "Hyuyuyu! The pranks I could pull with these!"
-msgstr "Hyuyuyu! แกล้งกันแบบนี้ก็ได้!"
+msgstr "ฮยูยูยู! แกล้งกันแบบนี้ก็ได้!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DUSTMOTH
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DUSTMOTH"
 msgid "That charming creature nearly swept me off my feet, hyuyu!"
-msgstr "เจ้าสัตว์เจ้าเสน่ห์นั่นเกือบทำให้ผมแทบคลั่ง ฮยอกยู!"
+msgstr "เจ้าสัตว์เจ้าเสน่ห์นั่นเกือบทำให้ผมแทบคลั่ง ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DUSTMOTHDEN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DUSTMOTHDEN"
@@ -260519,7 +260519,7 @@ msgstr "สายตาของไซคลอปส์ยืดออกบา
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.EYEMASKHAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.EYEMASKHAT"
 msgid "Well, isn't this a sight for sore eyes. Hyuyuyu!"
-msgstr "ก็นะ นี่ไม่ใช่อาการเจ็บตาหรอกเหรอ Hyuyuyu!"
+msgstr "ก็นะ นี่ไม่ใช่อาการเจ็บตาหรอกเหรอ ฮยูยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.EYEOFTERROR
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.EYEOFTERROR"
@@ -260579,7 +260579,7 @@ msgstr "ฉันเหนื่อยกับการไถพรวนแล
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.FARM_PLANT.BURNING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.FARM_PLANT.BURNING"
 msgid "Hyuyuyu, whoopsie!"
-msgstr "Hyuyuyu โว้ว!"
+msgstr "ฮยูยูยู โว้ว!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.FARM_PLANT.FULL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.FARM_PLANT.FULL"
@@ -260594,7 +260594,7 @@ msgstr "ถ้าเพียงแต่ฉันสนใจที่จะก
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.FARM_PLANT.FULL_WEED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.FARM_PLANT.FULL_WEED"
 msgid "It's a weed indeed! Hyuyuyu!"
-msgstr "มันเป็นวัชพืชจริงๆ! Hyuyuyu!"
+msgstr "มันเป็นวัชพืชจริงๆ! ฮยูยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.FARM_PLANT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.FARM_PLANT.GENERIC"
@@ -260729,7 +260729,7 @@ msgstr "Hyuyu! That's some poo!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.FESTIVEFISH
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.FESTIVEFISH"
 msgid "Nothing fishy here at all, hyuyu!"
-msgstr "ไม่มีอะไรคาวเลย ฮยอกยู!"
+msgstr "ไม่มีอะไรคาวเลย ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.FESTIVE_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.FESTIVE_BLUEPRINT"
@@ -260779,7 +260779,7 @@ msgstr "กระวนกระวายใจเล็กน้อย วิ�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.FIREHOUND
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.FIREHOUND"
 msgid "Hyuyu, fiery!"
-msgstr "Hyuyu ร้อนแรง!"
+msgstr "ฮยูยู ร้อนแรง!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.FIRENETTLES
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.FIRENETTLES"
@@ -260789,7 +260789,7 @@ msgstr "โอ้ โฮ! ร้อนแรงจริงๆ!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.FIREPEN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.FIREPEN"
 msgid "Hyuyuyu, the old flaming pen prank!"
-msgstr "Hyuyuyu เล่นตลกปากกาเพลิงเก่า!"
+msgstr "ฮยูยูยู เล่นตลกปากกาเพลิงเก่า!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.FIREPIT.EMBERS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.FIREPIT.EMBERS"
@@ -261039,7 +261039,7 @@ msgstr "มนุษย์มากับสิ่งเหล่านี้ไ
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.FROZENBANANADAIQUIRI
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.FROZENBANANADAIQUIRI"
 msgid "Don't the mortals like to innovate? Hyuyu."
-msgstr "มนุษย์ไม่ชอบสร้างนวัตกรรมหรือ? Hyuyu"
+msgstr "มนุษย์ไม่ชอบสร้างนวัตกรรมหรือ? ฮยูยู"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.FRUITDRAGON.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.FRUITDRAGON.GENERIC"
@@ -261049,12 +261049,12 @@ msgstr "จิ้งจกน้อย แหลมคม!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.FRUITDRAGON.RIPE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.FRUITDRAGON.RIPE"
 msgid "That color looks great on you, hyuyu!"
-msgstr "สีนั้นก็ดูเข้ากับคุณดีนะ ฮยอกยู!"
+msgstr "สีนั้นก็ดูเข้ากับคุณดีนะ ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.FRUITDRAGON.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.FRUITDRAGON.SLEEPING"
 msgid "Hyuyu, catching some shuteye are we?"
-msgstr "Hyuyu จับตาดูพวกเราอยู่เหรอ?"
+msgstr "ฮยูยู จับตาดูพวกเราอยู่เหรอ?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.FRUITFLY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.FRUITFLY"
@@ -261214,12 +261214,12 @@ msgstr "ดอกไม้ผีให้พลังอันแปลกปร
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GHOSTLYELIXIR_ATTACK
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GHOSTLYELIXIR_ATTACK"
 msgid "Hyuyu! Someone's getting crafty!"
-msgstr "Hyuyu! มีคนเจ้าเล่ห์!"
+msgstr "ฮยูยู! มีคนเจ้าเล่ห์!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GHOSTLYELIXIR_FASTREGEN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GHOSTLYELIXIR_FASTREGEN"
 msgid "Hyuyu! Someone's getting crafty!"
-msgstr "Hyuyu! มีคนเจ้าเล่ห์!"
+msgstr "ฮยูยู! มีคนเจ้าเล่ห์!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GHOSTLYELIXIR_LUNAR
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GHOSTLYELIXIR_LUNAR"
@@ -261244,17 +261244,17 @@ msgstr "ฮยูยู! มีคนกำลังมีเล่ห์เห�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GHOSTLYELIXIR_SHIELD
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GHOSTLYELIXIR_SHIELD"
 msgid "Hyuyu! Someone's getting crafty!"
-msgstr "Hyuyu! มีคนเจ้าเล่ห์!"
+msgstr "ฮยูยู! มีคนเจ้าเล่ห์!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN"
 msgid "Hyuyu! Someone's getting crafty!"
-msgstr "Hyuyu! มีคนเจ้าเล่ห์!"
+msgstr "ฮยูยู! มีคนเจ้าเล่ห์!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GHOSTLYELIXIR_SPEED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GHOSTLYELIXIR_SPEED"
 msgid "Hyuyu! Someone's getting crafty!"
-msgstr "Hyuyu! มีคนเจ้าเล่ห์!"
+msgstr "ฮยูยู! มีคนเจ้าเล่ห์!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GIFT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GIFT"
@@ -261289,7 +261289,7 @@ msgstr "ยอดแหลมสวย ทำจากแก้ว"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GLASSCUTTER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GLASSCUTTER"
 msgid "Oh, I'm sure I'll have fun with this. Hyuyu!"
-msgstr "โอ้ ฉันแน่ใจว่าฉันจะสนุกไปกับมัน Hyuyu!"
+msgstr "โอ้ ฉันแน่ใจว่าฉันจะสนุกไปกับมัน ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GLASSSPIKE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GLASSSPIKE"
@@ -261334,7 +261334,7 @@ msgstr "ดูเหมือนคุณพยายามมากสำหร
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GNARWAIL.BROKENHORN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GNARWAIL.BROKENHORN"
 msgid "I don't see your point, hyuyu!"
-msgstr "ฉันไม่เห็นประเด็นของคุณ ฮยอกยู!"
+msgstr "ฉันไม่เห็นประเด็นของคุณ ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GNARWAIL.BROKENHORN_FOLLOWER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GNARWAIL.BROKENHORN_FOLLOWER"
@@ -261354,7 +261354,7 @@ msgstr "ตอนนี้ ไม่จำเป็นต้องมีรอ�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GNARWAIL_HORN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GNARWAIL_HORN"
 msgid "It makes a compelling point, hyuyu!"
-msgstr "มันเป็นประเด็นที่น่าสนใจ ฮยอกยู!"
+msgstr "มันเป็นประเด็นที่น่าสนใจ ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GOATMILK
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GOATMILK"
@@ -261379,17 +261379,17 @@ msgstr "ปุถุชนบอกว่าคุณต้องใช้ทอ
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GOLDENPITCHFORK
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GOLDENPITCHFORK"
 msgid "Fancy mob gear. Hyuyu!"
-msgstr "ชุดม็อบแฟนซี Hyuyu!"
+msgstr "ชุดม็อบแฟนซี ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GOLDENSHOVEL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GOLDENSHOVEL"
 msgid "Luxuriously unnecessary! Hyuyu!"
-msgstr "ไม่จำเป็นอย่างหรูหรา! Hyuyu!"
+msgstr "ไม่จำเป็นอย่างหรูหรา! ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GOLDEN_FARM_HOE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GOLDEN_FARM_HOE"
 msgid "How splendidly excessive! Hyuyu!"
-msgstr "ช่างวิเศษเหลือเกิน! Hyuyu!"
+msgstr "ช่างวิเศษเหลือเกิน! ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GOLDNUGGET
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GOLDNUGGET"
@@ -261459,7 +261459,7 @@ msgstr "เครื่องมือกันฝน"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GRAVEURN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GRAVEURN.GENERIC"
 msgid "The urn yearns, hyuyu!"
-msgstr "แจกันโหยหา hyuyu!"
+msgstr "แจกันโหยหา ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GRAVEURN.HAS_SPIRIT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GRAVEURN.HAS_SPIRIT"
@@ -261604,12 +261604,12 @@ msgstr "อืม... ฉันไม่คิดว่าฉันจะชอ�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HALLOWEENCANDY_8
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HALLOWEENCANDY_8"
 msgid "Hyuyu, a candied soul!"
-msgstr "Hyuyu วิญญาณหวาน!"
+msgstr "ฮยูยู วิญญาณหวาน!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HALLOWEENCANDY_9
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HALLOWEENCANDY_9"
 msgid "Hyuyu, it slithers all the way down!"
-msgstr "Hyuyu มันเลื่อนลงมาจนสุด!"
+msgstr "ฮยูยู มันเลื่อนลงมาจนสุด!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HALLOWEENPOTION_BRAVERY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HALLOWEENPOTION_BRAVERY"
@@ -261619,7 +261619,7 @@ msgstr "Tonic of anti-battiness!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT"
 msgid "Hyuyu! This'll put tufts on your chest!"
-msgstr "Hyuyu! สิ่งนี้จะทำให้หน้าอกของคุณเป็นกระจุก!"
+msgstr "ฮยูยู! สิ่งนี้จะทำให้หน้าอกของคุณเป็นกระจุก!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK"
@@ -261734,7 +261734,7 @@ msgstr "เย็นไปหน่อย เพื่อความแน่�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HEATROCK.FROZEN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HEATROCK.FROZEN"
 msgid "Frozen hard as a rock! Hyuyu."
-msgstr "แข็งราวกับหินแข็ง! Hyuyu"
+msgstr "แข็งราวกับหินแข็ง! ฮยูยู"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HEATROCK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HEATROCK.GENERIC"
@@ -261764,7 +261764,7 @@ msgstr "เถาวัลย์เหล่านั้นเพียงแค
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HERMITCRAB
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HERMITCRAB"
 msgid "Hyuyu, let's see if we can't coax this crab out of her shell!"
-msgstr "Hyuyu มาดูกันว่าเราไม่สามารถเกลี้ยกล่อมปูตัวนี้ออกจากเปลือกของเธอได้!"
+msgstr "ฮยูยู มาดูกันว่าเราไม่สามารถเกลี้ยกล่อมปูตัวนี้ออกจากเปลือกของเธอได้!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HERMITCRAB_RELOCATION_KIT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HERMITCRAB_RELOCATION_KIT"
@@ -261804,7 +261804,7 @@ msgstr "สมบัติล้ำค่า"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HIVEHAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HIVEHAT"
 msgid "Hyuyu! I'm the king!"
-msgstr "Hyuyu! ฉันคือราชา!"
+msgstr "ฮยูยู! ฉันคือราชา!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HOME
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HOME"
@@ -261884,7 +261884,7 @@ msgstr "แก้วนั่นแข็งตัวเร็วมาก!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HOUND
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HOUND"
 msgid "Hyuyu, you're so badly behaved!"
-msgstr "Hyuyu คุณทำตัวแย่มาก!"
+msgstr "ฮยูยู คุณทำตัวแย่มาก!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HOUNDBONE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HOUNDBONE"
@@ -261944,7 +261944,7 @@ msgstr "ใจมันร่ำไห้เพื่อเพื่อน"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ICE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ICE"
 msgid "It's such a novelty, hyuyu."
-msgstr "มันช่างแปลกใหม่ ฮยอกยู"
+msgstr "มันช่างแปลกใหม่ ฮยูยู"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ICEBERG.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ICEBERG.GENERIC"
@@ -261994,7 +261994,7 @@ msgstr "ฉันจะหยุดคนที่ฉันพอใจ"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ICE_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ICE_BLUEPRINT"
 msgid "I just got chills! Hyuyuyu!"
-msgstr "ฉันรู้สึกหนาว! Hyuyuyu!"
+msgstr "ฉันรู้สึกหนาว! ฮยูยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.INSANITYROCK.ACTIVE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.INSANITYROCK.ACTIVE"
@@ -262129,7 +262129,7 @@ msgstr "ของเล่นที่ถูกไฟไหม้ทำให้
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.KITCOONDECOR2.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.KITCOONDECOR2.GENERIC"
 msgid "This fish will be no dish, hyuyu."
-msgstr "ปลานี้คงไม่ใช่อาหารหรอก hyuyu"
+msgstr "ปลานี้คงไม่ใช่อาหารหรอก ฮยูยู"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.KITCOONDECOR2_KIT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.KITCOONDECOR2_KIT"
@@ -262139,7 +262139,7 @@ msgstr "การทำของเล่นช่างเป็นเรื่
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.KITCOONDEN.BURNT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.KITCOONDEN.BURNT"
 msgid "Just a little prank, hyuyu!"
-msgstr "แค่แกล้งนิดหน่อย ฮยอกยู!"
+msgstr "แค่แกล้งนิดหน่อย ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.KITCOONDEN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.KITCOONDEN.GENERIC"
@@ -262154,12 +262154,12 @@ msgstr "พวกเขาออกไปเล่นแล้ว!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.KITCOONDEN.PLAYING_HIDEANDSEEK_TIME_ALMOST_UP
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.KITCOONDEN.PLAYING_HIDEANDSEEK_TIME_ALMOST_UP"
 msgid "Playtime's almost over, hyuyu!"
-msgstr "หมดเวลาเล่นแล้ว ฮุ่ยหยู!"
+msgstr "หมดเวลาเล่นแล้ว ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.KITCOONDEN_KIT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.KITCOONDEN_KIT"
 msgid "They're here to play, or so they say, hyuyu!"
-msgstr "พวกเขามาที่นี่เพื่อเล่น หรือเขาพูดว่า hyuyu!"
+msgstr "พวกเขามาที่นี่เพื่อเล่น หรือเขาพูดว่า ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.KITCOON_DECIDUOUS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.KITCOON_DECIDUOUS"
@@ -262179,17 +262179,17 @@ msgstr "พวกมันสามารถแกล้ง ซ่อนตั�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.KITCOON_GRASS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.KITCOON_GRASS"
 msgid "Ooo, the fingers your fur could prick, hyuyu."
-msgstr "Ooo นิ้วที่ขนของคุณสามารถทิ่มได้ hyuyu"
+msgstr "Ooo นิ้วที่ขนของคุณสามารถทิ่มได้ ฮยูยู"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.KITCOON_MARSH
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.KITCOON_MARSH"
 msgid "There's no tentacle in that fur, right? Hyuyu."
-msgstr "ในขนนั้นไม่มีหนวดใช่มั้ย Hyuyu"
+msgstr "ในขนนั้นไม่มีหนวดใช่มั้ย ฮยูยู"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.KITCOON_MOON
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.KITCOON_MOON"
 msgid "The kit jumped over the moon, hyuyu!"
-msgstr "ชุดอุปกรณ์กระโดดข้ามดวงจันทร์ ฮยอกยู!"
+msgstr "ชุดอุปกรณ์กระโดดข้ามดวงจันทร์ ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.KITCOON_NAMETAG
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.KITCOON_NAMETAG"
@@ -262284,7 +262284,7 @@ msgstr "ฉันขยับขาของอิมพ์เล็กๆแท
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LAVAARENA_ARMORHEAVY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LAVAARENA_ARMORHEAVY"
 msgid "Hyuyu, that looks heavy!"
-msgstr "Hyuyu มันดูหนักหนา!"
+msgstr "ฮยูยู มันดูหนักหนา!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LAVAARENA_ARMORLIGHT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LAVAARENA_ARMORLIGHT"
@@ -262334,7 +262334,7 @@ msgstr "ฉันไม่มีภารกิจจริงๆฉันแค
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LAVAARENA_CROWNDAMAGERHAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LAVAARENA_CROWNDAMAGERHAT"
 msgid "Hyuyu, oh the magic!"
-msgstr "Hyuyu โอ้ เวทมนตร์!"
+msgstr "ฮยูยู โอ้ เวทมนตร์!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LAVAARENA_ELEMENTAL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LAVAARENA_ELEMENTAL"
@@ -262359,7 +262359,7 @@ msgstr "Boom! Kabloom! Doom!!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LAVAARENA_HEALINGFLOWERHAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LAVAARENA_HEALINGFLOWERHAT"
 msgid "I don't want to die, hyuyu!"
-msgstr "ฉันยังไม่อยากตาย ฮยอกยู!"
+msgstr "ฉันยังไม่อยากตาย ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LAVAARENA_HEALINGGARLANDHAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LAVAARENA_HEALINGGARLANDHAT"
@@ -262399,7 +262399,7 @@ msgstr "ถังดับเพลิง"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LAVAARENA_PORTAL.ON
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LAVAARENA_PORTAL.ON"
 msgid "Hop, skip and a jump! Hyuyu!"
-msgstr "กระโดด กระโดด และกระโดด! Hyuyu!"
+msgstr "กระโดด กระโดด และกระโดด! ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LAVAARENA_RECHARGERHAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LAVAARENA_RECHARGERHAT"
@@ -262599,7 +262599,7 @@ msgstr "รูท ทูท ทูท!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LIVINGTREE_SAPLING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LIVINGTREE_SAPLING"
 msgid "Hyuyu, what a cutie!"
-msgstr "Hyuyu ช่างน่ารักจริงๆ!"
+msgstr "ฮยูยู ช่างน่ารักจริงๆ!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LOBSTERBISQUE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LOBSTERBISQUE"
@@ -262624,7 +262624,7 @@ msgstr "ชิ้นส่วนของสิ่งที่เคยเป็
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LORDFRUITFLY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LORDFRUITFLY"
 msgid "Hyuyu! I would expect more civility from the nobility!"
-msgstr "Hyuyu! ฉันคาดหวังความสุภาพมากกว่านี้จากขุนนาง!"
+msgstr "ฮยูยู! ฉันคาดหวังความสุภาพมากกว่านี้จากขุนนาง!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LOST_TOY_1
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LOST_TOY_1"
@@ -262779,7 +262779,7 @@ msgstr "เคล็ดลับอันชาญฉลาดในการข
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MALBATROSS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MALBATROSS"
 msgid "It's bad luck to shoot it down, but what do I know? Hyuyu!"
-msgstr "โชคไม่ดีที่ยิงมันทิ้ง แต่ฉันรู้อะไรไหม Hyuyu!"
+msgstr "โชคไม่ดีที่ยิงมันทิ้ง แต่ฉันรู้อะไรไหม ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MALBATROSS_BEAK
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MALBATROSS_BEAK"
@@ -262904,7 +262904,7 @@ msgstr "ลาก่อน สไปค์ที่รัก"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MARSH_TREE.CHOPPED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MARSH_TREE.CHOPPED"
 msgid "Taken in its prime. Hyuyu!"
-msgstr "ถ่ายในช่วงไพรม์ Hyuyu!"
+msgstr "ถ่ายในช่วงไพรม์ ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MARSH_TREE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MARSH_TREE.GENERIC"
@@ -263049,7 +263049,7 @@ msgstr "เธอไม่มีอำนาจเหนือฉัน ฮี�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MAXWELLHEAD
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MAXWELLHEAD"
 msgid "Hyuyu, that's a good trick!"
-msgstr "Hyuyu นั่นเป็นเคล็ดลับที่ดี!"
+msgstr "ฮยูยู นั่นเป็นเคล็ดลับที่ดี!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MAXWELLLIGHT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MAXWELLLIGHT"
@@ -263164,7 +263164,7 @@ msgstr "ตะขอของเธอเปลือยเปล่า แต�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MEATYSALAD
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MEATYSALAD"
 msgid "Hyuyuyu! What a deliciously deceptive prank!"
-msgstr "Hyuyuyu! ช่างเป็นการเล่นตลกที่หลอกลวงจริงๆ!"
+msgstr "ฮยูยูยู! ช่างเป็นการเล่นตลกที่หลอกลวงจริงๆ!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MEAT_DRIED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MEAT_DRIED"
@@ -263174,7 +263174,7 @@ msgstr "ปุถุชนชอบสิ่งนี้มากกว่าต
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MEGAFLARE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MEGAFLARE"
 msgid "Hyuyuyu, this might get interesting!"
-msgstr "Hyuyuyu นี่อาจจะน่าสนใจ!"
+msgstr "ฮยูยูยู นี่อาจจะน่าสนใจ!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MERM
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MERM"
@@ -263204,12 +263204,12 @@ msgstr "มนุษย์กลายพันธุ์หน้าตาน่
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MERMGUARD_SHADOW
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MERMGUARD_SHADOW"
 msgid "And they say there are no second chances, hyuyu!"
-msgstr "และพวกเขาบอกว่าไม่มีโอกาสครั้งที่สอง hyuyu!"
+msgstr "และพวกเขาบอกว่าไม่มีโอกาสครั้งที่สอง ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MERMHAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MERMHAT"
 msgid "Some would call me two-faced, hyuyu!"
-msgstr "บางคนเรียกฉันว่าสองหน้า ฮยอกยู!"
+msgstr "บางคนเรียกฉันว่าสองหน้า ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MERMHEAD.BURNT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MERMHEAD.BURNT"
@@ -263239,7 +263239,7 @@ msgstr "มีคนสนุกไปแล้ว"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MERMHOUSE_CRAFTED.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MERMHOUSE_CRAFTED.GENERIC"
 msgid "An abode fit for a toad, hyuyu!"
-msgstr "ที่พำนักของคางคก hyuyu!"
+msgstr "ที่พำนักของคางคก ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MERMKING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MERMKING"
@@ -263294,7 +263294,7 @@ msgstr "อ้อ ข่าวล่าสุดจากหนุ่ม Wurt �
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MERM_PRINCE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MERM_PRINCE"
 msgid "Hyuyuyu, a prince! Charming!"
-msgstr "Hyuyuyu เจ้าชาย! Charming!"
+msgstr "ฮยูยูยู เจ้าชาย! Charming!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MERM_SHADOW
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MERM_SHADOW"
@@ -263364,12 +263364,12 @@ msgstr "วนไปวนมา"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MINIFLARE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MINIFLARE"
 msgid "Mortals get lost sometimes, hyuyu."
-msgstr "บางครั้งพวกมนุษย์ก็หลงทาง hyuyu"
+msgstr "บางครั้งพวกมนุษย์ก็หลงทาง ฮยูยู"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MINISIGN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MINISIGN.GENERIC"
 msgid "Hyuyu, draw me next!"
-msgstr "Hyuyu วาดฉันต่อไป!"
+msgstr "ฮยูยู วาดฉันต่อไป!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MINISIGN.UNDRAWN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MINISIGN.UNDRAWN"
@@ -263414,7 +263414,7 @@ msgstr "ตัวตุ่นถูกซ่อนอยู่ในรูขอ
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOLEBAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOLEBAT"
 msgid "Hyuyu, what a nosy creature!"
-msgstr "Hyuyu สัตว์ประหลาดจริงๆ!"
+msgstr "ฮยูยู สัตว์ประหลาดจริงๆ!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOLEBATHILL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOLEBATHILL"
@@ -263459,7 +263459,7 @@ msgstr "ปุถุชนผู้น่าสงสาร พวกเขา�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MONKEYISLAND_PORTAL_DEBRIS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MONKEYISLAND_PORTAL_DEBRIS"
 msgid "Hyuyuyu, someone's been up to some mischief!"
-msgstr "Hyuyuyu มีคนมาก่อกวน!"
+msgstr "ฮยูยูยู มีคนมาก่อกวน!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MONKEYPILLAR
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MONKEYPILLAR"
@@ -263529,7 +263529,7 @@ msgstr "ได้เวลาแล้ว! เรียกหาดวงจั�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONBASE.WRONGSTAFF
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONBASE.WRONGSTAFF"
 msgid "Hyuyu. That's just silly."
-msgstr "Hyuyu นี่มันงี่เง่าชะมัด"
+msgstr "ฮยูยู นี่มันงี่เง่าชะมัด"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONBUTTERFLY.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONBUTTERFLY.GENERIC"
@@ -263569,7 +263569,7 @@ msgstr "พวกเขากำลังจับตาดูพวกเรา
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONDIAL.NIGHT_FULL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONDIAL.NIGHT_FULL"
 msgid "Hyuyu, I feel a bit loony!"
-msgstr "Hyuyu ฉันรู้สึกเฉยๆ!"
+msgstr "ฮยูยู ฉันรู้สึกเฉยๆ!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONDIAL.NIGHT_NEW
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONDIAL.NIGHT_NEW"
@@ -263604,7 +263604,7 @@ msgstr "ฉันควรรีบร้อนก่อนที่มันจ
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONGLASS_ROCK
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONGLASS_ROCK"
 msgid "A handsome devil is reflected back at me! Hyuyu!"
-msgstr "ปีศาจรูปงามสะท้อนกลับมาที่ฉัน! Hyuyu!"
+msgstr "ปีศาจรูปงามสะท้อนกลับมาที่ฉัน! ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONGLASS_WOBSTER_DEN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONGLASS_WOBSTER_DEN"
@@ -263654,12 +263654,12 @@ msgstr "อ๊ะ เรืองแสงสุขภาพดีจริง�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONSTORM_GOGGLESHAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONSTORM_GOGGLESHAT"
 msgid "What a lune-y invention, hyuyu!"
-msgstr "ช่างเป็นสิ่งประดิษฐ์ที่ล้ำค่าเสียนี่กระไร hyuyu!"
+msgstr "ช่างเป็นสิ่งประดิษฐ์ที่ล้ำค่าเสียนี่กระไร ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONSTORM_SPARK
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONSTORM_SPARK"
 msgid "Hyuyu, it tickles!"
-msgstr "Hyuyu มันจั๊กจี้!"
+msgstr "ฮยูยู มันจั๊กจี้!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONSTORM_STATIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOONSTORM_STATIC"
@@ -263684,17 +263684,17 @@ msgstr "น้ำผลไม้กำลังหลุดออกมา!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_ALTAR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_ALTAR.GENERIC"
 msgid "Hyuyu, moon secrets are so fun!"
-msgstr "Hyuyu ความลับของดวงจันทร์สนุกมาก!"
+msgstr "ฮยูยู ความลับของดวงจันทร์สนุกมาก!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_ALTAR.MOON_ALTAR_WIP
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_ALTAR.MOON_ALTAR_WIP"
 msgid "Hyuyu, you'll owe me one after this!"
-msgstr "Hyuyu หลังจากนี้นายจะเป็นหนี้ฉัน!"
+msgstr "ฮยูยู หลังจากนี้นายจะเป็นหนี้ฉัน!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_ALTAR_ASTRAL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_ALTAR_ASTRAL"
 msgid "All together again. You must be over the moon, hyuyu!"
-msgstr "รวมกันอีกครั้ง คุณต้องอยู่เหนือดวงจันทร์ hyuyu!"
+msgstr "รวมกันอีกครั้ง คุณต้องอยู่เหนือดวงจันทร์ ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_ALTAR_COSMIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_ALTAR_COSMIC"
@@ -263704,7 +263704,7 @@ msgstr "เวทีใกล้จะเสร็จแล้ว!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_ALTAR_CROWN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_ALTAR_CROWN"
 msgid "Well, you've had quite the adventure, hyuyu!"
-msgstr "คุณผจญภัยมามากแล้ว hyuyu!"
+msgstr "คุณผจญภัยมามากแล้ว ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_ALTAR_GLASS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_ALTAR_GLASS"
@@ -263724,7 +263724,7 @@ msgstr "คุณแหลกสลายไปจริงๆเหรอ"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_ALTAR_LINK
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_ALTAR_LINK"
 msgid "Oh, this is going to be fun! Hyuyuyu!"
-msgstr "โอ้ งานนี้ต้องสนุกแน่! Hyuyuyu!"
+msgstr "โอ้ งานนี้ต้องสนุกแน่! ฮยูยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_ALTAR_ROCK_GLASS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_ALTAR_ROCK_GLASS"
@@ -263754,7 +263754,7 @@ msgstr "หลงทาง ถูกพบ ตอนนี้ต้องกล�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_CAP
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_CAP"
 msgid "Why not cap the day off with a little snooze? Hyuyuyu!"
-msgstr "ทำไมไม่ปิดท้ายวันหยุดด้วยการงีบหลับซักหน่อยล่ะ Hyuyuyu!"
+msgstr "ทำไมไม่ปิดท้ายวันหยุดด้วยการงีบหลับซักหน่อยล่ะ ฮยูยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_CAP_COOKED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_CAP_COOKED"
@@ -263774,7 +263774,7 @@ msgstr "กลอุบายลึกลับอะไรอย่างนี
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_DEVICE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_DEVICE.GENERIC"
 msgid "Hyuyuyu, I don't think they'll like that..."
-msgstr "Hyuyuyu ไม่คิดว่าพวกเขาจะชอบ..."
+msgstr "ฮยูยูยู ไม่คิดว่าพวกเขาจะชอบ..."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_FISSURE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_FISSURE.GENERIC"
@@ -263789,7 +263789,7 @@ msgstr "หลุมดำลึกที่ไม่มีที่สิ้น
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_FISSURE_PLUGGED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_FISSURE_PLUGGED"
 msgid "Hyuyu! Can you not get out, little ones?"
-msgstr "Hyuyu! ออกไปไม่ได้เหรอเด็กน้อย?"
+msgstr "ฮยูยู! ออกไปไม่ได้เหรอเด็กน้อย?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_TREE.BURNING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOON_TREE.BURNING"
@@ -263889,7 +263889,7 @@ msgstr "ฉันรู้สึกไม่มีวิญญาณอยู่
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MULLEDDRINK
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MULLEDDRINK"
 msgid "Perhaps I'll mull it over, hyuyu!"
-msgstr "บางทีฉันอาจจะครุ่นคิดไปก็ได้ ฮยอกยู!"
+msgstr "บางทีฉันอาจจะครุ่นคิดไปก็ได้ ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MULTIPLAYER_PORTAL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MULTIPLAYER_PORTAL"
@@ -263909,7 +263909,7 @@ msgstr "ตัดสินใจไม่ได้ว่าจะเลือก
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MUSHGNOME
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MUSHGNOME"
 msgid "I mistook that portly fellow for a Portobello! Hyuyu!"
-msgstr "ฉันเข้าใจผิดคิดว่าเพื่อนคนโตคนนั้นเป็น Portobello! Hyuyu!"
+msgstr "ฉันเข้าใจผิดคิดว่าเพื่อนคนโตคนนั้นเป็น Portobello! ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MUSHROOMBOMB
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MUSHROOMBOMB"
@@ -264024,7 +264024,7 @@ msgstr "ฉันว่ามันเหม็น"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MUSHTREE_SMALL.BLOOM
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MUSHTREE_SMALL.BLOOM"
 msgid "Hyuyu! How wretched!"
-msgstr "Hyuyu! ช่างน่าเวทนาเสียจริง!"
+msgstr "ฮยูยู! ช่างน่าเวทนาเสียจริง!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MUSHTREE_SMALL.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MUSHTREE_SMALL.GENERIC"
@@ -264109,7 +264109,7 @@ msgstr "ตายอย่างตายได้!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MUTATED_PENGUIN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MUTATED_PENGUIN.GENERIC"
 msgid "Hyuyu! What a horrible face you have!"
-msgstr "Hyuyu! ช่างเป็นหน้าที่น่ากลัวจริงๆ!"
+msgstr "ฮยูยู! ช่างเป็นหน้าที่น่ากลัวจริงๆ!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MUTATED_PENGUIN.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MUTATED_PENGUIN.SLEEPING"
@@ -264154,7 +264154,7 @@ msgstr "ของอร่อยสำหรับผู้ก่อการร
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.NATURE_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.NATURE_BLUEPRINT"
 msgid "I suppose I'll reap what I sew, hyuyu!"
-msgstr "ฉันคิดว่าฉันจะเก็บเกี่ยวสิ่งที่ฉันเย็บ ฮยอกยู!"
+msgstr "ฉันคิดว่าฉันจะเก็บเกี่ยวสิ่งที่ฉันเย็บ ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.NIGHTCAPHAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.NIGHTCAPHAT"
@@ -264184,7 +264184,7 @@ msgstr "ระวัง ระวัง มันบอกกับฉัน"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.NIGHTMAREPIE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.NIGHTMAREPIE"
 msgid "Hyuyu, humans sure are strange."
-msgstr "Hyuyu มนุษย์นั้นแปลกจริงๆ"
+msgstr "ฮยูยู มนุษย์นั้นแปลกจริงๆ"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.NIGHTMARE_TIMEPIECE.CALM
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.NIGHTMARE_TIMEPIECE.CALM"
@@ -264204,7 +264204,7 @@ msgstr "เหรียญแสนสนุกสำหรับแร็พส
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.NIGHTMARE_TIMEPIECE.STEADY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.NIGHTMARE_TIMEPIECE.STEADY"
 msgid "Hyuyu! What fun!"
-msgstr "Hyuyu! สนุกจริงๆ!"
+msgstr "ฮยูยู! สนุกจริงๆ!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.NIGHTMARE_TIMEPIECE.WANING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.NIGHTMARE_TIMEPIECE.WANING"
@@ -264274,7 +264274,7 @@ msgstr "การว่ายน้ำทำให้มีกลิ่นอิ
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISHABLEFLOTSAM
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISHABLEFLOTSAM"
 msgid "I will shape it into a delicious mud pie! Hyuyu."
-msgstr "ฉันจะปั้นมันให้เป็นพายโคลนแสนอร่อย! Hyuyu"
+msgstr "ฉันจะปั้นมันให้เป็นพายโคลนแสนอร่อย! ฮยูยู"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISHINGBOBBER_BALL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISHINGBOBBER_BALL"
@@ -264444,7 +264444,7 @@ msgstr "มันแทบจะไม่ใหญ่กว่า minnow!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISH_SMALL_5
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISH_SMALL_5"
 msgid "This one really pops, hyuyu!"
-msgstr "อันนี้เด็ดมาก hyuyu!"
+msgstr "อันนี้เด็ดมาก ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISH_SMALL_6
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISH_SMALL_6"
@@ -264459,7 +264459,7 @@ msgstr "จะเกิดอะไรขึ้นถ้าฉันปลูก
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISH_SMALL_8
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISH_SMALL_8"
 msgid "It has such a sunny disposition! Hyuyu!"
-msgstr "มีอารมณ์แจ่มใสอย่างนี้! Hyuyu!"
+msgstr "มีอารมณ์แจ่มใสอย่างนี้! ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISH_SMALL_9
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISH_SMALL_9"
@@ -264519,7 +264519,7 @@ msgstr "พวกเขาหนีไปแล้ว วันนี้ไม�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEAN_TRAWLER.FIXED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEAN_TRAWLER.FIXED"
 msgid "It was a simple fix. I just had to pull a few strings, hyuyu!"
-msgstr "มันเป็นวิธีแก้ไขง่ายๆฉันต้องดึงสตริงสองสามเส้น ฮุ่ยหยู!"
+msgstr "มันเป็นวิธีแก้ไขง่ายๆฉันต้องดึงสตริงสองสามเส้น ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEAN_TRAWLER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEAN_TRAWLER.GENERIC"
@@ -264714,7 +264714,7 @@ msgstr "ขนมปังปิ้งชิ้นเล็กชิ้นน้
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.PEPPER_OVERSIZED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.PEPPER_OVERSIZED"
 msgid "That will put some pep in someone's step, hyuyuyu!"
-msgstr "นั่นจะใส่อารมณ์ของใครซักคน hyuyuyu!"
+msgstr "นั่นจะใส่อารมณ์ของใครซักคน ฮยูยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.PEPPER_SEEDS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.PEPPER_SEEDS"
@@ -264884,7 +264884,7 @@ msgstr "โอ้ พระเจ้า ไม่มี"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.PIGMAN.FOLLOWER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.PIGMAN.FOLLOWER"
 msgid "Hyuyu! Are we playing follow the leader?"
-msgstr "Hyuyu! พวกเรากำลังเล่นตามผู้นำงั้นหรือ?"
+msgstr "ฮยูยู! พวกเรากำลังเล่นตามผู้นำงั้นหรือ?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.PIGMAN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.PIGMAN.GENERIC"
@@ -264954,7 +264954,7 @@ msgstr "ต้นไม้ทารกน้อย!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.PIRATE_FLAG_POLE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.PIRATE_FLAG_POLE"
 msgid "Hyuyuyu, that flag spells trouble!"
-msgstr "Hyuyuyu ธงนั่นสร้างปัญหา!"
+msgstr "ฮยูยูยู ธงนั่นสร้างปัญหา!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.PIRATE_STASH
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.PIRATE_STASH"
@@ -265094,12 +265094,12 @@ msgstr "นาฬิกาเหล่านี้ ต้องหาเวล�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.POCKETWATCH_PORTAL_ENTRANCE.DIFFERENTSHARD
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.POCKETWATCH_PORTAL_ENTRANCE.DIFFERENTSHARD"
 msgid "Hyuyuyu, we'll be sure to get there in a timely manner!"
-msgstr "Hyuyuyu เราจะไปถึงที่นั่นทันเวลาแน่นอน!"
+msgstr "ฮยูยูยู เราจะไปถึงที่นั่นทันเวลาแน่นอน!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.POCKETWATCH_PORTAL_ENTRANCE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.POCKETWATCH_PORTAL_ENTRANCE.GENERIC"
 msgid "Hyuyuyu, we'll be sure to get there in a timely manner!"
-msgstr "Hyuyuyu เราจะไปถึงที่นั่นทันเวลาแน่นอน!"
+msgstr "ฮยูยูยู เราจะไปถึงที่นั่นทันเวลาแน่นอน!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.POCKETWATCH_PORTAL_EXIT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.POCKETWATCH_PORTAL_EXIT"
@@ -265139,17 +265139,17 @@ msgstr "นาฬิกาเหล่านี้ ต้องหาเวล�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.POCKETWATCH_WEAPON.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.POCKETWATCH_WEAPON.GENERIC"
 msgid "Did I hear \"one o'clock sharp\", or \"one sharp clock\"? Hyuyu!"
-msgstr "ฉันได้ยิน \"นาฬิกาหนึ่งนาฬิกา\" หรือ \"นาฬิกาที่แหลมคมหนึ่งนาฬิกา\" ไหม Hyuyu!"
+msgstr "ฉันได้ยิน \"นาฬิกาหนึ่งนาฬิกา\" หรือ \"นาฬิกาที่แหลมคมหนึ่งนาฬิกา\" ไหม ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.POCKET_SCALE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.POCKET_SCALE"
 msgid "Allow me to quickly weigh in, hyuyu!"
-msgstr "อนุญาตให้ฉันชั่งน้ำหนักเร็วๆฮยอกยู!"
+msgstr "อนุญาตให้ฉันชั่งน้ำหนักเร็วๆฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.POLISHCOOKIE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.POLISHCOOKIE"
 msgid "You can't prank a prankster, hyuyu!"
-msgstr "คุณไม่สามารถแกล้งคนเล่นพิเรนทร์ได้ hyuyu!"
+msgstr "คุณไม่สามารถแกล้งคนเล่นพิเรนทร์ได้ ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.POLLY_ROGERS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.POLLY_ROGERS"
@@ -265164,7 +265164,7 @@ msgstr "ขนนกที่ร่าเริงทำให้หมวกด
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.POMEGRANATE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.POMEGRANATE"
 msgid "You need only eat one seed. Hyuyu!"
-msgstr "คุณต้องกินแค่เมล็ดเดียว Hyuyu!"
+msgstr "คุณต้องกินแค่เมล็ดเดียว ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.POMEGRANATE_COOKED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.POMEGRANATE_COOKED"
@@ -265269,7 +265269,7 @@ msgstr "ปุถุชนเช่นนี้ในทุกรูปแบบ
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.POTATOSACK
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.POTATOSACK"
 msgid "Hyuyuyu, wouldn't it be fun to hide inside and give him a scare?"
-msgstr "Hyuyuyu มันจะไม่สนุกเหรอที่จะซ่อนตัวข้างในและทำให้เขาตกใจ"
+msgstr "ฮยูยูยู มันจะไม่สนุกเหรอที่จะซ่อนตัวข้างในและทำให้เขาตกใจ"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.POTATOSOUFFLE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.POTATOSOUFFLE"
@@ -265304,7 +265304,7 @@ msgstr "พืชที่ถูกคุมขังชั่วนิรัน
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.POWCAKE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.POWCAKE"
 msgid "Hyuyu! This cake packs a wallop!"
-msgstr "Hyuyu! เค้กชิ้นนี้อัดแน่น!"
+msgstr "ฮยูยู! เค้กชิ้นนี้อัดแน่น!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.POWDER_MONKEY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.POWDER_MONKEY"
@@ -265339,7 +265339,7 @@ msgstr "ใจเย็นไว้ เจ้าตัวเล็ก"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.PUFFIN.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.PUFFIN.SLEEPING"
 msgid "Hyuyu, catching some shuteye are we?"
-msgstr "Hyuyu จับตาดูพวกเราอยู่เหรอ?"
+msgstr "ฮยูยู จับตาดูพวกเราอยู่เหรอ?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.PUMPKIN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.PUMPKIN"
@@ -265369,7 +265369,7 @@ msgstr "ง่ายขึ้นเล็กน้อยกับ impish tum ข
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.PUMPKIN_LANTERN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.PUMPKIN_LANTERN"
 msgid "How delightfully spooky! Hyuyu!"
-msgstr "ช่างน่าสยดสยองเสียนี่กระไร! Hyuyu!"
+msgstr "ช่างน่าสยดสยองเสียนี่กระไร! ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.PUMPKIN_OVERSIZED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.PUMPKIN_OVERSIZED"
@@ -265434,7 +265434,7 @@ msgstr "เรือของฉันไม่ใช่ข้าราชบร
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_ALTAR_STATUE1
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_ALTAR_STATUE1"
 msgid "A monumental statue! Hyuyu!"
-msgstr "รูปปั้นที่ยิ่งใหญ่! Hyuyu!"
+msgstr "รูปปั้นที่ยิ่งใหญ่! ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_ALTAR_STATUE2
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_ALTAR_STATUE2"
@@ -265644,7 +265644,7 @@ msgstr "จะรังเกียจไหมถ้าฉันขอดูส
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_MUSHROOMS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_MUSHROOMS"
 msgid "There's morel where that came from, hyuyu!"
-msgstr "มีมอเรลที่มาจากไหน hyuyu!"
+msgstr "มีมอเรลที่มาจากไหน ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_MUSHROOMSTUMP.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_MUSHROOMSTUMP.GENERIC"
@@ -265709,7 +265709,7 @@ msgstr "ทางนี้ไปสวนสาธารณะ!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_PARK_GATE.LOCKED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_PARK_GATE.LOCKED"
 msgid "Let me out! Hyuyu, just kidding."
-msgstr "ปล่อยฉันนะ! Hyuyu ล้อเล่น"
+msgstr "ปล่อยฉันนะ! ฮยูยู ล้อเล่น"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_PARK_OBELISK
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_PARK_OBELISK"
@@ -265759,7 +265759,7 @@ msgstr "ทางออกหรือทางเข้า ขึ้นอย�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_PORTAL_KEY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_PORTAL_KEY"
 msgid "Hyuyu! Let us hop away!"
-msgstr "Hyuyu! ไปกันเถอะ!"
+msgstr "ฮยูยู! ไปกันเถอะ!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_POT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_POT"
@@ -265859,7 +265859,7 @@ msgstr "ส่งเสียงดัง เป่า และระเบิ�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_RUBBLE_PUBDOOR
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_RUBBLE_PUBDOOR"
 msgid "A door to nowhere, hyuyu!"
-msgstr "ประตูที่ไม่มีที่ไหนเลย hyuyu!"
+msgstr "ประตูที่ไม่มีที่ไหนเลย ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_RUBBLE_ROOF
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_RUBBLE_ROOF"
@@ -266004,7 +266004,7 @@ msgstr "โอ้ คุณดูป่วย! จิตใจต่ำ สี�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_SWAMPIGELDER.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_SWAMPIGELDER.SLEEPING"
 msgid "Sleeping like the fishes. Hyuyu!"
-msgstr "นอนเหมือนปลา Hyuyu!"
+msgstr "นอนเหมือนปลา ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_SWAMPIG_HOUSE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_SWAMPIG_HOUSE"
@@ -266044,7 +266044,7 @@ msgstr "คุณช่างมีหน้าตาที่ตลกจริ
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_TRADER_MERM2
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_TRADER_MERM2"
 msgid "Hyuyu, what a funny moustache!"
-msgstr "Hyuyu ช่างเป็นหนวดที่ตลกจริงๆ!"
+msgstr "ฮยูยู ช่างเป็นหนวดที่ตลกจริงๆ!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_TURNIP
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_TURNIP"
@@ -266104,7 +266104,7 @@ msgstr "ถูกเผาจนหมดสิ้น"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.RABBITHOUSE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.RABBITHOUSE.GENERIC"
 msgid "Hyuyu! How whimsical."
-msgstr "Hyuyu! ช่างแปลกประหลาดจริงๆ"
+msgstr "ฮยูยู! ช่างแปลกประหลาดจริงๆ"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.RABBITKINGHORN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.RABBITKINGHORN"
@@ -266264,7 +266264,7 @@ msgstr "แค่มองก็ปวดหัว!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.RED_MUSHROOM.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.RED_MUSHROOM.GENERIC"
 msgid "Hyuyu! Do not think to poison me!"
-msgstr "Hyuyu! อย่าคิดว่าจะวางยาพิษฉัน!"
+msgstr "ฮยูยู! อย่าคิดว่าจะวางยาพิษฉัน!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.RED_MUSHROOM.INGROUND
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.RED_MUSHROOM.INGROUND"
@@ -266359,7 +266359,7 @@ msgstr "การเนรเทศอิมพ์ความพึงพอใ
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.RESURRECTIONSTATUE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.RESURRECTIONSTATUE.GENERIC"
 msgid "I can never die! Hyuyu!"
-msgstr "ฉันไม่มีวันตาย! Hyuyu!"
+msgstr "ฉันไม่มีวันตาย! ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.RESURRECTIONSTONE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.RESURRECTIONSTONE"
@@ -266404,7 +266404,7 @@ msgstr "โปรดระวังนิ้วของฉัน"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ROBOT_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ROBOT_BLUEPRINT"
 msgid "This outfit might require a lot of ironing, hyuyu!"
-msgstr "ชุดนี้อาจจะต้องรีดเยอะ ฮยอกยู!"
+msgstr "ชุดนี้อาจจะต้องรีดเยอะ ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ROBOT_PUPPET
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ROBOT_PUPPET"
@@ -266609,12 +266609,12 @@ msgstr "ใกล้แล้ว ฮยูยู!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SADDLE_BASIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SADDLE_BASIC"
 msgid "Hyuyu, carry me!"
-msgstr "Hyuyu พาฉันไป!"
+msgstr "ฮยูยู พาฉันไป!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SADDLE_RACE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SADDLE_RACE"
 msgid "Let's fly! Hyuyu!"
-msgstr "มาบินกันเถอะ! Hyuyu!"
+msgstr "มาบินกันเถอะ! ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SADDLE_SHADOW
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SADDLE_SHADOW"
@@ -266689,7 +266689,7 @@ msgstr "Harumpf! I go where I please!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SANITYROCK.INACTIVE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SANITYROCK.INACTIVE"
 msgid "Hyuyu! I'm as insane as you!"
-msgstr "Hyuyu! ผมบ้าเหมือนคุณ!"
+msgstr "ฮยูยู! ผมบ้าเหมือนคุณ!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SAPLING.BURNING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SAPLING.BURNING"
@@ -266724,7 +266724,7 @@ msgstr "รู้สึกแย่ใช่มั๊ย?"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCANDATA
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCANDATA"
 msgid "Hyuyuyu, I think our friend has some tricks up those tin sleeves!"
-msgstr "Hyuyuyu ฉันคิดว่าเพื่อนของเรามีกลอุบายบางอย่างเกี่ยวกับปลอกดีบุกพวกนั้น!"
+msgstr "ฮยูยูยู ฉันคิดว่าเพื่อนของเรามีกลอุบายบางอย่างเกี่ยวกับปลอกดีบุกพวกนั้น!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCARECROW.BURNING"
@@ -266764,7 +266764,7 @@ msgstr "แม่เจ้า มองไกลๆในดวงตาขอ�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCULPTINGTABLE.BLOCK
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCULPTINGTABLE.BLOCK"
 msgid "Artist's block. Hyuyu!"
-msgstr "บล็อกของศิลปิน Hyuyu!"
+msgstr "บล็อกของศิลปิน ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCULPTINGTABLE.BURNT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCULPTINGTABLE.BURNT"
@@ -266904,7 +266904,7 @@ msgstr "เมล็ดสุกแล้ว"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SENTRYWARD
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SENTRYWARD"
 msgid "Hyuyu! What a mischievous way to spy!"
-msgstr "Hyuyu! ช่างเป็นวิธีการสอดแนมที่ซุกซนจริงๆ!"
+msgstr "ฮยูยู! ช่างเป็นวิธีการสอดแนมที่ซุกซนจริงๆ!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SEWING_KIT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SEWING_KIT"
@@ -266944,7 +266944,7 @@ msgstr "โอ้ เยี่ยมมาก! มันยังคงเต้
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SHADOWRIFT_PORTAL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SHADOWRIFT_PORTAL"
 msgid "Hyuyu, watch your step!"
-msgstr "Hyuyu ระวังย่างก้าว!"
+msgstr "ฮยูยู ระวังย่างก้าว!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SHADOWTHRALL_CENTIPEDE.BODY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SHADOWTHRALL_CENTIPEDE.BODY"
@@ -267019,7 +267019,7 @@ msgstr "อย่ากินฉัน ขนสัตว์จะติดฟ�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SHARKBOI
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SHARKBOI"
 msgid "That's one cool customer, hyuyu!"
-msgstr "นั่นเป็นลูกค้าที่เจ๋งมากเลยนะ hyuyu!"
+msgstr "นั่นเป็นลูกค้าที่เจ๋งมากเลยนะ ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SHELL_CLUSTER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SHELL_CLUSTER"
@@ -267029,7 +267029,7 @@ msgstr "ฉันสงสัยว่ามีอะไรอยู่ข้า
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SHIELDOFTERROR
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SHIELDOFTERROR"
 msgid "I stole the grin right off of him, hyuyu!"
-msgstr "ฉันขโมยรอยยิ้มของเขาไปจากเขาแล้ว hyuyu!"
+msgstr "ฉันขโมยรอยยิ้มของเขาไปจากเขาแล้ว ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SHOVEL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SHOVEL"
@@ -267104,7 +267104,7 @@ msgstr "ไม่มีใครอยู่แถวนั้นที่จะ
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SISTURN.LOTS_OF_FLOWERS_EVIL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SISTURN.LOTS_OF_FLOWERS_EVIL"
 msgid "Floral vanity at the cost of my sanity! Hyuyu!"
-msgstr "ความไร้สาระอันแสนหวานที่แลกมาด้วยสุขภาพจิตของฉัน! Hyuyu!"
+msgstr "ความไร้สาระอันแสนหวานที่แลกมาด้วยสุขภาพจิตของฉัน! ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SISTURN.SOME_FLOWERS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SISTURN.SOME_FLOWERS"
@@ -267419,7 +267419,7 @@ msgstr "เลื้อยและเลื้อย snurtle น้อย"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SOIL_AMENDER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SOIL_AMENDER.GENERIC"
 msgid "This kelp should help our garden grow, hyuyu!"
-msgstr "สาหร่ายชนิดนี้น่าจะช่วยให้สวนของเราเติบโตได้นะ hyuyu!"
+msgstr "สาหร่ายชนิดนี้น่าจะช่วยให้สวนของเราเติบโตได้นะ ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SOIL_AMENDER.SPOILED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SOIL_AMENDER.SPOILED"
@@ -267474,7 +267474,7 @@ msgstr "ช่างเป็นชุดที่น่ารักมากจ
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPICE_CHILI
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPICE_CHILI"
 msgid "I'll spike some mortal's food. Hyuyu!"
-msgstr "ฉันจะแทงอาหารมนุษย์ให้แหลกเลย Hyuyu!"
+msgstr "ฉันจะแทงอาหารมนุษย์ให้แหลกเลย ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPICE_GARLIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPICE_GARLIC"
@@ -267529,7 +267529,7 @@ msgstr "มันนุ่มๆใช่เลย ใช่เลย!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDERHAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDERHAT"
 msgid "Hyuyu, this is grotesque!"
-msgstr "Hyuyu นี่มันพิลึก!"
+msgstr "ฮยูยู นี่มันพิลึก!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDERHOLE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDERHOLE"
@@ -267584,7 +267584,7 @@ msgstr "พักผ่อนเถอะ เจ้าแมลงตัวน�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDER_REPELLENT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDER_REPELLENT"
 msgid "The easiest way to get rid of a spider is with a big shoo, hyuyu!"
-msgstr "วิธีที่ง่ายที่สุดในการกำจัดแมงมุมคือการเอาตัวชู้ตัวใหญ่ hyuyu!"
+msgstr "วิธีที่ง่ายที่สุดในการกำจัดแมงมุมคือการเอาตัวชู้ตัวใหญ่ ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDER_SPITTER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDER_SPITTER"
@@ -267614,7 +267614,7 @@ msgstr "พวกมันแค่ทำให้เท้าเปียก"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDER_WHISTLE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDER_WHISTLE"
 msgid "Hyuyu! Who knew spiders liked to whistle?"
-msgstr "Hyuyu! ใครรู้จักแมงมุมชอบเป่านกหวีด?"
+msgstr "ฮยูยู! ใครรู้จักแมงมุมชอบเป่านกหวีด?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPOILED_FISH
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPOILED_FISH"
@@ -267669,7 +267669,7 @@ msgstr "ตาน่าขนลุกเมื่อเห็นทะเล"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.STAFFCOLDLIGHT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.STAFFCOLDLIGHT"
 msgid "Hyuyu, how cold and unwelcoming!"
-msgstr "Hyuyu ช่างเย็นชาเสียเหลือเกิน!"
+msgstr "ฮยูยู ช่างเย็นชาเสียเหลือเกิน!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.STAFFLIGHT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.STAFFLIGHT"
@@ -267769,12 +267769,12 @@ msgstr "รูปปั้นที่ทำจากหินเย็นแล
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.STATUE_MARBLE.TYPE1
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.STATUE_MARBLE.TYPE1"
 msgid "Hyuyu, she's gone and lost her head!"
-msgstr "Hyuyu เธอจากไปแล้วและหัวเสีย!"
+msgstr "ฮยูยู เธอจากไปแล้วและหัวเสีย!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.STATUE_MARBLE.TYPE2
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.STATUE_MARBLE.TYPE2"
 msgid "Hyuyu, she's gone and lost her head!"
-msgstr "Hyuyu เธอจากไปแล้วและหัวเสีย!"
+msgstr "ฮยูยู เธอจากไปแล้วและหัวเสีย!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.STATUE_MARBLE.TYPE3
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.STATUE_MARBLE.TYPE3"
@@ -267874,7 +267874,7 @@ msgstr "เราต้องการกุญแจสำหรับของ
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SUPERTACKLECONTAINER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SUPERTACKLECONTAINER"
 msgid "That's quite a lot to tackle, hyuyu!"
-msgstr "ต้องจัดการค่อนข้างเยอะ ฮยอกยู!"
+msgstr "ต้องจัดการค่อนข้างเยอะ ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SUPPORT_PILLAR
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SUPPORT_PILLAR"
@@ -267929,7 +267929,7 @@ msgstr "ฉันไม่ได้ต่อต้านการลองรู
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SWEETPOTATO
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SWEETPOTATO"
 msgid "Should I tell them it's a prank? Hyuyu!"
-msgstr "ฉันควรบอกพวกเขาไหมว่ามันเป็นการเล่นตลก? Hyuyu!"
+msgstr "ฉันควรบอกพวกเขาไหมว่ามันเป็นการเล่นตลก? ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SWEETTEA
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SWEETTEA"
@@ -267974,7 +267974,7 @@ msgstr "แผนการอันแยบยลในการเอาปล
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TACKLESTATION
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TACKLESTATION"
 msgid "Let's build a better fish trap, hyuyu!"
-msgstr "มาสร้างกับดักปลากันดีกว่า hyuyu!"
+msgstr "มาสร้างกับดักปลากันดีกว่า ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TAFFY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TAFFY"
@@ -268179,7 +268179,7 @@ msgstr "Hyuyu... whoopsie..."
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TERRARIUM.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TERRARIUM.GENERIC"
 msgid "A souvenir of sorts, hyuyu!"
-msgstr "ของที่ระลึกแปลกๆฮยอกยู!"
+msgstr "ของที่ระลึกแปลกๆฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TERRARIUM.SPAWN_DISABLED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TERRARIUM.SPAWN_DISABLED"
@@ -268194,7 +268194,7 @@ msgstr "ฉันไม่สามารถบอกได้ว่านั่
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TERRARIUMCHEST.BURNT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TERRARIUMCHEST.BURNT"
 msgid "Hyuyu, someone's been playing pranks."
-msgstr "Hyuyu มีคนแกล้งเล่น"
+msgstr "ฮยูยู มีคนแกล้งเล่น"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TERRARIUMCHEST.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TERRARIUMCHEST.GENERIC"
@@ -268264,7 +268264,7 @@ msgstr "อยู่ไกลกันแต่ฉันยังอยู่ต
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TICOON.TRACKING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TICOON.TRACKING"
 msgid "Oh where, where could they be, hyuyu."
-msgstr "โอ้ ที่ไหน พวกมันอยู่ที่ไหน hyuyu"
+msgstr "โอ้ ที่ไหน พวกมันอยู่ที่ไหน ฮยูยู"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TICOON.TRACKING_NOT_MINE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TICOON.TRACKING_NOT_MINE"
@@ -268319,7 +268319,7 @@ msgstr "สกุชชี่ สกุชชี่"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TOMATO_OVERSIZED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TOMATO_OVERSIZED"
 msgid "Hyuyu, I'll have to find something very big to throw it at!"
-msgstr "Hyuyu ฉันจะต้องหาอะไรที่ใหญ่มากเพื่อโยนมันทิ้ง!"
+msgstr "ฮยูยู ฉันจะต้องหาอะไรที่ใหญ่มากเพื่อโยนมันทิ้ง!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TOMATO_SEEDS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TOMATO_SEEDS"
@@ -268754,7 +268754,7 @@ msgstr "โห่ เกม!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM"
 msgid "Weight: {weight}\nHarvested on day: {day}\nBut is it worth the weight? Hyuyu!"
-msgstr "น้ำหนัก: {weight}\nเก็บเกี่ยวเมื่อวัน: {day}\nแต่มันคุ้มกับน้ำหนักมั๊ย? Hyuyu!"
+msgstr "น้ำหนัก: {weight}\nเก็บเกี่ยวเมื่อวัน: {day}\nแต่มันคุ้มกับน้ำหนักมั๊ย? ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM_HEAVY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM_HEAVY"
@@ -268764,7 +268764,7 @@ msgstr "น้ำหนัก: {weight}\nเก็บเกี่ยวเมื
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM_LIGHT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TROPHYSCALE_OVERSIZEDVEGGIES.HAS_ITEM_LIGHT"
 msgid "It's not enough to tip the scale, hyuyu!"
-msgstr "การให้ทิปยังไม่พอ ฮยอกยู!"
+msgstr "การให้ทิปยังไม่พอ ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRUNKVEST_SUMMER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRUNKVEST_SUMMER"
@@ -269224,7 +269224,7 @@ msgstr "สายฝนแห่งความเจ็บปวดส่วน
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.VOLTGOATJELLY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.VOLTGOATJELLY"
 msgid "Hyuyu, it looks interesting at least."
-msgstr "Hyuyu อย่างน้อยก็ดูน่าสนใจ"
+msgstr "ฮยูยู อย่างน้อยก็ดูน่าสนใจ"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAFFLES
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAFFLES"
@@ -269329,7 +269329,7 @@ msgstr "ฉันจะต้องชำระเศษโลหะเหล่
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAGPUNK_CAGEWALL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAGPUNK_CAGEWALL"
 msgid "Save the sass! None shall pass! Hyuyu!"
-msgstr "บันทึกความปากร้าย! ไม่มีใครจะผ่านไปได้! Hyuyu!"
+msgstr "บันทึกความปากร้าย! ไม่มีใครจะผ่านไปได้! ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAGPUNK_FLOOR_KIT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAGPUNK_FLOOR_KIT"
@@ -269369,7 +269369,7 @@ msgstr "งานเขียนของผู้มีวิสัยทัศ
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAGSTAFF_NPC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAGSTAFF_NPC"
 msgid "Hyuyuyu! He's not all there!"
-msgstr "Hyuyuyu! เขาไม่ได้อยู่ที่นั่น!"
+msgstr "ฮยูยูยู! เขาไม่ได้อยู่ที่นั่น!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAGSTAFF_NPC_MUTATIONS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WAGSTAFF_NPC_MUTATIONS"
@@ -269554,7 +269554,7 @@ msgstr "กำลังสร้างความเสียหาย เร�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WALTER.FIRESTARTER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WALTER.FIRESTARTER"
 msgid "Rules are meant to be broken, hyuyuyu!"
-msgstr "กฎมีไว้เพื่อทำลาย hyuyuyu!"
+msgstr "กฎมีไว้เพื่อทำลาย ฮยูยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WALTER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WALTER.GENERIC"
@@ -269564,7 +269564,7 @@ msgstr "ช่วงนี้ใครก็ได้ช่วยข้ามถ
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WALTER.GHOST
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WALTER.GHOST"
 msgid "I'll just take a nibble... hyuyu I'm only joking!"
-msgstr "ฉันจะเอาแทะแทะ... hyuyu ฉันแค่ล้อเล่นนะ!"
+msgstr "ฉันจะเอาแทะแทะ... ฮยูยู ฉันแค่ล้อเล่นนะ!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WALTER.MURDERER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WALTER.MURDERER"
@@ -269574,7 +269574,7 @@ msgstr "Eep! ฉันชอบเครื่องบินลำนี้ม�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WALTER.REVIVER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WALTER.REVIVER"
 msgid "Hyuyu! Such a helpful soul!"
-msgstr "Hyuyu! ช่างเป็นวิญญาณที่ช่วยเหลือดีมาก!"
+msgstr "ฮยูยู! ช่างเป็นวิญญาณที่ช่วยเหลือดีมาก!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WALTERHAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WALTERHAT"
@@ -269584,7 +269584,7 @@ msgstr "อิมพ์และยูนิฟอร์มไม่ค่อย
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WANDA.ATTACKER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WANDA.ATTACKER"
 msgid "Hyuyuyu, I don't think she liked my last prank."
-msgstr "Hyuyuyu ฉันไม่คิดว่าเธอชอบเล่นตลกครั้งสุดท้ายของฉัน"
+msgstr "ฮยูยูยู ฉันไม่คิดว่าเธอชอบเล่นตลกครั้งสุดท้ายของฉัน"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WANDA.FIRESTARTER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WANDA.FIRESTARTER"
@@ -269619,7 +269619,7 @@ msgstr "โอ้โห บีฟาโล่ที่น่าขนลุก!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WANDERINGTRADER.REVEALED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WANDERINGTRADER.REVEALED"
 msgid "This guy's disguise! Hyuyu!"
-msgstr "ไอ้นี่ปลอมตัวมา! Hyuyu!"
+msgstr "ไอ้นี่ปลอมตัวมา! ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WARDROBE.BURNING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WARDROBE.BURNING"
@@ -269649,7 +269649,7 @@ msgstr "ฮอทด็อกตัวนี้ต้องการขนมป
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WARGCORPSE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WARGCORPSE.GENERIC"
 msgid "A mutt in a permanent rut, hyuyu!"
-msgstr "โง่เขลาถาวร hyuyu!"
+msgstr "โง่เขลาถาวร ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WARGCORPSE.REVIVING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WARGCORPSE.REVIVING"
@@ -269694,7 +269694,7 @@ msgstr "%s แน่ใจว่าชอบอาหาร ฉันไม่�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WARLY.GHOST
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WARLY.GHOST"
 msgid "The culinarian's become the culination, hyuyu!"
-msgstr "คนทำอาหารกลายเป็นคนทำอาหาร ฮยอกยู!"
+msgstr "คนทำอาหารกลายเป็นคนทำอาหาร ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WARLY.MURDERER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WARLY.MURDERER"
@@ -269794,7 +269794,7 @@ msgstr "ดูเหมือนว่าเราพบซุ้มประต
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WATERTREE_ROOT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WATERTREE_ROOT"
 msgid "Hyuyuyu! You won't trip me up with your tricky roots!"
-msgstr "Hyuyuyu! คุณจะไม่ทำให้ฉันสะดุดด้วยรากเหง้าของคุณ!"
+msgstr "ฮยูยูยู! คุณจะไม่ทำให้ฉันสะดุดด้วยรากเหง้าของคุณ!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WATHGRITHR.ATTACKER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WATHGRITHR.ATTACKER"
@@ -269939,12 +269939,12 @@ msgstr "ฉันไม่ชอบเกมที่คุณกำลังเ
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WENDY.FIRESTARTER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WENDY.FIRESTARTER"
 msgid "Hyuyu, how funny you are, %s!"
-msgstr "Hyuyu คุณเป็นคนตลกจริงๆ%s!"
+msgstr "ฮยูยู คุณเป็นคนตลกจริงๆ%s!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WENDY.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WENDY.GENERIC"
 msgid "Do my claws scare you? Hyuyu!"
-msgstr "กรงเล็บของฉันทำให้คุณกลัวไหม Hyuyu!"
+msgstr "กรงเล็บของฉันทำให้คุณกลัวไหม ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WENDY.GHOST
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WENDY.GHOST"
@@ -270014,7 +270014,7 @@ msgstr "ขอบคุณ ขอบคุณ เพื่อนที่ตล�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WETGOOP
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WETGOOP"
 msgid "Hyuyu! How repulsive."
-msgstr "Hyuyu! น่าขยะแขยง"
+msgstr "ฮยูยู! น่าขยะแขยง"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WETPAPER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WETPAPER"
@@ -270134,17 +270134,17 @@ msgstr "ฮู้ฮู! มนุษย์ปุถุชนคิดค้น�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WINCH.HOLDING_ITEM
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WINCH.HOLDING_ITEM"
 msgid "I always enjoy the game more than the prize, hyuyu!"
-msgstr "ฉันสนุกกับเกมมากกว่ารางวัลเสมอ ฮยอกยู!"
+msgstr "ฉันสนุกกับเกมมากกว่ารางวัลเสมอ ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WINCH.RETRIEVING_ITEM
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WINCH.RETRIEVING_ITEM"
 msgid "Hyuyu! My treasure will soon be revealed!"
-msgstr "Hyuyu! สมบัติของฉันจะถูกเปิดเผยเร็วๆนี้!"
+msgstr "ฮยูยู! สมบัติของฉันจะถูกเปิดเผยเร็วๆนี้!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WINONA.ATTACKER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WINONA.ATTACKER"
 msgid "Hyuyu, I think I pushed her buttons!"
-msgstr "Hyuyu ฉันคิดว่าฉันกดปุ่มเธอแล้ว!"
+msgstr "ฮยูยู ฉันคิดว่าฉันกดปุ่มเธอแล้ว!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WINONA.FIRESTARTER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WINONA.FIRESTARTER"
@@ -270199,7 +270199,7 @@ msgstr "หมดเวลาเล่นแล้ว!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED"
 msgid "It fired up and fizzled out, hyuyu!"
-msgstr "มันยิงขึ้นแล้วก็ดับไป hyuyu!"
+msgstr "มันยิงขึ้นแล้วก็ดับไป ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WINONA_BATTERY_LOW.BURNING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WINONA_BATTERY_LOW.BURNING"
@@ -270214,7 +270214,7 @@ msgstr "เฮฮาจริงๆ!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WINONA_BATTERY_LOW.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WINONA_BATTERY_LOW.GENERIC"
 msgid "Hyuyu. Mortals don't know magic."
-msgstr "Hyuyu มนุษย์ไม่รู้จักเวทมนตร์"
+msgstr "ฮยูยู มนุษย์ไม่รู้จักเวทมนตร์"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WINONA_BATTERY_LOW.LOWPOWER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WINONA_BATTERY_LOW.LOWPOWER"
@@ -270379,7 +270379,7 @@ msgstr "ฮามาก!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WINONA_TELEPORT_PAD_ITEM.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WINONA_TELEPORT_PAD_ITEM.GENERIC"
 msgid "Imitation is the sincerest form of flattery, hyuyu!"
-msgstr "การเลียนแบบคือรูปแบบการประจบสอพลอที่จริงใจที่สุด hyuyu!"
+msgstr "การเลียนแบบคือรูปแบบการประจบสอพลอที่จริงใจที่สุด ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WINONA_TELEPORT_PAD_ITEM.OFF
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WINONA_TELEPORT_PAD_ITEM.OFF"
@@ -270429,7 +270429,7 @@ msgstr "โอ้ โฮ! เวทมนต์อะไรทำให้คุ
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WINTER_FOOD1
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WINTER_FOOD1"
 msgid "It looks like a little mortal! Hyuyu!"
-msgstr "ดูเหมือนมนุษย์ตัวน้อย! Hyuyu!"
+msgstr "ดูเหมือนมนุษย์ตัวน้อย! ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WINTER_FOOD2
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WINTER_FOOD2"
@@ -270454,7 +270454,7 @@ msgstr "อาหารมนุษย์มีรูปร่างเหมื
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WINTER_FOOD6
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WINTER_FOOD6"
 msgid "Hyuyu! The mortals liquefied these plums!"
-msgstr "Hyuyu! พวกปุถุชนทำให้ลูกพลัมเป็นของเหลว!"
+msgstr "ฮยูยู! พวกปุถุชนทำให้ลูกพลัมเป็นของเหลว!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WINTER_FOOD7
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WINTER_FOOD7"
@@ -270539,12 +270539,12 @@ msgstr "แม้แต่สัตว์จำพวกครัสเตเช
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WOBSTER_MOONGLASS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WOBSTER_MOONGLASS"
 msgid "That will be a hard shell to crack, hyuyu!"
-msgstr "นั่นจะเป็นเปลือกแข็งๆที่จะร้าว ฮุ่ยหยู!"
+msgstr "นั่นจะเป็นเปลือกแข็งๆที่จะร้าว ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WOBSTER_SHELLER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WOBSTER_SHELLER"
 msgid "Hyuyu, it's a creature I shelldom care to sea!"
-msgstr "Hyuyu มันคือสิ่งมีชีวิตที่ฉันชอบทะเล!"
+msgstr "ฮยูยู มันคือสิ่งมีชีวิตที่ฉันชอบทะเล!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WOBSTER_SHELLER_DEAD
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WOBSTER_SHELLER_DEAD"
@@ -270559,12 +270559,12 @@ msgstr "โอ้ ที่รัก ส่วนที่ดีที่สุ�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WOBYBIG.1
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WOBYBIG.1"
 msgid "Hyuyu! I must say, she's growing on me!"
-msgstr "Hyuyu! ฉันต้องบอกว่า เธอกำลังเติบโตกับฉัน!"
+msgstr "ฮยูยู! ฉันต้องบอกว่า เธอกำลังเติบโตกับฉัน!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WOBYBIG.2
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WOBYBIG.2"
 msgid "Hyuyu! I must say, she's growing on me!"
-msgstr "Hyuyu! ฉันต้องบอกว่า เธอกำลังเติบโตกับฉัน!"
+msgstr "ฮยูยู! ฉันต้องบอกว่า เธอกำลังเติบโตกับฉัน!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WOBYSMALL.1
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WOBYSMALL.1"
@@ -270589,7 +270589,7 @@ msgstr "ฮู้ฮู %s รู้วิธีชก!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WOLFGANG.FIRESTARTER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WOLFGANG.FIRESTARTER"
 msgid "Hyuyu, %s is so funny!"
-msgstr "Hyuyu %s ตลกมาก!"
+msgstr "ฮยูยู %s ตลกมาก!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WOLFGANG.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WOLFGANG.GENERIC"
@@ -270629,7 +270629,7 @@ msgstr "ช่างเป็นลิงที่ซุกซนจริงๆ
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WONKEY.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WONKEY.GENERIC"
 msgid "Hyuyuyu, someone's gotten themselves in a hairy situation!"
-msgstr "Hyuyuyu มีคนกำลังตกอยู่ในสถานการณ์ลำบาก!"
+msgstr "ฮยูยูยู มีคนกำลังตกอยู่ในสถานการณ์ลำบาก!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WONKEY.GHOST
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WONKEY.GHOST"
@@ -270654,12 +270654,12 @@ msgstr "บางทีฉันสามารถยืมมันได้ �
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WOODIE.ATTACKER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WOODIE.ATTACKER"
 msgid "I'll stop hiding your axe, promise! Hyuyu!"
-msgstr "ฉันจะหยุดซ่อนขวานของคุณ สัญญา! Hyuyu!"
+msgstr "ฉันจะหยุดซ่อนขวานของคุณ สัญญา! ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WOODIE.BEAVER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WOODIE.BEAVER"
 msgid "Hyuyu, you're so funny, %s!"
-msgstr "Hyuyu คุณตลกมาก %s!"
+msgstr "ฮยูยู คุณตลกมาก %s!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WOODIE.BEAVERGHOST
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WOODIE.BEAVERGHOST"
@@ -270684,7 +270684,7 @@ msgstr "คุณจะไม่สังเกตเห็นด้วยซ้
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WOODIE.GOOSE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WOODIE.GOOSE"
 msgid "What's got your feathers in a bunch? Hyuyu!"
-msgstr "คุณมีขนนกอะไรอยู่ในพวง? Hyuyu!"
+msgstr "คุณมีขนนกอะไรอยู่ในพวง? ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WOODIE.GOOSEGHOST
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WOODIE.GOOSEGHOST"
@@ -270754,7 +270754,7 @@ msgstr "แสงระยิบระยับของวิญญาณซ่
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORM.WORM
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORM.WORM"
 msgid "Hyuyu! What do I do??"
-msgstr "Hyuyu! ฉันควรทำอย่างไร?"
+msgstr "ฮยูยู! ฉันควรทำอย่างไร?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORMHOLE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORMHOLE.GENERIC"
@@ -270789,7 +270789,7 @@ msgstr "แสงระยิบระยับของวิญญาณซ่
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORMWOOD.ATTACKER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORMWOOD.ATTACKER"
 msgid "What a cruel trick you've played! Hyuyu!"
-msgstr "เจ้าเล่นกลอุบายช่างโหดร้ายเสียนี่กระไร! Hyuyu!"
+msgstr "เจ้าเล่นกลอุบายช่างโหดร้ายเสียนี่กระไร! ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORMWOOD.FIRESTARTER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORMWOOD.FIRESTARTER"
@@ -270808,8 +270808,8 @@ msgstr "สุดท้าย พักจากมุขตลกของเ�
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORMWOOD.MURDERER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORMWOOD.MURDERER"
-msgid "You've really gone and dung it this time, hyuyu!"
-msgstr "คราวนี้แกไปทำขยะจริงๆเลย hyuyu!"
+msgid "You've really gone and dung it this time, ฮยูยู!"
+msgstr "คราวนี้แกไปทำขยะจริงๆเลย ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORMWOOD.REVIVER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORMWOOD.REVIVER"
@@ -270844,12 +270844,12 @@ msgstr "จิ้งจกน้อย แหลมคม!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORMWOOD_MUTANTPROXY_FRUITDRAGON.RIPE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORMWOOD_MUTANTPROXY_FRUITDRAGON.RIPE"
 msgid "That color looks great on you, hyuyu!"
-msgstr "สีนั้นก็ดูเข้ากับคุณดีนะ ฮยอกยู!"
+msgstr "สีนั้นก็ดูเข้ากับคุณดีนะ ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORMWOOD_MUTANTPROXY_FRUITDRAGON.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORMWOOD_MUTANTPROXY_FRUITDRAGON.SLEEPING"
 msgid "Hyuyu, catching some shuteye are we?"
-msgstr "Hyuyu จับตาดูพวกเราอยู่เหรอ?"
+msgstr "ฮยูยู จับตาดูพวกเราอยู่เหรอ?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORMWOOD_MUTANTPROXY_LIGHTFLIER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORMWOOD_MUTANTPROXY_LIGHTFLIER"
@@ -270868,8 +270868,8 @@ msgstr "เฮ้! ยิ้มเจ้าเล่ห์นั่นมัน�
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORTOX.FIRESTARTER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORTOX.FIRESTARTER"
-msgid "Hyuyu! What pranks have you been playing?"
-msgstr "Hyuyu! คุณเคยเล่นพิเรนทร์อะไร?"
+msgid "ฮยูยู! What pranks have you been playing?"
+msgstr "ฮยูยู! คุณเคยเล่นพิเรนทร์อะไร?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORTOX.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORTOX.GENERIC"
@@ -270889,7 +270889,7 @@ msgstr "เขากำลังขโมยวิญญาณที่ดีไ
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORTOX.REVIVER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORTOX.REVIVER"
 msgid "Hyuyu, I would have eaten that soul were I you."
-msgstr "Hyuyu ฉันคงจะกินวิญญาณนั่นถ้าเป็นฉัน"
+msgstr "ฮยูยู ฉันคงจะกินวิญญาณนั่นถ้าเป็นฉัน"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORTOX_NABBAG
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORTOX_NABBAG"
@@ -270904,7 +270904,7 @@ msgstr "การตายไม่ได้หมายถึงการกล
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORTOX_SOUL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORTOX_SOUL"
 msgid "Hyuyu! It looks tasty."
-msgstr "Hyuyu! มันดูน่าอร่อย"
+msgstr "ฮยูยู! มันดูน่าอร่อย"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORTOX_SOULJAR
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORTOX_SOULJAR"
@@ -270919,7 +270919,7 @@ msgstr "%s มีแววตาที่ดูชั่วร้าย"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WURT.FIRESTARTER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WURT.FIRESTARTER"
 msgid "Hyuyuyu, brilliant!"
-msgstr "Hyuyuyu ยอดเยี่ยม!"
+msgstr "ฮยูยูยู ยอดเยี่ยม!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WURT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WURT.GENERIC"
@@ -270964,7 +270964,7 @@ msgstr "โอ้ กระป๋องมีอารมณ์ขัน!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78.GENERIC"
 msgid "Hyuyu %s, do you have an off button?"
-msgstr "Hyuyu %s คุณมีปุ่มปิดมั๊ย?"
+msgstr "ฮยูยู %s คุณมีปุ่มปิดมั๊ย?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78.GHOST
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78.GHOST"
@@ -271059,7 +271059,7 @@ msgstr "คุณเป็นหลอดไฟที่สว่างที่
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78_MODULEREMOVER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78_MODULEREMOVER"
 msgid "It'll work in a pinch, hyuyu!"
-msgstr "เดี๋ยวก็เสร็จ ฮุ่ยหยู!"
+msgstr "เดี๋ยวก็เสร็จ ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78_SCANNER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WX78_SCANNER.GENERIC"
@@ -271124,7 +271124,7 @@ msgstr "มาฉลองกันเถอะ!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_BEAST.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_BEAST.GENERIC"
 msgid "Enjoying the plush life? Hyuyuyu!"
-msgstr "สนุกกับชีวิตหรูหรา? Hyuyuyu!"
+msgstr "สนุกกับชีวิตหรูหรา? ฮยูยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_BEAST.YOTB
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_BEAST.YOTB"
@@ -271134,7 +271134,7 @@ msgstr "ผู้พิพากษาของเราอาจจะมีอ
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_DOLL.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_DOLL.GENERIC"
 msgid "Enjoying the plush life? Hyuyuyu!"
-msgstr "สนุกกับชีวิตหรูหรา? Hyuyuyu!"
+msgstr "สนุกกับชีวิตหรูหรา? ฮยูยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_DOLL.YOTB
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_DOLL.YOTB"
@@ -271144,7 +271144,7 @@ msgstr "ผู้พิพากษาของเราอาจจะมีอ
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_FESTIVE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_FESTIVE.GENERIC"
 msgid "Enjoying the plush life? Hyuyuyu!"
-msgstr "สนุกกับชีวิตหรูหรา? Hyuyuyu!"
+msgstr "สนุกกับชีวิตหรูหรา? ฮยูยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_FESTIVE.YOTB
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_FESTIVE.YOTB"
@@ -271154,7 +271154,7 @@ msgstr "ผู้พิพากษาของเราอาจจะมีอ
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_FORMAL.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_FORMAL.GENERIC"
 msgid "Enjoying the plush life? Hyuyuyu!"
-msgstr "สนุกกับชีวิตหรูหรา? Hyuyuyu!"
+msgstr "สนุกกับชีวิตหรูหรา? ฮยูยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_FORMAL.YOTB
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_FORMAL.YOTB"
@@ -271164,7 +271164,7 @@ msgstr "ผู้พิพากษาของเราอาจจะมีอ
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_ICE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_ICE.GENERIC"
 msgid "Enjoying the plush life? Hyuyuyu!"
-msgstr "สนุกกับชีวิตหรูหรา? Hyuyuyu!"
+msgstr "สนุกกับชีวิตหรูหรา? ฮยูยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_ICE.YOTB
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_ICE.YOTB"
@@ -271174,7 +271174,7 @@ msgstr "ผู้พิพากษาของเราอาจจะมีอ
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_NATURE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_NATURE.GENERIC"
 msgid "Enjoying the plush life? Hyuyuyu!"
-msgstr "สนุกกับชีวิตหรูหรา? Hyuyuyu!"
+msgstr "สนุกกับชีวิตหรูหรา? ฮยูยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_NATURE.YOTB
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_NATURE.YOTB"
@@ -271184,7 +271184,7 @@ msgstr "ผู้พิพากษาของเราอาจจะมีอ
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_ROBOT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_ROBOT.GENERIC"
 msgid "Enjoying the plush life? Hyuyuyu!"
-msgstr "สนุกกับชีวิตหรูหรา? Hyuyuyu!"
+msgstr "สนุกกับชีวิตหรูหรา? ฮยูยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_ROBOT.YOTB
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_ROBOT.YOTB"
@@ -271194,7 +271194,7 @@ msgstr "ผู้พิพากษาของเราอาจจะมีอ
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_VICTORIAN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_VICTORIAN.GENERIC"
 msgid "Enjoying the plush life? Hyuyuyu!"
-msgstr "สนุกกับชีวิตหรูหรา? Hyuyuyu!"
+msgstr "สนุกกับชีวิตหรูหรา? ฮยูยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_VICTORIAN.YOTB
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_VICTORIAN.YOTB"
@@ -271204,7 +271204,7 @@ msgstr "ผู้พิพากษาของเราอาจจะมีอ
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_WAR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_WAR.GENERIC"
 msgid "Enjoying the plush life? Hyuyuyu!"
-msgstr "สนุกกับชีวิตหรูหรา? Hyuyuyu!"
+msgstr "สนุกกับชีวิตหรูหรา? ฮยูยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_WAR.YOTB
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_BEEFALO_DOLL_WAR.YOTB"
@@ -271239,7 +271239,7 @@ msgstr "มาทำให้เสร็จกันเถอะ เราจ�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_SEWINGMACHINE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_SEWINGMACHINE"
 msgid "It's all connected by a common thread, hyuyu!"
-msgstr "ทั้งหมดเชื่อมต่อกันด้วยเธรดทั่วไป hyuyu!"
+msgstr "ทั้งหมดเชื่อมต่อกันด้วยเธรดทั่วไป ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_SEWINGMACHINE_ITEM
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_SEWINGMACHINE_ITEM"
@@ -271249,12 +271249,12 @@ msgstr "ฉันเชื่อว่ามีเข็มอยู่ในก
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_STAGE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_STAGE"
 msgid "Hyuyu! How interesting!"
-msgstr "Hyuyu! ช่างน่าสนใจจริงๆ!"
+msgstr "ฮยูยู! ช่างน่าสนใจจริงๆ!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_STAGE_ITEM
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTB_STAGE_ITEM"
 msgid "The excitement is building, hyuyuyu!"
-msgstr "ความตื่นเต้นกำลังก่อตัว hyuyuyu!"
+msgstr "ความตื่นเต้นกำลังก่อตัว ฮยูยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRATSHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRATSHRINE.BURNT"
@@ -271269,7 +271269,7 @@ msgstr "คุณต้องการอะไร บางทีแครอ�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRATSHRINE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRATSHRINE.GENERIC"
 msgid "Hyuyu, I know a trickster when I see one!"
-msgstr "Hyuyu ฉันรู้จักนักเล่นกลเมื่อฉันเห็นมัน!"
+msgstr "ฮยูยู ฉันรู้จักนักเล่นกลเมื่อฉันเห็นมัน!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_GYM_DIRECTION.BURNT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_GYM_DIRECTION.BURNT"
@@ -271299,7 +271299,7 @@ msgstr "เล่นพิเรนทร์ไปไกลไปหน่อย
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_GYM_REACTION.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_GYM_REACTION.GENERIC"
 msgid "I just wanted to see how you'd react, hyuyu!"
-msgstr "ฉันแค่อยากรู้ว่าคุณจะมีปฏิกิริยาอย่างไร ฮยอกยู!"
+msgstr "ฉันแค่อยากรู้ว่าคุณจะมีปฏิกิริยาอย่างไร ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_GYM_REACTION.RAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_GYM_REACTION.RAT"
@@ -271354,7 +271354,7 @@ msgstr "นิดหน่อย นิดหน่อย ทั้งหมด�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_RACE_CHECKPOINT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_RACE_CHECKPOINT"
 msgid "I make a point of checking checkpoints, hyuyu."
-msgstr "ฉันทำจุดตรวจจุดตรวจ ฮยอกยู"
+msgstr "ฉันทำจุดตรวจจุดตรวจ ฮยูยู"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_RACE_CHECKPOINT_ITEM
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_RACE_CHECKPOINT_ITEM"
@@ -271389,7 +271389,7 @@ msgstr "จะวางเส้นชัยไว้ที่ไหน..."
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_RACE_START
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_RACE_START"
 msgid "Hyuyu, what fun!"
-msgstr "Hyuyu สนุกจริงๆ!"
+msgstr "ฮยูยู สนุกจริงๆ!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_RACE_START_ITEM
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_RACE_START_ITEM"
@@ -271399,7 +271399,7 @@ msgstr "เริ่มการแข่งขัน!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_SCALE.BURNT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_SCALE.BURNT"
 msgid "Hyuyu, what fun!"
-msgstr "Hyuyu สนุกจริงๆ!"
+msgstr "ฮยูยู สนุกจริงๆ!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_SCALE.CARRAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_SCALE.CARRAT"
@@ -271414,7 +271414,7 @@ msgstr "อัจฉริยะที่แท้จริงของผัก
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_SCALE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_SCALE.GENERIC"
 msgid "I hope I get a high score, hyuyu!"
-msgstr "ฉันหวังว่าฉันจะได้คะแนนสูงนะ hyuyu!"
+msgstr "ฉันหวังว่าฉันจะได้คะแนนสูงนะ ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_SCALE_ITEM
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_SCALE_ITEM"
@@ -271429,7 +271429,7 @@ msgstr "ห่อเมล็ดพืช ทำตามใจชอบ"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_SEEDPACKET_RARE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_SEEDPACKET_RARE"
 msgid "Perhaps it contains magic beans? Hyuyu!"
-msgstr "บางทีมันอาจมีถั่ววิเศษ? Hyuyu!"
+msgstr "บางทีมันอาจมีถั่ววิเศษ? ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTD_ANCHOR
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTD_ANCHOR"
@@ -271694,7 +271694,7 @@ msgstr "การทำเช่นนั้นทำร้ายความร
 #. STRINGS.CHARACTERS.WORTOX.EAT_FOOD.WINTERSFEASTFUEL
 msgctxt "STRINGS.CHARACTERS.WORTOX.EAT_FOOD.WINTERSFEASTFUEL"
 msgid "Hyuyu, how fun!"
-msgstr "Hyuyu สนุกจริงๆ!"
+msgstr "ฮยูยู สนุกจริงๆ!"
 
 #. STRINGS.CHARACTERS.WORTOX.QUAGMIRE_ANNOUNCE_LOSE
 msgctxt "STRINGS.CHARACTERS.WORTOX.QUAGMIRE_ANNOUNCE_LOSE"
@@ -271704,7 +271704,7 @@ msgstr "โอ้ ที่รัก"
 #. STRINGS.CHARACTERS.WORTOX.QUAGMIRE_ANNOUNCE_MEALBURNT
 msgctxt "STRINGS.CHARACTERS.WORTOX.QUAGMIRE_ANNOUNCE_MEALBURNT"
 msgid "Well it's not raw! Hyuyu!"
-msgstr "มันไม่ดิบ! Hyuyu!"
+msgstr "มันไม่ดิบ! ฮยูยู!"
 
 #. STRINGS.CHARACTERS.WORTOX.QUAGMIRE_ANNOUNCE_NOTRECIPE
 msgctxt "STRINGS.CHARACTERS.WORTOX.QUAGMIRE_ANNOUNCE_NOTRECIPE"
@@ -278929,7 +278929,7 @@ msgstr "มากับฉัน บักผลไม้!"
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.FRUITMEDLEY
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.FRUITMEDLEY"
 msgid "Fruit meldy... moldy... meddle-y?"
-msgstr "ผลไม้ meldy... ขึ้นรา... meddle-y?"
+msgstr "ทำนองผลไม้...ทำนอง...เมดเล่ย์?"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.FURTUFT
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.FURTUFT"
@@ -285259,7 +285259,7 @@ msgstr "ดูหิวจริงๆ"
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.SMALLGHOST
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SMALLGHOST"
 msgid "Glurp! Y-you not scare me!"
-msgstr "กลุ้ม! Y-คุณไม่กลัวฉันหรอก!"
+msgstr "กลุ้ม! คุณไม่กลัวฉันหรอก!"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.SMALLMEAT
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SMALLMEAT"
@@ -330514,7 +330514,7 @@ msgstr "*ปรับปรุงความเร็วในการวิ�
 #. STRINGS.QUAGMIRE_ELDER_TALK_BUY.1
 msgctxt "STRINGS.QUAGMIRE_ELDER_TALK_BUY.1"
 msgid "THANK-YOU. NOW LET ELDER REST."
-msgstr "ขอบคุณ. ตอนนี้ให้พี่พักผ่อน"
+msgstr "ขอบคุณ ตอนนี้ให้พี่พักผ่อน"
 
 #. STRINGS.QUAGMIRE_ELDER_TALK_BUY.2
 msgctxt "STRINGS.QUAGMIRE_ELDER_TALK_BUY.2"
@@ -383274,12 +383274,12 @@ msgstr "\"Ol'Kramps บอกว่าพลังของข้าจะเต
 #. STRINGS.SKIN_QUOTES.wortox_pirate
 msgctxt "STRINGS.SKIN_QUOTES.wortox_pirate"
 msgid "\"We impish sorts do love our gold, hyuyu!\""
-msgstr "\"พวกเราแกล้งทำเป็นชอบทองของเรา hyuyu!\""
+msgstr "\"พวกเราแกล้งทำเป็นชอบทองของเรา ฮยูยู!\""
 
 #. STRINGS.SKIN_QUOTES.wortox_rose
 msgctxt "STRINGS.SKIN_QUOTES.wortox_rose"
 msgid "\"I'm simply tickled pink, hyuyu!\""
-msgstr "\"ฉันรู้สึกดีใจมาก hyuyu!\""
+msgstr "\"ฉันรู้สึกดีใจมาก ฮยูยู!\""
 
 #. STRINGS.SKIN_QUOTES.wortox_shadow
 msgctxt "STRINGS.SKIN_QUOTES.wortox_shadow"
@@ -406274,17 +406274,17 @@ msgstr ""
 #. STRINGS.UI.RARITY.Classy
 msgctxt "STRINGS.UI.RARITY.Classy"
 msgid "Classy"
-msgstr "ชั้นเอก"
+msgstr "สง่างาม"
 
 #. STRINGS.UI.RARITY.Common
 msgctxt "STRINGS.UI.RARITY.Common"
 msgid "Common"
-msgstr "ธรรมดา"
+msgstr "ทั่วไป"
 
 #. STRINGS.UI.RARITY.Complimentary
 msgctxt "STRINGS.UI.RARITY.Complimentary"
 msgid "Complimentary"
-msgstr "ยกย่อง"
+msgstr "น่ายกย่อง"
 
 #. STRINGS.UI.RARITY.Distinguished
 msgctxt "STRINGS.UI.RARITY.Distinguished"
@@ -406299,27 +406299,27 @@ msgstr "งดงาม"
 #. STRINGS.UI.RARITY.Event
 msgctxt "STRINGS.UI.RARITY.Event"
 msgid "Event (Limited-Time Use)"
-msgstr "กิจกรรม"
+msgstr "กิจกรรม (ใช้งานแบบจำกัดเวลา)"
 
 #. STRINGS.UI.RARITY.HeirloomClassy
 msgctxt "STRINGS.UI.RARITY.HeirloomClassy"
 msgid "Heirloom Classy"
-msgstr "มรดกชั้นเอก"
+msgstr "มรดกอันสง่างาม"
 
 #. STRINGS.UI.RARITY.HeirloomDistinguished
 msgctxt "STRINGS.UI.RARITY.HeirloomDistinguished"
 msgid "Heirloom Distinguished"
-msgstr "มรดกโดดเด่น"
+msgstr "มรดกอันโดดเด่น"
 
 #. STRINGS.UI.RARITY.HeirloomElegant
 msgctxt "STRINGS.UI.RARITY.HeirloomElegant"
 msgid "Heirloom Elegant"
-msgstr "มรดกสืบสง่างาม"
+msgstr "มรดกอันอันงดงาม"
 
 #. STRINGS.UI.RARITY.HeirloomSpiffy
 msgctxt "STRINGS.UI.RARITY.HeirloomSpiffy"
 msgid "Heirloom Spiffy"
-msgstr "มรดกสวยงาม"
+msgstr "มรดกอันสวยงาม"
 
 #. STRINGS.UI.RARITY.Inspired
 msgctxt "STRINGS.UI.RARITY.Inspired"
@@ -406329,7 +406329,7 @@ msgstr "แรงบันดาลใจ - "
 #. STRINGS.UI.RARITY.Loyal
 msgctxt "STRINGS.UI.RARITY.Loyal"
 msgid "Loyal"
-msgstr "เอกภักดิ์"
+msgstr "ภักดี"
 
 #. STRINGS.UI.RARITY.ProofOfPurchase
 msgctxt "STRINGS.UI.RARITY.ProofOfPurchase"
@@ -406354,7 +406354,7 @@ msgstr "สวยงาม"
 #. STRINGS.UI.RARITY.Timeless
 msgctxt "STRINGS.UI.RARITY.Timeless"
 msgid "Timeless"
-msgstr "ไม่มีเวลา"
+msgstr "เหนือกาลเวลา"
 
 #. STRINGS.UI.RARITY.Woven
 msgctxt "STRINGS.UI.RARITY.Woven"
