@@ -400314,7 +400314,7 @@ msgstr "\"พวกเมิร์มมีอาณาเขตดุร้า�
 #. STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_MOONISLAND
 msgctxt "STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_MOONISLAND"
 msgid "\"I couldn't have imagined it, I'm certain I just saw a piece of the moon break off and crash into the ocean! Perhaps my compatriots will join me in a search for it...\" -W"
-msgstr "\" ฉันนึกไม่ถึงเลย ฉันแน่ใจว่าฉันเพิ่งเห็นชิ้นส่วนของดวงจันทร์แตกออกและตกลงไปในมหาสมุทร! บางทีเพื่อนร่วมชาติของฉันอาจจะร่วมค้นหากับฉันด้วย...\" -วิล"
+msgstr "\"ฉันนึกไม่ถึงเลย ฉันแน่ใจว่าฉันเพิ่งเห็นชิ้นส่วนของดวงจันทร์แตกออกและตกลงไปในมหาสมุทร! บางทีเพื่อนร่วมชาติของฉันอาจจะร่วมค้นหากับฉันด้วย...\" -วิล"
 
 #. STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_MOONMUTATION
 msgctxt "STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_MOONMUTATION"
@@ -400349,7 +400349,7 @@ msgstr "\"พุ่มไม้ที่ฉันปลูกใหม่โด�
 #. STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_REVIVE
 msgctxt "STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_REVIVE"
 msgid "\"We nearly lost one of our number today. In a mad daze I created... something... that managed to pull our friend back to the land of the living, but... whatever it was, I fear I cannot rightfully say it was within the realm of science...\" -W"
-msgstr "\" วันนี้เราเกือบสูญเสียหนึ่งในหมายเลขของเรา ด้วยความงุนงง ฉันสร้าง... บางอย่าง... ที่สามารถดึงเพื่อนของเรากลับไปยังดินแดนแห่งชีวิต แต่... ไม่ว่ามันจะเป็นอะไร ฉันกลัวว่าฉันไม่สามารถพูดได้อย่างถูกต้องว่ามันอยู่ในขอบเขตของวิทยาศาสตร์.. .\" -ว"
+msgstr "\"วันนี้เราเกือบสูญเสียหนึ่งในหมายเลขของเรา ด้วยความงุนงง ฉันสร้าง... บางอย่าง... ที่สามารถดึงเพื่อนของเรากลับไปยังดินแดนแห่งชีวิต แต่... ไม่ว่ามันจะเป็นอะไร ฉันกลัวว่าฉันไม่สามารถพูดได้อย่างถูกต้องว่ามันอยู่ในขอบเขตของวิทยาศาสตร์.. .\" -ว"
 
 #. STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_RUN_AWAY
 msgctxt "STRINGS.UI.LOADING_SCREEN_SURVIVAL_TIPS.TIP_RUN_AWAY"
