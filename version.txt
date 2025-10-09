@@ -1,5 +1,5 @@
 {
-	"version":"6.28",
+	"version":"6.28.2",
 	"note": {
 		"5.3e": "none"
 	}
