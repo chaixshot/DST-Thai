@@ -3,6 +3,12 @@ if not Config.CON_ITEM or (not Config.ITEM and not Config.ITEM_TWO) then
    return
 end
 
+local conItemIndex = require("conItem/conItemIndex")
+for conIndex, conThai in pairs(conItemIndex) do
+   Thai.PO[conIndex] = conThai
+end
+
+--[[ -- INFO: Tool to generate conItemIndex
 -- Anti duplicate names (STRINGS.NAMES.TICOON)
 local itemsName = {
    ["beefalo bell"] = Thai.PO["STRINGS.NAMES.BEEF_BELL"],
@@ -23,34 +29,7 @@ for nameIndex, nameEng in pairs(GetOriginalStringsFromIndex("STRINGS.NAMES")) do
    itemsName[nameEng:gsub("?", "")] = Thai.PO[nameIndex]
 end
 
-local conItemIndex = require("conItem/conItemIndex")
-for conIndex, checkList in pairs(conItemIndex) do
-   local conThai = Thai.PO[conIndex]
-   local block = conIndex:gsub("STRINGS.", ""):split(".")
-   local conEng = STRINGS[block[1]]
-
-   for i = 2, #block do
-      conEng = conEng[tonumber(block[i]) or block[i]]
-   end
-
-   for nameEng, nameThai in pairs(itemsName) do
-      if checkList[nameEng] then
-         conThai = conThai:gsub("%f[%a]"..nameEng.."%f[%A]", nameThai)
-
-         if not Config.ITEM then -- ปิดการแปลชื่อไอเทม
-            conThai = conThai:gsub(nameThai, " "..nameEng.." ")
-         elseif Config.ITEM_TWO then
-            conThai = conThai:gsub(nameThai, nameThai.."("..nameEng..")")
-         end
-
-         Thai.PO[conIndex] = conThai:gsub("  ", " ")
-      end
-   end
-end
-
-
--- INFO: Tool to generate conItemIndex
---[[ local conStrings = {"STRINGS.CHARACTERS"}
+local conStrings = {"STRINGS.CHARACTERS"}
 if Config.UI then
    table.insert(conStrings, "STRINGS.RECIPE_DESC")
    if IsDST then
@@ -59,7 +38,7 @@ if Config.UI then
    end
 end
 
-local missingName = {}
+local test = 0
 for _, text in ipairs(conStrings) do
    local blackList = {["Nothing"] = true, ["X"] = true, ["Health"] = true, ["Sanity"] = true, ["Fire"] = true, ["Plant"] = true}
    for conIndex, conEng in pairs(GetOriginalStringsFromIndex(text)) do
@@ -89,11 +68,30 @@ for _, text in ipairs(conStrings) do
 
          -- Print conItemIndex table
          if #found > 0 then
-            local index = ""
+            local checkList = {}
+
             for k, v in pairs(found) do
-               index = index.."[\""..v.."\"] = true, "
+               checkList[v] = true
             end
-            print("[\""..conIndex.."\"] = {"..index.."},")
+
+            for nameEng, nameThai in pairs(itemsName) do
+               if checkList[nameEng] then
+                  conThai = conThai:gsub("%f[%a]"..nameEng.."%f[%A]", nameThai)
+
+                  if not Config.ITEM then -- ปิดการแปลชื่อไอเทม
+                     conThai = conThai:gsub(nameThai, " "..nameEng.." ")
+                  elseif Config.ITEM_TWO then
+                     conThai = conThai:gsub(nameThai, nameThai.."("..nameEng..")")
+                  end
+               end
+            end
+
+            print("[\""..conIndex.."\"] = \""..conThai:gsub("\n", "/n"):gsub("  ", " ").."\",")
+
+            if test > 500 then
+               break
+            end
+            test = test+1
          end
 
          -- Print lowercase item name in conversion
@@ -105,7 +103,7 @@ for _, text in ipairs(conStrings) do
          --    print(index)
          -- end
 
-         -- Print missing thai name from converation
+         -- Print missing thai name from conversation
          -- if #countEng > #countThai then
          --    local missing = ""
          --    for i, j in pairs(countEng) do

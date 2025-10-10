@@ -361769,7 +361769,7 @@ msgstr "วิลสันมีประสบการณ์มากมาย
 #. STRINGS.SKIN_DESCRIPTIONS.wilson_formal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wilson_formal"
 msgid "Formal Wilson is unhappy Wilson."
-msgstr "อย่างเป็นทางการวิลสันวิลสันมีความสุข"
+msgstr "วิลสันเป็นทางการ วิลสันไม่มีความสุข"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wilson_formalp
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wilson_formalp"
@@ -395149,7 +395149,7 @@ msgstr "ทำความรู้จักกับแมงมุมเพื
 #. STRINGS.UI.CRAFTING.NEEDSTECH.SCULPTING
 msgctxt "STRINGS.UI.CRAFTING.NEEDSTECH.SCULPTING"
 msgid "Put refined stone on the wheel to create a sculpture!"
-msgstr "นำหินใส่ล้อบทดินเพื่อ\t\"บล็อคดินเหนียว\"!"
+msgstr "วางหินอันบริสุทธิ์บนล้อเพื่อสร้างประติมากรรม!"
 
 #. STRINGS.UI.CRAFTING.NEEDSTUFF
 msgctxt "STRINGS.UI.CRAFTING.NEEDSTUFF"
