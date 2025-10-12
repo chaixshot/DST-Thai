@@ -403834,12 +403834,12 @@ msgstr "ปิด"
 #. STRINGS.UI.OPTIONS.COMMANDWHEEL
 msgctxt "STRINGS.UI.OPTIONS.COMMANDWHEEL"
 msgid "Social Menu Movement:"
-msgstr "การเคลื่อนไหวของเมนูโซเชียล:"
+msgstr "เมนูโซเชียลเคลื่อนไหว:"
 
 #. STRINGS.UI.OPTIONS.CONSOLEAUTOPAUSE
 msgctxt "STRINGS.UI.OPTIONS.CONSOLEAUTOPAUSE"
 msgid "Console Auto-Pause:"
-msgstr "คอนโซลหยุดอัตโนมัติ:"
+msgstr "คอนโซลหยุดเกม:"
 
 #. STRINGS.UI.OPTIONS.CONTROLLER_AUDIO
 msgctxt "STRINGS.UI.OPTIONS.CONTROLLER_AUDIO"
@@ -403864,7 +403864,7 @@ msgstr "การควบคุม"
 #. STRINGS.UI.OPTIONS.CRAFTINGAUTOPAUSE
 msgctxt "STRINGS.UI.OPTIONS.CRAFTINGAUTOPAUSE"
 msgid "Crafting Auto-Pause:"
-msgstr "คอนโซลหยุดอัตโนมัติ:"
+msgstr "คราฟหยุดเกม:"
 
 #. STRINGS.UI.OPTIONS.CRAFTINGHINTALLRECIPES
 msgctxt "STRINGS.UI.OPTIONS.CRAFTINGHINTALLRECIPES"
@@ -403919,7 +403919,7 @@ msgstr "ค่าเริ่มต้น"
 #. STRINGS.UI.OPTIONS.DEFAULTCLOUDSAVES
 msgctxt "STRINGS.UI.OPTIONS.DEFAULTCLOUDSAVES"
 msgid "Default Save Type:"
-msgstr "ประเภทการบันทึกเริ่มต้น:"
+msgstr "รูปแบบการบันทึก:"
 
 #. STRINGS.UI.OPTIONS.DEFAULT_CONTROL_TEXT
 msgctxt "STRINGS.UI.OPTIONS.DEFAULT_CONTROL_TEXT"
@@ -404299,7 +404299,7 @@ msgstr "โหมดความไวแสง:"
 #. STRINGS.UI.OPTIONS.SERVER_NAME_PROFANITY_CHAT_FILTER
 msgctxt "STRINGS.UI.OPTIONS.SERVER_NAME_PROFANITY_CHAT_FILTER"
 msgid "Steam Chat Filtering:"
-msgstr "การกรองแชทบน Steam:"
+msgstr "กรองแชทของ Steam:"
 
 #. STRINGS.UI.OPTIONS.SERVER_NAME_PROFANITY_FILTER
 msgctxt "STRINGS.UI.OPTIONS.SERVER_NAME_PROFANITY_FILTER"
@@ -404329,7 +404329,7 @@ msgstr "ภาพรวมเซิร์ฟเวอร์"
 #. STRINGS.UI.OPTIONS.STEAM_CLOUD_SAVES
 msgctxt "STRINGS.UI.OPTIONS.STEAM_CLOUD_SAVES"
 msgid "Steam Cloud"
-msgstr "สปอร์เมฆ"
+msgstr "Steam Cloud"
 
 #. STRINGS.UI.OPTIONS.STRONG
 msgctxt "STRINGS.UI.OPTIONS.STRONG"
