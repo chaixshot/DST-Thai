@@ -55,3 +55,7 @@ function GetOriginalStringsFromIndex(text)
 
 	return result
 end
+
+function subfmt(s, tab)
+    return (s:gsub('(%b{})', function(w) return tab[w:sub(2, -2)] or w end))
+end
